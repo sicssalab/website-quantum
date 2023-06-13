@@ -1,0 +1,92 @@
+.press-contact-container {
+    position: relative;
+    padding-top: 47px;
+    padding-bottom: 47px;
+    background-color: $backgroundSegundary;
+
+    .press-custom {
+        padding: 0 25px;
+    }
+
+    .slick-arrow {
+        width: 25px;
+        height: 100%;
+        padding-left: 0;
+        padding-right: 0;
+        background-color: $backgroundSegundary;
+        border: 0;
+        border-radius: 0;
+
+        &::before {
+            content: '';
+        }
+        svg, img {
+            color: white;
+            height: 25px;
+        }
+        &:active {
+            background-color: transparent;
+            border: 0;
+            svg, img {
+                color: $primary;
+                opacity: 0.5;
+            }
+        }
+        &.slick-next {
+            right: -24px;
+        }
+
+    }
+    .card-press {
+        // border: 0;
+        box-shadow: none;
+        background-color: transparent;
+        color: white;
+    }
+    .slick-slider {
+        .slick-list {
+            .slick-slide {
+                > div {
+                    
+                }
+            }
+            .card-press {
+                border: 0;
+                border-radius: 0;
+                border-right: 1px solid white;
+                width: 100%;
+                .container-description {
+                    padding-top: 22px;
+                }
+            }
+        }
+    }
+
+    @media (max-width: $sm) {
+        padding-top: 0;
+        padding-bottom: 0;
+        .press-custom {
+            padding: 0;
+        }
+        .slick-arrow {
+            width: 25px;
+            height: 100%;
+    
+            svg {
+                color: white;
+                font-size: 25px;
+            }    
+        }
+        .slick-slider {
+            .slick-list {
+                .card-press {
+                    width: 100%;
+                    margin: 0;
+                    border-right: 0;
+                    height: 264px;
+                    padding-top: 85px;
+                }
+            }
+        }
+    }
+}

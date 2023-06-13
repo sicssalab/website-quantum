@@ -1,0 +1,218 @@
+@import "./variable.scss";
+@font-face {
+  font-family: "NoirPro-Regular";
+  font-weight: normal;
+  font-style: normal;
+  src: url("../assets/fonts/NoirPro/NoirPro-Regular.otf") format("Opentype");
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "NoirPro-Bold";
+  //font-weight: 900;
+  // font-style: normal;
+  src: url("../assets/fonts/NoirPro/NoirPro-Bold.otf") format("Opentype");
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "NoirPro-Medium";
+  //font-weight: 900;
+  // font-style: normal;
+  src: url("../assets/fonts/NoirPro/NoirPro-Medium.otf") format("Opentype");
+  font-display: swap;
+}
+@font-face {
+  font-family: "NoirPro-SemiBold";
+  //font-weight: 900;
+  // font-style: normal;
+  src: url("../assets/fonts/NoirPro/NoirPro-SemiBold.otf") format("Opentype");
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "NoirPro-Light";
+  //font-weight: 900;
+  // font-style: normal;
+  src: url("../assets/fonts/NoirPro/NoirPro-Light.otf") format("Opentype");
+  font-display: swap;
+}
+
+body {
+  font-size: 16px;
+  color: $h1Color;
+  font-family: $fontNoirProRegular;
+}
+strong,
+bold,
+.text-bold {
+  font-family: $fontNoirProBold;
+  //font-weight: 900;
+}
+
+h1 {
+  //font-size: 2.75rem;
+  font-size: 60px;
+  color: $h1Color;
+  line-height: normal;
+  font-family: $fontNoirProMedium;
+  strong,
+  bold {
+    font-family: $fontNoirProSemiBold;
+    font-size: 77px;
+  }
+}
+h2 {
+  font-size: 2.5rem;
+  color: $h2Color;
+  font-family: $fontNoirProMedium;
+  strong,
+  bold {
+    font-family: $fontNoirProSemiBold;
+  }
+}
+p {
+  font-family: $fontNoirProRegular;
+  font-size: 20px;
+}
+
+.btn {
+  font-size: 14px;
+}
+
+.theme-light {
+  p,
+  h1,
+  h2,
+  h3,
+  h4 {
+    color: $secondary;
+  }
+}
+
+.container-custom {
+  --paddings: #{$paddingsiteX};
+  padding-left: var(--paddings);
+  padding-right: var(--paddings);
+  max-width: calc($maxWidthSite + (var(--paddings) * 2));
+  // max-width: calc($maxWidthSite + var(--paddings) + var(--paddings));
+  margin-left: auto;
+  margin-right: auto;
+  &.container-fluid-right {
+    padding-right: 0;
+    margin-right: 0;
+  }
+}
+
+//TODO first UI
+.container-boxfloats {
+  width: 133px;
+  display: flex;
+  height: 133px;
+
+  div:nth-child(2n + 1) {
+    background-color: $primary;
+  }
+
+  .box-light {
+  }
+}
+.menu-offcanvas {
+  background-color: $backgroundMenuMain;
+  .btn-close {
+    color: white;
+  }
+  .list-group {
+    .list-group-item {
+      border: 0;
+      background-color: transparent;
+      color: white;
+      text-transform: uppercase;
+      &:hover {
+        color: $primary;
+      }
+    }
+  }
+}
+
+.margin-top-double {
+  margin-top: $marginTop-double;
+}
+.margin-bottom-double {
+  margin-bottom: $marginBottom-double;
+}
+
+.container-left-paddings {
+  --margenes: calc((100vw - 1164px) / 2);
+  padding-left: var(--margenes);
+  padding-right: var(--margenes);
+}
+// @media (max-width: $sm) {
+//   .container-custom {
+//     padding-left: 30px;
+//     padding-right: 30px;
+//   }
+// }
+@media (max-width: $sm) {
+  .container-custom {
+    padding-left: $paddingsiteXMobile;
+    padding-right: $paddingsiteXMobile;
+
+    &.container-break-fluid-mobile {
+      padding-right: 15px;
+    }
+  }
+  p {
+    font-size: $header-p-font-size-mobile;
+    font-weight: 100;
+  }
+  .container-boxfloats,
+  .box-inverte-colors {
+    width: 43px !important;
+    height: 43px !important;
+  }
+}
+@media (min-width: $sm) and (max-width: $md){
+  .container-custom {
+    // padding-left: 30px;
+    // padding-right: 30px;
+
+    &.container-break-fluid-mobile {
+      padding-right: 15px;
+    }
+  }
+}
+
+//UI
+@import "./ui/sliders.scss";
+@import "./ui/cards.scss";
+@import "./ui/arrows.scss";
+@import "./ui/animation-site.scss";
+@import "./ui/home-blog-navs-header.scss";
+
+//TODO Last sections
+@import "./layout/headers.scss";
+@import "./layout/footers.scss";
+@import "./layout/experience.scss";
+@import "./layout/proyects.scss";
+@import "./layout/map-urban.scss";
+@import "./layout/information-residentials.scss";
+@import "./layout/press.scss";
+@import "./layout/press-contact.scss";
+@import "./layout/own-proyects.scss";
+@import "./layout/gallery-residential.scss";
+@import "./layout/contact-residential.scss";
+@import "./layout/contact-blog.scss";
+@import "./layout/location-residential.scss";
+@import "./layout/others-proyects-residential.scss";
+@import "./layout/blog-home.scss";
+@import "./layout/blog-categories.scss";
+@import "./layout/blog-top.scss";
+@import "./layout/mision-vision.scss";
+@import "./layout/style-life-contact.scss";
+@import "./layout/document-with-header.scss";
+@import "./layout/blog-preview.scss";
+@import "./layout/html-body-blog-preview.scss"; //abajo de blog-preview
+@import "./layout/press-list.scss";
+
+

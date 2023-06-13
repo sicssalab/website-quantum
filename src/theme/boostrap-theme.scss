@@ -1,0 +1,12 @@
+@import "./variable.scss";
+
+$theme-colors: (
+    //"info": tomato,
+    // "danger": #dc3545,
+    // "success": #198754,
+    // "warning":#ffc107,
+    "primary": $primary,
+    "secondary": $secondary,
+);
+
+@import "../../node_modules/bootstrap/scss/bootstrap.scss";

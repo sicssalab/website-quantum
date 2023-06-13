@@ -1,0 +1,147 @@
+.press-container {
+  position: relative;
+  padding-top: 67px;
+  padding-bottom: 60px;
+  background-color: $backgroundPrimary;
+  p,
+  h1,
+  h2,
+  h3,
+  h4,
+  div {
+    color: $backgroundPrimaryContrastText;
+  }
+  .description {
+    width: 57%;
+    margin-left: auto;
+    margin-right: auto;
+  }
+  .press-custom {
+    --margenes: calc((100vw - 1164px) / 2);
+    padding-left: var(--margenes);
+    padding-right: var(--margenes);
+    .press-item {
+      display: flex;
+      align-items: stretch;
+      width: 100%;
+      .slide-information-press {
+        margin-right: calc(var(--margenes) * -1);
+        width: calc(100% + var(--margenes));
+      }
+    }
+  }
+  .controls-slider-press {
+    position: absolute;
+    right: 10%;
+    top: 117px;
+
+    .btn {
+      font-size: 24px;
+    }
+
+    .btn-primary {
+      --bs-btn-color: #{$primary};
+      --bs-btn-bg: white;
+      --bs-btn-border-color: white;
+      --bs-btn-hover-bg: #{$primary};
+      --bs-btn-hover-border-color: white;
+      --bs-btn-active-border-color: white;
+      --bs-btn-disabled-bg: white;
+      --bs-btn-disabled-border-color: white;
+    }
+  }
+
+  .slide-information-press {
+    margin-top: $marginTop;
+  }
+
+  h1,
+  h2,
+  h3,
+  h4 {
+    //text-align: center;
+    text-transform: uppercase;
+    font-size: 26px;
+    strong,
+    bold {
+      font-family: $fontNoirProMedium;
+      font-size: 40px;
+      font-weight: 500;
+    }
+    padding-bottom: 5px;
+  }
+  .slide-information-press {
+    background-color: $backgroundPrimary;
+    width: 100%;
+    z-index: 1;
+    overflow: hidden;
+  }
+  @media (max-width: $sm) {
+    padding-top: 83px;
+  padding-bottom: 87px;
+    .title,
+    h2 {
+      strong,
+      bold {
+        font-family: $fontNoirProSemiBold;
+      }
+    }
+    .press-custom {
+      padding: 0 15px;
+      .press-item {
+        display: flex;
+        align-items: stretch;
+        width: 100%;
+        .slide-information-press {
+          margin-right: 0;
+          margin-right: 0;
+          margin-top: 30px;
+          width: 100%;
+        }
+      }
+    }
+    .controls-slider-press {
+      display: none;
+    }
+    .description {
+      width: 100%;
+      padding-top: 5px;
+      font-size: $font-size-press-description-mobile;
+      padding-bottom: 0;
+      margin-bottom: 0;
+    }
+  }
+  @media (min-width: $sm) and (max-width: $md) {
+    .press-custom {
+      padding-left: $paddingsiteX;
+      padding-right: $paddingsiteX;
+      .press-item {
+        display: flex;
+        align-items: stretch;
+        width: 100%;
+        .slide-information-press {
+          margin-right: 0;
+          margin-right: 0;
+          width: 100%;
+        }
+      }
+    }
+  }
+
+  @media (min-width: $md) and (max-width: 1195px) {
+    .press-custom {
+      padding-left: $paddingsiteX;
+      padding-right: $paddingsiteX;
+      .press-item {
+        display: flex;
+        align-items: stretch;
+        width: 100%;
+        .slide-information-press {
+          margin-right: 0;
+          margin-right: 0;
+          width: 100%;
+        }
+      }
+    }
+  }
+}

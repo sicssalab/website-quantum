@@ -1,0 +1,130 @@
+.press-contact-container-list {
+  position: relative;
+  padding-top: 115px;
+  padding-bottom: 74px;
+  background-color: $backgroundPrimary;
+  color: $backgroundPrimaryContrastText;
+
+  .press {
+    display: flex;
+    flex-direction: row;
+    padding: 41px 0;
+    .content-left {
+      border-right: 3px solid $primary;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      width: calc(43% - 3px); //3px del border
+      cursor: pointer;
+      .size-logo {
+        width: 100%;
+        max-width: 316px;
+      }
+    }
+    .content-right {
+      display: flex;
+      justify-content: center;
+      align-items: flex-start;
+      flex-direction: column;
+      padding-left: 110px;
+      width: calc(57% - 3px); //3px del border
+      .title {
+        font-size: 25px;
+        text-transform: uppercase;
+        font-family: $fontNoirProMedium;
+        margin-bottom: 16px;
+      }
+      .description {
+      }
+      .link-more {
+        cursor: pointer;
+        font-size: 20px;
+        color: $primary;
+        text-decoration: underline;
+      }
+    }
+  }
+
+  .pagination {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    padding-top: 20px;
+    
+    .next-page, .prev-page {
+      filter: invert(1);
+      background-color: transparent;
+      border: 0;
+      &:active {
+        filter: invert(0.5);
+      }
+    }
+    .circle {
+      border-radius: 50%;
+      width: 10px;
+      height: 10px;
+      background-color: black;
+    }
+    .content-circle {
+      display: flex;
+      gap: 5px;
+    }
+  }
+
+  @media (max-width: $sm) {
+    padding-top: 66px;
+    padding-bottom: 92px;
+    .press {
+      flex-direction: column;
+      padding: 29px 0;
+      .content-left {
+        border-right: 0;
+        width: 100%;
+        .size-logo {
+          margin-bottom: 37px;
+          max-width: 206px;
+        }
+      }
+      .content-right {
+        width: 100%;
+        padding-left: 0;
+        align-items: center;
+        .title,
+        .description {
+          text-align: center;
+        }
+        .title {
+          margin-bottom: 28px;
+        }
+        .description {
+          margin-bottom: 23px;
+        }
+        .link-more {
+          margin-bottom: 40px;
+        }
+
+        .m-border {
+          width: 80%;
+          border-bottom: 4px solid $primary;
+        }
+      }
+    }
+  }
+  @media (min-width: $sm) and (max-width: $md) {
+    .press {
+      .content-left {
+        .size-logo {
+          max-width: 206px;
+        }
+      }
+      .content-right {
+        padding-left: 55px;
+      }
+    }
+  }
+}
+
+// 805 - 111
+// 695 = 100%
+// 109 = 15%

@@ -1,0 +1,121 @@
+.experience-container {
+  position: relative;
+  padding-top: 60px;
+  padding-bottom: 80px;
+  background-color: $backgroundSegundary;
+  p,
+  h1,
+  h2,
+  h3,
+  h4 {
+    color: $backgroundSegundaryContrastText;
+  }
+
+  h1,
+  h2,
+  h3,
+  h4 {
+    text-align: center;
+    text-transform: uppercase;
+    font-size: 40px;
+    margin-bottom: 0;
+    strong,
+    bold {
+      font-size: 55px;
+    }
+  }
+
+  .description {
+    padding-top: 24px;
+    text-align: center;
+    max-width: 620px;
+    margin: auto;
+  }
+  .video-container {
+    margin-top: 62px;
+    // background-color: $backgroundSegundary;
+    min-width: 270px;
+    //max-width:900px;
+    width: 100%;
+    margin-left: auto;
+    margin-right: auto;
+    position: relative;
+    cursor: pointer;
+    .size-img {
+      object-fit: cover;
+      width: 100%;
+      height: 100%;
+    }
+    iframe, video {
+      // height: 512px;
+      // width: 100%;
+      margin-left: auto;
+      margin-right: auto;
+      display: flex;
+    }
+    .btn-click-play {
+      position: absolute;
+      margin: auto;
+      top: 0;
+      bottom: 0;
+      left: 0;
+      right: 0;
+      width: 90px;
+      height: 90px;
+      opacity: 1;
+      transition: all 0.5s;
+      svg {
+        font-size: 90px;
+      }
+      &:hover {
+        color: $primary;
+      }
+      &:active {
+        color: $secondary;
+      }
+    }
+    &:hover {
+      .btn-click-play {
+        opacity: 1;
+      }
+    }
+  }
+
+  @media (max-width: $sm) {
+    padding-top: 89px;
+    padding-bottom: 63px;
+    h1,
+    h2,
+    h3,
+    h4 {
+      font-size: $header-h2-font-size-mobile;
+
+      strong,
+      bold {
+        font-size: $header-h2-strong-font-size-mobile;
+      }
+      padding-bottom: 44px;
+    }
+    .description {
+      width: 100%;
+      padding-top: 0;
+      font-size: $font-experience-description-mobile;
+    }
+    .video-container {
+      margin-top: 36px;
+      height: 300px;
+      .btn-click-play {
+        --heigth--button-video: 50px;
+        height: var(--heigth--button-video);
+        width: var(--heigth--button-video);
+        opacity: 1;
+        img {
+          height: var(--heigth--button-video);
+        }
+      }
+      iframe, video {
+        width: 100%;
+      }
+    }
+  }
+}

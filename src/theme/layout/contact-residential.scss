@@ -1,0 +1,148 @@
+.contact-residential-container {
+  padding-top: 0;
+  padding-bottom: 0;
+  background-color: $backgroundSegundaryLight;
+  p,
+  h1,
+  h2,
+  h3,
+  h4 {
+    color: $backgroundSegundaryContrastText;
+  }
+
+  h1,
+  h2,
+  h3,
+  h4 {
+    text-transform: uppercase;
+    font-size: 30px;
+  }
+
+  .contact-residential {
+    display: flex;
+    flex-direction: row;
+    --margenes: calc((100vw - 1164px) / 2);
+    padding-left: var(--margenes);
+    padding-right: var(--margenes);
+    .div-row {
+      //min-height: 50vh;
+      display: flex;
+      align-items: stretch;
+      width: 100%;
+      .container-map {
+        margin-left: calc(var(--margenes) * -1);
+        width: calc(50% + var(--margenes));
+        & > div {
+          min-height: 664px;
+          height: 100%;
+        }
+        iframe {
+          width: 100%;
+          height: 100%;
+          min-height: 664px;
+        }
+      }
+      .container-form {
+        width: calc(50%);
+        padding-top: 50px;
+        padding-bottom: calc(50px - 17px); //TODO los 17 es del boton del form
+        padding-left: 60px;
+        padding-right: 30px;
+        display: flex;
+        flex-direction: column;
+        flex-wrap: nowrap;
+        justify-content: space-between;
+      }
+    }
+  }
+
+  @media (max-width: $sm) {
+    .contact-residential {
+      padding-left: 0;
+      padding-right: 0;
+      .div-row {
+        display: flex;
+        flex-direction: column;
+
+        .container-map {
+          order: 2;
+          margin-left: 0;
+          margin-right: 0;
+          width: 100%;
+          > div, iframe {
+            height: 442px;
+            min-height: initial;
+          }
+        }
+        .container-form {
+          order: 1;
+          padding-left: calc($paddingsiteX + 15px);
+          padding-right: calc($paddingsiteX + 15px);
+          padding-bottom: 35px;
+          padding-top: 55px;
+          width: 100%;
+          h2 {
+            text-align: center;
+            font-size: $font-size-title-contact-mobile;
+          }
+          .description {
+            text-align: center;
+          }
+        }
+      }
+    }
+  }
+  @media (min-width: $sm) and (max-width: $md) {
+    .contact-residential {
+      padding-left: 0;
+      padding-right: 0;
+      .div-row {
+        width: 100%;
+        .container-map {
+          margin-left: 0;
+          margin-right: 0;
+          width: 100%;
+          > div {
+            height: 100%;
+            max-height: initial !important;
+          }
+          iframe {
+            height: 100%;
+            min-height: auto;
+          }
+        }
+        .container-form {
+          padding-left: $paddingsiteX;
+          padding-right: $paddingsiteX;
+          padding-bottom: 30px;
+          width: 100%;
+          h2 {
+            text-align: center;
+            font-size: 24px;
+          }
+          .description {
+            text-align: center;
+          }
+        }
+      }
+    }
+  }
+
+  @media (min-width: $md) and (max-width: 1195px) {
+    .contact-residential {
+      padding-left: 0;
+      padding-right: 0;
+      .div-row {
+        width: 100%;
+        .container-form {
+          width: 100%;
+        }
+        .container-map {
+          width: 100%;
+          margin-right: 0;
+          margin-left: 0;
+        }
+      }
+    }
+  }
+}

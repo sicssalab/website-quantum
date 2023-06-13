@@ -1,0 +1,107 @@
+.body-content-blog {
+  position: relative;
+  padding-top: 62px;
+  .container-boxfloats {
+    transform: rotate(90deg);
+  }
+  .blog-category-collage {
+    margin-bottom: 173px;
+    > .title {
+      font-size: $font-title-blog-top;
+      color: $backgroundPrimaryContrastText;
+      text-align: center;
+      margin-bottom: 57px;
+      text-transform: uppercase;
+    }
+    .blog-category-collage-grid {
+      display: grid;
+      gap: 21px 17px;
+      grid-template-columns: repeat(2, minmax(312px, 1fr));
+      div, a {
+        color: $backgroundSegundaryContrastText;
+        &.fisrt {
+          grid-column-start: 1;
+          grid-row-start: 1;
+          grid-row-end: 3;
+        }
+        .thumbnail-category {
+          position: relative;
+
+          img {
+            width: 100%;
+          }
+          .thumbnail-degraded {
+            position: absolute;
+            left: 0;
+            right: 0;
+            top: 0;
+            bottom: 0;
+            background: $backgroundMainTransparentLight;
+          }
+          .thumbnail-body {
+            position: absolute;
+            bottom: 27px;
+            left: 19px;
+            right: 19px;
+            > .title {
+              font-size: 24px;
+              text-transform: uppercase;
+              margin-bottom: 0;
+              padding-bottom: 0;
+              line-height: 20px;
+            }
+            > .description {
+              font-size: 16px;
+              text-transform: uppercase;
+              margin-bottom: 0;
+              padding-bottom: 0;
+            }
+          }
+        }
+      }
+    }
+  }
+
+  @media (max-width: $sm) {
+    padding-top: 40px;
+    .blog-category-collage {
+      margin-bottom: 38px;
+      .blog-category-collage-grid {
+        gap: 20px;
+        grid-template-columns: repeat(auto-fit, minmax(304px, 1fr));
+        div, a {
+          .thumbnail-category {
+            .thumbnail-degraded {
+              position: absolute;
+              left: 0;
+              right: 0;
+              top: 0;
+              bottom: 0;
+              background: $background-blog-home-thumbnailTransparentLight;
+            }
+            .thumbnail-body {
+              //   left: 19px;
+              //   right: 19px;
+              top: 0;
+              bottom: 0;
+              display: flex;
+              align-items: center;
+              flex-direction: column;
+              justify-content: center;
+              text-align: center;
+
+              > .title {
+                font-size: $font-title-blog-home-thumbnail-title-mobile;
+                line-height: calc($font-title-blog-home-thumbnail-title-mobile + 8px);
+              }
+              > .description {
+                font-size: 16px;
+                line-height: 16px;
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}

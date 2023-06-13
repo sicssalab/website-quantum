@@ -1,0 +1,113 @@
+.blog-top-container {
+  position: relative;
+  padding-top: 79px;
+  padding-bottom: 100px;
+  background-color: $backgroundSegundaryDark;
+  p,
+  .title {
+    color: $backgroundSegundaryContrastText;
+  }
+
+  .title {
+    text-align: center;
+    text-transform: uppercase;
+    font-size: $font-title-blog-top;
+    font-family: $fontNoirProMedium;
+    margin-bottom: 63px;
+    padding-bottom: 0;
+  }
+
+  .card-topblog {
+    border-radius: 0px;
+    width: 346px;
+    max-width: 346px;
+    height: 340px;
+    max-height: 340px;
+    margin: auto;
+    display: block !important;
+    text-decoration: none;
+
+    .card-img-top {
+      height: 186px;
+      object-fit: cover;
+      border-radius: 0 !important;
+      border-top-left-radius: 0 !important;
+      border-top-right-radius: 0 !important;
+    }
+
+    .card-body {
+      color: $color-text-topblogs;
+
+      .destino {
+        font-size: $font-size-destino-cardtopblog;
+        text-align: center;
+        color: $color-text-topblogs;
+        margin-bottom: 0;
+      }
+      .card-title {
+        font-family: $fontNoirProMedium;
+        text-align: center;
+        font-size: $font-size-title-cardtopblog;
+        margin-bottom: 0;
+      }
+      .card-text {
+        font-family: $fontNoirProNoirProLight;
+        color: $color-text-topblogs;
+        font-size: $font-size-description-cardtopblogs;
+        text-align: center;
+        overflow: hidden;
+        text-overflow: ellipsis;
+        display: -webkit-box;
+        -webkit-box-orient: vertical;
+        -webkit-line-clamp: 3;
+      }
+    }
+  }
+}
+
+@media (max-width: $sm) {
+  .blog-top-container {
+    padding-top: 28px;
+    padding-bottom: 52px;
+    .title {
+      font-size: $font-title-blog-top-mobile;
+      margin-bottom: 25px;
+    }
+
+    .card-topblog {
+      width: 238px;
+      max-width: 238px;
+      height: 236px;
+      max-height: 236px;
+
+      .card-img-top {
+        height: 129px;
+      }
+
+      .card-body {
+        .destino {
+          font-size: $font-size-destino-cardtopblog;
+        }
+        .card-title {
+          text-align: center;
+          font-size: $font-size-title-cardtopblog-mobile;
+          overflow: hidden;
+          margin-bottom: 10px;
+          text-overflow: ellipsis;
+          display: -webkit-box;
+          -webkit-box-orient: vertical;
+          -webkit-line-clamp: 1;
+        }
+        .card-text {
+          text-align: center;
+          font-size: $font-size-description-cardtopblogs-mobile;
+          overflow: hidden;
+          text-overflow: ellipsis;
+          display: -webkit-box;
+          -webkit-box-orient: vertical;
+          -webkit-line-clamp: 2;
+        }
+      }
+    }
+  }
+}

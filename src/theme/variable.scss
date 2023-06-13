@@ -1,0 +1,99 @@
+$primary: #005299;
+$secondary: #231f20;
+
+$h1Color: white;
+$h2Color: white;
+
+$backgroundPrimary:#fff;
+$backgroundPrimaryLight:#D6D7D7; //sin uso
+$backgroundPrimaryDark:#231F20; //sin uso
+$backgroundPrimaryContrastText: $secondary; //OK
+
+$backgroundSegundary:#00395d;
+$backgroundSegundaryLight:#444142;
+$backgroundSegundaryDark:#6A9ED5; //OK
+$backgroundSegundaryContrastText:#fff; //OK
+
+$backgroundMenuMain: #000000a3;
+$backgroundMainTransparent: #06050591;
+$backgroundMainTransparentLight: #05050524;
+
+$backgroundOpacitySliderMobile: #19191973;
+$backgroundCardItems: #f1f1f1;
+
+$colorMapList: #ffffff3b;
+$colorHomeBlogNavs:#2c2a29;
+$color-text-topblogs: #2c2a29;
+
+$xs: 0;
+$smmobile: 576px;
+$sm: 768px;
+$md: 992px;
+$lg: 1024px;
+$xl: 1280px;
+
+$header-h1-font-size: 3.75rem;
+$header-p-font-size: 1.1rem;
+
+$header-h1-font-size-mobile: 33px;// 28.5px;//2.75rem;
+$header-h2-font-size-mobile: 22.5px;//25px;//2.75rem;
+$header-h2-font-size-mobileB: 20px;//2.75rem;
+$header-h2-strong-font-size-mobile: 28px;//2.75rem;
+$header-p-font-size-mobile: 14px; //TODO de 16 a 14
+$description-mobileA: 14px; //TODO tenia 16 antes
+$description-mobileB: 14px; //TODO tenia 16 antes
+$footer-title-size: 16px;
+$footer-description-size: 16px;  //
+
+$paddingsiteX: 30px;
+$paddingsiteXMobile: 43px;
+$maxWidthSite: 1146px;
+$marginTop: 40px; //separadores, no containercustom
+$marginBottom: 40px;//separadores, no containercustom
+$marginTop-double: 80px; //separadores, no containercustom
+$marginBottom-double: 80px;//separadores, no containercustom
+
+$fontNoirProRegular: "NoirPro-Regular", sans-serif;
+$fontNoirProBold: "NoirPro-Bold", sans-serif;
+$fontNoirProMedium: "NoirPro-Medium", sans-serif;
+$fontNoirProSemiBold: "NoirPro-SemiBold", sans-serif;
+$fontNoirProNoirProLight: "NoirPro-Light", sans-serif;
+
+//TODO formulario dentro de las landings
+$font-size-title-contact-mobile: $header-h2-font-size-mobileB; //old 24px
+
+//TODO otros proyectos dentro de landings
+$font-size-title-others-proyects-mobile: $header-h2-font-size-mobileB; //old 26px
+$font-size-slider-title-others-proyects-mobile: 15px; //old 20px
+
+
+$font-size-press-description-mobile: 14px;// old 16 default
+$font-size-card-press-description-mobile: 12px;// old 16 default
+$font-size-card-press-link-description-mobile: 14px;// old 16 default
+
+
+$font-experience-description-mobile: 14px;
+$font-proyectos-inmobiliarios-home-description-mobile: 14px;
+
+$font-title-main-blog: 50px;
+$font-title-main-blog-strong: 65px;
+
+$font-title-main-blog-mobile: 24px;
+$font-title-main-blog-strong-mobile: 24px;
+
+$font-homeblog-nav-categories:22px;
+$font-homeblog-nav-categories-mobile:14px;
+
+$font-title-blog-top: 30px;
+$font-title-blog-top-mobile: 20px;
+
+$font-title-blog-home-thumbnail-title-mobile: 20px;
+$font-title-blog-home-thumbnail-description-mobile: 20px;
+$background-blog-home-thumbnailTransparentLight: #05050540;
+
+
+$font-size-destino-cardtopblog:18px;
+$font-size-title-cardtopblog:20px;
+$font-size-title-cardtopblog-mobile:15px;
+$font-size-description-cardtopblogs:14px;
+$font-size-description-cardtopblogs-mobile:14px;

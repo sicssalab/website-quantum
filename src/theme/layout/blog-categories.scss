@@ -1,0 +1,146 @@
+.body-content-blog-cateogory {
+  padding-top: 78px;
+  padding-top: 61px;
+  .blog-category-grid {
+    margin-top: 121px;
+    margin-bottom: 61px;
+    color: $backgroundPrimaryContrastText;
+
+    > .title {
+      font-size: $font-title-blog-top;
+      color: $backgroundPrimaryContrastText;
+      text-align: center;
+      margin-bottom: 80px;
+      text-transform: uppercase;
+    }
+    .blog-category-grid-content {
+      display: grid;
+      gap: 53px 26px;
+      grid-template-columns: repeat(3, minmax(242px, 1fr));
+      .card-topblog {
+        border-radius: 0px;
+        width: 100%;
+        text-decoration: none;
+        //max-width: 346px;
+        height: 340px;
+        max-height: 340px;
+        margin: auto;
+        display: flex !important;
+
+        .card-img-top {
+          height: 186px;
+          object-fit: cover;
+          border-radius: 0 !important;
+          border-top-left-radius: 0 !important;
+          border-top-right-radius: 0 !important;
+        }
+
+        .card-body {
+          color: $color-text-topblogs;
+          flex-grow: 1;
+          background-color: $backgroundCardItems;
+          .destino {
+            font-size: $font-size-destino-cardtopblog;
+            text-align: center;
+            color: $color-text-topblogs;
+            margin-bottom: 0;
+          }
+          .card-title {
+            font-family: $fontNoirProMedium;
+            text-align: center;
+            font-size: $font-size-title-cardtopblog;
+            margin-bottom: 0;
+            overflow: hidden;
+            text-overflow: ellipsis;
+            display: -webkit-box;
+            -webkit-box-orient: vertical;
+            -webkit-line-clamp: 1;
+          }
+          .card-text {
+            font-family: $fontNoirProNoirProLight;
+            color: $color-text-topblogs;
+            font-size: $font-size-description-cardtopblogs;
+            text-align: center;
+            overflow: hidden;
+            text-overflow: ellipsis;
+            display: -webkit-box;
+            -webkit-box-orient: vertical;
+            -webkit-line-clamp: 3;
+          }
+        }
+      }
+    }
+  }
+
+  @media (max-width: $sm) {
+    padding-top: 31px;
+    .blog-category-grid {
+      margin-top: 39px;
+      margin-bottom: 35px;
+
+      > .title {
+        font-size: $font-title-blog-top-mobile;
+        text-align: center;
+        margin-bottom: 41px;
+      }
+
+      .blog-category-grid-content {
+        display: grid;
+        justify-content: center;
+        gap: 34px 0;
+        grid-template-columns: 242px;
+        .card-topblog {
+            box-shadow: 0px 8px 11px 7px #e2e2e294;
+            width: 238px;
+            max-width: 238px;
+            height: 256px;
+            max-height: 256px;
+      
+            .card-img-top {
+              height: 129px;
+            }
+      
+            .card-body {
+              .destino {
+                font-size: $font-size-destino-cardtopblog;
+              }
+              .card-title {
+                text-align: center;
+                font-size: $font-size-title-cardtopblog-mobile;
+                margin-bottom: 10px;
+                overflow: hidden;
+                text-overflow: ellipsis;
+                display: -webkit-box;
+                -webkit-box-orient: vertical;
+                -webkit-line-clamp: 1;
+              }
+              .card-text {
+                text-align: center;
+                font-size: $font-size-description-cardtopblogs-mobile;
+                overflow: hidden;
+                text-overflow: ellipsis;
+                display: -webkit-box;
+                -webkit-box-orient: vertical;
+                -webkit-line-clamp: 3;
+              }
+            }
+          }
+      }
+      .blog-category-grid-content-btn {
+        padding-top: 39px;
+        text-align: center;
+        .btn {
+          text-transform: uppercase;
+        }
+      }
+    }
+  }
+  @media (min-width: $sm) and (max-width: $md) {
+    .blog-category-grid {
+      .blog-category-grid-content {
+        display: grid;
+        grid-template-columns: repeat(2, minmax(242px, 1fr));
+      }
+    }
+  }
+}

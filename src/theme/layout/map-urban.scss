@@ -1,0 +1,198 @@
+.map-urban-container {
+  position: relative;
+  padding-top: 55px;
+  padding-bottom: 30px;
+  background-color: $backgroundSegundaryDark;
+  p,
+  h1,
+  h2,
+  h3,
+  h4 {
+    color: $backgroundSegundaryContrastText;
+  }
+
+  h1,
+  h2,
+  h3,
+  h4 {
+    text-align: center;
+    text-transform: uppercase;
+    font-size: 40px;
+    strong,
+    bold {
+      font-size: 50px;
+    }
+  }
+
+  .description {
+    text-align: center;
+    //width: 50%;
+    margin: auto;
+  }
+
+  //TODO component map
+  .map-content {
+    display: flex;
+    justify-content: space-between;
+    margin-top: $marginTop;
+    .ul-content {
+      padding-top: 83px;
+      .list-group {
+        .list-group-item {
+          border: 0;
+          background-color: transparent;
+          color: $colorMapList;
+          font-size: 20px;
+          text-transform: uppercase;
+          padding-top: 9px;
+          padding-bottom: 9px;
+          &:hover {
+            color: $primary;
+            text-decoration: underline;
+          }
+          &.active {
+            color: $primary;
+            text-decoration: underline;
+          }
+        }
+      }
+      .button-link {
+        margin-top: 57px;
+        font-size: 20px;
+        text-transform: uppercase;
+        text-decoration: none;
+        display: flex;
+        align-items: center;
+
+        i {
+          margin-left: 13px;
+          display: block;
+          width: 48px;
+          height: 2px;
+          background-color: $primary;
+        }
+      }
+    }
+    .map-inside {
+      position: relative;
+      .map-inside-img {
+        //TODO comentado por webpack error en imagenes de background
+        //background-image: url('../../assets/img/map/mexico.png');
+        background-repeat: no-repeat;
+        width: 100%;
+        height: 100%;
+        position: absolute;
+        transition: all 0.4s;
+        &.active-blur {
+          filter: blur(2px);
+        }
+      }
+      .map-modal {
+        position: absolute;
+        width: 100%;
+        height: 100%;
+        z-index: 1;
+        display: none;
+
+        &.active {
+          display: flex;
+          align-items: center;
+          justify-content: center;
+        }
+
+        .circle-btn-des {
+          background-color: #feb26373;
+          transition: background-color 0.5s ease;
+
+          &.active,
+          &:hover {
+            background-color: $primary;
+          }
+        }
+      }
+    }
+  }
+  .card-map {
+    background-color: $backgroundPrimary;
+    z-index: 2;
+    p,
+    h1,
+    h2,
+    h3,
+    h4,
+    div {
+      color: $backgroundPrimaryContrastText;
+    }
+  }
+  //TODO responsive
+  @media (max-width: $smmobile) {
+    .container-custom {
+      padding-left: 14px;
+      padding-right: 14px;
+    }
+  }
+  @media (max-width: $sm) {
+    padding-top: 86px;
+    padding-bottom: 54px;
+    h1,
+    h2,
+    h3,
+    h4 {
+      font-size: $header-h2-font-size-mobile;
+      strong,
+      bold {
+        font-size: $header-h2-strong-font-size-mobile;
+      }
+    }
+    .description {
+      display: none;
+    }
+    .map-content {
+      flex-direction: column;
+      margin-top: 63px;
+      .ul-content {
+        padding: 0;
+        padding-bottom: 50px;
+
+        .list-group {
+          flex-direction: column;
+        }
+        .list-group-item {
+          text-align: center;
+          font-size: 16px !important;
+        }
+      }
+      .map-inside {
+        .map-inside-img {
+          background-size: 110%;
+          background-position-x: center;
+          img {
+            width: 110%;
+            margin-left: -17px;
+          }
+        }
+        max-width: 345px;
+        margin: auto;
+      }
+    }
+  }
+  @media (min-width: $sm) and (max-width: $md) {
+    .description {
+      display: none;
+    }
+    .map-content {
+      flex-direction: column;
+      .ul-content {
+        padding: 0;
+        .list-group-item {
+          text-align: center;
+        }
+      }
+      .map-inside {
+        max-width: 715px;
+        margin: auto;
+      }
+      overflow-x: auto;
+    }
+  }
+}

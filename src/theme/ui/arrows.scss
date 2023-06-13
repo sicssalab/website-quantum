@@ -1,0 +1,42 @@
+.arrow-down {
+  position: relative;
+  margin: 0 auto;
+  width: 100px;
+  .curve {
+    border: 2px solid $primary;
+    border-color: transparent transparent transparent $primary;
+    width: 1px;
+    height: 80px;
+    margin: auto;
+  }
+  .point {
+    position: absolute;
+    top: 71px;
+    margin: auto;
+
+    &:before,
+    &:after {
+      border: 1px solid $primary;
+      height: 13px;
+      content: "";
+      position: absolute;
+    }
+
+    &:before {
+      top: -3px;
+      left: 43px;
+      transform: rotate(-53deg);
+        -webkit-transform: rotate(-53deg);
+        -moz-transform: rotate(-53deg);
+        -ms-transform: rotate(-53deg);
+    }
+    &:after {
+      top: -3px;
+      left: 53px;
+      transform: rotate(48deg);
+      -webkit-transform: rotate(48deg);
+      -moz-transform: rotate(48deg);
+      -ms-transform: rotate(48deg);
+    }
+  }
+}
