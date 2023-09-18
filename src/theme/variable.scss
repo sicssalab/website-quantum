@@ -1,16 +1,17 @@
-$primary: #004aad;
-$secondary: #0b0b0b;
+$primary: #005299;
+$secondary: #231f20;
 
 $h1Color: white;
 $h2Color: white;
 
 $backgroundPrimary:#fff;
-$backgroundPrimaryDark:#0b0b0b;
-$backgroundPrimaryContrastText: $secondary;
+$backgroundPrimaryLight:#D6D7D7; //sin uso
+$backgroundPrimaryDark:#231F20; //sin uso
+$backgroundPrimaryContrastText: $secondary; //OK
 
-$backgroundSegundary:#0b0b0b;
+$backgroundSegundary:#00395d;
 $backgroundSegundaryLight:#444142;
-$backgroundSegundaryDark:#000; //OK
+$backgroundSegundaryDark:#6A9ED5; //OK
 $backgroundSegundaryContrastText:#fff; //OK
 
 $backgroundMenuMain: #000000a3;

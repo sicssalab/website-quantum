@@ -1,5 +1,5 @@
 import pagesContants from "../constants/pagesContants";
-import Logo from "../assets/logo-white.png";
+import Logo from "../assets/logo.jpg";
 
 const resource = {
     locale: "es",
@@ -11,6 +11,10 @@ const resource = {
         {
             shortName: "Nuestros Proyectos",
             slug: pagesContants.proyectsES,
+        },
+        {
+            shortName: "Del Mar",
+            slug: pagesContants.landingSelvaEscondidaIIES,
         },
         // {
         //     shortName: "Del Mar",
@@ -69,7 +73,7 @@ const resource = {
             },
             {
                 name: "Productos",
-                url: pagesContants.servicesES
+                url: pagesContants.proyectsES
             },
             {
                 name: "contacto",
@@ -84,20 +88,20 @@ const resource = {
         },
         itemsContact: [
             {
-                name: "+52 99-83-18-57-32",
-                url: "tel:+52 9983185732",
+                name: "(55) 5768 5508",
+                url: "tel:+55 5768 5508",
                 type: "tel",
             },
             {
-                name: "contacto@sicssalab.mx",
-                url: "mailto:contacto@sicssalab.mx?body=Hola, soy: %0AMi número de WhatsApp es: %0AEstoy interesado en:",
+                name: "mercadotecnia5@quantumdo.com",
+                url: "mailto:mercadotecnia5@quantumdo.com",
                 type: "email",
             },
         ],
         socialNetwork: [
             {
                 alt: "red network",
-                link: "https://www.facebook.com/sicssalab",
+                link: "https://www.facebook.com/QuantumAnalytical",
                 type: "facebook"
             },
             {
@@ -107,7 +111,7 @@ const resource = {
             },
             {
                 alt: "red network",
-                link: "https://www.linkedin.com/company/sicssa-lab",
+                link: "https://www.linkedin.com/company/quantum-do-analytical",
                 type: "linkedin"
             },
             {
@@ -124,7 +128,7 @@ const resource = {
                 orderMobile: 1,
             },
             {
-                name: "Servicios",
+                name: "Productos",
                 url: pagesContants.proyectsES,
                 order: 4,
                 orderMobile: 4,

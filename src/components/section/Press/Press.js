@@ -9,18 +9,10 @@ import FloatInverse from "../../ui/boxFloat/FloatInverse";
 const Proyects = (props) => {
     const { title, description, items } = props;
     const isMobile = useMediaQuery({ maxWidth: breakpointConstants.MD })
-    const styleFloats = {
-        position: "absolute",
-        left: isMobile ? 40 : "100px",
-        top: 0,
-        width: "71px",
-        height: "77px"
-    };
 
     return (
         <div className="press-container">
             <ContainerCustom>
-                <FloatInverse sx={styleFloats} />
                 {title && <h2 className='text-center' dangerouslySetInnerHTML={{ __html: title }} />}
                 {description && <p className='text-center description' dangerouslySetInnerHTML={{ __html: description }} />}
             </ContainerCustom>

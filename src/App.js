@@ -18,6 +18,7 @@ import localStorageConstants from "./constants/localStorageConstants";
 import { Helmet } from "react-helmet-async";
 import BlogPage from "./pages/blog/BlogPage";
 import NotfoundPage from "./pages/NotfoundPage";
+import pagesContants from "./constants/pagesContants";
 function App(props) {
   const { ssrRoutesData } = props;
   const locales = languageMenuMock;
@@ -64,13 +65,20 @@ function App(props) {
     }
   }, []);
 
-  const auxRoutesData = ssrRoutesData?.id > 0 && ssrRoutesData.locale === locale ? ssrRoutesData : routesData;
+  const auxRoutesData =
+    ssrRoutesData?.id > 0 && ssrRoutesData.locale === locale
+      ? ssrRoutesData
+      : routesData;
   useEffect(() => {
     let auxLocale = languageUtils.getLocale(location.pathname.toLowerCase());
-    if((auxRoutesData !== undefined && auxRoutesData.locale !== undefined) && auxRoutesData.locale !== auxLocale){
+    if (
+      auxRoutesData !== undefined &&
+      auxRoutesData.locale !== undefined &&
+      auxRoutesData.locale !== auxLocale
+    ) {
       localeAction.updateLocale(auxLocale, dispatch);
     }
-  // eslint-disable-next-line react-hooks/exhaustive-deps
+    // eslint-disable-next-line react-hooks/exhaustive-deps
   }, [location, auxRoutesData]);
 
   return (
@@ -89,7 +97,13 @@ function App(props) {
                 element={<SlugPage locales={locales} />}
               />
             );
-          })}
+        })}
+        <Route path={"productos"}
+          element={<SlugPage locales={locales} />}
+        />
+        <Route path={pagesContants.ametek}
+          element={<SlugPage locales={locales} />}
+        />
         <Route path={"/blog/:id"} element={<BlogPage locales={locales} />} />
         <Route path={"en/blog/:id"} element={<BlogPage locales={locales} />} />
         <Route path="*" element={<NotfoundPage />} />

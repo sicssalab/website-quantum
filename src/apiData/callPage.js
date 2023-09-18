@@ -143,6 +143,7 @@ const callPage = (locale, slug) => {
             typePage = "home";
             break;
         default:
+            typePage = slug;
     }
 
     try {

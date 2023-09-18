@@ -15,13 +15,7 @@ const resource = {
         //"follow": //TODO solo las que no llevan index agregarlo nofollow, noindex //Meta name=”robots” content=”noindex,nofollow”
         "image": "/src/assets/sicssa/metatag-sicssa-lab.png"
     },
-    localizations: [
-        {
-            "shortName": "Our Proyects",
-            "slug": pagesContants.proyectsEN, //TODO solo para la home revisar proceso puede mandar home y tomarlo como raiz
-            "locale": "en"
-        }
-    ],
+    localizations: [],
     ...apiOwnProyects
 }
 

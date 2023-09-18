@@ -1,5 +1,5 @@
 import proyectsMock from "./proyectsMock";
-import pressMock from "./pressMock";
+import pressMock from "./serviciosHomeMock";
 import pagesContants from "../constants/pagesContants";
 import mainHeader1 from "../assets/sicssa/home/main.jpeg";
 
@@ -8,8 +8,8 @@ const apiHome = {
     items: [
         {
             type: "header-component",
-            title: "<strong>expertos</strong><br />en soluciones tecnológicas",
-            description: "Con tecnología de ingeniería avanzada, damos solución a los proyectos más demandantes",
+            title: "Analytycal Solutions <br /><strong>for Quality Assurance</strong>",
+            //description: "Con tecnología de ingeniería avanzada, damos solución a los proyectos más demandantes",
             isLanding: false,
             socialNetwork: [
                 {
