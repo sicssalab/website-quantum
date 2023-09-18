@@ -6,18 +6,18 @@ const resource = {
     slug: pagesContants.contactoES,
     locale: "es",
     metadata: {
-        "metaTitle": "Contacto | Grupo Miraro",
-        "metaDescription": "Contáctanos y obtén información para invertir en uno de nuestros proyectos inmobiliarios.",
-        "keywords": "",
+        "metaTitle": "Contacto | Sicssa Lab",
+        "metaDescription": "Contáctanos y obtén información para obtener tu sitio web, aplicación móvil o desarrollo a la medida.",
+        "keywords": "Consultoría de TI, Consultoría de desarrollo de Software, Desarrollo de aplicaciones, Desarrollo de aplicaciones web, Desarrollo de software a la medida, Consultores de software, Desarrollo de aplicaciones móviles, Desarrollo de software escalable, Consultores en innovación tecnológica, automatización de procesos, programadores.",
         "url": pagesContants.contactoES, //canonical
-        "sitename": "Grupo Miraro",
+        "sitename": "SICSSA LAB",
         "type": "website",
         //"follow": //TODO solo las que no llevan index agregarlo nofollow, noindex //Meta name=”robots” content=”noindex,nofollow”
-        "image": "https://sicssalab.net/test-miraro/mocks/metadatos/contacto.jpg"
+        "image": "/src/assets/sicssa/metatag-sicssa-lab.png"
     },
     localizations: [
         {
-            "shortName": "Contacto EN",
+            "shortName": "Contact",
             slug: pagesContants.contactoEN,
             "locale": "en"
         }

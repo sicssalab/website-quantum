@@ -24,10 +24,10 @@ const Proyects = (props) => {
                 {title && <h2 className='text-center' dangerouslySetInnerHTML={{__html: title}} />}
                 {description && <p className='text-center description' dangerouslySetInnerHTML={{__html: description}} />}
                 {items &&
-                    <Row className="proyects-container-inside">
+                    <Row className="proyects-container-inside justify-content-center">
                         {items.map((item, i) => {
                             return (
-                                <Col key={'cardOwnProyects' + i} className="col-12 col-sm-6">
+                                <Col key={'cardOwnProyects' + i} className="col-12 col-sm-5">
                                     <CardOurProyects item={item} />
                                 </Col> 
                             )

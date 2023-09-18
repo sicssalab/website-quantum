@@ -10,7 +10,7 @@ const resource = {
         "metaDescription": "Un nuevo concepto residencial de departamentos en Puerto Morelos. La perfecta armonía entre naturaleza y modernidad.",
         "keywords": "HTML, CSS, JavaScript",
         //"url": "https://selvaescondida.mx", //canonical
-        "sitename": "Grupo Miraro",
+        "sitename": "Sicssa lab",
         "type": "website",
         //"follow": //TODO solo las que no llevan index agregarlo nofollow, noindex //Meta name=”robots” content=”noindex,nofollow”
         "image": null

@@ -40,8 +40,7 @@
     }
 
     .btn-primary {
-      --bs-btn-color: #{$primary};
-      --bs-btn-bg: white;
+      --bs-btn-bg: #{$primary};
       --bs-btn-border-color: white;
       --bs-btn-hover-bg: #{$primary};
       --bs-btn-hover-border-color: white;

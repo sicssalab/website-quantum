@@ -28,17 +28,19 @@
             align-items: stretch;
             width: 100%;
             .container-info {
-                width: 43%;
+                text-align: center;
+                margin: auto;
             }
             .container-slide {
-                margin-right: calc(var(--margenes) * -1);
-                width: calc(57% + var(--margenes));
+                //margin-right: calc(var(--margenes) * -1);
+                margin: auto;
+                width: calc(64% + var(--margenes));
             }
         }
     }
     .container-body {
         display: flex;
-        flex-direction: row;
+        flex-direction: column;
         justify-content: space-between;
         .container-info {
             .container-info-body {
@@ -47,14 +49,13 @@
                 height: 100%;
                 flex-direction: column;
                 justify-content: center;
-                padding-right: 60px;
 
                 .description {
-                    text-align: justify;
-                    max-width: 363px;
+                    text-align: center;
                 }
                 .button-link {
                     font-size: 20px;
+                    margin: auto;
                 }
             }
         }

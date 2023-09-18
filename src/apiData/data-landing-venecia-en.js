@@ -6,11 +6,11 @@ const resource = {
     slug: pagesContants.landingVeneciaES,
     locale: "en",
     metadata: {
-        "metaTitle": "Venecia Residential | Grupo Miraro",
+        "metaTitle": "Venecia Residential | Sicssa lab",
         "metaDescription": "Modern residential project in Mexico City with amenities for the whole family.",
         "keywords": "",
         "url": pagesContants.landingVeneciaES, //canonical
-        "sitename": "Grupo Miraro",
+        "sitename": "Sicssa lab",
         "type": "website",
         //"follow": //TODO solo las que no llevan index agregarlo nofollow, noindex //Meta name=”robots” content=”noindex,nofollow”
         "image": "https://sicssalab.net/test-miraro/mocks/metadatos/Venecia--Portadas-metadata---Miraro-Web.png"

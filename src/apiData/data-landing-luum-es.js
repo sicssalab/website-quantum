@@ -6,11 +6,11 @@ const resource = {
     slug: pagesContants.landingLuumES,
     locale: "es",
     metadata: {
-        "metaTitle": "Luum by Selva Escondida | Grupo Miraro",
+        "metaTitle": "Luum by Selva Escondida | Sicssa lab",
         "metaDescription": "Departamentos a solo 8 minutos de la playa con Seguridad Privada, Alberca, Casa Club y más.",
         "keywords": "",
         "url": pagesContants.landingLuumES, //canonical
-        "sitename": "Grupo Miraro",
+        "sitename": "Sicssa lab",
         "type": "website",
         //"follow": //TODO solo las que no llevan index agregarlo nofollow, noindex //Meta name=”robots” content=”noindex,nofollow”
         "image": "https://sicssalab.net/test-miraro/mocks/metadatos/luum.jpg"

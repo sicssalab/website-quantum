@@ -4,7 +4,7 @@ import pagesContants from "../constants/pagesContants";
 const mainMock = {
         logo: {
             src: Logo,
-            alt: "grupo miraro",
+            alt: "Sicssa lab",
             link: "/"
         },
         menu: [

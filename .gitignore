@@ -26,3 +26,4 @@ build/*
 *.sln
 *.sw?
 yarn.lock
+public.zip

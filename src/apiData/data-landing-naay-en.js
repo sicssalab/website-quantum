@@ -6,11 +6,11 @@ const resource = {
     slug: pagesContants.landingNaayES,
     locale: "en",
     metadata: {
-        "metaTitle": "Naay by Selva Escondida | Grupo Miraro",
+        "metaTitle": "Naay by Selva Escondida | Sicssa lab",
         "metaDescription": "Exclusive condos in Puerto Morelos with more than ten amenities.",
         "keywords": "",
         "url": pagesContants.landingNaayES, //canonical
-        "sitename": "Grupo Miraro",
+        "sitename": "Sicssa lab",
         "type": "website",
         //"follow": //TODO solo las que no llevan index agregarlo nofollow, noindex //Meta name=”robots” content=”noindex,nofollow”
         "image": "https://sicssalab.net/test-miraro/mocks/metadatos/naay.jpg"

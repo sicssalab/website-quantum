@@ -6,11 +6,11 @@ const resource = {
     slug: pagesContants.landingSelvaEscondidaIIEN,
     locale: "en",
     metadata: {
-        "metaTitle": "Selva Escondida II | Grupo Miraro",
+        "metaTitle": "Selva Escondida II | Sicssa lab",
         "metaDescription": "Condos in Puerto Morelos with more than 30 resort-like amenities.",
         "keywords": "",
         "url": pagesContants.landingSelvaEscondidaIIEN, //canonical
-        "sitename": "Grupo Miraro",
+        "sitename": "Sicssa lab",
         "type": "website",
         //"follow": //TODO solo las que no llevan index agregarlo nofollow, noindex //Meta name=”robots” content=”noindex,nofollow”
         "image": "https://sicssalab.net/test-miraro/mocks/metadatos/Selva-Escondida-II-Portadas-metadata---Miraro-Web.png"

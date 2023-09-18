@@ -15,7 +15,7 @@ const UlContact = (props) => {
               <li key={i}>
                 <a href={item.url}>
                   {item.type && (
-                    <LazyLoadImage alt={item.name} fill="#005299" src={
+                    <LazyLoadImage fill="red" alt={item.name} src={
                       item.type === "tel"
                       ? iconPhone
                       : iconMail

@@ -69,7 +69,6 @@ const NavbarHeader = (props) => {
             <Image src={logo.src} alt={logo.alt} height={46} />
           </Navbar.Brand>
           <div className="justify-content-end align-items-center d-flex w-100">
-            <Button className="btn-locale" onClick={() => handbleLanguage(resultViewLocal[0].value)}>{resultViewLocal[0].name}</Button>
             <HiMenuAlt3 className="d-block ms-3 n-menu" onClick={onClickMenu} />
           </div>
         </ContainerCustom>

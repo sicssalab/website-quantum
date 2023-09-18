@@ -1,5 +1,6 @@
 import React, { useEffect, useState } from "react";
 import Button from 'react-bootstrap/Button';
+import FloatInverse from "../../ui/boxFloat/FloatInverse";
 import SliderImageInformation from "../../ui/sliders/SliderImageInformation/SliderImageInformation";
 import { useMediaQuery } from 'react-responsive';
 import breakpointConstants from "../../../constants/breakpointConstants";
@@ -16,8 +17,9 @@ const Proyects = (props) => {
     useEffect(() => {
         window.addEventListener('scroll', scrollHandler);
         return () => window.removeEventListener('scroll', scrollHandler);
+    // eslint-disable-next-line react-hooks/exhaustive-deps
     }, []);
-    
+
     const scrollHandler = () => {
         const rect = document.getElementById("xlolo_home");
         if(rect && rect.getBoundingClientRect().top <= window.innerHeight){
@@ -42,6 +44,13 @@ const Proyects = (props) => {
                     {visibleSlide && <SliderImageInformation items={items} />}
                     </div>
                 </div>
+                <FloatInverse sx={{
+                    width: "80px",
+                    height: "80px",
+                    position: "absolute",
+                    left: isMobile ? 40 : "100px",
+                    bottom: 0
+                }} />
             </div>
         </div>
      );

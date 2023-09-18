@@ -4,7 +4,7 @@ const apiResponseMock = {
     items: [
         {
             type: "header-component",
-            title: "DEL MAR RESIDENCIAL",
+            title: "DEL MAR BEACHFRONT CONDOS",
             isLanding: true,
             socialNetwork: [
                 {
@@ -31,106 +31,67 @@ const apiResponseMock = {
             items: [
                 {
                     name: "test1",
-                    url: "https://sicssalab.net/test-miraro/mocks/selva-escondidaii/selva1.webp",
-                    urlMobile: "https://sicssalab.net/test-miraro/mocks/selva-escondidaii/banner-selva1.webp",
+                    url: "https://sicssalab.net/test-miraro/mocks/delmar/delmar-olas.jpg",
+                    urlMobile: "https://sicssalab.net/test-miraro/mocks/delmar/delmar-olas.jpg",
                 },
             ],
         },
         {
             type: "information-residential-component",
             logo: "https://sicssalab.net/test-miraro/mocks/selva-escondidaii/logo-selva2.svg",
-            title: "DEL MAR BY SELVA ESCONDIDA",
+            title: "DEL MAR BEACHFRONT CONDOS",
             soon: "próximamente",
             isNewResidential: true,
-            description: "El balance perfecto entre la modernidad y la naturaleza a través de un nuevo concepto residencial de departamentos en Puerto Morelos, con más de 30 exclusivas amenidades como Alberca para Adultos, Cancha de Tenis, Coworking, Cancha Múltiple, Casa Club y más.",
+            description: "Un lujoso proyecto residencial de 28 exclusivos departamentos, envuelto por la belleza del Caribe Mexicano y la tranquilidad de sus paisajes. Cuenta con más de 10 cómodas amenidades, una piscina infinity con impresionantes vistas 360° de las playas de Puerto Morelos y acabados modernos hacen de Del Mar una obra maestra de la que querrás formar parte.",
             housing: "28",
             location: "Puerto Morelos, Q.Roo",
             status: "Próximamente",
             construction: "2023",
             altImage: 'Imagen Experience',
-            frontPage: "https://sicssalab.net/test-miraro/mocks/selva-escondidaii/video-selva.webp",
-            frontPageMobile: "https://sicssalab.net/test-miraro/mocks/selva-escondidaii/video-mobile.webp",
-            videoLink: "dBo4Ef2TpnU"
+            frontPage: "https://sicssalab.net/test-miraro/mocks/delmar/portadaVideoDesk.jpg",
+            frontPageMobile: "https://sicssalab.net/test-miraro/mocks/delmar/portadaVideoMobile.jpg",
+            videoLink: "XtptDRbJl-8"
         },
         {
             type: "gallery-residential-component",
             title: "conoce Del Mar",
-            description: "Complejo residencial con vista a las hermosas playas del Caribe Mexicano, y a menos de 25 minutos de Cancún o Playa del Carmen.",
+            description: "Exclusivos departamentos frente al mar con acceso privado a la playa, a menos de 25 minutos de Cancún y Playa del Carmen.",
             items: [
                 {
                     alt: 'alt-PathImg',
-                    image: "https://sicssalab.net/test-miraro/mocks/selva-escondidaii/gallery/1.webp",
-                    imageMobile: "https://sicssalab.net/test-miraro/mocks/selva-escondidaii/gallery/mobile/1.webp",
+                    image: "https://sicssalab.net/test-miraro/mocks/delmar/gallery/1.jpg",
+                    imageMobile: "https://sicssalab.net/test-miraro/mocks/delmar/gallery/mobile/1.jpg",
                 },
                 {
                     alt: 'alt-PathImg',
-                    image: "https://sicssalab.net/test-miraro/mocks/selva-escondidaii/gallery/2.webp",
-                    imageMobile: "https://sicssalab.net/test-miraro/mocks/selva-escondidaii/gallery/mobile/2.webp",
+                    image: "https://sicssalab.net/test-miraro/mocks/delmar/gallery/2.jpg",
+                    imageMobile: "https://sicssalab.net/test-miraro/mocks/delmar/gallery/mobile/2.jpg",
                 },
                 {
                     alt: 'alt-PathImg',
-                    image: "https://sicssalab.net/test-miraro/mocks/selva-escondidaii/gallery/3.webp",
-                    imageMobile: "https://sicssalab.net/test-miraro/mocks/selva-escondidaii/gallery/mobile/3.webp",
+                    image: "https://sicssalab.net/test-miraro/mocks/delmar/gallery/3.jpg",
+                    imageMobile: "https://sicssalab.net/test-miraro/mocks/delmar/gallery/mobile/3.jpg",
                 },
                 {
                     alt: 'alt-PathImg',
-                    image: "https://sicssalab.net/test-miraro/mocks/selva-escondidaii/gallery/4.webp",
-                    imageMobile: "https://sicssalab.net/test-miraro/mocks/selva-escondidaii/gallery/mobile/4.webp",
+                    image: "https://sicssalab.net/test-miraro/mocks/delmar/gallery/4.jpg",
+                    imageMobile: "https://sicssalab.net/test-miraro/mocks/delmar/gallery/mobile/4.jpg",
                 },
                 {
                     alt: 'alt-PathImg',
-                    image: "https://sicssalab.net/test-miraro/mocks/selva-escondidaii/gallery/5.webp",
-                    imageMobile: "https://sicssalab.net/test-miraro/mocks/selva-escondidaii/gallery/mobile/5.webp",
+                    image: "https://sicssalab.net/test-miraro/mocks/delmar/gallery/5.jpg",
+                    imageMobile: "https://sicssalab.net/test-miraro/mocks/delmar/gallery/mobile/5.jpg",
                 },
                 {
                     alt: 'alt-PathImg',
-                    image: "https://sicssalab.net/test-miraro/mocks/selva-escondidaii/gallery/6.webp",
-                    imageMobile: "https://sicssalab.net/test-miraro/mocks/selva-escondidaii/gallery/mobile/6.webp",
+                    image: "https://sicssalab.net/test-miraro/mocks/delmar/gallery/6.jpg",
+                    imageMobile: "https://sicssalab.net/test-miraro/mocks/delmar/gallery/mobile/6.jpg",
                 },
                 {
                     alt: 'alt-PathImg',
-                    image: "https://sicssalab.net/test-miraro/mocks/selva-escondidaii/gallery/7.webp",
-                    imageMobile: "https://sicssalab.net/test-miraro/mocks/selva-escondidaii/gallery/mobile/7.webp",
-                },
-                {
-                    alt: 'alt-PathImg',
-                    image: "https://sicssalab.net/test-miraro/mocks/selva-escondidaii/gallery/8.webp",
-                    imageMobile: "https://sicssalab.net/test-miraro/mocks/selva-escondidaii/gallery/mobile/8.webp",
-                },
-                {
-                    alt: 'alt-PathImg',
-                    image: "https://sicssalab.net/test-miraro/mocks/selva-escondidaii/gallery/9.webp",
-                    imageMobile: "https://sicssalab.net/test-miraro/mocks/selva-escondidaii/gallery/mobile/9.webp",
-                },
-                {
-                    alt: 'alt-PathImg',
-                    image: "https://sicssalab.net/test-miraro/mocks/selva-escondidaii/gallery/10.webp",
-                    imageMobile: "https://sicssalab.net/test-miraro/mocks/selva-escondidaii/gallery/mobile/10.webp",
-                },
-                {
-                    alt: 'alt-PathImg',
-                    image: "https://sicssalab.net/test-miraro/mocks/selva-escondidaii/gallery/11.webp",
-                    imageMobile: "https://sicssalab.net/test-miraro/mocks/selva-escondidaii/gallery/mobile/11.webp",
-                },
-                {
-                    alt: 'alt-PathImg',
-                    image: "https://sicssalab.net/test-miraro/mocks/selva-escondidaii/gallery/12.webp",
-                    imageMobile: "https://sicssalab.net/test-miraro/mocks/selva-escondidaii/gallery/mobile/12.webp",
-                },
-                {
-                    alt: 'alt-PathImg',
-                    image: "https://sicssalab.net/test-miraro/mocks/selva-escondidaii/gallery/13.webp",
-                    imageMobile: "https://sicssalab.net/test-miraro/mocks/selva-escondidaii/gallery/mobile/13.webp",
-                },
-                {
-                    alt: 'alt-PathImg',
-                    image: "https://sicssalab.net/test-miraro/mocks/selva-escondidaii/gallery/14.webp",
-                    imageMobile: "https://sicssalab.net/test-miraro/mocks/selva-escondidaii/gallery/mobile/14.webp",
-                },
-                {
-                    alt: 'alt-PathImg',
-                    image: "https://sicssalab.net/test-miraro/mocks/selva-escondidaii/gallery/15.webp",
-                },
+                    image: "https://sicssalab.net/test-miraro/mocks/delmar/gallery/7.jpg",
+                    imageMobile: "https://sicssalab.net/test-miraro/mocks/delmar/gallery/mobile/7.jpg",
+                }
             ]
         },
         {
@@ -143,8 +104,8 @@ const apiResponseMock = {
             hbsptSettings: {
                 portalId: '8077024',
                 region: 'na1',
-                formId: 'eb66237f-63b0-4c34-ab90-a3150fe8eb46',
-                target: '#hbspt-form-eb66237f-63b0-4c34-ab90-a3150fe8eb46', // target is formid
+                formId: '42fc5c74-9eaa-47ac-8135-9dc191f9cdfe',
+                target: '#hbspt-form-42fc5c74-9eaa-47ac-8135-9dc191f9cdfe', // target is formid
             }
         },
         {

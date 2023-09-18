@@ -6,14 +6,14 @@ import { createRoot } from 'react-dom/client';
 import { HelmetProvider } from 'react-helmet-async';
 
 const container = document.getElementById('root');
-const root = createRoot(container); // createRoot(container!) if you use TypeScript
+const root = createRoot(container);
 const helmetContext = {};
 
 root.render(
   <HelmetProvider context={helmetContext}>
     <StoreProvider>
       <BrowserRouter>
-        <App />
+        <App ssrRoutesData={window.__data__} />
       </BrowserRouter>
     </StoreProvider>
   </HelmetProvider>

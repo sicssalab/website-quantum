@@ -8,30 +8,30 @@ import YoutubeIcon from "../../../../assets/icons/youtube-white.svg";
 const BoxSocial = () => {
   return (
     <div className="content-social">
-      <a href="https://www.facebook.com/QuantumAnalytical" target={"_blank"} rel="noreferrer">
+      <a href="https://www.facebook.com/grupomiraro" target={"_blank"} rel="noreferrer">
         <LazyLoadImage
-          alt={"Facebook Quantum Analytical"}
+          alt={"Facebook Sicssa lab"}
           src={FaceIcon}
           height={20}
         />
       </a>
-      <a href="https://www.instagram.com" target={"_blank"} rel="noreferrer">
+      <a href="https://www.instagram.com/grupomiraro" target={"_blank"} rel="noreferrer">
         <LazyLoadImage
-          alt={"Instagram Quantum Analytical"}
+          alt={"Instagram Sicssa lab"}
           src={InstaIcon}
           height={20}
         />
       </a>
-      <a href="https://www.linkedin.com" target={"_blank"} rel="noreferrer">
+      <a href="https://www.linkedin.com/company/grupo-miraro" target={"_blank"} rel="noreferrer">
         <LazyLoadImage
-          alt={"Linkedin Quantum Analytical"}
+          alt={"Linkedin Sicssa lab"}
           src={LinkIcon}
           height={20}
         />
       </a>
-      <a href="https://www.youtube.com" target={"_blank"} rel="noreferrer">
+      <a href="https://www.youtube.com/@grupomiraro" target={"_blank"} rel="noreferrer">
         <LazyLoadImage
-          alt={"YouTube Quantum Analytical"}
+          alt={"YouTube Sicssa lab"}
           src={YoutubeIcon}
           height={20}
         />

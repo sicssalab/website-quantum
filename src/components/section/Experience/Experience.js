@@ -7,10 +7,19 @@ import MediaVideo from '../Experience/components/MediaVideo'
 
 const Experience = (props) => {
   const { title, description, ...rest } = props;
+  const isMobile = useMediaQuery({ maxWidth: breakpointConstants.MD })
+  const styleFloats = {
+    position: "absolute",
+    right: isMobile ? 0 : "70px",
+    top: 0,
+    width: "82px",
+    height: "82px"
+  };
 
   return (
     <div className="experience-container">
       <ContainerCustom>
+        <FloatBoxs sx={styleFloats} />
         <div>
           {title && <h2 dangerouslySetInnerHTML={{ __html: title }} />}
           {description && <p className="description" dangerouslySetInnerHTML={{ __html: description }} />}

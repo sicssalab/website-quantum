@@ -6,11 +6,11 @@ const resource = {
     slug: pagesContants.landingEviaES,
     locale: "es",
     metadata: {
-        "metaTitle": "EVIA Interlomas | Grupo Miraro",
+        "metaTitle": "EVIA Interlomas | Sicssa lab",
         "metaDescription": "Departamentos con Seguridad Privada en Ciudad de México, en zona de alta plusvalía.",
         "keywords": "",
         "url": pagesContants.landingEviaES, //canonical
-        "sitename": "Grupo Miraro",
+        "sitename": "Sicssa lab",
         "type": "website",
         //"follow": //TODO solo las que no llevan index agregarlo nofollow, noindex //Meta name=”robots” content=”noindex,nofollow”
         "image": "https://sicssalab.net/test-miraro/mocks/metadatos/Interlomas -Portadas-metadata---Miraro-Web.jpg"

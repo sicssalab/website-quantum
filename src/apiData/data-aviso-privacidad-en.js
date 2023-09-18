@@ -7,11 +7,11 @@ const resource = {
     //slugSub: "aviso-de-privadidad",
     locale: "en",
     metadata: {
-        "metaTitle": "Privacy Notice | Grupo Miraro",
+        "metaTitle": "Privacy Notice | Sicssa lab",
         "metaDescription": "The scope and general conditions of the processing of personal data of our website users.",
         "keywords": "",
         "url": pagesContants.avisoPrivacidadEN, //canonical
-        "sitename": "Grupo Miraro",
+        "sitename": "Sicssa lab",
         "type": "website",
         //"follow": //TODO solo las que no llevan index agregarlo nofollow, noindex //Meta name=”robots” content=”noindex,nofollow”
         "image": "https://sicssalab.net/test-miraro/mocks/metadatos/privacy.jpg"

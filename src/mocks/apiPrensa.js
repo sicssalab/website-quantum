@@ -25,14 +25,14 @@ const apiHome = {
           logo: "https://sicssalab.net/test-miraro/mocks/press/Forbes-logo.svg",
           title: "un paraíso residencial<br>en Puerto Morelos",
           description:
-            "“Grupo Miraro se afianza como la desarrolladora inmobiliaria más  consistente e innovadora de la zona”.",
+            "“Sicssa lab se afianza como la desarrolladora inmobiliaria más  consistente e innovadora de la zona”.",
           link: "https://www.forbes.com.mx/selva-escondida-ii-residencia-descanso-riviera-maya-puerto-morelos-inmueble",
           hasExternalLink: true,
         },
         {
           alt: "alt-logo",
           logo: "https://sicssalab.net/test-miraro/mocks/press/Inmobiliare-logo.svg",
-          title: "Grupo Miraro prepara el lanzamiento de Selva Escondida II en la Riviera Maya",
+          title: "Sicssa lab prepara el lanzamiento de Selva Escondida II en la Riviera Maya",
           description:
             "“A la desarrolladora le sirvió entender las necesidades [...] para ofrecer el día de hoy un producto bien conceptualizado”.",
           link: "https://inmobiliare.com/grupo-miraro-prepara-el-lanzamiento-de-selva-escondida-ii-en-la-riviera-maya",
@@ -52,7 +52,7 @@ const apiHome = {
           logo: "https://sicssalab.net/test-miraro/mocks/press/Expansion-logo.svg",
           title: "Vivir junto al mar se disfruta más en Selva Escondida",
           description:
-            "“El desarrollo resulta un concepto diferente en la zona, pues fue planeado por Grupo Miraro para ofrecer lo mejor de un espacio residencial y la calidad de vida de vivir cerca del mar”.",
+            "“El desarrollo resulta un concepto diferente en la zona, pues fue planeado por Sicssa lab para ofrecer lo mejor de un espacio residencial y la calidad de vida de vivir cerca del mar”.",
           link: "https://expansion.mx/inmobiliario/2021/12/13/vivir-junto-al-mar-se-disfruta-mas-en-selva-escondida-miraro",
           hasExternalLink: true,
         },
@@ -61,7 +61,7 @@ const apiHome = {
           logo: "https://sicssalab.net/test-miraro/mocks/press/Vancouver-logo.svg",
           title: "Invertir en propiedades inmobiliarias en la Riviera Maya ofrece una vida asequible en el paraíso",
           description:
-            "“Grupo Miraro, a land developer in Mexico, with more than 30 years of experience is making the dream of affordable living in paradise a reality”.",
+            "“Sicssa lab, a land developer in Mexico, with more than 30 years of experience is making the dream of affordable living in paradise a reality”.",
           link: "https://vancouversun.com/sponsored/realestate-sponsored/investing-in-real-estate-in-mexicos-riviera-maya-offers-affordable-living-in-paradise",
           hasExternalLink: true,
         },
@@ -85,7 +85,7 @@ const apiHome = {
         //   alt: "alt-logo",
         //   logo: imgLaVerdad,
         //   description:
-        //     "“Grupo Miraro [...] asegura a cada uno de sus clientes comodidad, innovación y una inversión segura en cada uno de sus proyectos”.",
+        //     "“Sicssa lab [...] asegura a cada uno de sus clientes comodidad, innovación y una inversión segura en cada uno de sus proyectos”.",
         //   link: "https://laverdadnoticias.com/quintanaroo/Inversion-con-altos-rendimientos-Selva-Escondida-inicia-su-3era-etapa-20210517-0010.html",
         //   hasExternalLink: true,
         // },

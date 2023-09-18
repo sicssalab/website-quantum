@@ -1,5 +1,5 @@
 import pagesContants from "../constants/pagesContants";
-import Logo from "../assets/img/Quantum-Analytical-Logo-home.jpg";
+import Logo from "../assets/logo-white.png";
 
 const resource = {
     locale: "es",
@@ -8,79 +8,55 @@ const resource = {
             shortName: "Inicio",
             slug: "/",
         },
-        // {
-        //     shortName: "Nuestros Proyectos",
-        //     slug: pagesContants.proyectsES,
-        // },
-        // {
-        //     shortName: "Selva escondida II",
-        //     slug: pagesContants.landingSelvaEscondidaIIES,
-        // },
-        // {
-        //     shortName: "Selva escondida",
-        //     slug: pagesContants.landingSelvaEscondidaES,
-        // },
-        // {
-        //     shortName: "Evia Interlomas",
-        //     slug: pagesContants.landingEviaES,
-        // },
-        // {
-        //     shortName: "Naay",
-        //     slug: pagesContants.landingNaayES,
-        // },
-        // {
-        //     shortName: "Palmas",
-        //     slug: pagesContants.landingPalmasES,
-        // },
-        // {
-        //     shortName: "Luum",
-        //     slug: pagesContants.landingLuumES,
-        // },
-        // {
-        //     shortName: "Kaana",
-        //     slug: pagesContants.landingKaanaES,
-        // },
-        // {
-        //     shortName: "Venecia",
-        //     slug: pagesContants.landingVeneciaES,
-        // },
+        {
+            shortName: "Nuestros Proyectos",
+            slug: pagesContants.proyectsES,
+        },
         // {
         //     shortName: "Del Mar",
         //     slug: pagesContants.landingDelMarES,
         // },
+        {
+            shortName: "Nosotros",
+            slug: pagesContants.nosotrosES,
+        },
+        {
+            shortName: "Contacto",
+            slug: pagesContants.contactoES,
+        },
+        {
+            shortName: "Términos y Condiciones",
+            slug: pagesContants.terminosCondicionesES,
+        },
+        {
+            shortName: "Aviso de Privacidad",
+            slug: pagesContants.avisoPrivacidadES,
+        },
+        {
+            shortName: "Proyectos",
+            slug: pagesContants.servicesES,
+        },
         // {
-        //     shortName: "Nosotros",
-        //     slug: pagesContants.nosotrosES,
+        //     shortName: "Cotización",
+        //     slug: pagesContants.cotizaES,
         // },
         // {
-        //     shortName: "Contacto",
-        //     slug: pagesContants.contactoES,
+        //     shortName: "Prensa",
+        //     slug: pagesContants.prensaES,
         // },
         // {
-        //     shortName: "Términos y Condiciones",
-        //     slug: pagesContants.terminosCondicionesES,
-        // },
-        // {
-        //     shortName: "Aviso de Privacidad",
-        //     slug: pagesContants.avisoPrivacidadES,
-        // },
-        // {
-        //     shortName: "Blog",
+        //     shortName: "blog",
         //     slug: pagesContants.blogES,
         // },
         // {
         //     shortName: "Blog Categorias",
         //     slug: pagesContants.blogCategoriasES,
         // },
-        // {
-        //     shortName: "Prensa",
-        //     slug: pagesContants.prensaES,
-        // },
     ],
     header: {
         logo: {
             src: Logo,
-            alt: "quantumdo",
+            alt: "Sicssa lab",
         },
         menu: [
             {
@@ -88,108 +64,88 @@ const resource = {
                 url: "/"
             },
             {
-                name: "productos",
-                url: "/"
+                name: "nosotros",
+                url: pagesContants.nosotrosES
             },
             {
-                name: "renta equipos",
-                url: "/"
-            },
-            {
-                name: "servicios",
-                url: "/"
-            },
-            {
-                name: "novedades",
-                url: "/"
+                name: "Productos",
+                url: pagesContants.servicesES
             },
             {
                 name: "contacto",
-                url: "/"
+                url: pagesContants.contactoES
             },
         ]
     },
     footer: {
         logo: {
             src: Logo,
-            alt: "quantumdo",
+            alt: "Sicssa lab",
         },
         itemsContact: [
             {
-                name: "+52 (99) 9999 9999",
-                url: "tel:+52 (99) 9999 9999",
+                name: "+52 99-83-18-57-32",
+                url: "tel:+52 9983185732",
                 type: "tel",
             },
             {
-                name: "info@quantumdo.com",
-                url: "mailto:info@quantumdo.com?body=Hola, soy: %0AMi número de WhatsApp es: %0AEstoy interesado en:",
+                name: "contacto@sicssalab.mx",
+                url: "mailto:contacto@sicssalab.mx?body=Hola, soy: %0AMi número de WhatsApp es: %0AEstoy interesado en:",
                 type: "email",
             },
         ],
         socialNetwork: [
             {
                 alt: "red network",
-                link: "https://www.facebook.com/QuantumAnalytical",
+                link: "https://www.facebook.com/sicssalab",
                 type: "facebook"
             },
             {
                 alt: "red network",
-                link: "https://www.instagram.com",
+                link: "https://www.instagram.com/sicssalab/",
                 type: "instagram"
             },
             {
                 alt: "red network",
-                link: "https://www.linkedin.com",
+                link: "https://www.linkedin.com/company/sicssa-lab",
                 type: "linkedin"
             },
             {
                 alt: "red network",
-                link: "https://www.youtube.com",
+                link: "https://www.youtube.com/@sicssalab",
                 type: "youtube"
             },
         ],
         itemsAboutUs: [
             {
-                name: "Productos",
-                url: "",
+                name: "Nosotros",
+                url: pagesContants.nosotrosES,
                 order: 1,
                 orderMobile: 1,
             },
             {
-                name: "Renta de equipos",
-                url: "",
-                order: 5,
-                orderMobile: 2,
-            },
-            {
                 name: "Servicios",
-                url: "",
+                url: pagesContants.proyectsES,
                 order: 4,
-                orderMobile: 3,
-            },
-            {
-                name: "Aviso  de Privacidad",
-                url: "",
-                order: 3,
                 orderMobile: 4,
             },
             {
-                name: "Novedades",
-                url: "",
-                order: 7,
-                orderMobile: 5,
+                name: "Aviso  de Privacidad",
+                url: pagesContants.avisoPrivacidadES,
+                order: 3,
+                orderMobile: 3,
             },
             {
                 name: "Términos y Condiciones",
-                url: "",
-                order: 6,
-                orderMobile: 6,
+                url: pagesContants.terminosCondicionesES,
+                order: 2,
+                orderMobile: 2,
             },
             {
                 name: "Contacto",
-                url: "",
-                order: 2,
-                orderMobile: 7,
+                url: pagesContants.contactoES,
+                order: 6,
+                orderMobile: 6,
             },
         ]
     },

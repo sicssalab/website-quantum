@@ -6,18 +6,18 @@ const resource = {
     slug: pagesContants.terminosCondicionesEN,
     locale: "en",
     metadata: {
-        "metaTitle": "Terms and Conditions | Grupo Miraro",
-        "metaDescription": "The mutual rights and obligations with users on our website.",
-        "keywords": "",
+        "metaTitle": "Terms and Conditions | Sicssa lab",
+        "metaDescription": "Learn about the mutual rights and obligations with users on our website.",
+        "keywords": "IT consulting, Software development consulting, Application development, Web application development, Custom software development, Software consultants, Mobile application development, Scalable software development, Technological innovation consultants, process automation, programmers .",
         "url": pagesContants.terminosCondicionesEN, //canonical
-        "sitename": "Grupo Miraro",
+        "sitename": "Sicssa lab",
         "type": "website",
         //"follow": //TODO solo las que no llevan index agregarlo nofollow, noindex //Meta name=”robots” content=”noindex,nofollow”
-        "image": "https://sicssalab.net/test-miraro/mocks/metadatos/terms-conditions.jpg"
+        "image": "/src/assets/sicssa/metatag-sicssa-lab.png"
     },
     localizations: [
         {
-            "shortName": "aviso de privacidad EN",
+            "shortName": "terminos y condiciones EN",
             slug: pagesContants.terminosCondicionesES,
             "locale": "es"
         }

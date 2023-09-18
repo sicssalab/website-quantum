@@ -8,108 +8,77 @@ const apiOwnProyects = {
             socialNetwork: [
                 {
                     alt: "red network",
-                    link: "https://www.facebook.com/grupomiraro",
+                    link: "https://www.facebook.com/sicssalab",
                     type: "facebook"
                 },
                 {
                     alt: "red network",
-                    link: "https://www.instagram.com/grupomiraro",
+                    link: "https://www.instagram.com/sicssalab/",
                     type: "instagram"
                 },
                 {
                     alt: "red network",
-                    link: "https://www.linkedin.com/company/grupo-miraro",
+                    link: "https://www.linkedin.com/company/sicssa-lab",
                     type: "linkedin"
                 },
                 {
                     alt: "red network",
-                    link: "https://www.youtube.com/@grupomiraro",
+                    link: "https://www.youtube.com/@sicssalab",
                     type: "youtube"
                 },
             ],
             items: [
                 {
-                    name: "test1",
-                    url: "https://sicssalab.net/test-miraro/mocks/own-proyects/miraro-home1.webp",
-                    urlMobile:"https://sicssalab.net/test-miraro/mocks/own-proyects/portada-proyectos.webp",
+                    name: "main",
+                    url: "/src/assets/sicssa/servicios/main/main.jpg",
+                    urlMobile:"/src/assets/sicssa/servicios/main/main-mobile.jpg",
                 }
             ],
         },
         {
             type: "own-proyects-component",
-            title: "Real estate developments <strong>in México</strong>",
-            description: "As one of the top real estate developers in Mexico, we strive to exceed our client's expectations on every project",
+            title: "SUCCESS STORIES",
+            description: "Committed to being one of the main developers of mobile applications and software in Mexico, we strive to exceed the expectations of our clients in each project.",
             items: [
                 {
                     alt: 'alt-image',
-                    image: "https://sicssalab.net/test-miraro/mocks/home-other-proyects/ordenador/proyectos/selva2.webp",
-                    imageMobile: "https://sicssalab.net/test-miraro/mocks/home-other-proyects/mobile/proyectos/selva2.webp",
-                    title: 'SELVA ESCONDIDA II',
-                    address: 'Puerto Morelos, Quintana Roo, México',
-                    link: pagesContants.landingSelvaEscondidaIIES
+                    image: "/src/assets/sicssa/servicios/1.png",
+                    imageMobile: "/src/assets/sicssa/servicios/1.png",
                 },
                 {
                     alt: 'alt-image',
-                    image: "https://sicssalab.net/test-miraro/mocks/home-other-proyects/ordenador/proyectos/selva1.webp",
-                    imageMobile: "https://sicssalab.net/test-miraro/mocks/home-other-proyects/mobile/proyectos/selva1.webp",
-                    title: 'SELVA ESCONDIDA RESIDENCIAL',
-                    address: 'Puerto Morelos, Quintana Roo, México',
-                    link: pagesContants.landingSelvaEscondidaES
+                    image: "/src/assets/sicssa/servicios/2.png",
+                    imageMobile: "/src/assets/sicssa/servicios/2.png",
                 },
                 {
                     alt: 'alt-image',
-                    image: "https://sicssalab.net/test-miraro/mocks/home-other-proyects/ordenador/proyectos/evia.webp",
-                    imageMobile: "https://sicssalab.net/test-miraro/mocks/home-other-proyects/mobile/proyectos/evia.webp",
-                    title: 'EVIA INTERLOMAS',
-                    address: 'Huixquilucan, Estado de México, México',
-                    link: pagesContants.landingEviaES
+                    image: "/src/assets/sicssa/servicios/3.png",
+                    imageMobile: "/src/assets/sicssa/servicios/3.png",
                 },
                 {
                     alt: 'alt-image',
-                    image: "https://sicssalab.net/test-miraro/mocks/home-other-proyects/ordenador/proyectos/naay.webp",
-                    imageMobile: "https://sicssalab.net/test-miraro/mocks/home-other-proyects/mobile/proyectos/naay.webp",
-                    title: 'NAAY BY SELVA ESCONDIDA',
-                    address: 'Puerto Morelos, Quintana Roo, México',
-                    link: pagesContants.landingNaayES
+                    image: "/src/assets/sicssa/servicios/4.png",
+                    imageMobile: "/src/assets/sicssa/servicios/4.png",
                 },
                 {
                     alt: 'alt-image',
-                    image: "https://sicssalab.net/test-miraro/mocks/home-other-proyects/ordenador/proyectos/palmas.webp",
-                    imageMobile: "https://sicssalab.net/test-miraro/mocks/home-other-proyects/mobile/proyectos/palmas.webp",
-                    title: 'PALMAS BY SELVA ESCONDIDA',
-                    address: 'Puerto Morelos, Quintana Roo, México',
-                    link: pagesContants.landingPalmasES
+                    image: "/src/assets/sicssa/servicios/5.png",
+                    imageMobile: "/src/assets/sicssa/servicios/5.png",
                 },
                 {
                     alt: 'alt-image',
-                    image: "https://sicssalab.net/test-miraro/mocks/home-other-proyects/ordenador/proyectos/luum.webp",
-                    imageMobile: "https://sicssalab.net/test-miraro/mocks/home-other-proyects/mobile/proyectos/luum.webp",
-                    title: 'LUUM BY SELVA ESCONDIDA',
-                    address: 'Puerto Morelos, Quintana Roo, México',
-                    link: pagesContants.landingLuumES
+                    image: "/src/assets/sicssa/servicios/6.png",
+                    imageMobile: "/src/assets/sicssa/servicios/6.png",
                 },
                 {
                     alt: 'alt-image',
-                    image: "https://sicssalab.net/test-miraro/mocks/home-other-proyects/ordenador/proyectos/kaana.webp",
-                    imageMobile: "https://sicssalab.net/test-miraro/mocks/home-other-proyects/mobile/proyectos/kaana.webp",
-                    title: 'KAANA BY SELVA ESCONDIDA',
-                    address: 'Puerto Morelos, Quintana Roo, México',
-                    link: pagesContants.landingKaanaES
+                    image: "/src/assets/sicssa/servicios/7.png",
+                    imageMobile: "/src/assets/sicssa/servicios/7.png",
                 },
                 {
                     alt: 'alt-image',
-                    image: "https://sicssalab.net/test-miraro/mocks/home-other-proyects/ordenador/proyectos/venecia.webp",
-                    imageMobile: "https://sicssalab.net/test-miraro/mocks/home-other-proyects/mobile/proyectos/venecia.webp",
-                    title: 'VENECIA RESIDENCIAL',
-                    address: 'Azcapotzalco, Ciudad de México, México',
-                    link: pagesContants.landingVeneciaES
-                },
-                {
-                    alt: 'alt-image',
-                    title: 'DEL MAR BY SELVA ESCONDIDA',
-                    subTitle: "Próximamente",
-                    address: 'Puerto Morelos, Quintana Roo, México',
-                    link: pagesContants.landingDelMarES
+                    image: "/src/assets/sicssa/servicios/8.png",
+                    imageMobile: "/src/assets/sicssa/servicios/8.png",
                 },
             ]
         },

@@ -1,7 +1,7 @@
 import React from "react";
 import { ContainerCustom } from "../Containers";
 import { LazyLoadImage } from "react-lazy-load-image-component";
-import BoxSocial from "./components/BoxSocial";
+import BoxSocial from "../../ui/box/BoxSocial";
 import BoxDeveloper from "./components/BoxDeveloper";
 import UlContact from "./components/UlContact";
 import UlOther from "./components/UlOther";
@@ -9,7 +9,7 @@ import { Link } from "react-router-dom";
 import { useGlobalState } from "../../../store/StoreProvider";
 import languageUtils from "../../../utils/languageUtils";
 const Footer = (props) => {
-  const { logo, itemsContact, itemsAboutUs } = props;
+  const { logo, itemsContact, itemsAboutUs, socialNetwork } = props;
   const {locale} = useGlobalState();
   return (
     <footer className="footer">
@@ -20,7 +20,6 @@ const Footer = (props) => {
               <LazyLoadImage
                 alt={logo.alt}
                 src={logo.src}
-                //width={600}
                 height={57}
               />
             </Link>
@@ -30,7 +29,7 @@ const Footer = (props) => {
         </div>
         <div className="boxs">
           <BoxDeveloper />
-          <BoxSocial />
+          <BoxSocial items={socialNetwork} />
         </div>
       </ContainerCustom>
     </footer>

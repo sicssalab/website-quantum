@@ -5,13 +5,13 @@ import ContainerImg from "./components/ContainerImg";
 import {BsChevronLeft, BsChevronRight} from "react-icons/bs";
 //import {TfiAngleLeft, TfiAngleRight} from "react-icons/tfi"; //TODO mas delgado
 const SliderImageInformation = (props) => {
-    const {autoPlay, items, arrows} = props;
+    const {items, arrows} = props;
 
     const PreArrows = (props) => {
       const { className,  style, onClick } = props;
       return (
         <Button className={className} onClick={onClick} style={{...style}}>
-          <BsChevronLeft fill="#005299" />
+          <BsChevronLeft />
         </Button>
       )
     }
@@ -20,7 +20,7 @@ const SliderImageInformation = (props) => {
 
       return (
         <Button className={className} onClick={onClick} style={{...style}}>
-          <BsChevronRight fill="#005299" />
+          <BsChevronRight />
         </Button>
       )
     }
@@ -63,7 +63,6 @@ const SliderImageInformation = (props) => {
 }
  
 SliderImageInformation.defaultProps = {
-    autoPlay: false,
     arrows: true,
 }
 

@@ -7,24 +7,25 @@ const apiHome = {
       items: [
         {
           name: "test1",
-          url: "https://sicssalab.net/test-miraro/mocks/contacto/ordenador/portada.webp",
-          urlMobile: "https://sicssalab.net/test-miraro/mocks/contacto/mobile/portada-mobile.webp",
+          url: "/src/assets/sicssa/contacto/ordenador/main.jpeg",
+          urlMobile: "/src/assets/sicssa/contacto/mobile/main.jpeg",
         },
       ],
     },
     {
-      type: "contact-blog-component",
-      image: "https://sicssalab.net/test-miraro/mocks/blog-home/ordenador/evia.jpg", //TODO iframe,
-      altImage: "iamgen",
+      type: "contact-blog2-component",
+      image: "/src/assets/sicssa/contacto/contacto.jpeg",
+      altImage: "imagen",
       contact: {
-        title: "Invest in one of our real estate developments in Mexico",
-        description: "Please fill in the following information, and we will contact you soon!",
+        title: "TELL US ABOUT YOUR PROJECT",
+        description:
+          "Send us your details and we will contact you.",
       },
       hbsptSettings: {
-        portalId: "8077024",
+        portalId: "43587290",
         region: "na1",
-        formId: "31318a71-1359-499f-96cf-8f4f3602d34b",
-        target: "#hbspt-form-31318a71-1359-499f-96cf-8f4f3602d34b",
+        formId: "d5077471-e5e0-401e-ac98-f6e42f6a3f4f",
+        target: "#hbspt-form-d5077471-e5e0-401e-ac98-f6e42f6a3f4f", // target is formid
       },
     },
   ],

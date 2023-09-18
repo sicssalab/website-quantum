@@ -33,7 +33,7 @@ const Main = (props) => {
           dots={false}
         />
       </div>
-      <div className={`content-degraded ${isLanding ? "content-width": ''}`}></div>
+      {/* <div className={`content-degraded ${isLanding ? "content-width": ''}`}></div> */}
       <ContainerCustom>
         <div className={`content-information ${isLanding ? "content-center": ''}`}>
           <div data-aos="fade-up" data-aos-duration="3000">
@@ -44,10 +44,10 @@ const Main = (props) => {
         <BoxSocial items={socialNetwork} />
 
       </ContainerCustom>
-      {/* <div className={`arrow-absolute`}>
+      <div className={`arrow-absolute`}>
         <span>Scroll Down</span>
         <Image src={scrollDown} alt="scroll down" width={30} />
-      </div> */}
+      </div>
     </header>
   );
 };

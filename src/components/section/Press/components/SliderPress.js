@@ -47,13 +47,6 @@ const SliderPress = (props) => {
           nextArrow: <NextArrows />, //invirtio el scroll
         }
       },
-      // {
-      //   breakpoint: 1100,
-      //   settings: {
-      //     slidesToShow: 1,
-      //     variableWidth: true,
-      //   }
-      // },
       {
         breakpoint: 1300,
         settings: {
@@ -74,8 +67,8 @@ const SliderPress = (props) => {
   return (
     <>
       <div className="controls-slider-press">
-        <Button onClick={() => slider?.current?.slickNext()}><BsChevronLeft /></Button>
-        <Button onClick={() => slider?.current?.slickPrev()}><BsChevronRight /></Button>
+        <Button onClick={() => slider?.current?.slickPrev()}><BsChevronLeft /></Button>
+        <Button onClick={() => slider?.current?.slickNext()}><BsChevronRight /></Button>
       </div>
       <div className="slide-information-press slide-transparent-owner">
         {items && (

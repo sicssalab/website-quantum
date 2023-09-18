@@ -1,48 +1,32 @@
-import pagesContants from "../constants/pagesContants";
-
 const proyectsMock = {
     items: [
         {
-            //name: "SELVA ESCONDIDA II",
-            description: "Ver nuestros productos",
-            link: "/",
-            image: "https://sicssalab.net/test-quantum/slider/datalogger-sixcan-mexico.jpg",
-            imageMobile: "https://sicssalab.net/test-quantum/slider/datalogger-sixcan-mexico.jpg",
+            name: "Diseño y Desarrollo Web",
+            description: "Diseño de Páginas Web<br>Tiendas en Línea | E-commerce<br>Desarrollo de Sitios Web<br>Diseño responsivo<br>Rediseño y actualización de Páginas Web<br>UX/UI Diseño<br>Código optimizado y limpio",
+            //link: pagesContants.landingEviaES,
+            image: "/src/assets/sicssa/DESARROLLO-WEB.jpg",
+            imageMobile:"/src/assets/sicssa/DESARROLLO-WEB.jpg",
         },
         {
-            //name: "NAAY BY SELVA ESCONDIDA",
-            description: "Ver nuestros productos",
-            link: "/",
-            image: "https://sicssalab.net/test-quantum/slider/equipo-pruebas-fisicas-disolutores-Quantum.jpg",
-            imageMobile:"https://sicssalab.net/test-quantum/slider/equipo-pruebas-fisicas-disolutores-Quantum.jpg",
+            name: "Apps Móviles",
+            description: "Desarrollo de Aplicaiones Móviles<br>Marketplace<br>Flutter y React Native<br>Desarrollo Nativo iOS y Android<br>Actualización y Mantenimiento de Apps<br>UX/UI Diseño",
+            //link: pagesContants.landingSelvaEscondidaIIES,
+            image: "/src/assets/sicssa/APP-MOVIL.jpg",
+            imageMobile: "/src/assets/sicssa/APP-MOVIL.jpg",
         },
         {
-            //name: "EVIA INTERLOMAS",
-            description: "Ver nuestros productos",
-            link: "/",
-            image: "https://sicssalab.net/test-quantum/slider/optosky.jpg",
-            imageMobile:"https://sicssalab.net/test-quantum/slider/optosky.jpg",
+            name: "Desarrollo de software",
+            description: "Desarrollo de Software a la Medida<br>Desarrollo de Software para Empresas<br>Mantenimiento y soporte de software<br>Desarrollo Full Stack<br>Consultoría",
+            //link: pagesContants.landingSelvaEscondidaES,
+            image: "/src/assets/sicssa/MANTENIMIENTO.jpg",
+            imageMobile:"/src/assets/sicssa/MANTENIMIENTO.jpg",
         },
         {
-            //name: "SELVA ESCONDIDA RESIDENCIAL",
-            description: "Ver nuestros productos",
-            link: "/",
-            image: "https://sicssalab.net/test-quantum/slider/ABB-mexico-quantum.jpg",
-            imageMobile:"https://sicssalab.net/test-quantum/slider/ABB-mexico-quantum.jpg",
-        },
-        {
-            //name: "PALMAS BY SELVA ESCONDIDA",
-            description: "Ver nuestros productos",
-            link: "/",
-            image: "https://sicssalab.net/test-quantum/slider/velp.jpg",
-            imageMobile:"https://sicssalab.net/test-quantum/slider/velp.jpg",
-        },
-        {
-            //name: "LUUM BY SELVA ESCONDIDA",
-            description: "Ver nuestros productos",
-            link: "/",
-            image: "https://sicssalab.net/test-quantum/slider/computrac_arizona.jpg",
-            imageMobile:"https://sicssalab.net/test-quantum/slider/computrac_arizona.jpg",
+            // name: "Diseño y Desarrollo Web",
+            // description: "Diseño de Páginas Web<br>Tiendas en Línea | E-commerce<br>Desarrollo de Aplicaciones Web<br>Rediseño y actualización de Páginas Web",
+            //link: pagesContants.landingEviaES,
+            image: "/src/assets/sicssa/IA-SL.gif",
+            imageMobile:"/src/assets/sicssa/IA-SL.gif",
         }
     ]
 }

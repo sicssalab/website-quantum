@@ -1,5 +1,5 @@
 import React from "react";
-import imagen from "../../../assets/img/textura-amarillo.svg";
+import imagen from "../../../assets/img/textura-2.svg";
 import { Image } from 'react-bootstrap'
 
 const FloatInverse = (props) => {

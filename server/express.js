@@ -4,8 +4,9 @@ import StoreProvider from "../src/store/StoreProvider";
 import { HelmetProvider } from "react-helmet-async";
 import App from "../src/App";
 import callPage from "../src/apiData/callPage";
+import callRouterPage from "../src/apiData";
 import languageUtils from "../src/utils/languageUtils";
-//import serverDatas from "../src/data";
+
 import serverUtils from "../src/utils/serverUtils";
 require('dotenv').config();
 
@@ -18,8 +19,9 @@ const app = express();
 const helmetContext = {};
 app.use("/src/assets", express.static(path.join(__dirname, "src/assets")));
 app.use("/public", express.static(path.join(__dirname, "../dist/public")));
-//app.use("/assets", express.static(path.join(__dirname, "src/assets")));
-app.get(/\.(js|css|map|ico|svg|webp|webm|otf)$/, express.static(path.resolve(__dirname, "../dist")));
+
+app.get(/\.(txt)$/, express.static(path.resolve(__dirname, "../dist/public")));
+app.get(/\.(js|css|map|ico|svg|webp|webm|otf|txt|jpg|jpeg|gif|png)$/, express.static(path.resolve(__dirname, "../dist")));
 
 const renderHeader = (html, optionsPage, locale) => {
   const meta = optionsPage.metadata;
@@ -42,35 +44,39 @@ const renderHeader = (html, optionsPage, locale) => {
   return html;
 }
 
-app.get("*", (req, res) => {
+app.get("*", async (req, res) => {
   const context = {};
-  
-  //TODO locale default es
   const locale = languageUtils.getLocale(req.url)
-  
+
   let slugPage = req.params['0'].toLowerCase();
   slugPage = slugPage.indexOf("/") === 0 ? slugPage.replace("/","") : slugPage;
 
-  
   let indexHTML = fs.readFileSync(path.resolve(__dirname, "../dist/index.html"), {
     encoding: 'utf8'
   });
+  const dataRouter = await callRouterPage(locale);
+
   const appHTML = ReactDOMServer.renderToString(
     <HelmetProvider context={helmetContext}>
       <StoreProvider>
         <StaticRouter location={req.url} context={context}>
-          <App />
+          <App ssrRoutesData={dataRouter} />
         </StaticRouter>
+        <script 
+          dangerouslySetInnerHTML={{
+            __html: `window.__data__ = ${JSON.stringify(dataRouter)}`
+          }}
+        />
       </StoreProvider>
     </HelmetProvider>
   );
 
   indexHTML = indexHTML.replace('lang="es">', `lang="${locale}">`);
-  //TODO recuperar la informacion de la api de la pagina visitada inicial para seo
 
   if(req.url && (
     req.url.search(".otf") === -1
     && req.url.search(".ico") === -1
+    && req.url.search(".webp") === -1
     && req.url.search(".png") === -1
     )) {
       const responseOptionsPage = callPage(locale, slugPage)

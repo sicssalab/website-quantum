@@ -1,12 +1,11 @@
 import React from "react";
-import { Routes, Route } from "react-router-dom";
+import TagManager from "react-gtm-module";
+import ReactGA from "react-ga";
+import { Routes, Route, useLocation } from "react-router-dom";
 import languageMenuMock from "./mocks/languageMenuMock";
 import SlugPage from "./pages/SlugPage";
 import "./theme/boostrap-theme.scss";
 import "./theme/main.scss";
-// import "slick-carousel/slick/slick.css";
-// import "slick-carousel/slick/slick-theme.css";
-//import "aos/dist/aos.css";
 import { useDispatch, useGlobalState } from "./store/StoreProvider";
 import { useEffect } from "react";
 import localeAction from "./actions/localeAction";
@@ -18,92 +17,82 @@ import storage from "./localstorage/storage";
 import localStorageConstants from "./constants/localStorageConstants";
 import { Helmet } from "react-helmet-async";
 import BlogPage from "./pages/blog/BlogPage";
-
-function App() {
+import NotfoundPage from "./pages/NotfoundPage";
+function App(props) {
+  const { ssrRoutesData } = props;
   const locales = languageMenuMock;
   const { locale, routesData } = useGlobalState();
   const dispatch = useDispatch();
-
-  const updateRoutes = (auxLocale) => {
-    //TODO teniendo el locale vamos a llamar por api las urls por idioma
-    const localStorageRoutes = `${localStorageConstants.ROUTE}_${auxLocale}`;
-    let auxRoutes = storage.getLocalStorage(localStorageRoutes);
-    if (auxRoutes === null) {
-      routesAction.getRoutes({ locale: auxLocale }, dispatch,
-        (response) => {
-          storage.setLocalStorage(localStorageRoutes, response, 5);
-        });
-    }
-    else {
-      routesAction.update(auxRoutes, dispatch);
-    }
-  }
+  let location = useLocation();
 
   useEffect(() => {
-    //TODO Inicializa el sitio y carga por default el local para traer las rutas
-    let pathLocale = (typeof window !== 'undefined') ? window.location?.pathname?.toLowerCase() : "/";
+    let pathLocale =
+      typeof window !== "undefined"
+        ? window.location?.pathname?.toLowerCase()
+        : "/";
     let auxLocale = languageUtils.getLocale(pathLocale);
 
-    //TODO actualiza el local del sitio
     localeAction.updateLocale(auxLocale, dispatch);
 
     // eslint-disable-next-line react-hooks/exhaustive-deps
   }, []);
   useEffect(() => {
-    //TODO si cambia el lenguaje hay que volver a pedir a la api el listado de paginas
-    updateRoutes(locale)
-  // eslint-disable-next-line react-hooks/exhaustive-deps
+    const updateRoutes = async (auxLocale) => {
+      const localStorageRoutes = `${localStorageConstants.ROUTE}_${auxLocale}`;
+      let auxRoutes = await storage.getLocalStorage(localStorageRoutes);
+      if (auxRoutes === null) {
+        routesAction.getRoutes({ locale: auxLocale }, dispatch, (response) => {
+          storage.setLocalStorage(localStorageRoutes, response, 120);
+        });
+      } else {
+        routesAction.update(auxRoutes, dispatch);
+      }
+    };
+    updateRoutes(locale);
+    // eslint-disable-next-line react-hooks/exhaustive-deps
   }, [locale]);
+
+  useEffect(() => {
+    process.env.REACT_APP_GOOGLE_TRAKING_ID &&
+      ReactGA.initialize(process.env.REACT_APP_GOOGLE_TRAKING_ID);
+    if (process.env.REACT_APP_GOOGLE_TAG_MANAGER) {
+      const tagManagerArgs = {
+        gtmId: process.env.REACT_APP_GOOGLE_TAG_MANAGER,
+      };
+
+      TagManager.initialize(tagManagerArgs);
+    }
+  }, []);
+
+  const auxRoutesData = ssrRoutesData?.id > 0 && ssrRoutesData.locale === locale ? ssrRoutesData : routesData;
+  useEffect(() => {
+    let auxLocale = languageUtils.getLocale(location.pathname.toLowerCase());
+    if((auxRoutesData !== undefined && auxRoutesData.locale !== undefined) && auxRoutesData.locale !== auxLocale){
+      localeAction.updateLocale(auxLocale, dispatch);
+    }
+  // eslint-disable-next-line react-hooks/exhaustive-deps
+  }, [location, auxRoutesData]);
 
   return (
     <IntlProvider locale={locale} messages={languages[locale]}>
-      {/* //TODO desde el server hacer el primer llamado a las rutas por local
-        //TODO para tenerlas precargadas
-        */}
       <Helmet htmlAttributes={{ lang: locale }} />
       <Routes>
-        {routesData.isSuccess && (
-          routesData.data.map((item, i) => {
-            //TODO revisar proceso entrando a blogs
+        {auxRoutesData.isSuccess &&
+          auxRoutesData.data.map((item, i) => {
             return (
               <Route
                 key={i}
-                path={languageUtils.getPathForRouteLinkLocale(locale, item.slug)}
-                element={
-                  <SlugPage
-                    locales={locales}
-                  />
-                }
+                path={languageUtils.getPathForRouteLinkLocale(
+                  locale,
+                  item.slug
+                )}
+                element={<SlugPage locales={locales} />}
               />
             );
-          })
-        )}
-        <Route
-          path={"/blog/:id"}
-          element={
-            <BlogPage
-              locales={locales}
-            />
-          }
-        />
-        <Route
-          path={"en/blog/:id"}
-          element={
-            <BlogPage
-              locales={locales}
-            />
-          }
-        />
-        {/* <Route
-          path="/"
-          element={
-            <SlugPage
-              locales={locales}
-            />
-          }
-        /> */}
-        {/* //TODO pagina que no existe */}
-        {/* <Route path="*" component={NotFound} /> */}
+          })}
+        <Route path={"/blog/:id"} element={<BlogPage locales={locales} />} />
+        <Route path={"en/blog/:id"} element={<BlogPage locales={locales} />} />
+        <Route path="*" element={<NotfoundPage />} />
       </Routes>
     </IntlProvider>
   );

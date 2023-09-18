@@ -21,7 +21,7 @@ module.exports = (enviroment) => {
       target: "web",
       entry: path.join(__dirname, "src", "index.prod.js"),
       output: {
-        path: path.join(__dirname, "dist"), //static
+        path: path.join(__dirname, "dist"),
         publicPath: "/",
         filename: "build/[name].[fullhash].js",
         clean: true,
@@ -32,13 +32,17 @@ module.exports = (enviroment) => {
         }),
         new HTMLWebpackPlugin({
           filename: "index.html",
-          template: path.resolve(__dirname, "public/index.html"), // to import index.html file inside index.js
+          template: path.resolve(__dirname, "public/index.html"),
           minify: false
         }),
         new CopyWebpackPlugin({
           patterns: [
+            // {
+            //   from: path.resolve(__dirname, 'public/favicon.ico'),
+            //   to: path.resolve(__dirname, 'dist/public'),
+            // },
             {
-              from: path.resolve(__dirname, 'public/favicon.ico'),
+              from: path.resolve(__dirname, 'public/sicssa-logo2023-pagina-web-con-marco-01.webp'),
               to: path.resolve(__dirname, 'dist/public'),
             },
             {
@@ -46,22 +50,25 @@ module.exports = (enviroment) => {
               to: path.resolve(__dirname, 'dist/public'),
             },
             {
-              //from: path.resolve(__dirname, 'public/*.png'),
-              from: 'public/*.png',
-              //to: path.resolve(__dirname, 'dist/public/[name].png'),
+              from: path.resolve(__dirname, 'public/robots.txt'),
+              to: path.resolve(__dirname, 'dist/public'),
+            },
+            // {
+            //   from: 'public/*.png',
+            //   to({ context, absoluteFilename }) {
+            //     return Promise.resolve("public/[name][ext]");
+            //   },
+            // },
+            {
+              from: 'public/*.webp',
               to({ context, absoluteFilename }) {
                 return Promise.resolve("public/[name][ext]");
               },
             },
-            //TODO solo mientras no hay api
             {
               from: path.resolve(__dirname, 'src/assets'),
               to: path.resolve(__dirname, 'dist/src/assets'),
             },
-            // {
-            //   from: path.resolve(__dirname, 'src/assets'),
-            //   to: path.resolve(__dirname, './assets'),
-            // },
           ]
         }),
         new Dotenv(),
@@ -104,14 +111,6 @@ module.exports = (enviroment) => {
           {
             test: /(\.css)$/,
             use: [MiniCssExtractPlugin.loader, 'css-loader', 'sass-loader'],
-            // use: [
-            // { loader: MiniCssExtractPlugin.loader,
-            //     options: {
-            //        publicPath: "../../"
-            //     }
-            //  },
-            //  'css-loader',
-            // ],
             exclude: [path.join(__dirname, "/node_modules")],
          },
           {

@@ -6,11 +6,11 @@ const resource = {
     slug: pagesContants.landingSelvaEscondidaEN,
     locale: "en",
     metadata: {
-        "metaTitle": "Selva Escondida Residential | Grupo Miraro",
+        "metaTitle": "Selva Escondida Residential | Sicssa lab",
         "metaDescription": "More than 650 homes in Puerto Morelos with more than 20 amenities.",
         "keywords": "",
         "url": pagesContants.landingSelvaEscondidaEN, //canonical
-        "sitename": "Grupo Miraro",
+        "sitename": "Sicssa lab",
         "type": "website",
         //"follow": //TODO solo las que no llevan index agregarlo nofollow, noindex //Meta name=”robots” content=”noindex,nofollow”
         "image": "https://sicssalab.net/test-miraro/mocks/metadatos/Selva-Escondida---Portadas-metadata---Miraro-Web.png"

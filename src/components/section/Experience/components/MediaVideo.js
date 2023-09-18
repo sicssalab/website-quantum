@@ -1,14 +1,12 @@
 import React from "react";
-import { Image } from "react-bootstrap";
 import { LazyLoadImage } from "react-lazy-load-image-component";
 import { useMediaQuery } from 'react-responsive';
 import breakpointConstants from "../../../../constants/breakpointConstants";
-import { AiOutlinePlayCircle } from "react-icons/ai";
 import PlayVideo from "../../../../assets/icons/icon-play.svg"
 import { useEffect, useState } from "react";
 
 const MediaVideo = (props) => {
-    const { frontPageMobile, frontPage, altImage, videoLink, videos } = props
+    const { frontPageMobile, frontPage, altImage, videoLink } = props
     const isMobile = useMediaQuery({ maxWidth: breakpointConstants.MD })
     const [viewIframe, setViewIframe] = useState(true);
 
@@ -18,7 +16,7 @@ const MediaVideo = (props) => {
 
     useEffect(() => {
         setViewIframe(true)
-    }, [frontPageMobile, frontPage, videoLink]);
+    },[frontPageMobile, frontPage, videoLink]);
 
     return (
         <div className="video-container">
@@ -38,7 +36,7 @@ const MediaVideo = (props) => {
                     </div>
                 </>
             )}
-            {/* {viewIframe && (
+            {viewIframe && (
                 <iframe width="900" height="450"
                     src={`https://www.youtube.com/embed/${videoLink}`}
                     title={altImage}
@@ -46,15 +44,6 @@ const MediaVideo = (props) => {
                     allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
                     allowFullScreen
                 />
-            )} */}
-            {videos && (
-                <video width="452" height="254" controls>
-                {videos.map((video, i) => {
-                    return (
-                    <source src={video.url} type={video.type} key={i} />
-                    )
-                })}
-                </video>
             )}
         </div>
     )

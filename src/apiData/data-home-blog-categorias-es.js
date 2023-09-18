@@ -6,11 +6,11 @@ const resource = {
     slug: pagesContants.blogCategoriasES,
     locale: "es",
     metadata: {
-        "metaTitle": "Categorías de Blogs | Grupo Miraro",
+        "metaTitle": "Categorías de Blogs | Sicssa lab",
         "metaDescription": "Consejos e información en bienes raíces y construcción. Más de 30 años desarrollando proyectos residenciales en México nos respaldan.",
         "keywords": "",
         "url": pagesContants.blogCategoriasES, //canonical
-        "sitename": "Grupo Miraro",
+        "sitename": "Sicssa lab",
         "type": "website",
         //"follow": //TODO solo las que no llevan index agregarlo nofollow, noindex //Meta name=”robots” content=”noindex,nofollow”
         "image": "https://sicssalab.net/test-miraro/mocks/metadatos/home-blog.jpg"

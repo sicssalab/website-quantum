@@ -6,11 +6,11 @@ const resource = {
     slug: pagesContants.landingKaanaES,
     locale: "en",
     metadata: {
-        "metaTitle": "Kaana by Selva Escondida | Grupo Miraro",
+        "metaTitle": "Kaana by Selva Escondida | Sicssa lab",
         "metaDescription": "Condos in Puerto Morelos with more than 20 amenities.",
         "keywords": "",
         "url": pagesContants.landingKaanaES, //canonical
-        "sitename": "Grupo Miraro",
+        "sitename": "Sicssa lab",
         "type": "website",
         //"follow": //TODO solo las que no llevan index agregarlo nofollow, noindex //Meta name=”robots” content=”noindex,nofollow”
         "image": "https://sicssalab.net/test-miraro/mocks/metadatos/kaana.jpg"

@@ -1,5 +1,5 @@
 const pagesContants = {
-    proyectsES: "proyectos",
+    proyectsES: "productos",
     proyectsEN: "projects",
     nosotrosES: "nosotros",
     nosotrosEN: "about-us",
@@ -10,9 +10,9 @@ const pagesContants = {
     blogES: "blog",
     blogCategoriasES: "blog/categorias",
     blogCategoriasEN: "blog/categories",
-    terminosCondicionesES: "termino-y-condiciones",
+    terminosCondicionesES: "terminos-y-condiciones",
     terminosCondicionesEN: "terms-and-conditions",
-    avisoPrivacidadES: "aviso-de-privadidad",
+    avisoPrivacidadES: "aviso-de-privacidad",
     avisoPrivacidadEN: "privacy-notice",
     landingSelvaEscondidaIIES: "selvaescondida",
     landingSelvaEscondidaIIEN: "selvaescondida",
@@ -25,6 +25,10 @@ const pagesContants = {
     landingVeneciaES: "venecia",
     landingDelMarES: "delmar",
     landingEviaES: "evia",
+    servicesEN: "services",
+    servicesES: "servicios",
+    cotizaEN: "quotation",
+    cotizaES: "cotiza",
 }
 
 export default pagesContants;

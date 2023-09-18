@@ -6,11 +6,11 @@ const resource = {
     slug: pagesContants.landingPalmasES,
     locale: "en",
     metadata: {
-        "metaTitle": "Palmas by Selva Escondida | Grupo Miraro",
+        "metaTitle": "Palmas by Selva Escondida | Sicssa lab",
         "metaDescription": "Condos in the Mexican Caribbean with Pool, Private Security, and more.",
         "keywords": "",
         "url": pagesContants.landingPalmasES, //canonical
-        "sitename": "Grupo Miraro",
+        "sitename": "Sicssa lab",
         "type": "website",
         //"follow": //TODO solo las que no llevan index agregarlo nofollow, noindex //Meta name=”robots” content=”noindex,nofollow”
         "image": "https://sicssalab.net/test-miraro/mocks/metadatos/palmas.jpg"

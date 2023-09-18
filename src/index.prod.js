@@ -10,7 +10,7 @@ ReactDOM.hydrate(
   <HelmetProvider context={helmetContext}>
     <StoreProvider>
       <BrowserRouter>
-        <App />
+        <App ssrRoutesData={window.__data__} />
       </BrowserRouter>
     </StoreProvider>
   </HelmetProvider>

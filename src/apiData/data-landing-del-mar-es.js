@@ -6,11 +6,11 @@ const resource = {
     slug: pagesContants.landingDelMarES,
     locale: "es",
     metadata: {
-        "metaTitle": "Del Mar | Grupo Miraro",
+        "metaTitle": "Del Mar | Sicssa lab",
         "metaDescription": "Departamentos de lujo a orilla del mar en Puerto Morelos con exclusivas amenidades.",
         "keywords": "",
         "url": pagesContants.landingDelMarES, //canonical
-        "sitename": "Grupo Miraro",
+        "sitename": "Sicssa lab",
         "type": "website",
         //"follow": //TODO solo las que no llevan index agregarlo nofollow, noindex //Meta name=”robots” content=”noindex,nofollow”
         "image": "https://sicssalab.net/test-miraro/mocks/metadatos/del-mar.jpg"

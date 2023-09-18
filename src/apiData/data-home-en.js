@@ -5,14 +5,14 @@ const resource = {
     slug: "/",
     locale: "en",
     metadata: {
-        "metaTitle": "Grupo Miraro · Land Developers",
-        "metaDescription": "Real estate developer in Mexico with projects in Quintana Roo, Mexico City, and State of Mexico.",
-        "keywords": "",
+        "metaTitle": "Sicssa lab · Land Developers",
+        "metaDescription": "With more than 8 years of experience in analysis, design, application development and maintenance, we are a group of experts who help companies integrate technological, innovative solutions that add value. We are the bridge between the present and the future.",
+        "keywords": "IT consulting, Software development consulting, Application development, Web application development, Custom software development, Software consultants, Mobile application development, Scalable software development, Technological innovation consultants, process automation, programmers .",
         "url": "home", //canonical
-        "sitename": "Grupo Miraro",
+        "sitename": "Sicssa lab",
         "type": "website",
         //"follow": //TODO solo las que no llevan index agregarlo nofollow, noindex //Meta name=”robots” content=”noindex,nofollow”
-        "image": "https://sicssalab.net/test-miraro/mocks/metadatos/home.jpg"
+        "image": "/src/assets/sicssa/metatag-sicssa-lab.png"
     },
     localizations: [
         {

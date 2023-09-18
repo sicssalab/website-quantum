@@ -1,4 +1,5 @@
 import React from "react";
+import ReactGA from 'react-ga';
 import { useEffect } from "react";
 import ContactResidential from "../components/section/ContactResidential/ContactResidential";
 import LocationResidential from "../components/section/LocationResidential/LocationResidential";
@@ -24,9 +25,13 @@ import DocumentwithHeaderSection from "../components/section/DocumentwithHeaderS
 import MisionVisionSection from "../components/section/MisionVisionSection/MisionVisionSection";
 import StyleLifeContactSection from "../components/section/StyleLifeContactSection/StyleLifeContactSection";
 import PressList from "../components/section/PressList/PressList";
+import SectionLoadingPage from "./components/SectionLoadingPage";
+import { useIntl } from "react-intl";
+import ContactShotBlog from "../components/section/ContactShotBlog/ContactShotBlog";
 
 const SlugPage = (props) => {
     const { locales } = props;
+    const intl = useIntl();
     const { pageData, routesData } = useGlobalState();
     useCallPages();
 
@@ -94,6 +99,10 @@ const SlugPage = (props) => {
                 return (<ContactBlog key={position}
                     {...rest}
                 />);
+            case "contact-blog2-component":
+                return (<ContactShotBlog key={position}
+                    {...rest}
+                />);
             case "blog-home-catogories-component":
                 return (<BodyBlog key={position}
                     {...rest}
@@ -127,22 +136,27 @@ const SlugPage = (props) => {
                 return <div key={position}></div>
         }
     };
+    useEffect(() => {
+        //TODO tracking-id seguimiento de paginas
+        const page = `${pageData.locale === "es" ? "": `/${pageData.locale}`}${pageData.slug === "/"? "/": `/${pageData.slug}`}`;
+        process.env.REACT_APP_GOOGLE_TRAKING_ID && ReactGA.pageview(page);
+    }, [pageData]);
 
     return (
         <>
             {pageData.isFetching && (
-                <p className="text-black">Loading...</p>
+                <SectionLoadingPage title={intl.formatMessage({ id: "website.loading-page" })} disableLink />
             )}
             {pageData.isError && (
-                <p className="text-black">Ups! we have a problem</p>
+                <SectionLoadingPage title={intl.formatMessage({ id: "website.error-page" })} />
             )}
             {pageData.isSuccess && (
                 <>
                     <HeaderSEO />
                     {pageData.items && pageData.items.map((item, i) => selectComponentPage(item, i))}
                     <Footer
-                    {...routesData.footer}
-                />
+                        {...routesData.footer}
+                    />
                 </>
             )}
         </>
