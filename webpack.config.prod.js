@@ -41,8 +41,12 @@ module.exports = (enviroment) => {
             //   from: path.resolve(__dirname, 'public/favicon.ico'),
             //   to: path.resolve(__dirname, 'dist/public'),
             // },
+            // {
+            //   from: path.resolve(__dirname, 'public/sicssa-logo2023-pagina-web-con-marco-01.webp'),
+            //   to: path.resolve(__dirname, 'dist/public'),
+            // },
             {
-              from: path.resolve(__dirname, 'public/sicssa-logo2023-pagina-web-con-marco-01.webp'),
+              from: path.resolve(__dirname, 'public/logo.jpg'),
               to: path.resolve(__dirname, 'dist/public'),
             },
             {

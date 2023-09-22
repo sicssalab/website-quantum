@@ -24,8 +24,6 @@ const InformationResidential = (props) => {
     // frontPageMobile,
     // videoLink,
   } = props;
-
-  const intl = useIntl();
   const isMobile = useMediaQuery({ maxWidth: breakpointConstants.MD });
 
   return (

@@ -43,7 +43,7 @@ function App(props) {
       let auxRoutes = await storage.getLocalStorage(localStorageRoutes);
       if (auxRoutes === null) {
         routesAction.getRoutes({ locale: auxLocale }, dispatch, (response) => {
-          storage.setLocalStorage(localStorageRoutes, response, 120);
+          storage.setLocalStorage(localStorageRoutes, response, process.env.REACT_APP_TIME_ROUTES);
         });
       } else {
         routesAction.update(auxRoutes, dispatch);

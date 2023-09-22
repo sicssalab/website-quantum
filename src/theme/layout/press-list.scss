@@ -51,8 +51,9 @@
     align-items: center;
     justify-content: center;
     padding-top: 20px;
-    
-    .next-page, .prev-page {
+
+    .next-page,
+    .prev-page {
       filter: invert(1);
       background-color: transparent;
       border: 0;
@@ -71,7 +72,20 @@
       gap: 5px;
     }
   }
-
+  &.product-list-container {
+    .title {
+      color: $backgroundPrimaryContrastText;
+      margin-bottom: 30px;
+    }
+    .container-custom {
+      .body-items {
+        display: flex;
+        gap: 30px;
+        justify-content: space-between;
+        flex-wrap: wrap;
+      }
+    }
+  }
   @media (max-width: $sm) {
     padding-top: 66px;
     padding-bottom: 92px;
@@ -110,6 +124,15 @@
         }
       }
     }
+
+    &.product-list-container {
+      .container-custom {
+        .body-items {
+          flex-direction: column;
+          align-items: center;
+        }
+      }
+    }
   }
   @media (min-width: $sm) and (max-width: $md) {
     .press {
@@ -120,6 +143,53 @@
       }
       .content-right {
         padding-left: 55px;
+      }
+    }
+  }
+}
+
+
+#modal_product {
+  .press {
+    display: flex;
+    flex-direction: column;
+    padding: 0;
+    .content-left {
+      border-bottom: 3px solid $primary;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      cursor: pointer;
+      .size-logo {
+        width: 100%;
+        max-width: 316px;
+      }
+    }
+    .content-right {
+      display: flex;
+      justify-content: center;
+      align-items: flex-start;
+      flex-direction: column;
+      padding-top: 30px;
+      padding-left: 5%;
+      padding-right: 5%;
+      .title {
+        font-size: 25px;
+        text-transform: uppercase;
+        font-family: $fontNoirProMedium;
+        margin-bottom: 16px;
+        color: $backgroundPrimaryContrastText;
+      }
+      .description {
+        color: $backgroundPrimaryContrastText;
+        font-size: 15px;
+        font-weight: 100;
+      }
+      .link-more {
+        cursor: pointer;
+        font-size: 20px;
+        color: $primary;
+        text-decoration: underline;
       }
     }
   }

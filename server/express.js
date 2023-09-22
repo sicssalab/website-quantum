@@ -78,6 +78,7 @@ app.get("*", async (req, res) => {
     && req.url.search(".ico") === -1
     && req.url.search(".webp") === -1
     && req.url.search(".png") === -1
+    && req.url.search(".jpg") === -1
     )) {
       const responseOptionsPage = callPage(locale, slugPage)
       if(responseOptionsPage && responseOptionsPage.metadata) {

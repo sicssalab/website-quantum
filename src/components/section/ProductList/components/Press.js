@@ -12,7 +12,7 @@ const Press = (props) => {
       </div>
       <div className="content-right">
         <h5 className="title" dangerouslySetInnerHTML={{ __html: title }} />
-        <p className="description" dangerouslySetInnerHTML={{ __html: description }} />
+        <p className="description">{description}</p>
         {link && <a href={link} target="_blank" rel="noreferrer" className="link-more">{textLink}</a>}
         <div className="m-border" />
       </div>

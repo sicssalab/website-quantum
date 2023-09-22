@@ -28,6 +28,7 @@ import PressList from "../components/section/PressList/PressList";
 import SectionLoadingPage from "./components/SectionLoadingPage";
 import { useIntl } from "react-intl";
 import ContactShotBlog from "../components/section/ContactShotBlog/ContactShotBlog";
+import ProductList from "../components/section/ProductList";
 
 const SlugPage = (props) => {
     const { locales } = props;
@@ -73,6 +74,10 @@ const SlugPage = (props) => {
                 />);
             case "press-list":
                 return (<PressList key={position}
+                    {...rest}
+                />);
+            case "product-list":
+                return (<ProductList key={position}
                     {...rest}
                 />);
             case "own-proyects-component":
