@@ -16,7 +16,6 @@ import routesAction from "./actions/routesAction";
 import storage from "./localstorage/storage";
 import localStorageConstants from "./constants/localStorageConstants";
 import { Helmet } from "react-helmet-async";
-import BlogPage from "./pages/blog/BlogPage";
 import NotfoundPage from "./pages/NotfoundPage";
 import pagesContants from "./constants/pagesContants";
 function App(props) {
@@ -41,6 +40,7 @@ function App(props) {
     const updateRoutes = async (auxLocale) => {
       const localStorageRoutes = `${localStorageConstants.ROUTE}_${auxLocale}`;
       let auxRoutes = await storage.getLocalStorage(localStorageRoutes);
+
       if (auxRoutes === null) {
         routesAction.getRoutes({ locale: auxLocale }, dispatch, (response) => {
           storage.setLocalStorage(localStorageRoutes, response, process.env.REACT_APP_TIME_ROUTES);
@@ -69,6 +69,8 @@ function App(props) {
     ssrRoutesData?.id > 0 && ssrRoutesData.locale === locale
       ? ssrRoutesData
       : routesData;
+
+  //TODO UPDATE LOCALE
   useEffect(() => {
     let auxLocale = languageUtils.getLocale(location.pathname.toLowerCase());
     if (
@@ -85,27 +87,30 @@ function App(props) {
     <IntlProvider locale={locale} messages={languages[locale]}>
       <Helmet htmlAttributes={{ lang: locale }} />
       <Routes>
-        {auxRoutesData.isSuccess &&
-          auxRoutesData.data.map((item, i) => {
-            return (
-              <Route
-                key={i}
-                path={languageUtils.getPathForRouteLinkLocale(
-                  locale,
-                  item.slug
-                )}
-                element={<SlugPage locales={locales} />}
-              />
-            );
-        })}
+        <Route path={"/"}
+          element={<SlugPage locales={locales} />}
+        />
+        <Route path={"nosotros"}
+          element={<SlugPage locales={locales} />}
+        />
+        <Route path={"contacto"}
+          element={<SlugPage locales={locales} />}
+        />
         <Route path={"productos"}
           element={<SlugPage locales={locales} />}
         />
         <Route path={pagesContants.ametek}
           element={<SlugPage locales={locales} />}
         />
-        <Route path={"/blog/:id"} element={<BlogPage locales={locales} />} />
-        <Route path={"en/blog/:id"} element={<BlogPage locales={locales} />} />
+        <Route path={pagesContants.landingVelp}
+          element={<SlugPage locales={locales} />}
+        />
+        <Route path={pagesContants.terminosCondicionesES}
+          element={<SlugPage locales={locales} />}
+        />
+        <Route path={pagesContants.avisoPrivacidadES}
+          element={<SlugPage locales={locales} />}
+        />
         <Route path="*" element={<NotfoundPage />} />
       </Routes>
     </IntlProvider>

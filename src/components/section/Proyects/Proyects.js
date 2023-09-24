@@ -1,6 +1,5 @@
 import React, { useEffect, useState } from "react";
 import Button from 'react-bootstrap/Button';
-import FloatInverse from "../../ui/boxFloat/FloatInverse";
 import SliderImageInformation from "../../ui/sliders/SliderImageInformation/SliderImageInformation";
 import { useMediaQuery } from 'react-responsive';
 import breakpointConstants from "../../../constants/breakpointConstants";
@@ -44,13 +43,6 @@ const Proyects = (props) => {
                     {visibleSlide && <SliderImageInformation items={items} />}
                     </div>
                 </div>
-                <FloatInverse sx={{
-                    width: "80px",
-                    height: "80px",
-                    position: "absolute",
-                    left: isMobile ? 40 : "100px",
-                    bottom: 0
-                }} />
             </div>
         </div>
      );

@@ -19,7 +19,7 @@ const pagesContants = {
     landingSelvaEscondidaIIEN: "selvaescondida",
     landingSelvaEscondidaES: "selvaescondidaresidencial",
     landingSelvaEscondidaEN: "selvaescondidaresidencial",
-    landingNaayES: "naay",
+    landingVelp: "velp",
     landingPalmasES: "palmas",
     landingLuumES: "luum",
     landingKaanaES: "kaana",

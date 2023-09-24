@@ -19,11 +19,6 @@ const apiHome = {
                 },
                 {
                     alt: "red network",
-                    link: "https://www.instagram.com/sicssalab/",
-                    type: "instagram"
-                },
-                {
-                    alt: "red network",
                     link: "https://www.linkedin.com/company/sicssa-lab",
                     type: "linkedin"
                 },
@@ -49,25 +44,30 @@ const apiHome = {
         },
         {
             type: "proyects-component",
-            title: "<strong>¿Que hacemos?</strong>",
-            description: "Somos especialistas en todos estos servicios, desarrollando con las tecnológias más avanzadas",
+            title: "<strong>quantum analytical</strong>",
+            description: "Quantum Analytical es una empresa 100% nacional teniendo como principales objetivos la industria farmacéutica, química, petroquímica y de alimentos; así como universidades e institutos de investigación. Para lograrlo contamos con la representación exclusiva de diversas marcas de reconocimiento mundial así como con el personal técnico especializado y capacitado para brindar asesoría, soporte técnico y el mantenimiento preventivo y correctivo necesario para garantizar el buen funcionamiento de los instrumentos de las marcas que representamos. Todos nuestros esfuerzos y conocimientos están enfocados en conjuntar lo anterior y así lograr cerrar al 100% el ciclo de un servicio integral.",
             linkMore: pagesContants.proyectsES,
-            textMore: "Nuestros Proyectos",
-            ...proyectsMock
+            textMore: "NUESTROS PROVEEDORES",
+            items: []
         },
         {
             type: "experience-component",
-            title: "<strong>la experiencia es parte<br>de nuestro éxito</strong>",
-            description: "Con más de 8 años de experiencia en soluciones tecnológicas, es como logramos seguir sumando más clientes hacia la era digital",
+            title: "<strong>SERVICIOS</strong>",
+            description: `Quantum Analytical ofrece servicio y soporte técnico especializado, como:
+            <br><br>
+            <ul class="text-start">
+            <li>Desarrollo de IQ, OQ y PQ</li>
+            <li>Instalación y puesta en marcha</li>
+            <li>Mantenimiento correctivo y preventivo (contratos anuales disponibles)</li>
+            <li>Refacciones Originales, consumibles y equipo de demostración</li>
+            <li>Soporte y asesoría técnica que garantiza el buen funcionamiento de los instrumentos</li>
+            </ul>
+            No dude en contactarse con nosotros para recibir asistencia e información sobre nuestros servicios.`,
             videoType: "youtube",
             altImage:'Imagen Experience',
             frontPage: "https://sicssalab.net/test-miraro/mocks/home/video-miraro-webp.webp",
             frontPageMobile: "https://sicssalab.net/test-miraro/mocks/home/video-miraro.webp",
             videoLink: "I69BKXFRm4U"
-        },
-        {
-            type: "press-component",
-            ...pressMock
         },
     ]
 }

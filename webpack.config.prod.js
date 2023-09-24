@@ -63,12 +63,12 @@ module.exports = (enviroment) => {
             //     return Promise.resolve("public/[name][ext]");
             //   },
             // },
-            {
-              from: 'public/*.webp',
-              to({ context, absoluteFilename }) {
-                return Promise.resolve("public/[name][ext]");
-              },
-            },
+            // {
+            //   from: 'public/*.webp',
+            //   to({ context, absoluteFilename }) {
+            //     return Promise.resolve("public/[name][ext]");
+            //   },
+            // },
             {
               from: path.resolve(__dirname, 'src/assets'),
               to: path.resolve(__dirname, 'dist/src/assets'),

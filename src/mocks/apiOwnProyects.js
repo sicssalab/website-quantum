@@ -12,7 +12,6 @@ import logo11 from "../assets/LOGO-MARCAS-PROVEEDORES/11shimadzu.jpeg";
 import logo12 from "../assets/LOGO-MARCAS-PROVEEDORES/12aqua-solutions.jpeg";
 import logo13 from "../assets/LOGO-MARCAS-PROVEEDORES/13optimize-technologies.png";
 import pagesContants from "../constants/pagesContants";
-//import pagesContants from "../constants/pagesContants";
 
 const apiOwnProyects = {
     items: [
@@ -25,11 +24,6 @@ const apiOwnProyects = {
                     alt: "red network",
                     link: "https://www.facebook.com/QuantumAnalytical",
                     type: "facebook"
-                },
-                {
-                    alt: "red network",
-                    link: "https://www.instagram.com/sicssalab/",
-                    type: "instagram"
                 },
                 {
                     alt: "red network",
@@ -59,14 +53,13 @@ const apiOwnProyects = {
                     alt: 'logo brookfield ametek',
                     image: logo1,
                     imageMobile: logo1,
-                    //link: pagesContants.landingSelvaEscondidaIIES
                     link: pagesContants.ametek
                 },
                 {
                     alt: 'logo velph',
                     image: logo2,
                     imageMobile: logo2,
-                    // link: pagesContants.landingSelvaEscondidaES
+                    link: pagesContants.landingVelp
                 },
                 {
                     alt: 'logo hitachi',

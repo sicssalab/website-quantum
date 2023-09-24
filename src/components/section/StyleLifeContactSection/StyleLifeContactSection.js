@@ -15,34 +15,27 @@ const StyleLifeContactSection = (props) => {
             <p className="description" dangerouslySetInnerHTML={{ __html: description }} />
         </div>)
         : <></>;
-    const styleFloats = {
-        position: "absolute",
-        left: 0,
-        top: isMobile? 1 : -4,
-        transform: "rotate(90deg)",
-        width: "75px",
-        height: "82px"
-    };
 
     return (<section className="style-life-component">
         <ContainerCustom>
             <div className="mission-body">
-            <FloatBoxs sx={styleFloats} />
                 <div className="b">
                     {missionRender}
                 </div>
                 <div className="a">
-                    <LazyLoadImage
-                        src={
-                            isMobile
-                                ? imageMobile
+                    {(image || imageMobile) && (
+                        <LazyLoadImage
+                            src={
+                                isMobile
                                     ? imageMobile
+                                        ? imageMobile
+                                        : image
                                     : image
-                                : image
-                        }
-                        className='size-img'
-                        alt={title}
-                    />
+                            }
+                            className='size-img'
+                            alt={title}
+                        />
+                    )}
                 </div>
             </div>
         </ContainerCustom>

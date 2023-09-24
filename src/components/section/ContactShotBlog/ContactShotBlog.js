@@ -10,17 +10,10 @@ const ContactShotBlog = (props) => {
   const { contact, hbsptSettings, imageMobile, image, altImage } = props;
   const isMobile = useMediaQuery({ maxWidth: breakpointConstants.MD });
   useCreateFormHbspt(hbsptSettings);
-  const styleFloats = {
-    position: "absolute",
-    right: isMobile ? 0 : "70px",
-    top: 0,
-    width: "82px",
-    height: "82px",
-  };
+  
   return (
     <section className="contat-blog2-form position-relative">
       <ContainerCustom>
-        <FloatInverse sx={styleFloats} />
         <div className="body">
           <div className="a">
             <LazyLoadImage

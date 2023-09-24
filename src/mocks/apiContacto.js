@@ -1,6 +1,5 @@
 import image from "../assets/sicssa/contacto/contacto.jpeg";
 const apiHome = {
-  //slug: "blog",// existe raiz del llamado a api
   items: [
     {
       type: "header-blog-component",
@@ -15,19 +14,24 @@ const apiHome = {
     },
     {
       type: "contact-blog2-component",
-      //image: "/src/assets/sicssa/contacto/contacto.jpeg",
       image: image,
       altImage: "iamgen",
       contact: {
-        title: "Cuéntanos un poco sobre tu proyecto",
+        title: "Informes dudas y comentarios",
         description:
-          "Déjanos tus datos y nos pondremos en contacto contigo.",
-      },
-      hbsptSettings: {
-        portalId: "43587290",
-        region: "na1",
-        formId: "d5077471-e5e0-401e-ac98-f6e42f6a3f4f",
-        target: "#hbspt-form-d5077471-e5e0-401e-ac98-f6e42f6a3f4f", // target is formid
+          `Contamos con 4 líneas disponibles, llámanos al
+          Teléfono:
+          <br>
+          (52 55) 5768 5508
+          <br>
+          E-mail
+          <br>
+          atencionaclientes@quantumdo.com
+          <br>
+          <br>
+          <h5>Dirección</h5>
+          Retorno 28 de Avenida del Taller, no. 18
+          Col. Jardín Balbuena, CP 15900, México DF`,
       },
     },
   ],

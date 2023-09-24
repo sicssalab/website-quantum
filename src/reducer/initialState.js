@@ -6,6 +6,19 @@ export default {
         isFetching: false,
         isSuccess: false,
         isError: false,
+        header: {
+            logo: {
+                src: null,
+                alt: ""
+            },
+            menu: []
+        },
+        footer: {
+            logo: {
+                src: null,
+                alt: ""
+            }
+        }
     },
     pageData: {
         isFetching: false,

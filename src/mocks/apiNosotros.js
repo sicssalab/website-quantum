@@ -14,22 +14,20 @@ const apiHome = {
     },
     {
       type: "style-lige-contact-component",
-      title: "LLEVAMOS TU EMPRESA AL MÁS ALTO NIVEL",
+      title: "Acerca de nosotros",
       description:
-        "A lo largo de nuestros proyectos, hemos trabajado con dedicación, compromiso, responsabilidad y Ética para ofrecer desarrollos con alto valor y  mayor seguridad.<br>Respaldados por más de 8 años de experiencia en ánalisis, diseño, desarrollo  y Mantenimiento en la realización de proyectos y con miles de codigos creados, somos referente de innovación en el sector.",
-      image: "/src/assets/sicssa/nosotros/nosotros.png",
-      imageMobile: "/src/assets/sicssa/nosotros/nosotros.png",
+        `Quantum Analytical es una empresa 100% nacional teniendo como principales objetivos la industria farmacéutica, química, petroquímica y de alimentos; así como universidades e institutos de investigación.
+        <br><br>
+        Para lograrlo contamos con la representación exclusiva de diversas marcas de reconocimiento mundial así como con el personal técnico especializado y capacitado para brindar asesoría, soporte técnico y el mantenimiento preventivo y correctivo necesario para garantizar el buen funcionamiento de los instrumentos de las marcas que representamos. Todos nuestros esfuerzos y conocimientos están enfocados en conjuntar lo anterior y así lograr cerrar al 100% el ciclo de un servicio integral.`,
     },
     {
       type: "mission-vision-body-component",
       missionTitle: "nUESTRA Misión",
       missionDescription:
-        "Nos esforzamos por garantizar el ÉXITO DEL CLIENTE mediante la prestación de servicios que satisfagan plenamente las expectativas y los requisitos.",
+        "La satisfacción total de nuestros clientes.",
       visionTitle: "nUESTRA VISIón",
       visionDescription:
-        "Nos impulsa a desarrollar soluciones que brinden una CALIDAD sobresaliente mediante la aplicación de experiencia y creatividad de clase mundial.",
-        image: "/src/assets/sicssa/nosotros/vision.png",
-        imageMobile: "/src/assets/sicssa/nosotros/vision.png",
+        "Ser la compañía de preferencia de nuestros clientes",
     },
     // {
     //   type: "press-contact",

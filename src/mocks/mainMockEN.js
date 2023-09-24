@@ -1,9 +1,9 @@
-import Logo from "../assets/miraro_blanco-01.svg"
+//import Logo from "../assets/miraro_blanco-01.svg"
 import pagesContants from "../constants/pagesContants";
 
 const mainMock = {
         logo: {
-            src: Logo,
+            //src: Logo,
             alt: "Sicssa lab",
             link: "/"
         },

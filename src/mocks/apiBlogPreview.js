@@ -1,6 +1,3 @@
-import pagesContants from "../constants/pagesContants";
-import Logo from "../assets/miraro_blanco-01.svg";
-
 import Img1 from "../assets/mocks/blog-preview/ordenador/portada-preview.webp";
 import ImgM1 from "../assets/mocks/blog-preview/mobile/portada-preview-mobile.webp";
 import apiItemsThumbnailBlogs from "./apiItemsThumbnailBlogs";

@@ -31,9 +31,9 @@ const MisionVisionSection = (props) => {
           };
     return (<section className="mission-component position-relative">
         <ContainerCustom>
-            <FloatInverse sx={styleFloats} />
             <div className="mission-body">
                 <div className="a">
+                    {(image || imageMobile) && (
                     <LazyLoadImage
                         src={
                             isMobile
@@ -45,6 +45,7 @@ const MisionVisionSection = (props) => {
                         className='size-img'
                         alt={missionTitle}
                     />
+                    )}
                 </div>
                 <div className="b">
                     {missionRender}
