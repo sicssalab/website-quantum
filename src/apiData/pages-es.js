@@ -56,11 +56,11 @@ const resource = {
                 link: "https://www.linkedin.com/company/quantum-do-analytical",
                 type: "linkedin"
             },
-            {
-                alt: "red network",
-                link: "https://www.youtube.com/@sicssalab",
-                type: "youtube"
-            },
+            // {
+            //     alt: "red network",
+            //     link: "https://www.youtube.com/@sicssalab",
+            //     type: "youtube"
+            // },
         ],
         itemsAboutUs: [
             {
@@ -75,18 +75,18 @@ const resource = {
                 order: 4,
                 orderMobile: 4,
             },
-            {
-                name: "Aviso  de Privacidad",
-                url: pagesContants.avisoPrivacidadES,
-                order: 3,
-                orderMobile: 3,
-            },
-            {
-                name: "Términos y Condiciones",
-                url: pagesContants.terminosCondicionesES,
-                order: 2,
-                orderMobile: 2,
-            },
+            // {
+            //     name: "Aviso  de Privacidad",
+            //     url: pagesContants.avisoPrivacidadES,
+            //     order: 3,
+            //     orderMobile: 3,
+            // },
+            // {
+            //     name: "Términos y Condiciones",
+            //     url: pagesContants.terminosCondicionesES,
+            //     order: 2,
+            //     orderMobile: 2,
+            // },
             {
                 name: "Contacto",
                 url: pagesContants.contactoES,

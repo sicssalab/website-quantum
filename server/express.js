@@ -55,7 +55,6 @@ app.get("*", async (req, res) => {
     encoding: 'utf8'
   });
   const dataRouter = await callRouterPage(locale);
-
   const appHTML = ReactDOMServer.renderToString(
     <HelmetProvider context={helmetContext}>
       <StoreProvider>

@@ -20,7 +20,7 @@ const ProductList = (props) => {
     isMobile ? "list" : "pagination"
   );
   const totalItems = items.length;
-  const itemsView = 5;
+  const itemsView = 6;
   const totalPages = Math.ceil(items.length / itemsView);
 
   useEffect(() => {
@@ -67,7 +67,6 @@ const ProductList = (props) => {
     const endItems = itemsView * newPage;
     setInsideItems(auxItems.slice(startItems, endItems));
   };
-  console.log(totalPages, pageView);
 
   const onClickButtonItem = (item) => {
     setItemSelect(item);
@@ -90,14 +89,12 @@ const ProductList = (props) => {
               );
             })}
         </div>
-        {totalPages !== pageView && (
           <PagePressSection
             onNextPage={nextPage}
             onPrevPage={prevPage}
             totalPages={totalPages}
             pageView={pageView}
           />
-        )}
         <ModalProduct
           item={itemSelect}
           show={modalShow}

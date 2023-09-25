@@ -6,22 +6,15 @@ const resource = {
     slug: pagesContants.contactoES,
     locale: "es",
     metadata: {
-        "metaTitle": "Contacto | Sicssa Lab",
-        "metaDescription": "Contáctanos y obtén información para obtener tu sitio web, aplicación móvil o desarrollo a la medida.",
-        "keywords": "Consultoría de TI, Consultoría de desarrollo de Software, Desarrollo de aplicaciones, Desarrollo de aplicaciones web, Desarrollo de software a la medida, Consultores de software, Desarrollo de aplicaciones móviles, Desarrollo de software escalable, Consultores en innovación tecnológica, automatización de procesos, programadores.",
+        "metaTitle": "Contacto | Quantum Analytical",
+        "metaDescription": "Contáctanos y obtén información sobre los productos que manejamos",
+        "keywords": "---",
         "url": pagesContants.contactoES, //canonical
-        "sitename": "SICSSA LAB",
+        "sitename": "Quantumdo",
         "type": "website",
-        //"follow": //TODO solo las que no llevan index agregarlo nofollow, noindex //Meta name=”robots” content=”noindex,nofollow”
-        "image": "/src/assets/sicssa/metatag-sicssa-lab.png"
+        //"image": "/src/assets/sicssa/metatag-sicssa-lab.png"
     },
-    localizations: [
-        {
-            "shortName": "Contact",
-            slug: pagesContants.contactoEN,
-            "locale": "en"
-        }
-    ],
+    localizations: [],
     ...apiHome
 }
 

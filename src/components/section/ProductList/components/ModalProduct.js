@@ -2,9 +2,10 @@ import React from "react";
 import Button from "react-bootstrap/Button";
 import Modal from "react-bootstrap/Modal";
 import Press from "../../PressList/components/Press";
+import MediaVideo from "../../Experience/components/MediaVideo";
 
 const ModalProduct = (props) => {
-    const {item, ...rest} = props;
+  const { item, ...rest } = props;
   return (
     <Modal
       id="modal_product"
@@ -20,17 +21,23 @@ const ModalProduct = (props) => {
       </Modal.Header>
       <Modal.Body>
         {item && (
-        <Press
-            title={item.name}
-            description={item.descriptionLong}
-            alt={item.name}
-            logo={item.srcImage}
-        />
-
+          <>
+            <Press
+              title={item.name}
+              description={item.descriptionLong}
+              alt={item.name}
+              logo={item.srcImage}
+            />
+            {item.videoLink && <div style={{ display: "flex", justifyContent: "center", iframe: {
+              width: "100%"
+            }}}><MediaVideo videoLink={item.videoLink} /></div>}
+          </>
         )}
       </Modal.Body>
       <Modal.Footer>
-        <Button href={`mailto:mercadotecnia5@quantumdo.com`}>Contacto por correo electrónico</Button>
+        <Button href={`mailto:mercadotecnia5@quantumdo.com`}>
+          Contacto por correo electrónico
+        </Button>
         <Button onClick={props.onHide}>Cerrar modal</Button>
       </Modal.Footer>
     </Modal>

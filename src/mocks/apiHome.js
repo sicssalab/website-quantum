@@ -1,5 +1,3 @@
-import proyectsMock from "./proyectsMock";
-import pressMock from "./serviciosHomeMock";
 import pagesContants from "../constants/pagesContants";
 import mainHeader1 from "../assets/sicssa/home/main.jpeg";
 
@@ -9,24 +7,23 @@ const apiHome = {
         {
             type: "header-component",
             title: "Analytycal Solutions <br /><strong>for Quality Assurance</strong>",
-            //description: "Con tecnología de ingeniería avanzada, damos solución a los proyectos más demandantes",
             isLanding: false,
             socialNetwork: [
                 {
                     alt: "red network",
-                    link: "https://www.facebook.com/sicssalab",
+                    link: "https://www.facebook.com/QuantumAnalytical",
                     type: "facebook"
                 },
                 {
                     alt: "red network",
-                    link: "https://www.linkedin.com/company/sicssa-lab",
+                    link: "https://www.linkedin.com/company/quantum-do-analytical",
                     type: "linkedin"
                 },
-                {
-                    alt: "red network",
-                    link: "https://www.youtube.com/@sicssalab",
-                    type: "youtube"
-                },
+                // {
+                //     alt: "red network",
+                //     link: "https://www.youtube.com/@sicssalab",
+                //     type: "youtube"
+                // },
             ],
             items: [
                 {
@@ -63,11 +60,11 @@ const apiHome = {
             <li>Soporte y asesoría técnica que garantiza el buen funcionamiento de los instrumentos</li>
             </ul>
             No dude en contactarse con nosotros para recibir asistencia e información sobre nuestros servicios.`,
-            videoType: "youtube",
-            altImage:'Imagen Experience',
-            frontPage: "https://sicssalab.net/test-miraro/mocks/home/video-miraro-webp.webp",
-            frontPageMobile: "https://sicssalab.net/test-miraro/mocks/home/video-miraro.webp",
-            videoLink: "I69BKXFRm4U"
+            // videoType: "youtube",
+            // altImage:'Imagen Experience',
+            // frontPage: "https://sicssalab.net/test-miraro/mocks/home/video-miraro-webp.webp",
+            // frontPageMobile: "https://sicssalab.net/test-miraro/mocks/home/video-miraro.webp",
+            // videoLink: "I69BKXFRm4U"
         },
     ]
 }

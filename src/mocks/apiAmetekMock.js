@@ -107,7 +107,7 @@ const apiSelcaEscondidaMock = {
         },
         {
           alt: "alt-logo",
-          srcImage: producto3_2,
+          srcImage: producto3_1,
           name: "La próxima generación en análisis de humedad libre de químicos",
           description:
             "Capacidad de repetibilidad mejorada, precisión, flexibilidad y una interfaz de usuario avanzada: el Vapor Pro® XL es lo último en tecnología de análisis específico de humedad de Computrac®. El VPXL es ideal para casi cualquier aplicación en la que se utilice la valoración de Karl Fischer. Cuenta con un calentador mejorado y un mayor control sobre las temperaturas de prueba. El VPXL también es compatible con múltiples tamaños de viales de muestra y está equipado con capacidades de prueba de temperatura escalonada para mejorar el desarrollo de métodos.",

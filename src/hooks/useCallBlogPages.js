@@ -25,7 +25,6 @@ const useCallBlogPages = (idSlug) => {
                 });
         }
         else {
-            console.log("llamando paginas desde session", auxResponse)
             pageDataAction.update(auxResponse, dispatch);
         }
 

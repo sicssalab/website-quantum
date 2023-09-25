@@ -150,7 +150,7 @@ const callPage = (locale, slug) => {
         data = require(`./data-${typePage}-${locale.toLowerCase()}.js`);
     }
     catch(_) {
-        console.error(_)
+        console.error(_, slug)
         data = null;
     }
 

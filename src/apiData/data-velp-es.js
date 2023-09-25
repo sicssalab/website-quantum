@@ -6,14 +6,13 @@ const resource = {
     slug: pagesContants.landingVelp,
     locale: "es",
     metadata: {
-        "metaTitle": "Selva Escondida II | Sicssa lab",
-        "metaDescription": "Departamentos en Puerto Morelos con más de 30 amenidades tipo resort.",
+        "metaTitle": "Quantum Analytical: VELP Scientifica",
+        "metaDescription": "---",
         "keywords": "",
         "url": pagesContants.landingVelp, //canonical
-        "sitename": "Sicssa lab",
+        "sitename": "Quantumdo",
         "type": "website",
-        //"follow": //TODO solo las que no llevan index agregarlo nofollow, noindex //Meta name=”robots” content=”noindex,nofollow”
-        "image": "https://sicssalab.net/test-miraro/mocks/metadatos/Selva-Escondida-II-Portadas-metadata---Miraro-Web.png"
+        //"image": "https://sicssalab.net/test-miraro/mocks/metadatos/Selva-Escondida-II-Portadas-metadata---Miraro-Web.png"
     },
     localizations: [
     ],
