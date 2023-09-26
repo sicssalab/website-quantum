@@ -2420,6 +2420,23 @@ El OXITEST gracias a su conectividad a VELP Ermes te permite reducir las operaci
       type: "product-list",
       title: "Equipo de laboratorio",
       items: [
+        {
+          alt: "alt-logo",
+          srcImage: pro01_1,
+          typeProduct: {
+            name: "Agitadores",
+            keyname: "agitadores",
+          },
+          categoryProduct: {
+            name: "Agitadores Magneticos",
+            keyname: "agitadores-magneticos",
+          },
+          name: "",
+          description: "",
+          descriptionLong: ``,
+          videoLink: "",
+          sendPriceText: "Ver más información",
+        },
       ],
     },
   ],
