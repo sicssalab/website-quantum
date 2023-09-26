@@ -27,6 +27,20 @@ import pro11_1 from "../assets/landings/velp/instruments/digestores/dk-18-26/1Kj
 import pro12_1 from "../assets/landings/velp/instruments/digestores/dk-20/1Kjeldhal-Digestion-DK20-01-223724-228529.jpg";
 import pro13_1 from "../assets/landings/velp/instruments/digestores/dk-42-26/1Kjeldhal-Digestion-DK42-26-01-223830-228563.jpg";
 import pro14_1 from "../assets/landings/velp/instruments/digestores/ks-1000/1KS10003-4-284151.jpg";
+import pro15_1 from "../assets/landings/velp/instruments/destilacion/udk-169/1VELPUDK169Autokjel01-282149-282184.jpg";
+import pro16_1 from "../assets/landings/velp/instruments/destilacion/udk-159/1UDK159-01-251263-251797.jpg";
+import pro17_1 from "../assets/landings/velp/instruments/destilacion/udk-149/1UDK149-01-251996-252032.jpg";
+import pro18_1 from "../assets/landings/velp/instruments/destilacion/udk-139/1UDK139-01-252106-252124.jpg";
+import pro19_1 from "../assets/landings/velp/instruments/destilacion/udk-129/1UDK129-01-251731-251743.jpg";
+import pro20_1 from "../assets/landings/velp/instruments/extractores/ser-158/1VELPSER15801-211057-228410.jpg";
+import pro21_1 from "../assets/landings/velp/instruments/extractores/ser-148/1SER-148F30300242-237507-237522.jpg";
+import pro22_1 from "../assets/landings/velp/instruments/extractores/hu-6/1VELPHU6NEW01-223956-228365.jpg";
+import pro23_1 from "../assets/landings/velp/instruments/analizadores/FIWE/1VELPFIWEADVANCE01-211147-227909.jpg";
+import pro24_1 from "../assets/landings/velp/instruments/analizadores/fire-semiautomatico/1VELPFIWESA30520200-237585-237639.jpg";
+import pro25_1 from "../assets/landings/velp/instruments/extractores/coex/1VELPCOEX01-211220-228218.jpg";
+import pro26_1 from "../assets/landings/velp/instruments/digestores/dge/1VELPGDESA30400209-210763-228263.jpg";
+import pro27_1 from "../assets/landings/velp/instruments/filtradores/CSF6/1VELPCSF6F30420210-210755-227863.jpg";
+import pro28_1 from "../assets/landings/velp/instruments/estabilizadores/OXITEST-reactor/1VELPOXITESTF30910248-211998-227905.jpg";
 
 const apiSelcaEscondidaMock = {
   items: [
@@ -1239,19 +1253,1165 @@ Ahorro de espacio: el estrecho espacio que ocupa ahorra un valioso espacio en la
         },
         {
           alt: "alt-logo",
-          srcImage: pro01_1,
+          srcImage: pro15_1,
           typeProduct: {
-            name: "Unidad de digestion",
-            keyname: "unidad-digestion",
+            name: "Unidad de destilación",
+            keyname: "unidad-destilacion",
           },
           categoryProduct: {
-            name: "XXXXSistema de neutralización de humo",
-            keyname: "XXXXsistema-de-neutralizacion-de-humo",
+            name: "destilación y titulación automatica",
+            keyname: "destilacion-y-titulacion-automatica",
           },
-          name: "",
-          description: "",
-          descriptionLong: ``,
+          name: "Analizador automático Kjeldahl UDK 169 con automuestreador AutoKjel",
+          description: "Sistema automático de destilación y titulación para la determinación de nitrógeno proteico Kjeldahl, nitrógeno no proteico (NNP), ácidos volátiles y otros analitos. Conexión  a un automuestreador, para una alta productividad, máxima flexibilidad y funcionamiento autónomo.",
+          descriptionLong: `Sistema automático de destilación y titulación para la determinación de nitrógeno proteico Kjeldahl, nitrógeno no proteico (NNP), ácidos volátiles y otros analitos. Conexión  a un automuestreador, para una alta productividad, máxima flexibilidad y funcionamiento autónomo.
+          <br><br>
+          <h5>Seguridad, fiabilidad y precisión para laboratorios que buscan el máximo grado de automatización</h5>
+          Con UDK 169 es posible automatizar el proceso de destilación y titulación para garantizar a todos los laboratorios que manejan un gran número de muestras diarias una solución precisa, fiable y capaz de reducir los costes operativos mediante la optimización de los recursos.
+          <br><br>
+          
+          UDK 169 con automuestreador AutoKjel ofrece resultados extremadamente precisos y reproducibles de nitrógeno total Kjeldahl TKN, proteínas, nitrógeno amoniacal, nitrógeno nítrico (Devarda), NBVT, sulfitos , fenoles, ácidos volátiles, cianuros y contenido alcohólico.
+          <br><br>
+          <ul>
+          <li>Maximización de la eficiencia gracias a que la destilación y la titulación se realizan de manera simultánea</li>
+          <li>Resultados rápidos gracias a la titulación en línea y al cálculo automático de los resultados</li>
+          <li>Máxima precisión y exactitud de los resultados gracias al titulador colorimétrico integrado con bureta de alta precisión</li>
+          <li>Ajuste rápido y adición automática de ácido bórico, agua e hidróxido de sodio</li>
+          <li>Ajuste de la potencia del generador de vapor del 10 % al 100 % para la máxima versatilidad de aplicación</li>
+          <li>Extracción automática de residuos del titulador y de la probeta</li>
+          <li>Operaciones inteligentes gracias a la interfaz de usuario extremadamente intuitiva</li>
+          <li>Reducción del contacto con agentes químicos para la máxima seguridad de los operadores</li>
+          <li>Máxima flexibilidad gracias a la amplia gama de accesorios</li>
+          </ul>
+          <br><br>
+          <h5>Máxima productividad con el automuestreador AutoKjel</h5>
+          
+          El UDK 169 puede utilizarse junto con el automuestreador AutoKjel para lograr un sistema de alta productividad capaz de procesar de forma autónoma hasta 24 muestras con probetas estándar (250 ml) o 21 muestras con probetas Jumbo (400 ml).  
+          <br><br>
+          
+          Las probetas que contienen las muestras digeridas se transfieren desde el carrusel al analizador Kjeldahl UDK 169 de forma totalmente automática, para obtener resultados precisos y fiables. Todo ello con total seguridad, con una extrema facilidad de uso y sin necesidad de la presencia de un operador.  
+          <br><br>
+          
+          UDK 169 y AutoKjel están diseñados para un funcionamiento continuo, con el fin de garantizar la máxima productividad y automatización incluso en el procesamiento de datos de análisis.
+          <br><br>
+          
+          <h5>Precisión y exactitud superiores</h5>
+          
+          El titulador colorimétrico del analizador automático Kjeldahl UDK 169 garantiza una alta precisión, exactitud y rendimiento a lo largo del tiempo.
+          <br><br>
+          
+          Con un límite de detección (LOD) de 0,015 mgN y un límite de cuantificación (LOQ) de 0,04 mgN, el UDK 169 también es perfecto para análisis con muestras con bajo contenido de nitrógeno.
+          <br><br>
+          
+          El sistema se basa en la medición colorimétrica de una reacción química con determinación automática del punto final.
+          <br><br>
+          <h5>Ventajas del titulador colorimétrico VELP:</h5>
+          <ul>
+          <li>procedimiento totalmente automático</li>
+          <li>No requiere calibración</li>
+          <li>No necesita mantenimiento</li>
+          </ul>
+          <br><br>
+          
+          El UDK 169 permite realizar una supervisión constante de la titulación gracias al sistema de gráfico en tiempo real montado directamente en el aparato.
+          <br><br>
+          
+          <h5>Tecnologías exclusivas para dar soporte a su laboratorio</h5>
+          
+          El UDK 169 está equipado con el exclusivo condensador de titanio VELP, diseñado y patentado para garantizar un intercambio de calor eficiente y un bajo consumo de agua.
+          <br><br>
+          
+          El condensador de titanio garantiza una temperatura del destilado siempre por debajo del valor umbral (35 °C), como se indica en el método Kjeldahl, sin pérdidas de nitrógeno.
+          <br><br>
+          
+          <ul>
+          <li>Consumo de agua reducido al mínimo</li>
+          <li>Material altamente resistente que garantiza un alto rendimiento a lo largo del tiempo</li>
+          <li>Los riesgos de rotura durante la limpieza rutinaria del instrumento se reducen al mínimo</li>
+          </ul>
+          <br><br>
+          
+          El exclusivo grupo de protección VELP fabricado en tecnopolímero incorporado en el UDK 169 está diseñado para garantizar un alto rendimiento a lo largo del tiempo y una resistencia sin precedentes.
+          <br><br>
+          <ul>
+          <li>Materiales resistentes a los productos químicos agresivos</li>
+          <li>Máxima resistencia con una vida útil de hasta 10 000 análisis</li>
+          <li>No requiere mantenimiento y no tiene riesgo de rotura</li>
+          </ul>
+          <br><br>
+          <h5>Fiabilidad y seguridad ante todo</h5>
+          El UDK 169 está equipado con el conjunto de funciones más completo y avanzado para la seguridad de los operadores en el laboratorio. Varios sensores supervisan, entre otros, la colocación de la probeta, los orificios de seguridad, los niveles de reactivos y el flujo del agua de refrigeración.
+          <br><br>
+          
+          El generador de vapor patentado VELP garantiza unas condiciones de trabajo seguras al funcionar sin presión:
+          <br><br>
+          <ul>
+          <li>Calentamiento rápido</li>
+          <li>Alto rendimiento y resistencia</li>
+          <li>No requiere mantenimiento</li>
+          <li>Uso de agua desionizada</li>
+          </ul>
+          <br><br>
+          
+          <h5>Software intuitivo para un uso inmediato del aparato y una gestión óptima de los datos</h5>
+          La pantalla táctil a color de 7" y el software intuitivo guían al operador paso a paso.
+          <br><br>
+          <ul>
+          <li>Gestión de usuarios con 3 niveles de autorizaciones y permisos, de conformidad con GLP</li>
+          <li>Gráfico de la titulación en tiempo real</li>
+          <li>Función de destilación en serie que acelera la entrada de datos</li>
+          <li>Cálculo automático de los resultados y archivado integrado</li>
+          <li>Funciones de control para el automuestreador AutoKjel</li>
+          <li>Estadísticas de análisis y condiciones del aparato</li>
+          <li>Exportación de datos en formato .xls, .txt, .csv y compatibilidad optimizada para LIMS</li>
+          </ul>
+          <br><br>
+          La  tecnología de códigos de barras opcional facilita la gestión de los datos de destilación y el cálculo de los resultados.
+          <br><br>
+          
+          El software UDK 169 está preparado para la actualización con un paquete 21 CFR parte 11 opcional para los laboratorios de la industria farmacéutica, cosmética y alimentaria que necesitan operar de acuerdo con las regulaciones de la FDA.
+          <br><br>
+          
+          
+          Procesos eficientes y asistencia sin precedentes con VELP Ermes Cloud Platform
+          <br><br>
+          
+          
+          El UDK 169 ofrece la posibilidad exclusiva de conectarse vía Wi-Fi o LAN a la innovadora  plataforma en la nube VELP Ermes, la solución Smart Lab que permite reducir las operaciones rutinarias mediante la supervisión en tiempo real de los análisis Kjeldahl en cualquier lugar y en cualquier momento.
+          <br><br>
+          
+          Con un ordenador, teléfono inteligente o tableta es posible gestionar varios aparatos al mismo tiempo, consumibles, flujos de trabajo, datos de los análisis y condiciones de trabajo de los aparatos.
+          <br><br>
+          
+          Las notificaciones y alertas inmediatas le permitirán estar siempre informado del estado de sus análisis y, gracias a la interrupción remota, tendrá un control total de sus procesos con la máxima seguridad garantizada.
+          <br><br>
+          
+          Dé acceso a aparatos y datos solo a miembros específicos de su empresa y elija individualmente si desea compartir información directamente con VELP o con centros de servicio autorizados para beneficiarse de un menor tiempo de diagnóstico y de un mejor servicio de asistencia.
+          <br><br>
+          
+          La determinación del nitrógeno y su laboratorio alcanzan un nuevo nivel de productividad con la plataforma en la nube de VELP Ermes.
+          <br><br>
+          <h5>Tecnología TEMS™</h5>
+          
+          
+          
+          Los destiladores Kjeldahl de la serie UDK incorporan la tecnología TEMS™, capaz de garantizar un ahorro significativo.
+          <br><br>
+          
+          
+          Tiempo: calentamiento rápido
+          <br>
+          Energía: consumo de energía limitado
+          <br>
+          Dinero: reducción de los costes de cada análisis.  
+          <br>
+          Espacio: perfil compacto, ocupa muy poco espacio en la mesa de laboratorio.
+          `,
           videoLink: "",
+          sendPriceText: "Ver más información",
+        },
+        {
+          alt: "alt-logo",
+          srcImage: pro16_1,
+          typeProduct: {
+            name: "Unidad de destilación",
+            keyname: "unidad-destilacion",
+          },
+          categoryProduct: {
+            name: "destilación y titulación automatica",
+            keyname: "destilacion-y-titulacion-automatica",
+          },
+          name: "UDK 159 Analizador automático Kjeldahl",
+          description: "Sistema automático de destilación y titulación Kjeldahl para la determinación de nitrógeno proteico, nitrógeno no proteico (NPN), ácidos volátiles y otros analitos. La solución que satisface las exigencias más elevadas en términos de precisión, exactitud y seguridad.",
+          descriptionLong: `Sistema automático de destilación y titulación Kjeldahl para la determinación de nitrógeno proteico, nitrógeno no proteico (NPN), ácidos volátiles y otros analitos. La solución que satisface las exigencias más elevadas en términos de precisión, exactitud y seguridad.
+          <br><br>
+          <h5>Seguridad, fiabilidad y precisión para laboratorios que buscan el máximo grado de automatización</h5>
+          Con UDK 159 es posible automatizar el proceso de destilación y titulación para garantizar a todos los laboratorios que manejan un gran número de muestras diarias una solución precisa, fiable y capaz de reducir los costes operativos mediante la optimización de los recursos.
+          <br><br>
+          
+          UDK 159 ofrece resultados extremadamente precisos y reproducibles de nitrógeno total Kjeldahl TKN, proteínas, nitrógeno amoniacal, nitrógeno nítrico (Devarda), NBVT, sulfitos, fenoles, ácidos volátiles, cianuros y contenido alcohólico.
+          <br><br>
+          <ul>
+          <li>Maximización de la eficiencia gracias a que la destilación y la titulación se realizan de manera simultánea</li>
+          <li>Resultados rápidos gracias a la titulación en línea y al cálculo automático de los resultados</li>
+          <li>Máxima precisión y exactitud de los resultados gracias al titulador colorimétrico integrado con bureta de alta precisión</li>
+          <li>Ajuste rápido y adición automática de ácido bórico, agua e hidróxido de sodio</li>
+          <li>Ajuste de la potencia del generador de vapor del 10 % al 100 % para la máxima versatilidad de aplicación</li>
+          <li>Extracción automática de residuos del titulador y de la probeta</li>
+          <li>Operaciones inteligentes gracias a la interfaz de usuario extremadamente intuitiva</li>
+          <li>Reducción del contacto con agentes químicos para la máxima seguridad  de los operadores</li>
+          <li>Máxima flexibilidad gracias a la amplia gama de accesorios</li>
+          </ul>
+          
+          <h5>Precisión y exactitud superiores</h5>
+          
+          El titulador colorimétrico del analizador automático Kjeldahl UDK 159 garantiza una alta precisión, exactitud y rendimiento a lo largo del tiempo.
+          <br><br>
+          
+          Con un límite de detección (LOD) de 0,015 mgN y un límite de cuantificación (LOQ) de 0,04 mgN, el UDK 159 también es perfecto para análisis con muestras con bajo contenido de nitrógeno.
+          <br><br>
+          
+          El sistema se basa en la medición colorimétrica de una reacción química con determinación automática del punto final.
+          <br><br>
+          
+          Ventajas del titulador colorimétrico VELP:
+          <ul>
+          <li>procedimiento totalmente automático</li>
+          <li>No requiere calibración</li>
+          <li>No necesita mantenimiento</li>
+          </ul>
+          
+          
+          
+          El UDK 159 permite realizar una supervisión constante de la titulación gracias al  sistema de gráfico en tiempo real montado directamente en el aparato.
+          <br><br>
+          
+          <h5>Tecnologías exclusivas para dar soporte a su laboratorio</h5>
+          
+          El UDK 159 está equipado con el exclusivo condensador de titanio VELP, diseñado y patentado para garantizar un intercambio de calor eficiente y un bajo consumo de agua.
+          <br><br>
+          
+          El condensador de titanio garantiza una temperatura del destilado siempre por debajo del valor umbral (35 °C), como se indica en el método Kjeldahl, sin pérdidas de nitrógeno.
+          <ul>
+          <li>Consumo de agua reducido al mínimo</li>
+          <li>Material altamente resistente que garantiza un alto rendimiento a lo largo del tiempo</li>
+          <li>Los riesgos de rotura durante la limpieza rutinaria del instrumento se reducen al mínimo</li>
+          </ul>
+          <br><br>
+          
+          El exclusivo grupo de protección VELP fabricado en tecnopolímero incorporado en el UDK 159 está diseñado para garantizar un alto rendimiento a lo largo del tiempo y una resistencia sin precedentes.
+          <ul>
+          <li>Materiales resistentes a los productos químicos agresivos</li>
+          <li>Máxima resistencia con una vida útil de hasta 10 000 análisis</li>
+          <li>No requiere mantenimiento y no tiene riesgo de rotura</li>
+          </ul>
+          
+          <h5>Fiabilidad y seguridad, ante todo</h5>
+          
+          El UDK 159 está equipado con el conjunto de funciones más completo y avanzado para la seguridad de los operadores en el laboratorio. Varios sensores supervisan, entre otros, la colocación de la probeta, los orificios de seguridad, los niveles de reactivos y el flujo del agua de refrigeración.
+          <br><br>
+          
+          El  generador de vapor patentado VELP garantiza unas condiciones de trabajo seguras al funcionar sin presión:
+          <ul>
+          <li>Calentamiento rápido</li>
+          <li>Alto rendimiento y resistencia</li>
+          <li>No requiere mantenimiento</li>
+          <li>Uso de agua desionizada</li>
+          </ul>
+          
+          Software intuitivo para un uso inmediato del instrumento y una gestión óptima de los datos
+          <br><br>
+          
+          
+          La pantalla táctil a color de 7" y el software intuitivo guían al operador paso a paso.
+          <ul>
+          <li>Gestión de usuarios con 3 niveles de autorizaciones y permisos, de conformidad con GLP</li>
+          <li>Gráfico de la titulación en tiempo real</li>
+          <li>Función de destilación en serie que acelera la entrada de datos</li>
+          <li>Cálculo automático de los resultados y archivado integrado</li>
+          <li>Estadísticas de análisis y condiciones del aparato</li>
+          <li>Exportación de datos en formato .xls, .txt, .csv y compatibilidad optimizada para LIMS</li>
+          </ul>
+          
+          La  tecnología de códigos de barras opcional facilita la gestión de los datos de destilación y el cálculo de los resultados.
+          <br><br>
+          
+          El software UDK 159 está preparado para la actualización con un paquete  21 CFR parte 11 opcional para los laboratorios de la industria farmacéutica, cosmética y alimentaria que necesitan operar de acuerdo con las regulaciones de la FDA.
+          Procesos eficientes y asistencia sin precedentes con VELP Ermes Cloud Platform
+          <br><br>
+          
+          
+          El UDK 159 ofrece la posibilidad exclusiva de conectarse vía Wi-Fi o LAN a la innovadora plataforma en la nube VELP Ermes, la solución Smart Lab que permite reducir las operaciones rutinarias mediante la supervisión en tiempo real de los análisis Kjeldahl en cualquier lugar y en cualquier momento.
+          <br><br>
+          
+          Con un ordenador, teléfono inteligente o tableta es posible gestionar varios aparatos al mismo tiempo, consumibles, flujos de trabajo, datos de los análisis y condiciones de trabajo de los aparatos.
+          <br><br>
+          
+          Las notificaciones y alertas inmediatas le permitirán estar siempre informado del estado de sus análisis y, gracias a la interrupción remota, tendrá un control total de sus procesos con la máxima seguridad garantizada.
+          <br><br>
+          
+          Dé acceso a aparatos y datos solo a miembros específicos de su empresa y elija individualmente si desea compartir información directamente con VELP o con centros de servicio autorizados para beneficiarse de un menor tiempo de diagnóstico y de un mejor servicio de asistencia.
+          <br><br>
+          
+          La determinación del nitrógeno y su laboratorio alcanzan un nuevo nivel de productividad con la  plataforma en la nube de VELP Ermes.
+          <br><br>
+          <h5>Tecnología TEMS™</h5>
+          Ahorre tiempo, energía, dinero y espacio
+          <br><br>
+          
+          Los destiladores Kjeldahl de la serie UDK incorporan la tecnología TEMS™, capaz de garantizar un ahorro significativo.
+          <br><br>
+          
+          Tiempo: calentamiento rápido
+          <br>
+          Energía: consumo de energía limitado
+          <br>
+          Dinero: reducción de los costes de cada análisis
+          <br>
+          Espacio: perfil compacto, ocupa muy poco espacio en la mesa de laboratorio
+          `,
+          videoLink: "4RPSSHXC9Vs",
+          sendPriceText: "Ver más información",
+        },
+        {
+          alt: "alt-logo",
+          srcImage: pro17_1,
+          typeProduct: {
+            name: "Unidad de destilación",
+            keyname: "unidad-destilacion",
+          },
+          categoryProduct: {
+            name: "destilación y titulación automatica",
+            keyname: "destilacion-y-titulacion-automatica",
+          },
+          name: "Destilador automático Kjeldahl UDK 149",
+          description: "Destilador automático para la determinación de nitrógeno proteico Kjeldahl, nitrógeno no proteico (NPN), ácidos volátiles y otros analitos. Conexión a tituladores potenciométricos externos para un manejo optimizado de un mayor número de muestras, mayor flexibilidad y precisión.",
+          descriptionLong: `Destilador automático para la determinación de nitrógeno proteico Kjeldahl, nitrógeno no proteico (NPN), ácidos volátiles y otros analitos. Conexión a tituladores potenciométricos externos para un manejo optimizado de un mayor número de muestras, mayor flexibilidad y precisión.
+          <br><br>
+          <h5>Máxima flexibilidad, precisión y versatilidad para su laboratorio</h5>
+          UDK 149 está diseñado para ofrecer la máxima versatilidad y resultados reproducibles para la determinación de nitrógeno Kjeldahl TKN, proteínas, nitrógeno amoniacal, nitrógeno nítrico (según Devarda), NBVT, sulfitos, fenoles, ácidos volátiles, cianuros y contenido alcohólico.
+          <br><br>
+          
+          El UDK 149 se puede utilizar junto con varios modelos de tituladores potenciométricos externos para aumentar la productividad analizando un gran número de muestras y obteniendo rápidamente el resultado final.
+          <br><br>
+          <ul>
+          <li>Conexión a varios tituladores externos para operaciones automatizadas y eficientes</li>
+          <li>Máxima precisión y exactitud de los resultados</li>
+          <li>Configuración rápida y adición automática de ácido bórico, agua e hidróxido de sodio</li>
+          <li>Ajuste  de la  potencia del generador de vapor del 10 % al 100 % para una máxima versatilidad de aplicación</li>
+          <li>Extracción automática de residuos de la probeta</li>
+          <li>Operaciones inteligentes gracias a la interfaz de usuario extremadamente intuitiva</li>
+          <li>Reduce el contacto con los agentes químicos para la máxima seguridad  del operador</li>
+          <li>Máxima flexibilidad gracias a la amplia gama de accesorios</li>
+          </ul>
+          <h5>Eficiencia y precisión con la titulación potenciométrica</h5>
+          
+          El analizador automático Kjeldahl UDK 149 en combinación con el titulador potenciométrico externo garantiza versatilidad, precisión y exactitud.
+          <br><br>
+          
+          La posibilidad de conectar el destilador UDK 149 con un titulador potenciométrico externo permite automatizar fácilmente el último paso del método Kjeldahl  para obtener directamente el resultado final,  con un considerable ahorro de tiempo.
+          <br><br>
+          Ventajas:
+          <ul>
+          <li>Titulación potenciométrica para determinaciones de alta precisión</li>
+          <li>Solución modular que se adapta a las necesidades más diversas</li>
+          <li>Eficiencia</li>
+          </ul>
+          
+          <h5>Tecnologías exclusivas para dar soporte a su laboratorio</h5>
+          El UDK 149 está equipado con el exclusivo condensador de titanio VELP, diseñado y patentado para garantizar un intercambio de calor eficiente y un bajo consumo de agua.
+          <br><br>
+          
+          El condensador de titanio garantiza una temperatura del destilado siempre por debajo del valor umbral (35 °C), como se indica en el método Kjeldahl, sin pérdidas de nitrógeno.
+          <ul>
+          <li>Consumo de agua reducido al mínimo</li>
+          <li>Material altamente resistente que garantiza un alto rendimiento a lo largo del tiempo</li>
+          <li>Los riesgos de rotura durante la limpieza rutinaria del instrumento se reducen al mínimo</li>
+          </ul>
+
+          El exclusivo grupo de protección VELP fabricado en tecnopolímero incorporado en el UDK 149 está diseñado para garantizar un alto rendimiento a lo largo del tiempo y una resistencia sin precedentes.
+          <ul>
+          <li>Materiales resistentes a los productos químicos agresivos</li>
+          <li>Máxima resistencia con una vida útil de hasta 10 000 análisis</li>
+          <li>No requiere mantenimiento y no tiene riesgo de rotura</li>
+          </ul>
+          
+          <h5>Fiabilidad y seguridad ante todo</h5>
+          
+          El UDK 149 está equipado con el conjunto de funciones más completo y avanzado para la seguridad de los operadores en el laboratorio. Varios sensores supervisan, entre otros, la colocación de la probeta, los orificios de seguridad, los niveles de reactivos y el flujo del agua de refrigeración.
+          <br><br>
+          
+          El  generador de vapor patentado VELP garantiza unas condiciones de trabajo seguras al funcionar sin presión:
+          <ul>
+          <li>Calentamiento rápido</li>
+          <li>Alto rendimiento y resistencia</li>
+          <li>No requiere mantenimiento</li>
+          <li>Uso de agua desionizada</li>
+          </ul>
+          <br><br>
+          
+          Software intuitivo para un uso inmediato del aparato y una gestión óptima de los datos
+          La pantalla táctil a color de 7" y el software intuitivo guían al operador paso a paso. La configuración de parámetros y la consulta de los resultados de los análisis son extremadamente sencillas y rápidas.
+          <br><br>
+          
+          Determine quién puede acceder a las herramientas y los datos con la función de gestión de usuarios.
+          Gestión de usuarios con 3 niveles de autorizaciones y permisos, de acuerdo con GLP
+          Archivo integrado de los resultados
+          Función de destilación en serie que acelera la introducción de los datos
+          Exportación de datos en formatos .xls, .txt, .csv y compatibilidad optimizada para LIMS 
+          <br><br>
+          
+          
+          La  tecnología opcional con código de barras simplifica la gestión de los datos de destilación y el cálculo de los resultados.
+          Procesos eficientes y asistencia sin precedentes con VELP Ermes Cloud Platform
+          El UDK 149  ofrece la posibilidad exclusiva de conectarse vía  Wi-Fi o LAN a la innovadora plataforma en la nube VELP Ermes, la solución Smart Lab que permite reducir las operaciones rutinarias mediante la supervisión en tiempo real de los análisis Kjeldahl en cualquier lugar y en cualquier momento.
+          <br><br>
+          
+          Con un ordenador, teléfono inteligente o tableta es posible gestionar varios aparatos al mismo tiempo, consumibles, flujos de trabajo, datos de los análisis y condiciones de trabajo de los aparatos.
+          <br><br>
+          
+          Las notificaciones y alertas inmediatas le permitirán estar siempre informado del estado de sus análisis y, gracias a la interrupción remota, tendrá un control total de sus procesos con la máxima seguridad garantizada.
+          <br><br>
+          
+          Dé acceso a aparatos y datos solo a miembros específicos de su empresa y elija individualmente si desea compartir información directamente con VELP o con centros de servicio autorizados para beneficiarse de un menor tiempo de diagnóstico y de un mejor servicio de asistencia.
+          <br><br>
+          
+          La determinación del nitrógeno y su laboratorio alcanzan un nuevo nivel de productividad con la plataforma en la nube de VELP Ermes.
+          <br><br>
+          <h5>Tecnología TEMS™</h5>
+          Los destiladores Kjeldahl de la serie UDK incorporan la tecnología TEMS™, capaz de garantizar un ahorro significativo.
+          <br><br>
+          
+          
+          Tiempo: calentamiento rápido
+          <br>
+          Energía: consumo de energía limitado
+          <br>
+          Dinero: reducción de los costes de cada análisis.
+          <br>
+          Espacio: perfil compacto, ocupa muy poco espacio en la mesa de laboratorio.
+          `,
+          videoLink: "coNx1nGYpuU",
+          sendPriceText: "Ver más información",
+        },
+        {
+          alt: "alt-logo",
+          srcImage: pro18_1,
+          typeProduct: {
+            name: "Unidad de destilación",
+            keyname: "unidad-destilacion",
+          },
+          categoryProduct: {
+            name: "Destiladores semiautomaticos",
+            keyname: "destiladores-semiautomaticos",
+          },
+          name: "Destilador semiautomático Kjeldahl UDK 139",
+          description: "Destilador semiautomático para la determinación de nitrógeno proteico Kjeldahl, nitrógeno no proteico (NPN), ácidos volátiles y otros analitos. Fiabilidad y rendimiento superiores con una excelente relación calidad-precio.",
+          descriptionLong: `Destilador semiautomático para la determinación de nitrógeno proteico Kjeldahl, nitrógeno no proteico (NPN), ácidos volátiles y otros analitos. Fiabilidad y rendimiento superiores con una excelente relación calidad-precio.
+          <br><br>
+          <h5>Seguridad y fiabilidad para sus análisis en modo semiautomático</h5>
+          El UDK 139 es una solución semiautomática fiable y segura para sus destilaciones. La herramienta ideal para laboratorios que buscan resultados precisos y reproducibles de nitrógeno Kjeldahl TKN, proteínas, nitrógeno amoniacal, nitrógeno nítrico (según Devarda), NBVT, sulfitos, fenoles, ácidos volátiles, cianuros y contenido alcohólico
+          <br><br>
+          
+          El destilador Kjeldahl UDK 139 combina fiabilidad y rendimiento superiores con una excelente relación calidad-precio.
+          <ul>
+          <li>Modo de análisis semiautomático para una mayor eficiencia operativa</li>
+          <li>Configuración rápida y adición automática de agua e hidróxido de sodio</li>
+          <li>Ajuste de la potencia del generador de vapor del 10% al 100% para la máxima versatilidad de aplicación</li>
+          <li>Extracción automática de residuos de la probeta</li>
+          <li>Operaciones inteligentes gracias a la interfaz de usuario altamente intuitiva</li>
+          <li>Reduce el contacto con los productos químicos para la máxima seguridad de los operadores</li>
+          <li>Máxima flexibilidad gracias a la amplia gama de accesorios</li>
+          </ul>
+          
+          <h5>Tecnologías exclusivas para dar soporte a su laboratorio</h5>
+          El UDK 139 está equipado con el exclusivo condensador de titanio VELP, diseñado y patentado para garantizar un intercambio de calor eficiente y un bajo consumo de agua.
+          <br><br>
+          
+          El condensador de titanio garantiza una temperatura del destilado siempre por debajo del valor umbral (35 °C), como se indica en el método Kjeldahl, sin pérdidas de nitrógeno.
+          <br><br>
+          <ul>
+          <li>Consumo de agua reducido al mínimo</li>
+          <li>Material altamente resistente que garantiza un alto rendimiento a lo largo del tiempo</li>
+          <li>Los riesgos de rotura durante la limpieza rutinaria del instrumento se reducen al mínimo</li>
+          </ul>
+          
+          El exclusivo grupo de protección VELP fabricado en tecnopolímero incorporado en el UDK 139 está diseñado para garantizar un alto rendimiento a lo largo del tiempo y una resistencia sin precedentes.
+          <ul>
+          <li>Materiales resistentes a los productos químicos agresivos</li>
+          <li>Máxima resistencia con una vida útil de hasta 10 000 análisis</li>
+          <li>No requiere mantenimiento y no tiene riesgo de rotura</li>
+          </ul>
+          
+          <h5>Fiabilidad y seguridad ante todo</h5>
+          El UDK 139 está equipado con el conjunto de funciones más completo y avanzado para la seguridad de los operadores en el laboratorio. Varios sensores supervisan, entre otros, la colocación de la probeta, los orificios de seguridad, los niveles de reactivos y el flujo del agua de refrigeración.
+          <br><br>
+          
+          El  generador de vapor patentado VELP garantiza unas condiciones de trabajo seguras al funcionar sin presión:
+          <ul>
+          <li>Calentamiento rápido</li>
+          <li>Alto rendimiento y resistencia</li>
+          <li>No requiere mantenimiento</li>
+          <li>Uso de agua desionizada</li>
+          </ul>
+          
+          <h5>Software intuitivo para un uso inmediato del aparato y una gestión óptima de los datos</h5>
+          La pantalla táctil a color de 7" y el software intuitivo guían al operador paso a paso. La configuración de los parámetros y la comprobación del estado del análisis son extremadamente sencillos y rápidos.
+          <br><br>
+          
+          Determine quién puede acceder a las herramientas y los datos con la función de gestión de usuarios.
+          <ul>
+          <li>Gestión de usuarios con 3 niveles de autorizaciones y permisos, de conformidad con GLP</li>
+          <li>Legibilidad inmediata del tiempo de análisis</li>
+          <li>Menús y submenús de navegación intuitivos</li>
+          <li>Menú de servicio específico</li>
+          </ul>
+          
+          
+          <h5>Procesos eficientes y asistencia sin precedentes con VELP Ermes Cloud Platform</h5>
+          El UDK 139  ofrece la posibilidad exclusiva de conectarse vía  Wi-Fi o LAN a la innovadora plataforma en la nube VELP Ermes, la solución Smart Lab que permite reducir las operaciones rutinarias mediante la supervisión en tiempo real de los análisis Kjeldahl en cualquier lugar y en cualquier momento.
+          <br><br>
+          
+          Con un ordenador, teléfono inteligente o tableta es posible gestionar varios aparatos al mismo tiempo, consumibles, flujos de trabajo, datos de los análisis y condiciones de trabajo de los aparatos.
+          <br><br>
+          
+          Las notificaciones y alertas inmediatas le permitirán estar siempre informado del estado de sus análisis y, gracias a la interrupción remota, tendrá un control total de sus procesos con la máxima seguridad garantizada.
+          <br><br>
+          
+          Dé acceso a aparatos y datos solo a miembros específicos de su empresa y elija individualmente si desea compartir información directamente con VELP o con centros de servicio autorizados para beneficiarse de un menor tiempo de diagnóstico y de un mejor servicio de asistencia.
+          <br><br>
+          
+          La determinación del nitrógeno y su laboratorio alcanzan un nuevo nivel de productividad con la plataforma en la nube de VELP Ermes.
+          <br><br>
+          <h5>Tecnología TEMS™</h5>
+          Los  destiladores Kjeldahl de la serie UDK incorporan la tecnología TEMS™, capaz de garantizar un ahorro significativo.
+          <br><br>
+          
+          Tiempo: calentamiento rápido
+          <br>
+          Energía: consumo de energía limitado
+          <br>
+          Dinero: reducción de los costes de cada análisis.  
+          <br>
+Espacio: perfil compacto, ocupa muy poco espacio en la mesa de laboratorio.
+          `,
+          videoLink: "",
+          sendPriceText: "Ver más información",
+        },
+        {
+          alt: "alt-logo",
+          srcImage: pro19_1,
+          typeProduct: {
+            name: "Unidad de destilación",
+            keyname: "unidad-destilacion",
+          },
+          categoryProduct: {
+            name: "Destiladores semiautomaticos",
+            keyname: "destiladores-semiautomaticos",
+          },
+          name: "Destilador semiautomático Kjeldahl UDK 129",
+          description: "Destilador  básico para la determinación de nitrógeno proteico Kjeldahl, nitrógeno no proteico (NPN), ácidos volátiles y otros analitos. Una solución sencilla y fiable con características únicas.",
+          descriptionLong: `Destilador  básico para la determinación de nitrógeno proteico Kjeldahl, nitrógeno no proteico (NPN), ácidos volátiles y otros analitos. Una solución sencilla y fiable con características únicas.
+          <br><br>
+          <h5>Facilidad de uso y seguridad para sus análisis</h5>
+          El UDK 129 es una solución básica segura y fiable para sus destilaciones. El instrumento ideal para laboratorios que buscan una solución sencilla pero eficiente para la determinación de nitrógeno Kjeldahl, proteínas, nitrógeno amoniacal, nitrógeno nítrico (según Devarda), NBVT, sulfitos, fenoles, ácidos volátiles, cianuros y contenido alcohólico.
+          <br><br>
+          
+          El destilador Kjeldahl UDK 129 incluye varias características únicas que garantizan una destilación eficiente y fiable, mucho más allá de las expectativas comunes para una unidad básica.
+          <ul>
+          <li>Ajuste rápido y adición automática de hidróxido de sodio</li>
+          <li>Bomba de alta precisión que garantiza una dosificación constante y precisa del reactivo</li>
+          <li>Interfaz de usuario extremadamente intuitiva</li>
+          <li>Menor contacto con los productos químicos para la máxima seguridad de los operadores</li>
+          <li>Máxima flexibilidad gracias a la amplia gama de accesorios</li>
+          </ul>
+          
+          <h5>Tecnologías exclusivas para dar soporte a su laboratorio</h5>
+          
+          El UDK 129 está equipado con el exclusivo condensador de titanio VELP, diseñado y patentado para garantizar un intercambio de calor eficiente y un bajo consumo de agua.
+          <br><br>
+          
+          El condensador de titanio garantiza una temperatura del destilado siempre por debajo del valor umbral (35 °C), como se indica en el método Kjeldahl, sin pérdidas de nitrógeno.
+          <ul>
+          <li>Consumo de agua reducido al mínimo</li>
+          <li>Material altamente resistente que garantiza un alto rendimiento a lo largo del tiempo</li>
+          <li>Los riesgos de rotura durante la limpieza rutinaria del instrumento se reducen al mínimo</li>
+          </ul>
+          
+          El exclusivo  grupo de protección VELP fabricado en tecnopolímero incorporado en el UDK 129 está diseñado para garantizar un alto rendimiento a lo largo del tiempo y una resistencia sin precedentes.
+          <ul>
+          <li>Materiales resistentes a los productos químicos agresivos</li>
+          <li>Máxima resistencia con una vida útil de hasta 10 000 análisis</li>
+          <li>No requiere mantenimiento y no tiene riesgo de rotura</li>
+          </ul> 
+          
+          <h5>Fiabilidad y seguridad ante todo</h5>
+          El UDK 129 está equipado con el conjunto de funciones más completo y avanzado para la seguridad de los operadores en el laboratorio. Varios sensores supervisan la colocación de la probeta, los orificios de seguridad y el flujo del agua de refrigeración.
+          <br><br>
+          
+          El  generador de vapor patentado VELP garantiza unas condiciones de trabajo seguras al funcionar sin presión:
+          <ul>
+          <li>Calentamiento rápido</li>
+          <li>Alto rendimiento y resistencia</li>
+          <li>No requiere mantenimiento</li>
+          <li>Uso de agua desionizada</li>
+          </ul>
+          
+          <h5>Interfaz de usuario intuitiva para un uso inmediato del aparato</h5>
+          La pantalla LCD luminosa y el menú extremadamente intuitivo guían al operador en la configuración de las condiciones de trabajo del aparato, incluido el tiempo de destilación y el volumen de hidróxido de sodio.
+          <br><br>
+          
+          El diseño minimalista de los botones garantiza la máxima ergonomía y facilidad de uso.
+          <ul>
+          <li>Legibilidad inmediata del tiempo de análisis</li>
+          <li>Menús y submenús de navegación intuitivos</li>
+          <li>Indicadores de mantenimiento</li>
+          <li>Menú de servicio específico</li>
+          </ul>
+          
+          <h5>Tecnología TEMS™</h5>
+          Los  destiladores Kjeldahl de la serie UDK  incorporan la tecnología  TEMS™, capaz de garantizar un ahorro significativo.
+          <br><br>
+          
+          
+          Tiempo: calentamiento rápido
+          <br>
+          Energía: consumo de energía limitado
+          <br>
+          Dinero: reducción de los costes de cada análisis.  
+          <br>
+Espacio: perfil compacto, ocupa muy poco espacio en la mesa de laboratorio.
+          `,
+          videoLink: "",
+          sendPriceText: "Ver más información",
+        },
+        {
+          alt: "alt-logo",
+          srcImage: pro20_1,
+          typeProduct: {
+            name: "Extractores de solventes",
+            keyname: "extractores-de-solventes",
+          },
+          categoryProduct: {
+            name: "Extractores automaticos con solventes",
+            keyname: "extractores-automaticos-con-solventes",
+          },
+          name: "SER 158 Extractor Automático con Solventes",
+          description: "Extractor totalmente automático en 3 y 6 posiciones, habilitado para conexión en la nube que garantiza seguridad, exactitud y precisión en la determinación de materia extraíble según los métodos de Randall y Twisselmann.",
+          descriptionLong: `Extractor totalmente automático en 3 y 6 posiciones, habilitado para conexión en la nube que garantiza seguridad, exactitud y precisión en la determinación de materia extraíble según los métodos de Randall y Twisselmann.
+          <br><br>
+          <h5>Extracción sólido-líquido rápida y precisa</h5>
+          Los extractores con solventes automáticos de la serie SER 158 están disponibles en 3 y 6 posiciones y son la solución exacta y precisa para la determinación cuantitativa y cualitativa de grasas y materias extraíbles según el método Randall, hasta 5 veces más rápido que el método tradicional Soxhlet.
+          <br><br>
+          
+          El proceso de extracción sólido-líquido elimina los componentes solubles de la muestra utilizando un solvente líquido en 5 fases.
+          <br><br>
+          
+          SER 158 opera en conformidad según las organizaciones internacionales como AOAC, ISO, EPA, APHA, UNI.
+          <br><br>
+          
+          El calentamiento rápido y seguro, combinado con un software de última generación y procesos de seguridad avanzados, garantizan la máxima reproducibilidad.
+          <br><br>
+          
+          El análisis con SER 158 es completamente automático para maximizar la productividad de su laboratorio y liberar un tiempo valioso para otras operaciones. ¡Carga y listo!
+          <br><br>
+          
+          <h5>Versatilidad y escalabilidad incomparables</h5>
+          
+          La serie SER 158 puede trabajar con muestras y tamaños de todo tipo gracias a su inigualable versatilidad y amplia gama de accesorios y consumibles:
+          <br><br>
+          <ul>
+          <li>las juntas en butilo, vitón y el exclusivo vaflon garantizan la compatibilidad con la mayoría de solventes y mezclas de solventes</li>
+          <li>3 tamaños diferentes de vasos, portadedales y dedales permiten extraer cantidades mínimas y minimizar el consumo de solvente</li>
+          <li>Dedales de celulosa y fibra de vidrio para análisis cuantitativos y cualitativos,</li>
+          <li>Compatibilidad con el crisol de vidrio HU6 para evitar las pérdidas en la transfewrencia de muestra en caso de hidrolisis</li>
+          </ul>
+          
+          El SER 158 es un extractor universal. Se pueden conectar 3 nuevas unidades a la primera unidad, aumentando el número de muestras analizadas simultáneamente hasta 24.
+          <br><br>
+          <h5>Intuitivo y fácil de usar</h5>
+          
+          El exclusivo ControlPadTM de 7"del SER 158 ofrece una interfaz de usuario intuitiva que facilita la configuración y la interacción con el analizador.
+          <br><br>
+          
+          El SER 158 está diseñado para funcionar 24 horas al día, 7 días a la semana con tecnología Load&Go, minimizando la intervención del operador.
+          <br><br>
+          
+          Integrado y extraíble, el ControlPadTM se puede conectar a su balanza y a nuestros lectores de códigos de barras para una máxima automatización y trazabilidad.
+          <br><br>
+          
+          Elija entre los métodos preinstalados, personalícelos y seleccione sus favoritos para un inicio rápido de sus análisis.
+          <br><br>
+          
+          Cada fase de la extracción se muestra en el ControlPadTM junto con una amplia gama de información y opciones.
+          <br><br>
+          
+          Los resultados se calculan y almacenan inmediatamente en la memoria integrada. Hay tres puertos USB y una conexión Ethernet disponibles para transferencia de datos a dispositivos externos.
+          <br><br>
+          
+          <h5>Máxima seguridad y mínima exposición a solventes</h5>
+          
+          La exclusiva tecnología SolventXpress ™ permite la dispensación inteligente de solvente asegurando la mínima exposición al solvente que, mediante un clic en el ControlPadTM, será guiado dentro del vaso.
+          <br><br>
+          
+          El solvente condensado al final del análisis se recolecta en el tanque de recuperación enfriado ubicado en la parte posterior del instrumento y la salida de solvente es completamente automática y controlada por el ControlPadTM.
+          <br><br>
+          
+          El SER 158 está sellado herméticamente y el protector transparente evita que las salpicaduras y posibles derrames se escapen del instrumento.
+          <br><br>
+          
+          Los sensores avanzados controlan constantemente el proceso de extracción y garantizan un análisis seguro durante todas las etapas. La tecnología SafeEnd ™ de SER 158 evita que la materia extraída se queme levantando automáticamente los vasos de extracción al acabarse el análisis.
+          <br><br>
+          
+          <h5>Materiales premium para reducir los costes de sus extracciones</h5>
+          
+          Los condensadores de titanio VELP garantizan una recuperación incomparable de más del 90% de solvente que luego se recupera en el tanque refrigerado ubicado en la parte posterior del instrumento.
+          <br><br>
+          
+          Para la mayoría de las aplicaciones de extracción de grasa, el solvente recuperado se puede reutilizar reduciendo los costes operativos.
+          <br><br>
+          
+          La reducción de costes se consigue además, con un consumo mínimo de agua de refrigeración (a partir de 1l/min) gracias a la eficiencia térmica del titanio y con la gestión independiente de las placas calefactoras.
+          <br><br>
+          <h5>Diseño compacto y ahorro de espacio</h5>
+          
+          ¡El diseño compacto del SER 158 ahorra un valioso espacio en el laboratorio y especialmente debajo de la campana extractora!
+          <br><br>
+          
+          
+          SER 158 es el mejor de su categoría en cuanto a ahorro de espacio gracias a la presencia de materiales de alta resistencia y calidad y una fina optimización de los componentes que lo hace vanguardista.
+          <br><br>
+
+          <h5>Tecnología en la nube para llevar la automatización a un nuevo nivel</h5>
+          
+          SER 158 está diseñado para funcionar automáticamente y sin la supervisión de un operador. Con conectividad a la plataforma en la nube VELP Ermes, podrá controlar sus análisis dondequiera que esté, cuando lo necesite.
+          <br><br>
+          
+          Con VELP Ermes, tendrá acceso a sus datos y condiciones del instrumento desde su PC, smartphone y tablet.
+          <ul>
+          <li>Supervisión y control bidireccional con notificaciones en tiempo real</li>
+          <li>Máxima seguridad y protección de datos</li>
+          <li>Soporte de servicio técnico mejorado (VELP y partner)</li>
+          <li>Actualizaciones de software inmediatas</li>
+          <li>Cree y comparta informes con un solo clic</li>
+          </ul>
+          `,
+          videoLink: "59EANQS5snU",
+          sendPriceText: "Ver más información",
+        },
+        {
+          alt: "alt-logo",
+          srcImage: pro21_1,
+          typeProduct: {
+            name: "Extractores de solventes",
+            keyname: "extractores-de-solventes",
+          },
+          categoryProduct: {
+            name: "Extractores semiautomaticos",
+            keyname: "extractores-semiautomaticos",
+          },
+          name: "SER 148 Extractor Semi-Automático con Solventes",
+          description: "Extractores para la separación cuantitativa de sustancias con solvente, según la técnica de Randall que permite una drástica reducción de los tiempos de extracción.",
+          descriptionLong: `Extractores para la separación cuantitativa de sustancias con solvente, según la técnica de Randall que permite una drástica reducción de los tiempos de extracción.
+          <br><br>
+          <h5>La solución semiautomática para la extracción con solventes</h5>
+          SER 148/3 y SER 148/6 se pueden utilizar para separar una sustancia o un grupo de elementos de muestras sólidas y semisólidas según la técnica Randall (que consiste en inmersión, lavado y recuperación de solventes).
+          <br><br>
+          
+          En cuanto a la versión automática SER 158, el principal campo de aplicación es la determinación del contenido de productos solubles como grasas, detergentes, plastificantes y pesticidas en alimentos, piensos, detergentes, fórmulas de caucho y plástico, productos farmacéuticos, suelo.
+          <br><br>
+          
+          La Serie SER 148 es una solución semiautomática sin comprometer la seguridad del operator (IP55) y el consumo de solventes, garantizando al mismo tiempo un coste por análisis limitado.
+          <br><br>
+          
+          En combinación con la unidad de hidrólisi HU6, se pueden utilizar los mismos crisoles para evitar cualquier posible pérdida de muestra entre las dos unidades.
+          <br><br>
+          
+          <h5>Técnica de Randall para obtener resultados rápidos</h5>
+          
+          Realice extracciones con solventes de una o varias muestras con el método Randall: una mejora de la técnica más famosa Soxhlet que implica el uso de solventes calientes, reduciendo los tiempos de análisis.
+          De hecho, esta técnica garantiza una rápida solubilización gracias al solvente caliente, que reduce el tiempo de extracción a unos 90 minutos.
+          <br><br>
+          
+          La extracción se realiza sumergiendo la muestra en el solvente hirviendo; sigue una fase de aclarado con solvente frío.
+          <br><br>
+
+La alta tasa de recuperación del solvente usado y una alta reproducibilidad, son características de la serie SER, que puede utilizarse con una amplia gama de muestras y con una variedad incremental de solventes, para una mayor flexibilidad.
+
+          `,
+          videoLink: "",
+          sendPriceText: "Ver más información",
+        },
+        {
+          alt: "alt-logo",
+          srcImage: pro22_1,
+          typeProduct: {
+            name: "Extractores de solventes",
+            keyname: "extractores-de-solventes",
+          },
+          categoryProduct: {
+            name: "Unidad de Hidrolisis",
+            keyname: "unidad-de-hidrolisis",
+          },
+          name: "HU 6 Unidad de hidrólisis",
+          description: "Unidad de hidrólisis de seis posiciones para pretratar la muestra a analizar con SER 148 o SER 158, ideal tanto para hidrólisis ácida como básica.",
+          descriptionLong: `
+          Unidad de hidrólisis de seis posiciones para pretratar la muestra a analizar con SER 148 o SER 158, ideal tanto para hidrólisis ácida como básica.
+          <br><br>
+          <h5>Hidrólisis preliminar para la determinación de la grasa total</h5>
+          La unidad de hidrólisis HU 6 de VELP Scientifica es la solución ideal para la preparación de la muestra antes de la extracción con disolventes para la determinación del contenido total de grasa, con el fin de liberar las moléculas de grasa listas para la extracción.
+          <br><br>
+          
+          Este procedimiento se requiere en varios métodos oficiales de la AOAC para determinar el contenido de grasa de muestras de alimentos como la carne, el queso, el marisco, el chocolate, las harinas de cereales, etc.
+          <br><br>
+          
+          La HU 6 realiza la hidrólisis con total seguridad y maneja seis muestras al mismo tiempo para maximizar la productividad.
+          <br><br>
+          
+          
+          <h5>Hidrólisis rápida y segura</h5>
+          
+          
+          Las muestras se calientan en tubos de ensayo en un bloque de calentamiento de aluminio que ofrece una excelente homogeneidad térmica. La hidrólisis se realiza en un medio ácido (ácido clorhídrico 4N) y en algunos casos también en un medio básico (amoníaco al 20% p/v) durante unos 60 minutos a una temperatura de 170°C. A continuación, la muestra hidrolizada se filtra en un crisol de vidrio y se lava con agua desionizada caliente para eliminar los restos de ácido clorhídrico.
+          <br><br>
+          
+          La HU 6 se suministra con una bomba de vacío que garantiza la seguridad gracias a la reducción de los vapores ácidos.
+          <br><br>
+          
+          El crisol de vidrio que contiene la muestra hidrolizada y lavada se seca en el horno antes de colocarlo en un desecador. A continuación, el crisol se transfiere directamente a la unidad de extracción por disolvente SER 158 y SER 148, evitando cualquier posible pérdida de muestra y garantizando una mayor precisión de los resultados.
+          <br><br>
+          
+          
+          <h5>Filtración y enjuague continuos de seis muestras en paralelo</h5>
+          <br><br>
+          
+          En algunas muestras, la extracción directa con disolventes no es eficaz porque los lípidos están unidos químicamente a otros componentes. La determinación del contenido total de grasa de estas muestras requiere una hidrólisis preliminar, seguida de filtración y lavado, para liberar completamente las moléculas de grasa.
+          <br><br>
+          
+          La muestra hidrolizada está finalmente lista para la extracción y puede ser fácilmente transferida a la Unidad de Extracción por Solvente SER 148 o SER 158 evitando cualquier posible pérdida de muestra y asegurando una mayor precisión de los resultados.
+          <br><br>
+          
+          La HU 6 proporciona una filtración y un enjuague eficaces de 3 o 6 muestras en paralelo. Las válvulas permiten interrumpir selectivamente el vacío en cada posición acelerando el proceso de filtración. 
+          <br><br>
+          <h5>Tecnología TEMS</h5>
+          La unidad de hidrólisis HU 6 funciona con las innovadoras ventajas de TEMS™, para un gran ahorro.
+          <br><br>
+          
+          Ahorro de tiempo: el calentamiento rápido reduce la pérdida de tiempo
+          <br>
+          Ahorro de energía: consumo limitado de energía, lo que reduce las emisiones de CO2
+          <br>
+          Ahorro de dinero: reducción del coste de cada análisis
+          <br>
+Ahorro de espacio: el reducido espacio que ocupa ahorra un valioso espacio en la mesa del laboratorio
+          `,
+          videoLink: "",
+          sendPriceText: "Ver más información",
+        },
+        {
+          alt: "alt-logo",
+          srcImage: pro23_1,
+          typeProduct: {
+            name: "Analizadores de fibra",
+            keyname: "analizadores-de-fibra",
+          },
+          categoryProduct: {
+            name: "Analizador Automático",
+            keyname: "analizador-automatico",
+          },
+          name: "FIWE Advance Analizador Automático de Fibra",
+          description: "El analizador completamente automático para la determinación de fibra cruda y detergente según métodos de referencia oficiales que requieren un tiempo mínimo del operador con una interfaz de usuario única y conectividad en la nube.",
+          descriptionLong: `El analizador completamente automático para la determinación de fibra cruda y detergente según métodos de referencia oficiales que requieren un tiempo mínimo del operador con una interfaz de usuario única y conectividad en la nube.
+          <br><br>
+          <h5>Fibra cruda y detergente con máxima automatización</h5>
+          Precisión y reproducibilidad  de los resultados son fundamentales para la determinación de fibra en piensos tanto para fabricantes como para granjas.
+          
+          El FIWE Advance ha sido diseñado para ofrecer una completa automatización de las fases de la extracción como digestión, lavado y filtración, asegurando la máxima repetibilidad para la determinación de Fibra Cruda con el método Weende y fibra detergente con el Método Van Soest para NDF, ADF y ADL.
+          <br><br>
+          <h5>Conforme a los métodos oficiales</h5>
+          El FIWE Advance produce resultados precisos que siempre cumplen con los métodos oficiales ISO y AOAC tanto para la fibra cruda como para la fibra detergente. Además, el método FIWE Advance que utiliza crisoles evita la pérdida de fibra debido a la transferencia de la muestra que permanece en el crisol durante toda la duración del procedimiento analítico.
+          <br><br>
+          
+          De hecho, la muestra permanece dentro de los crisoles durante las fases de extracción, digestión, lavado y filtración, pero también durante el pesaje y finalmente para el secado y determinación de las cenizas, eliminando el riesgo de error.
+          <br><br>
+          
+          <h5>¡Coloque las muestras y dedíquese a otra cosa!</h5>
+          
+          FIWE Advance le permite ahorrar un tiempo valioso reduciendo costes y mejorando la productividad de su laboratorio.
+          <br>
+          El FIWE Advance necesita solo 2 minutos de tiempo del operador  en comparación con más de 50 minutos/operador de una solución semiautomática.
+          Ya no será necesario precalentar y verter productos químicos en las columnas, controlar la temperatura para una ebullición correcta o asegurarse de que la filtración sea exitosa.
+          <br><br>
+          
+          Con FIWE Advance todas estas operaciones son automáticas y gracias a la conexión a la nube permite estar siempre informado con notificaciones inmediatas.
+          <br><br>
+          <h5>Intuitivo y Smart</h5>
+          
+          
+          Con el FIWE Advance analizar la fibra se vuelve simple y al alcance de todos en el laboratorio. La pantalla táctil de 7 pulgadas y la interfaz desarrollada por VELP hacen que las operaciones sean simples e inteligentes. 
+          <br><br>
+          
+          El FIWE Advance viene con métodos preinstalados desarrollados por VELP de acuerdo con métodos oficiales. Puede crear sus propios métodos y seleccionar sus propios favoritos para una máxima comodidad y velocidad. 
+          <br><br>
+          
+          FIWE Advance permite conectar un lector de códigos de barrae para facilitar la gestión de la información y evitar errores de transcripción. Al conectar su propia báscula, la transferencia del peso y el cálculo de los resultados será rápido y sencillo. 
+          Máxima seguridad y mínima exposición a los reactivos
+          FIWE Advance garantiza la máxima seguridad para el operador ya que no entra en contacto con los vapores producidos por los reactivos a altas temperatura necesarios para la digestión.
+          <br><br>
+          
+          Todos los reactivos necesarios están contenidos en tanques transparentes dentro del instrumento. Los reactivos son precalentados, dosados y dispensados gracias a una serie de sensores y bombas que permiten transportar los productos químicos calientes a cada columna, evitando que el operador entre en contacto con los humos calientes.
+          <br><br>
+          
+          Cada ubicación está equipada con una luz LED que muestra su actividad y facilita la detección de residuos.
+          <br><br>
+          <h5>¡Lleve la automatización al siguiente nivel gracias a la nube!</h5>
+          
+          
+          El FIWE Advance está diseñado para funcionar automáticamente y sin la supervisión del operador. Con conectividad Wi-Fi a la plataforma de la nube VELP Ermes, podrá controlar sus análisis dondequiera que esté, siempre que lo necesite.
+          <br><br>
+          
+          Con VELP Ermes, tendrá acceso a sus datos y condiciones del instrumento desde su PC, smartphone y tablet.
+          <ul>
+          <li>Supervisión y control bidireccional con notificaciones en tiempo real</li>
+          <li>Máxima seguridad y protección de datos</li>
+          <li>Soporte de servicio mejorado</li>
+          <li>Actualizaciones de software inmediatas</li>
+          <li>Cree y comparta informes con un solo clic</li>
+          </ul>
+          `,
+          videoLink: "CXvZfzooJc8",
+          sendPriceText: "Ver más información",
+        },
+        {
+          alt: "alt-logo",
+          srcImage: pro24_1,
+          typeProduct: {
+            name: "Analizadores de fibra",
+            keyname: "analizadores-de-fibra",
+          },
+          categoryProduct: {
+            name: "Extractores semiautomaticos",
+            keyname: "extractores-semiautomaticos",
+          },
+          name: "FIWE Analizador de Fibra",
+          description: "Extractores para la determinación de la fibra cruda y detergente, mediante el uso de reactivos precalentados según los métodos oficiales (Weende, Van Soest).",
+          descriptionLong: `Extractores para la determinación de la fibra cruda y detergente, mediante el uso de reactivos precalentados según los métodos oficiales (Weende, Van Soest).
+          <br><br>
+          <h5>Determinación de fibra cruda y detergente</h5>
+          FIWE es un extractor para la determinación de fibra cruda, conocida convencionalmente como residuo no digerible. Análisis rápidos, resultados fiables y alta reproducibilidad son algunas de las ventajas más relevantes de estas unidades ideales para las siguientes aplicaciones:
+          <ul>
+          <li>el método Weende, el procedimiento analítico más antiguo todavía en uso en la actualidad, en el que la concentración de las fibras se mide como Fibra cruda (CF)</li>
+          <li>Fibra detergente neutra (NDF), un método desarrollado por Van Soest, ahora la medida más común de fibra utilizada para el análisis de alimentos para animales</li>
+          <li>Fibra detergente ácida (ADF), una porción de fibra vegetal e incluye celulosa, lignina y cantidades variables de xilanos.</li>
+          <li>Determinación de lignina detergente ácida (ADL) y técnica de Wijkstrom, una modificación del método Weende</li>
+          </ul>
+          
+          <h5>Excelente rendimiento, extracciones únicas o múltiples</h5>
+          
+          FIWE permite extracciones simples o múltiples que incluyen el calentamiento, lavados y filtración, ofreciendo la mayor reproducibilidad disponible.
+          <br><br>
+          
+          La posibilidad de utilizar el mismo crisol para pesar, secar y lavar elimina posibles errores debidos a la transferencia de muestras.
+          <br><br>
+          
+          Con la placa calefactora RC2 (incluida con el instrumento) es posible precalentar externamente los reactivos involucrados en el análisis y verterlos directamente en el sistema, reduciendo los tiempos de análisis.
+          <h5>Sistema de Calentamiento Rápido</h5>
+          <br><br>
+          
+          
+          Máxima eficiencia gracias a una particular velocidad de calentamiento que garantiza un rápido calentamiento de la muestra, previamente mezclada con los reactivos precalentados.
+          <br><br>
+          
+          El elemento calefactor se mantiene siempre listo, para poder calentar incluso después de la adición del segundo reactivo, para un notable ahorro de tiempo.
+          <br><br>
+          
+          FIWE reduce el tiempo de análisis: mientras que el procedimiento equivalente manual toma incluso más de 6 horas, la solución VELP solo toma un par de horas.
+          <br><br>
+          
+          <h5>Sin transferencia o pérdida de muestras</h5>
+          
+          Para preparar la muestra para el análisis de fibras, COEX asegura una rápida extracción de la grasa directamente en los crisoles de vidrio que se utilizan en la serie FIWE.
+          <br><br>
+
+El crisol, que contiene la muestra desengrasada, se transfiere directamente al analizador FIWE, lo que permite evitar los errores debidos a la transferencia de la propia muestra.
+`,
+          videoLink: "",
+          sendPriceText: "Ver más información",
+        },
+        {
+          alt: "alt-logo",
+          srcImage: pro25_1,
+          typeProduct: {
+            name: "Analizadores de fibra",
+            keyname: "analizadores-de-fibra",
+          },
+          categoryProduct: {
+            name: "Extractor a frio",
+            keyname: "extractor-a-frio",
+          },
+          name: "COEX Extractor Frío",
+          description: "Extractor en frío para una extracción rápida y eficaz de la grasa antes del análisis de la fibra directamente en los crisoles de vidrio de FIWE y FIWE Advance.",
+          descriptionLong: `Extractor en frío para una extracción rápida y eficaz de la grasa antes del análisis de la fibra directamente en los crisoles de vidrio de FIWE y FIWE Advance.
+          <br><br>
+          <h5>Extracción Preliminar de Grasa para mejorar la precisión analítica</h5>
+          El COEX es un extractor en frío para el desengrasado preliminar y eficaz de la muestra a analizar con FIWE y FIWE Advance, con el fin de obtener un bajo contenido de grasa (<1%).
+          <br><br>
+          COEX utiliza el método de extracción en frío con el solvente que actúa directamente sobre la muestra. La bomba aspira y elimina el componente graso, lo que permite separarlo y recolectarlo por separado.
+          <br><br>
+          <h5>Extracción segura sin transferencia de muestras</h5>
+Con los sistemas de extracción de fibra VELP puede estar seguro de que durante todas las fases de análisis, desde la extracción de la grasa hasta el pesaje final, la muestra siempre está contenida dentro del crisol.
+COEX asegura una rápida extracción de la grasa directamente en los crisoles de vidrio que luego se transfieren inmediatamente a FIWE y FIWE Advance, eliminando posibles errores debidos a la transferencia de la propia muestra.
+          `,
+          videoLink: "",
+          sendPriceText: "Ver más información",
+        },
+        {
+          alt: "alt-logo",
+          srcImage: pro26_1,
+          typeProduct: {
+            name: "Analizadores de fibra dietética",
+            keyname: "analizadores-de-fibra-dietetica",
+          },
+          categoryProduct: {
+            name: "Digestor o enzimático",
+            keyname: "digestor-o-enzimatico",
+          },
+          name: "GDE Digestor Enzimático",
+          description: "Digestor enzimático para agitación continua y constante de la muestra, evitando el sobrecalentamiento.",
+          descriptionLong: `Digestor enzimático para agitación continua y constante de la muestra, evitando el sobrecalentamiento.
+          <br><br>
+          <h5>Fiabilidad y precisión para el análisis de fibra dietética</h5>
+          El procedimiento analítico para la determinación de la fibra dietética implica inicialmente una serie de digestiones de la muestra mediante enzimas termoestables utilizando el digestor enzimático GDE, que opera de acuerdo con el método oficial AOAC para la determinación de la fibra dietética total.
+          <br><br>
+          
+          El agitador magnético múltiple de GDE asegura la homogeneidad gracias a una agitación continua y constante de la muestra evitando el sobrecalentamiento que podría comprometer el éxito de las digestiones enzimáticas.
+          Intuitivo y preciso
+          <br><br>
+          
+          A través de una pantalla intuitiva es posible establecer un tiempo de operación, liberando efectivamente al operador.
+          <br><br>
+          
+          El depósito de policarbonato transparente permite una visibilidad completa y garantiza una resistencia considerable hasta 105 ° C mientras que el uso de agua desionizada elimina la formación de cal.
+          <br><br>
+
+          La termorregulación efectiva le permite establecer y mantener las diferentes temperaturas requeridas por las enzimas utilizadas a lo largo del tiempo, con una excelente precisión de solo ± 0.2 ° C.
+          `,
+          videoLink: "",
+          sendPriceText: "Ver más información",
+        },
+        {
+          alt: "alt-logo",
+          srcImage: pro27_1,
+          typeProduct: {
+            name: "Analizadores de fibra dietética",
+            keyname: "analizadores-de-fibra-dietetica",
+          },
+          categoryProduct: {
+            name: "Unidad de filtrado",
+            keyname: "unidad-de-filtrado",
+          },
+          name: "CSF6 Unitad de Filtrado",
+          description: "Unidad de filtración para análisis de fibra dietética total en alimentos.",
+          descriptionLong: `Unidad de filtración para análisis de fibra dietética total en alimentos.
+          <br><br>
+          <h5>Filtración rápida y eficaz</h5>
+          CSF6 es ideal para una filtración eficaz, una vez que la muestra ha sido procesada por el digestore enzimatico GDE.
+          <br><br>
+          
+          Esta combinación VELP permite realizar el análisis de acuerdo con el método oficial AOAC (Determinación de fibra dietética total) con una drástica reducción del tiempo requerido en comparación con el procedimiento manual.
+          La unidad di filtración CFS6  es capaz de realizar muestras únicas o múltiples, hasta un máximo de 6 simultáneamente, en menos de 20 minutos, incluso a plena carga.
+          Bombas de alto rendimiento para mejorar la calidad de la filtración
+          <br><br>
+          
+          La bomba de alto rendimiento permite acelerar las fases de filtración y el lavado final.
+          <br><br>
+          
+También es posible inyectar aire comprimido desde abajo para eliminar cualquier muestra que se haya acumulado en el filtro del crisol, lo que afecta la calidad de la filtración.
+
+`,
+          videoLink: "",
+          sendPriceText: "Ver más información",
+        },
+        {
+          alt: "alt-logo",
+          srcImage: pro28_1,
+          typeProduct: {
+            name: "Reactor de estabilidad de oxidación",
+            keyname: "reactor-de-estabilidad-de-oxidacion",
+          },
+          categoryProduct: {
+            name: "Reactor de estabilidad",
+            keyname: "reactor-de-estabilidad",
+          },
+          name: "OXITEST Reactor de Estabilidad Oxidativa",
+          description: "Reactor innovador para la determinación de la estabilidad oxidativa de grasas en toda la muestra según el procedimiento oficial AOCS Cd-12c-16.",
+          descriptionLong: `Reactor innovador para la determinación de la estabilidad oxidativa de grasas en toda la muestra según el procedimiento oficial AOCS Cd-12c-16.
+          <br><br>
+          <h5>Estabilidad oxidativa de grasas y aceites para laboratorios de I+D y control de calidad</h5>
+          El reactor OXITEST acelera el proceso de oxidación de lípidos que en condiciones normales puede llevar semanas o meses y produce resultados rápidos, precisos y fiables para las industrias de alimentos y piensos, cosmética, farmacéutica y petroquímica.
+          <br><br>
+          
+          OXITEST es capaz de aportar información de alto valor añadido a los laboratorios de control de calidad y de investigación y desarrollo para:
+          <ul>
+          <li>Control de calidad de materias primas e ingredientes</li>
+          <li>Efecto de las condiciones de transporte sobre materias primas y productos acabados</li>
+          <li>Estudios sobre el período de almacenamiento</li>
+          <li>Desarrollo de nuevos productos</li>
+          <li>Optimización de fórmulas</li>
+          <li>Test sobre el impacto de la oxidación en los ingredientes</li>
+          <li>Optimización de procesos</li>
+          <li>Estudio de envases y comparación entre envases alternativos</li>
+          </ul>
+          
+          <h5>Resultados representativos de toda la muestra</h5>
+          El reactor OXITEST somete la muestra a un ambiente de estrés oxidativo para evaluar, en un  período corto de tiempo, la resistencia a la oxidación de grasas y aceites. Las condiciones de trabajo más comunes son: 
+          <ul>
+          <li>Sobrepresión establecida de oxígeno puro (6 bar, grado 5.0)</li>
+          <li>Temperatura alta constante, 90 °C</li>
+          </ul>
+          
+          Con el método OXITEST (AOCS Cd12c-16), la prueba de estabilidad se realiza directamente sobre la muestra, ya sea sólida , líquido o pastoso.
+          <br><br>
+          
+          La principal ventaja del método OXITEST asegura resultados representativos sin extracción previa de las grasas de la muestra.  
+          <br><br>
+          
+          Otros componentes de la muestra, como oxidantes químicos o metales, pueden favorecer la oxidación, por ello, el uso del extracto graso no es un factor adecuado para predecir la estabilidad. 
+          <br><br>
+          
+          <h5>El Período de Inducción IP</h5>
+          Los resultados de OXITEST se expresan a través del período de inducción IP. 
+          <br><br>
+          
+          El IP es el tiempo que tarda la muestra en comenzar a oxidarse, lo que corresponde a un nivel detectable de rancidez o un cambio repentino en la velocidad de oxidación.
+          <br><br>
+          
+          Cuanto más largo sea el período de inducción, mayor será la estabilidad oxidativa a lo largo del tiempo.
+          <br><br>
+          
+          <h5>OXISoft ™, software potente e intuitivo</h5>
+          
+          El OXITEST se controla completamente a través del PC gracias al software intuitivo OXISoft ™ que es capaz de controlar hasta 4 OXITEST de forma simultánea e independiente.
+          <br><br>
+          
+          OXISoft ™ es fácil de usar, con un vistazo se pueden controlar los parámetros del análisis, las condiciones del instrumento y los resultados.
+          <br><br>
+          
+          El software viene con soporte en varios idiomas y una biblioteca de métodos preinstalada que cubre una amplia gama de tipos de muestras, ¡puede usar, editar y crear sus propios métodos!
+          <br><br>
+
+Gestión de los datos,  creación de informes y archivo de datos para las siguientes formas de análisis:
+          <ul>
+          <li>Prueba de repetibilidad</li>
+          <li>Prueba de frescura</li>
+          <li>Comparación de diferentes fórmulas</li>
+          <li>Comparación de envases</li>
+          <li>IP durante el envejecimiento</li>
+          <li>Estimación de la vida útil</li>
+          </ul>
+
+          <h5>Las piezas de titanio garantizan la máxima resistencia</h5>
+
+Las cámaras de oxidación, portamuestras y tapas están fabricados en titanio, un material de calidad superior que garantiza:
+          <ul>
+          <li>Alta resistencia</li>
+          <li>Excelente compatibilidad química</li>
+          <li>Fácil limpieza</li>
+          <li>Ahorro de costes, ya que no se requieren consumibles OXITEST está habilitado para la conexión de la nube VELP Ermes</li>
+          </ul> 
+
+
+El OXITEST gracias a su conectividad a VELP Ermes te permite reducir las operaciones de rutina gracias a la supervisión en tiempo real de tus instrumentos estés donde estés y en cualquier momento desde tu PC, smartphone y tablet.
+          <ul>
+          <li>Control en tiempo real, acceso a bases de datos, informes y notificaciones</li>
+          <li>Máxima seguridad y protección de datos</li>
+          <li>Acceda a los datos en cualquier momento a través de PC, smartphone y tableta</li>
+          <li>Apoyo y servicio técnico mejorados</li>
+          <li>Actualizaciones de software inmediatas</li>
+          <li>Cree y comparta informes y mejore la colaboración con su equipo</li>
+          </ul>
+          `,
+          videoLink: "YARZPNnPsTk",
           sendPriceText: "Ver más información",
         },
       ],
@@ -1260,76 +2420,6 @@ Ahorro de espacio: el estrecho espacio que ocupa ahorra un valioso espacio en la
       type: "product-list",
       title: "Equipo de laboratorio",
       items: [
-        {
-          alt: "alt-logo",
-          srcImage: producto1_2,
-          name: "Analizador de humedad y sólidos por pérdida al secarse",
-          description:
-            "El Computrac MAX® 4000XL proporciona resultados rápidos, fiables y precisos. Esto mejora la capacidad de ajustar o monitorear los procesos, asegurando productos de calidad y minimizando el desperdicio, los requisitos de energía y las horas-hombre. La facilidad de uso y la durabilidad, junto con un servicio y soporte superiores, hacen del Computrac® MAX® 4000XL una opción ideal para entornos de investigación, fabricación y laboratorio.",
-          descriptionLong: `El Computrac MAX® 4000XL proporciona resultados rápidos, fiables y precisos. Esto mejora la capacidad de ajustar o monitorear los procesos, asegurando productos de calidad y minimizando el desperdicio, los requisitos de energía y las horas-hombre. La facilidad de uso y la durabilidad, junto con un servicio y soporte superiores, hacen del Computrac® MAX® 4000XL una opción ideal para entornos de investigación, fabricación y laboratorio.
-                <br><br>
-                <ul>
-                    <li>Preciso: Resultados precisos y repetibles impulsados por una balanza de resolución de 100 microgramos.</li>
-                    <li>Duradero: Fabricado en los EE.UU. con una carcasa totalmente de acero, el MAX 4000XL fue diseñado para uso pesado.</li>
-                    <li>Rápido: El exclusivo sistema de enfriamiento rápido mejora el rendimiento en un 25% con respecto a otras pérdidas rápidas en instrumentos de secado.</li>
-                    <li>Versátil: El MAX 4000XL es lo suficientemente robusto como para sobresalir en una amplia gama de aplicaciones, desde alimentos hasta plástico y papel.</li>
-                    <li>Soporte de clase mundial: Si encuentra una aplicación desafiante, nuestro equipo de expertos en análisis de humedad está aquí para ayudarlo, de forma gratuita.</li>
-                </ul>`,
-          sendPriceText: "Ver más información",
-        },
-        {
-          alt: "alt-logo",
-          srcImage: producto2_1,
-          name: "Analizador de humedad, sólidos y cenizas",
-          description:
-            "El analizador de humedad, sólidos y cenizas Computrac MAX 5000XL puede proporcionar lecturas precisas tanto de humedad como de cenizas de una sola muestra, ofreciendo muchas de las mismas características de los analizadores termogravimétricos a una fracción del costo. Con una temperatura máxima de 600 °C y un tamaño de muestra máximo de 100 gramos, el MAX 5000XL tiene la versatilidad para una amplia gama de tareas de prueba de materiales.",
-          descriptionLong: `El analizador de humedad, sólidos y cenizas Computrac MAX 5000XL puede proporcionar lecturas precisas tanto de humedad como de cenizas de una sola muestra, ofreciendo muchas de las mismas características de los analizadores termogravimétricos a una fracción del costo. Con una temperatura máxima de 600 °C y un tamaño de muestra máximo de 100 gramos, el MAX 5000XL tiene la versatilidad para una amplia gama de tareas de prueba de materiales.
-                <br><br>
-                <ul>
-                    <li>Versátil: Obtenga lecturas precisas tanto para el contenido de cenizas como para el contenido de humedad de una sola muestra.</li>
-                    <li>Rápido: Lecturas de humedad y cenizas en media hora o menos.</li>
-                    <li>Sencillo: Operación con un solo botón sin necesidad de pasos intermedios de pesaje o enfriamiento.</li>
-                    <li>Duradero: Fabricado en los EE.UU. con una carcasa totalmente de acero, el MAX 5000XL fue diseñado para un uso intensivo.</li>
-                    <li>Preciso: Se correlaciona con métodos populares, incluidos ASTM D5630, ASTM D4574, ASTM E1534 y más.</li>
-                </ul>`,
-          sendPriceText: "Ver más información",
-        },
-        {
-          alt: "alt-logo",
-          srcImage: producto3_2,
-          name: "La próxima generación en análisis de humedad libre de químicos",
-          description:
-            "Capacidad de repetibilidad mejorada, precisión, flexibilidad y una interfaz de usuario avanzada: el Vapor Pro® XL es lo último en tecnología de análisis específico de humedad de Computrac®. El VPXL es ideal para casi cualquier aplicación en la que se utilice la valoración de Karl Fischer. Cuenta con un calentador mejorado y un mayor control sobre las temperaturas de prueba. El VPXL también es compatible con múltiples tamaños de viales de muestra y está equipado con capacidades de prueba de temperatura escalonada para mejorar el desarrollo de métodos.",
-          descriptionLong: `Capacidad de repetibilidad mejorada, precisión, flexibilidad y una interfaz de usuario avanzada: el Vapor Pro® XL es lo último en tecnología de análisis específico de humedad de Computrac®. El VPXL es ideal para casi cualquier aplicación en la que se utilice la valoración de Karl Fischer. Cuenta con un calentador mejorado y un mayor control sobre las temperaturas de prueba. El VPXL también es compatible con múltiples tamaños de viales de muestra y está equipado con capacidades de prueba de temperatura escalonada para mejorar el desarrollo de métodos.
-                  <br><br>
-                  <ul>
-                    <li>Específico de la humedad: La tecnología de sensor RH mide el contenido de humedad y solo el contenido de humedad.</li>
-                    <li>Preciso: El calentador mejorado permite un mayor control sobre un rango más amplio de temperaturas de prueba.</li>
-                    <li>Sensible: Detecte tan solo 10 microgramos (0.00001g) de agua y determine el contenido de humedad tan bajo como 10 ppm.</li>
-                    <li>Flexible: Muestre muestras en viales de diferentes tamaños sin exponerlas al aire ambiente.</li>
-                    <li>Fácil de usar: La nueva pantalla táctil y la interfaz de usuario intuitiva ayudan a eliminar las posibles fuentes de error del operador.</li>
-                </ul>`,
-          sendPriceText: "Ver más información",
-        },
-        {
-          alt: "alt-logo",
-          srcImage: producto4_1,
-          name: "Análisis automatizado de humedad libre de químicos",
-          description:
-            "El muestreador automático Vapor Pro XL (VPXL) es lo último en tecnología de análisis específico de humedad que ofrece exactitud, precisión, flexibilidad y automatización para probar hasta 16 muestras con perfiles de prueba individuales. Las capacidades avanzadas de análisis de humedad del muestreador automático VPXL lo convierten en una alternativa libre de químicos a la valoración Karl Fischer. Su tamaño compacto y características mejoradas hacen que el muestreador automático VPXL sea ideal para casi cualquier aplicación donde se necesite automatización de pruebas y un mayor rendimiento.",
-          descriptionLong: `El muestreador automático Vapor Pro XL (VPXL) es lo último en tecnología de análisis específico de humedad que ofrece exactitud, precisión, flexibilidad y automatización para probar hasta 16 muestras con perfiles de prueba individuales. Las capacidades avanzadas de análisis de humedad del muestreador automático VPXL lo convierten en una alternativa libre de químicos a la valoración Karl Fischer. Su tamaño compacto y características mejoradas hacen que el muestreador automático VPXL sea ideal para casi cualquier aplicación donde se necesite automatización de pruebas y un mayor rendimiento.
-                  <br><br>
-                  <h5>FUNCIONES:</h5> 
-Cero reactivos químicos: El Vapor Pro® XL ofrece análisis específicos de humedad que se correlacionan bien con Karl Fischer sin la molestia o el gasto de reactivos químicos peligrosos, cristalería costosa o mantenimiento que consume mucho tiempo.
-Versátil: El muestreador automático VPXL es ideal para casi cualquier aplicación en la que se utilice la valoración Karl Fischer. Su capacidad para individualizar los perfiles de prueba de muestra lo hace perfecto para todas las industrias, desde plásticos y productos derivados del petróleo hasta productos farmacéuticos y químicos. La temperatura máxima de prueba se puede ajustar a 300 ° C. También permite un mejor control sobre las temperaturas de prueba en todo el rango del instrumento.
-Automatización: El muestreador automático VPXL proporciona la capacidad de probar rápida y automáticamente hasta 16 muestras, lo que aumenta drásticamente el rendimiento en un
-instrumento compacto.<br><br>
-Prueba de temperatura escalonada: El muestreador automático VPXL ofrece capacidades de prueba de temperatura escalonadas que hacen que el desarrollo de métodos sea más fácil que nunca.
-Criterios finales flexibles: Los criterios finales ajustables por el usuario optimizan los resultados de las pruebas y el rendimiento para cualquier aplicación única.
-Almacenamiento de datos: El muestreador automático VPXL almacena hasta 250 programas de prueba y conserva los 1000 resultados de prueba anteriores y 100 gráficos de prueba. Los usuarios pueden ver y seleccionar resultados de pruebas anteriores para análisis estadísticos y probar varias muestras con facilidad.
-`,
-          sendPriceText: "Ver más información",
-        },
       ],
     },
   ],
