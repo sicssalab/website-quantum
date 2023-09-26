@@ -42,6 +42,18 @@ import pro26_1 from "../assets/landings/velp/instruments/digestores/dge/1VELPGDE
 import pro27_1 from "../assets/landings/velp/instruments/filtradores/CSF6/1VELPCSF6F30420210-210755-227863.jpg";
 import pro28_1 from "../assets/landings/velp/instruments/estabilizadores/OXITEST-reactor/1VELPOXITESTF30910248-211998-227905.jpg";
 
+import eq01_1 from "../assets/landings/velp/equipos/agitadores/MST_agitador_magnetico/1MST00-207560-228239.jpg";
+import eq02_1 from "../assets/landings/velp/equipos/agitadores/MST_agitador_digital_magnetico/1MSTdigital01-207693-227870.jpg";
+import eq03_1 from "../assets/landings/velp/equipos/agitadores/MSL8/1MSL800-207942-228106.jpg";
+import eq04_1 from "../assets/landings/velp/equipos/agitadores/MSL8-digital/1MSL8digital00-207980-228019.jpg";
+import eq05_1 from "../assets/landings/velp/equipos/agitadores/MSL25/1MSL25digital00-208018-228058.jpg";
+import eq06_1 from "../assets/landings/velp/equipos/agitadores/MSL50/1MSL50digital00-208064-228071.jpg";
+import eq07_1 from "../assets/landings/velp/equipos/agitadores/multistirrer/1MULTISTIRRER00-207833-227890.jpg";
+import eq08_1 from "../assets/landings/velp/equipos/agitadores/multistirrer_digital/1MULTISTIRRERdigital00-207893-228397.jpg";
+import eq09_1 from "../assets/landings/velp/equipos/agitadores/esp/1ESP00-207750-228233.jpg";
+import eq10_1 from "../assets/landings/velp/equipos/agitadores/microstirrer/1MICROSTIRRER00-207810-228275MAGEN.jpg";
+import eq11_1 from "../assets/landings/velp/equipos/agitadores/ami/1AMI00-218308-227920.jpg";
+
 const apiSelcaEscondidaMock = {
   items: [
     {
@@ -2422,7 +2434,7 @@ El OXITEST gracias a su conectividad a VELP Ermes te permite reducir las operaci
       items: [
         {
           alt: "alt-logo",
-          srcImage: pro01_1,
+          srcImage: eq01_1,
           typeProduct: {
             name: "Agitadores",
             keyname: "agitadores",
@@ -2431,12 +2443,460 @@ El OXITEST gracias a su conectividad a VELP Ermes te permite reducir las operaci
             name: "Agitadores Magneticos",
             keyname: "agitadores-magneticos",
           },
-          name: "",
-          description: "",
-          descriptionLong: ``,
+          name: "MST Agitador magnético",
+          description: "Agitador magnético de laboratorio pequeño y eficaz.",
+          descriptionLong: `Agitador magnético de laboratorio pequeño y eficaz.
+          <br><br>
+          <h5>Robusto y preciso</h5>
+          <ul>
+          <li>Estructura en tecnopolímero resistente a químicos</li>
+          <li>Superficie blanca que facilita la detección de variaciones de color</li>
+          <li>Ajuste de velocidad hasta 1100 rpm</li>
+          <li>Volumen de agitación hasta 5 litros</li>
+          <li>Permanece frío incluso después de horas de uso continuo</li>
+          <li>Ideal para aplicaciones como microtitulación, DBO, microbiología y bioquímica</li>
+          <li>Excelente ajuste de velocidad incluso a bajas revoluciones</li>
+          <li>Diseñado para resistir el paso del tiempo y garantizado durante 3 años</li>
+          </ul>
+          `,
           videoLink: "",
           sendPriceText: "Ver más información",
         },
+        {
+          alt: "alt-logo",
+          srcImage: eq02_1,
+          typeProduct: {
+            name: "Agitadores",
+            keyname: "agitadores",
+          },
+          categoryProduct: {
+            name: "Agitadores Magneticos",
+            keyname: "agitadores-magneticos",
+          },
+          name: "MST Digital Agitador Magnético Digital",
+          description: "Agitador magnético pequeño y eficaz con pantalla digital, temporizador, retroceso automático y SpeedServo.",
+          descriptionLong: `Agitador magnético pequeño y eficaz con pantalla digital, temporizador, retroceso automático y SpeedServo.
+          <br><br>
+          <h5>Potente y compacto</h5>
+          <ul>
+          <li>Pantalla digital que simplifica el ajuste de la velocidad de agitación</li>
+          <li>Temporizador integrado y apagado automático programable</li>
+          <li>Inversión del sentido de la agitación a intervalos programables</li>
+          <li>SpeedServoTM asegura una velocidad constante incluso cuando la viscosidad varía (contrarreacción)</li>
+          <li>Ajuste de la velocidad de agitación hasta 1500 rpm</li>
+          </ul>
+          <br>
+          <h5>Robusto y versátil</h5>
+          <ul>
+          <li>Estructura en tecnopolímero con alta resistencia química</li>
+          <li>Dotado de motor brushless</li>
+          <li>Superficie blanca que favorece la detección de variaciones de color</li>
+          <li>Diseñado para resistir en el tiempo y garantizado por 3 años</li>
+          <li>Acepta un volumen de agitación de hasta 5 litros</li>
+          <li>Permanece frío incluso después de horas de uso continuo</li>
+          <li>Ideal para aplicaciones como microtitulación, DBO, microbiología y bioquímica</li>
+          <li>Excelente regulación de la velocidad incluso a bajas revoluciones</li>
+          </ul>
+          `,
+          videoLink: "",
+          sendPriceText: "Ver más información",
+        },
+        {
+          alt: "alt-logo",
+          srcImage: eq03_1,
+          typeProduct: {
+            name: "Agitadores",
+            keyname: "agitadores",
+          },
+          categoryProduct: {
+            name: "Agitadores Magneticos",
+            keyname: "agitadores-magneticos",
+          },
+          name: "MSL 8 - Agitador magnético para grandes volúmenes",
+          description: "Agitador magnético seguro y resistente capaz de agitar un volumen máximo de 8 litros. La solución ideal para aplicaciones que precisen de agitación de grandes volúmenes en sectores como el biológico y el farmacéutico.",
+          descriptionLong: `Agitador magnético seguro y resistente capaz de agitar un volumen máximo de 8 litros. La solución ideal para aplicaciones que precisen de agitación de grandes volúmenes en sectores como el biológico y el farmacéutico.
+          <br><br>
+          <h5>Rendimiento superior para aplicaciones de laboratorio que implican un alto volumen de agitación</h5>
+          El MSL 8 es un agitador magnético para grandes volúmenes diseñado para proporcionar el mejor rendimiento de agitación para una gran variedad de aplicaciones de laboratorio.
+          <ul>
+          <li>Preparación de soluciones tampón</li>
+          <li>Preparación de soluciones tampón y WFI (agua para inyección) en la industria farmacéutica</li>
+          <li>Preparación de muestras para soluciones tampón para procesos de disolución</li>
+          <li>Producción de vacunas</li>
+          <li>Cultivo de células y tejidos</li>
+          <li>Aplicaciones bidones de nalgene y de vidrio</li>
+          </ul>
+          <br>
+          <h5>Seguro y fiable</h5>
+          <ul>
+          <li>El motor brushless garantiza un funcionamiento continuo para grandes volúmenes a cualquier velocidad</li>
+          <li>Mezcla hasta 8 litros de volumen (H2O)</li>
+          <li>Rango de velocidad de 40 a 1500 vueltas/min</li>
+          <li>La tecnología SpeedServoTM  mantiene la velocidad constante</li>
+          <li>Un inicio suave para proteger la muestra</li>
+          <li>El panel de control está protegido contra derrames de líquidos</li>
+          <li>Cubierta duradera de acero inoxidable</li>
+          <li>Diseñada para durar y garantizado durante 3 años</li>
+          </ul>
+          `,
+          videoLink: "",
+          sendPriceText: "Ver más información",
+        },
+        {
+          alt: "alt-logo",
+          srcImage: eq04_1,
+          typeProduct: {
+            name: "Agitadores",
+            keyname: "agitadores",
+          },
+          categoryProduct: {
+            name: "Agitadores Magneticos",
+            keyname: "agitadores-magneticos",
+          },
+          name: "MSL 8 Digital - Agitador magnético digital para grandes volúmenes",
+          description: "Agitador magnético digital capaz de agitar un volumen máximo de 8 litros y equipado con temporizador, autorevers automático y bloqueo de seguridad. La solución ideal para aplicaciones que precisen de agitación de grandes volúmenes en sectores como el biológico y el farmacéutico.",
+          descriptionLong: `Agitador magnético digital capaz de agitar un volumen máximo de 8 litros y equipado con temporizador, autorevers automático y bloqueo de seguridad. La solución ideal para aplicaciones que precisen de agitación de grandes volúmenes en sectores como el biológico y el farmacéutico.
+          <br><br>
+          <h5>Rendimiento superior para aplicaciones de laboratorio que implican un alto volumen de agitación</h5>
+          El MSL 8 Digital es un agitador magnético para grandes volúmenes diseñado para proporcionar el mejor rendimiento de agitación para una gran variedad de aplicaciones de laboratorio.
+          <ul>
+          <li>Preparación de soluciones tampón</li>
+          <li>Preparación de soluciones tampón y WFI (agua para inyección) en la industria farmacéutica</li>
+          <li>Preparación de muestras para soluciones tampón para procesos de disolución</li>
+          <li>Producción de vacunas</li>
+          <li>Cultivo de células y tejidos</li>
+          <li>Aplicaciones bidones de nalgene y de vidrio</li>
+          </ul>
+
+          <h5>Versátil y fiable</h5>
+
+          <ul>
+          <li>El motor brushless garantiza un funcionamiento continuo para grandes volúmenes a cualquier velocidad</li>
+          <li>La pantalla LCD asegura un ajuste de velocidad preciso</li>
+          <li>Mezcla hasta 8 litros de volumen (H2O)</li>
+          <li>Rango de velocidad de 40 a 1500 vueltas/min</li>
+          <li>La tecnología SpeedServoTM  mantiene la velocidad constante</li>
+          <li>Funcionamiento programable gracias al temporizador integrado (de 1 a 99 min)</li>
+          <li>Inversión automática de la dirección de mezcla (de 5 a 99 min 55 s)</li>
+          <li>Programas en modo intermitente para adaptarse a diferentes flujos de trabajo</li>
+          </ul>
+
+          <h5>Seguro</h5>
+          <ul>
+          <li>Un inicio suave para proteger su muestra</li>
+          <li>El panel de control está protegido contra derrames de líquidos</li>
+          <li>Cubierta resistente de acero inoxidable</li>
+          <li>Función de bloqueo de seguridad para evitar posibles alteraciones de las condiciones de trabajo</li>
+          <li>Diseñado para una vida útil más larga y garantizado durante 3 años</li>
+          </ul>
+          `,
+          videoLink: "",
+          sendPriceText: "Ver más información",
+        },
+        {
+          alt: "alt-logo",
+          srcImage: eq05_1,
+          typeProduct: {
+            name: "Agitadores",
+            keyname: "agitadores",
+          },
+          categoryProduct: {
+            name: "Agitadores Magneticos",
+            keyname: "agitadores-magneticos",
+          },
+          name: "MSL 25 Digital - Agitador magnético digital para grandes volúmenes",
+          description: "Agitador magnético digital capaz de agitar un volumen máximo de 25 litros y equipado con temporizador, autorevers automático y bloqueo de seguridad. La solución ideal para aplicaciones que precisen de agitación de grandes volúmenes en sectores como el biólogico, farmacéutico, biofarmacéutico y nutracéutica.",
+          descriptionLong: `Agitador magnético digital capaz de agitar un volumen máximo de 25 litros y equipado con temporizador, autorevers automático y bloqueo de seguridad. La solución ideal para aplicaciones que precisen de agitación de grandes volúmenes en sectores como el biólogico, farmacéutico, biofarmacéutico y nutracéutica.
+          <br><br>
+          <h5>Rendimiento superior para aplicaciones de laboratorio que implican un alto volumen de agitación</h5>
+          El MSL 25 es un agitador magnético para grandes volúmenes diseñado para proporcionar el mejor rendimiento de agitación para una gran variedad de aplicaciones de laboratorio.
+          <ul>
+          <li>Preparación de soluciones tampón</li>
+          <li>Preparación de soluciones tampón y WFI (agua para inyección) en la industria farmacéutica</li>
+          <li>Preparación de muestras para soluciones tampón para procesos de disolución</li>
+          <li>Producción de vacunas</li>
+          <li>Cultivo de células y tejidos</li>
+          <li>Aplicaciones bidones de nalgene y de vidrio</li>
+          </ul>
+
+          <h5>Versátil y fiable</h5>
+
+          <ul>
+          <li>La pantalla LCD asegura un ajuste de velocidad preciso</li>
+          <li>Mezcla hasta 25 litros de volumen (H2O)</li>
+          <li>Rango de velocidad de 40 a 1500 vueltas/min</li>
+          <li>La tecnología SpeedServoTM  mantiene la velocidad constante</li>
+          <li>Funcionamiento programable gracias al temporizador integrado (de 1 a 99 min)</li>
+          <li>Inversión automática de la dirección de mezcla (de 5 sa 99 min 55 s)</li>
+          <li>Programas en modo intermitente para adaptarse a diferentes flujos de trabajo</li>
+          </ul>
+
+          <h5>Seguro</h5>
+
+          <ul>
+          <li>Un inicio suave para proteger su muestra</li>
+          <li>El panel de control está protegido contra derrames de líquidos</li>
+          <li>Cubierta resistente de acero inoxidable</li>
+          <li>Función de bloqueo de seguridad para evitar posibles alteraciones de las condiciones de trabajo</li>
+          <li>Diseñado para una vida útil más larga y garantizado durante 3 años</li>
+          </ul>
+`,
+          videoLink: "",
+          sendPriceText: "Ver más información",
+        },
+        {
+          alt: "alt-logo",
+          srcImage: eq06_1,
+          typeProduct: {
+            name: "Agitadores",
+            keyname: "agitadores",
+          },
+          categoryProduct: {
+            name: "Agitadores Magneticos",
+            keyname: "agitadores-magneticos",
+          },
+          name: "MSL 50 - Agitador magnético para grandes volúmenes",
+          description: "Agitador magnético digital capaz de agitar un volumen máximo de 50 litros y equipado con temporizador, retroceso automático y bloqueo de seguridad. La solución ideal para aplicaciones que precisen de agitación de grandes volúmenes en sectores como el biólogico, farmacéutico, biofarmacéutico y nutracéutica.",
+          descriptionLong: `Agitador magnético digital capaz de agitar un volumen máximo de 50 litros y equipado con temporizador, retroceso automático y bloqueo de seguridad. La solución ideal para aplicaciones que precisen de agitación de grandes volúmenes en sectores como el biólogico, farmacéutico, biofarmacéutico y nutracéutica.
+          <br><br>
+          <h5>Rendimiento superior para aplicaciones de laboratorio que implican un alto volumen de agitación</h5>
+          El MSL 50 es un agitador magnético para grandes volúmenes diseñado para proporcionar el mejor rendimiento de agitación para una gran variedad de aplicaciones de laboratorio.
+          <ul>
+          <li>Preparación de soluciones tampón</li>
+          <li>Preparación de soluciones tampón y WFI (agua para inyección) en la industria farmacéutica</li>
+          <li>Preparación de muestras para soluciones tampón para procesos de disolución</li>
+          <li>Producción de vacunas</li>
+          <li>Cultivo de células y tejidos</li>
+          <li>Aplicaciones bidones de nalgene y de vidrio</li>
+          </ul>
+
+          <h5>Versátil y fiable</h5>
+          <ul>
+          <li>El motor brushless garantiza un funcionamiento continuo para grandes volúmenes a cualquier velocidad</li>
+          <li>La pantalla LCD asegura un ajuste de velocidad preciso</li>
+          <li>Mezcla hasta 50 litros de volumen (H2O)</li>
+          <li>Rango de velocidad de 20 a 1000 vueltas/min</li>
+          <li>La tecnología SpeedServoTM  mantiene la velocidad constante</li>
+          <li>Funcionamiento programable gracias al temporizador integrado (de 1 a 99 min)</li>
+          <li>Inversión automática de la dirección de mezcla (de 5 sa 99 min 55 s)</li>
+          <li>Programas en modo intermitente para adaptarse a diferentes flujos de trabajo</li>
+          </ul>
+          <h5>Seguro</h5>
+          <ul>
+          <li>Un inicio suave para proteger su muestra</li>
+          <li>El panel de control está protegido contra derrames de líquidos</li>
+          <li>Cubierta resistente de acero inoxidable</li>
+          <li>Función de bloqueo de seguridad para evitar posibles alteraciones de las condiciones de trabajo</li>
+          <li>Diseñado para una vida útil más larga y garantizado durante 3 años</li>
+          </ul>
+          `,
+          videoLink: "",
+          sendPriceText: "Ver más información",
+        },
+        {
+          alt: "alt-logo",
+          srcImage: eq07_1,
+          typeProduct: {
+            name: "Agitadores",
+            keyname: "agitadores",
+          },
+          categoryProduct: {
+            name: "Agitadores Magneticos",
+            keyname: "agitadores-magneticos",
+          },
+          name: "MULTISTIRRER - Agitador Magnético Multiposición",
+          description: "Agitador magnético de 6 o 15 posiciones capaz de permanecer frío incluso después de varios días de uso.",
+          descriptionLong: `Agitador magnético de 6 o 15 posiciones capaz de permanecer frío incluso después de varios días de uso.
+          <br><br>
+          <h5>Robusto y práctico</h5>
+          <ul>
+          <li>Panel de control blindado contra derrames de líquidos</li>
+          <li>Estructura de acero templado revestida con resina epoxi</li>
+          <li>Tapa de acero inoxidable</li>
+          <li>Ergonómico</li>
+          <li>Regulación de velocidad de 80 a 1500 vuelta/min.</li>
+          <li>Rango de tensión / frecuencia de red universal</li>
+          <li>Ligero</li>
+          <li>Diseñado para durar y con garantía de 3 años</li>
+          <li>Fiable</li>
+          <li>Superficie transparente para la visualización de partículas y cambios de color</li>
+          <li>Se mantiene frío, incluso después de días de uso continuo</li>
+          <li>Inicio gradual y rápido alcance de la velocidad establecida</li>
+          <li>Excelente control electrónico de velocidad</li>
+          <li>Puede termostatizar las muestras usando un baño termostático</li>
+          <li>Ideal para microtitulación, microbiología y bioquímica</li>
+          </ul>
+          `,
+          videoLink: "",
+          sendPriceText: "Ver más información",
+        },
+        {
+          alt: "alt-logo",
+          srcImage: eq08_1,
+          typeProduct: {
+            name: "Agitadores",
+            keyname: "agitadores",
+          },
+          categoryProduct: {
+            name: "Agitadores Magneticos",
+            keyname: "agitadores-magneticos",
+          },
+          name: "MULTISTIRRER Digital - Agitador magnético digital multiposición",
+          description: "Agitadores digitales multiposición de 6 o 15 posiciones capaces de permanecer fríos incluso después de varios días de uso y equipados con temporizador.",
+          descriptionLong: `Agitadores digitales multiposición de 6 o 15 posiciones capaces de permanecer fríos incluso después de varios días de uso y equipados con temporizador.
+          <br><br>
+          <h5>Robusto y Preciso</h5>
+          <ul>
+          <li>Pantalla digital brillante para un control preciso de la velocidad</li>
+          <li>Temporizador único para un funcionamiento sin supervisión</li>
+          <li>Rotación inversa ajustable (temporizado)</li>
+          <li>Regulación de velocidad de 80 a 1500 vueltas/min</li>
+          <li>SpeedServo ™ asegura una velocidad constante incluso cuando la viscosidad cambia</li>
+          <li>Agitación sincronizada, velocidad igual para cada posición</li>
+          <li>Placa superior de acero inoxidable duradera</li>
+          <li>Diseñada para durar y garantizado por 3 años</li>
+          <li>Ergonómico - altura baja</li>
+          <li>Rango de frecuencia/voltaje de red universal</li>
+          <li>Ligero, fácil de mover</li>
+          </ul>
+          <br>
+          <h5>Fiable</h5>
+          <ul>
+          <li>Se mantiene frío, incluso después de días de uso continuo</li>
+          <li>Inicio gradual y rápido alcance de la velocidad establecida</li>
+          <li>Excelente control electrónicode velocidad</li>
+          <li>Puede termostatizar las muestras usando un baño termostático</li>
+          <li>Ideal para microtitulación, microbiología y bioquímica</li>
+          </ul>
+          `,
+          videoLink: "",
+          sendPriceText: "Ver más información",
+        },
+        {
+          alt: "alt-logo",
+          srcImage: eq09_1,
+          typeProduct: {
+            name: "Agitadores",
+            keyname: "agitadores",
+          },
+          categoryProduct: {
+            name: "Agitadores Magneticos",
+            keyname: "agitadores-magneticos",
+          },
+          name: "ESP Agitador magnético ultraplano",
+          description: "Agitador magnético ultraplano, sin componentes mecánicos móviles y sin mantenimiento.",
+          descriptionLong: `Agitador magnético ultraplano, sin componentes mecánicos móviles y sin mantenimiento.
+          <br><br>
+          <h5>Resistente</h5>
+          <ul>
+          <li>Sin mantenimiento, sin partes móviles</li>
+          <li>El panel de control está protegido contra derrames de líquidos gracias a una ranura deslizante</li>
+          <li>La estructura de tecnopolímero es resistente a los productos químicos</li>
+          <li>Acepta hasta 5 litros</li>
+          <li>Diseñado para durar y con garantía de 3 años</li>
+          </ul>
+          <h5>Fiable y fácil de usar</h5>
+          <ul>
+          <li>Ergonómico - altura baja</li>
+          <li>Regulación de velocidad hasta 1100 vueltas/min</li>
+          <li>Rango de voltaje /frecuencia de red universal</li>
+          <li>Ligero, fácil de mover</li>
+          <li>Superficie ideal para ver partículas y cambios de color.</li>
+          <li>Inicio gradual y rápido alcance de la velocidad establecida</li>
+          <li>Ideal para microtitulación, microbiología y bioquímica</li>
+          </ul>
+          `,
+          videoLink: "",
+          sendPriceText: "Ver más información",
+        },
+        {
+          alt: "alt-logo",
+          srcImage: eq10_1,
+          typeProduct: {
+            name: "Agitadores",
+            keyname: "agitadores",
+          },
+          categoryProduct: {
+            name: "Agitadores Magneticos",
+            keyname: "agitadores-magneticos",
+          },
+          name: "MICROSTIRRER Agitador magnético",
+          description: "Agitador magnético de laboratorio especialmente diseñado para microtitulaciones.",
+          descriptionLong: `Agitador magnético de laboratorio especialmente diseñado para microtitulaciones.
+          <br><br>
+          <h5>Fiable y fácil de usar</h5>
+          <ul>
+          <li>El panel de control está protegido contra derrames de líquidos.</li>
+          <li>Estructura de acero recubierto con resina epoxi.</li>
+          <li>Acepta hasta 5 litros</li>
+          <li>Diseñado para durar y garantizado por 3 años.</li>
+          <li>Superficie blanca para ver partículas y cambios de color.</li>
+          <li>Se mantiene frío, incluso después de días de uso continuo.</li>
+          <li>Diseñado para microtitulaciones</li>
+          <li>Excelente control de velocidad (incluso a bajas velocidades)</li>
+          <li>Regulación de velocidad hasta 1100 rpm</li>
+          <li>Rango universal de tensión/frecuencia de red</li>
+          <li>Ligero, fácil de mover</li>
+          </ul>
+          `,
+          videoLink: "",
+          sendPriceText: "Ver más información",
+        },
+        {
+          alt: "alt-logo",
+          srcImage: eq11_1,
+          typeProduct: {
+            name: "Agitadores",
+            keyname: "agitadores",
+          },
+          categoryProduct: {
+            name: "Agitadores Magneticos",
+            keyname: "agitadores-magneticos",
+          },
+          name: "AMI Agitador magnético iluminado",
+          description: "Agitadores magnéticos iluminados, especialmente útiles para titulaciones.",
+          descriptionLong: `Agitadores magnéticos iluminados, especialmente útiles para titulaciones.
+          <br><br>
+          <h5>Resistente y fiable</h5>
+          <ul>
+          <li>El panel de control está protegido contra derrames de líquidos.</li>
+          <li>Estructura de acero recubierto con resina epoxi.</li>
+          <li>Diseñado para durar y garantizado por 3 años.</li>
+          <li>Superficie blanca para ver partículas y cambios de color.</li>
+          <li>Inicio gradual y rápido alcance de la velocidad establecida</li>
+          <li>Excelente control de velocidad (incluso a bajas velocidades)</li>
+          <li>Ideal para microtitulaciones, para determinar ligeros cambios de color de las soluciones</li>
+          </ul>
+          <br>
+          <h5>Fácil de usar</h5>
+          <ul>
+          <li>Posibilidad de ajustar la intensidad de la luz</li>
+          <li>Ergonómico - baja altura</li>
+          <li>El modelo de 4 posiciones proporciona un ajuste de velocidad independiente</li>
+          <li>Regulación de velocidad hasta 1100 vueltas/min</li>
+          <li>Rango universal de voltaje/frecuencia de red</li>
+          </ul>
+          `,
+          videoLink: "",
+          sendPriceText: "Ver más información",
+        },
+        // {
+        //   alt: "alt-logo",
+        //   srcImage: pro01_1,
+        //   typeProduct: {
+        //     name: "Agitadores",
+        //     keyname: "agitadores",
+        //   },
+        //   categoryProduct: {
+        //     name: "Agitadores Magneticos",
+        //     keyname: "agitadores-magneticos",
+        //   },
+        //   name: "",
+        //   description: "",
+        //   descriptionLong: ``,
+        //   videoLink: "",
+        //   sendPriceText: "Ver más información",
+        // },
       ],
     },
   ],
