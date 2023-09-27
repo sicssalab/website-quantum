@@ -71,6 +71,22 @@ import eq26_1 from "../assets/landings/velp/equipos/agitadores-magneticos/vtf/1.
 import eq27_1 from "../assets/landings/velp/equipos/placas-calefactoras/rc-5/1.jpg";
 import eq28_1 from "../assets/landings/velp/equipos/placas-calefactoras/rc-2/1.jpg";
 import eq29_1 from "../assets/landings/velp/equipos/placas-calefactoras/rec/1VELPREC00-236772-239838.jpg";
+import eq30_1 from "../assets/landings/velp/equipos/agitadores/hs-200-advance/1.jpg";
+import eq31_1 from "../assets/landings/velp/equipos/agitadores/ohs100-advance/1OHS100Advance00-209528-228043.jpg";
+import eq32_1 from "../assets/landings/velp/equipos/agitadores/ohs-60-advance/1OHS60Advance00-209455-228155.jpg";
+import eq33_1 from "../assets/landings/velp/equipos/agitadores/ohs-200-digital/1OHS200Digital00-209429-228202.jpg";
+import eq34_1 from "../assets/landings/velp/equipos/agitadores/ohs-100-digital/1OHS100Digital00-209402-228268.jpg";
+import eq35_1 from "../assets/landings/velp/equipos/agitadores/ohs-60-digital/1OHS60Digital00-209375-228310.jpg";
+import eq36_1 from "../assets/landings/velp/equipos/agitadores/ohs-40-digital/1OHS40Digital00-209347-228323.jpg";
+import eq37_1 from "../assets/landings/velp/equipos/agitadores/ohs-20-digital/1.jpg";
+import eq38_1 from "../assets/landings/velp/equipos/agitadores/controller-advance/1.jpg";
+import eq39_1 from "../assets/landings/velp/equipos/agitadores/controller-digital/1.jpg";
+import eq40_1 from "../assets/landings/velp/equipos/agitadores/dlh-digital/1.jpg";
+import eq41_1 from "../assets/landings/velp/equipos/agitadores/dls-digital/1.jpg";
+import eq42_1 from "../assets/landings/velp/equipos/agitadores/pw/1.jpg";
+import eq43_1 from "../assets/landings/velp/equipos/agitadores/lh-varilla/1.jpg";
+import eq44_1 from "../assets/landings/velp/equipos/agitadores/ls-varilla/1.jpg";
+import eq45_1 from "../assets/landings/velp/equipos/agitadores/es-varilla/1.jpg";
 
 const apiSelcaEscondidaMock = {
   items: [
@@ -928,7 +944,8 @@ Space: perfil compacto, uso mínimo del espacio en la mesa para una gestión óp
             keyname: "digestores-semiautomaticos",
           },
           name: "DK 8 Digestor Kjeldahl",
-          description: "Unidades de digestión Kjeldahl con bloque calefactor de aluminio de 8 posiciones que ofrece una excelente homogeneidad térmica.",
+          description:
+            "Unidades de digestión Kjeldahl con bloque calefactor de aluminio de 8 posiciones que ofrece una excelente homogeneidad térmica.",
           descriptionLong: `Unidades de digestión Kjeldahl con bloque calefactor de aluminio de 8 posiciones que ofrece una excelente homogeneidad térmica.
           <br><br>
           <h5>Homogeneidad y precisión térmica</h5>
@@ -1003,7 +1020,8 @@ Space: perfil compacto, uso mínimo del espacio en la mesa para una gestión óp
             keyname: "digestores-semiautomaticos",
           },
           name: "DK 18-26 Digestor Kjeldahl",
-          description: "Unidades de digestión Kjeldahl con bloque calefactor de aluminio de 18 posiciones que ofrece una excelente homogeneidad térmica para aplicaciones micro-kjeldahl.",
+          description:
+            "Unidades de digestión Kjeldahl con bloque calefactor de aluminio de 18 posiciones que ofrece una excelente homogeneidad térmica para aplicaciones micro-kjeldahl.",
           descriptionLong: `Unidades de digestión Kjeldahl con bloque calefactor de aluminio de 18 posiciones que ofrece una excelente homogeneidad térmica para aplicaciones micro-kjeldahl.
           <br><br>
           <h5>Homogeneidad y precisión térmica</h5>
@@ -1079,7 +1097,8 @@ Ahorro de espacio: el estrecho espacio que ocupa ahorra un valioso espacio en la
             keyname: "digestores-semiautomaticos",
           },
           name: "DK 20 Digestor Kjeldahl",
-          description: "Unidades de digestión Kjeldahl con bloque calefactor de aluminio de 20 posiciones que ofrece una excelente homogeneidad térmica.",
+          description:
+            "Unidades de digestión Kjeldahl con bloque calefactor de aluminio de 20 posiciones que ofrece una excelente homogeneidad térmica.",
           descriptionLong: `Unidades de digestión Kjeldahl con bloque calefactor de aluminio de 20 posiciones que ofrece una excelente homogeneidad térmica.
           <br><br>
           <h5>Homogeneidad y precisión térmica</h5>
@@ -1169,7 +1188,8 @@ Ahorro de espacio: el estrecho espacio que ocupa ahorra un valioso espacio en la
             keyname: "digestores-semiautomaticos",
           },
           name: "DK 42-26 Digestor Kjeldahl",
-          description: "Unidades de digestión Kjeldahl con bloque calefactor de aluminio de 42 posiciones que ofrece una excelente homogeneidad térmica para aplicaciones micro-kjeldahl. ",
+          description:
+            "Unidades de digestión Kjeldahl con bloque calefactor de aluminio de 42 posiciones que ofrece una excelente homogeneidad térmica para aplicaciones micro-kjeldahl. ",
           descriptionLong: `Unidades de digestión Kjeldahl con bloque calefactor de aluminio de 42 posiciones que ofrece una excelente homogeneidad térmica para aplicaciones micro-kjeldahl. 
           <br><br>
           <h5>Homogeneidad y precisión térmica</h5>
@@ -1244,7 +1264,8 @@ Ahorro de espacio: el estrecho espacio que ocupa ahorra un valioso espacio en la
             keyname: "sistema-de-neutralizacion-de-humo",
           },
           name: "KS 1000 Scrubber",
-          description: "Scrubber compacto, diseñado para neutralizar los humos producidos durante la mineralización y proteger a los operarios del laboratorio, sin necesidad de conexión a la red de agua.",
+          description:
+            "Scrubber compacto, diseñado para neutralizar los humos producidos durante la mineralización y proteger a los operarios del laboratorio, sin necesidad de conexión a la red de agua.",
           descriptionLong: `Scrubber compacto, diseñado para neutralizar los humos producidos durante la mineralización y proteger a los operarios del laboratorio, sin necesidad de conexión a la red de agua.
           <br><br>
           <h5>Máxima seguridad para el laboratorio</h5>
@@ -1293,7 +1314,8 @@ Ahorro de espacio: el estrecho espacio que ocupa ahorra un valioso espacio en la
             keyname: "destilacion-y-titulacion-automatica",
           },
           name: "Analizador automático Kjeldahl UDK 169 con automuestreador AutoKjel",
-          description: "Sistema automático de destilación y titulación para la determinación de nitrógeno proteico Kjeldahl, nitrógeno no proteico (NNP), ácidos volátiles y otros analitos. Conexión  a un automuestreador, para una alta productividad, máxima flexibilidad y funcionamiento autónomo.",
+          description:
+            "Sistema automático de destilación y titulación para la determinación de nitrógeno proteico Kjeldahl, nitrógeno no proteico (NNP), ácidos volátiles y otros analitos. Conexión  a un automuestreador, para una alta productividad, máxima flexibilidad y funcionamiento autónomo.",
           descriptionLong: `Sistema automático de destilación y titulación para la determinación de nitrógeno proteico Kjeldahl, nitrógeno no proteico (NNP), ácidos volátiles y otros analitos. Conexión  a un automuestreador, para una alta productividad, máxima flexibilidad y funcionamiento autónomo.
           <br><br>
           <h5>Seguridad, fiabilidad y precisión para laboratorios que buscan el máximo grado de automatización</h5>
@@ -1452,7 +1474,8 @@ Ahorro de espacio: el estrecho espacio que ocupa ahorra un valioso espacio en la
             keyname: "destilacion-y-titulacion-automatica",
           },
           name: "UDK 159 Analizador automático Kjeldahl",
-          description: "Sistema automático de destilación y titulación Kjeldahl para la determinación de nitrógeno proteico, nitrógeno no proteico (NPN), ácidos volátiles y otros analitos. La solución que satisface las exigencias más elevadas en términos de precisión, exactitud y seguridad.",
+          description:
+            "Sistema automático de destilación y titulación Kjeldahl para la determinación de nitrógeno proteico, nitrógeno no proteico (NPN), ácidos volátiles y otros analitos. La solución que satisface las exigencias más elevadas en términos de precisión, exactitud y seguridad.",
           descriptionLong: `Sistema automático de destilación y titulación Kjeldahl para la determinación de nitrógeno proteico, nitrógeno no proteico (NPN), ácidos volátiles y otros analitos. La solución que satisface las exigencias más elevadas en términos de precisión, exactitud y seguridad.
           <br><br>
           <h5>Seguridad, fiabilidad y precisión para laboratorios que buscan el máximo grado de automatización</h5>
@@ -1595,7 +1618,8 @@ Ahorro de espacio: el estrecho espacio que ocupa ahorra un valioso espacio en la
             keyname: "destilacion-y-titulacion-automatica",
           },
           name: "Destilador automático Kjeldahl UDK 149",
-          description: "Destilador automático para la determinación de nitrógeno proteico Kjeldahl, nitrógeno no proteico (NPN), ácidos volátiles y otros analitos. Conexión a tituladores potenciométricos externos para un manejo optimizado de un mayor número de muestras, mayor flexibilidad y precisión.",
+          description:
+            "Destilador automático para la determinación de nitrógeno proteico Kjeldahl, nitrógeno no proteico (NPN), ácidos volátiles y otros analitos. Conexión a tituladores potenciométricos externos para un manejo optimizado de un mayor número de muestras, mayor flexibilidad y precisión.",
           descriptionLong: `Destilador automático para la determinación de nitrógeno proteico Kjeldahl, nitrógeno no proteico (NPN), ácidos volátiles y otros analitos. Conexión a tituladores potenciométricos externos para un manejo optimizado de un mayor número de muestras, mayor flexibilidad y precisión.
           <br><br>
           <h5>Máxima flexibilidad, precisión y versatilidad para su laboratorio</h5>
@@ -1716,7 +1740,8 @@ Ahorro de espacio: el estrecho espacio que ocupa ahorra un valioso espacio en la
             keyname: "destiladores-semiautomaticos",
           },
           name: "Destilador semiautomático Kjeldahl UDK 139",
-          description: "Destilador semiautomático para la determinación de nitrógeno proteico Kjeldahl, nitrógeno no proteico (NPN), ácidos volátiles y otros analitos. Fiabilidad y rendimiento superiores con una excelente relación calidad-precio.",
+          description:
+            "Destilador semiautomático para la determinación de nitrógeno proteico Kjeldahl, nitrógeno no proteico (NPN), ácidos volátiles y otros analitos. Fiabilidad y rendimiento superiores con una excelente relación calidad-precio.",
           descriptionLong: `Destilador semiautomático para la determinación de nitrógeno proteico Kjeldahl, nitrógeno no proteico (NPN), ácidos volátiles y otros analitos. Fiabilidad y rendimiento superiores con una excelente relación calidad-precio.
           <br><br>
           <h5>Seguridad y fiabilidad para sus análisis en modo semiautomático</h5>
@@ -1820,7 +1845,8 @@ Espacio: perfil compacto, ocupa muy poco espacio en la mesa de laboratorio.
             keyname: "destiladores-semiautomaticos",
           },
           name: "Destilador semiautomático Kjeldahl UDK 129",
-          description: "Destilador  básico para la determinación de nitrógeno proteico Kjeldahl, nitrógeno no proteico (NPN), ácidos volátiles y otros analitos. Una solución sencilla y fiable con características únicas.",
+          description:
+            "Destilador  básico para la determinación de nitrógeno proteico Kjeldahl, nitrógeno no proteico (NPN), ácidos volátiles y otros analitos. Una solución sencilla y fiable con características únicas.",
           descriptionLong: `Destilador  básico para la determinación de nitrógeno proteico Kjeldahl, nitrógeno no proteico (NPN), ácidos volátiles y otros analitos. Una solución sencilla y fiable con características únicas.
           <br><br>
           <h5>Facilidad de uso y seguridad para sus análisis</h5>
@@ -1907,7 +1933,8 @@ Espacio: perfil compacto, ocupa muy poco espacio en la mesa de laboratorio.
             keyname: "extractores-automaticos-con-solventes",
           },
           name: "SER 158 Extractor Automático con Solventes",
-          description: "Extractor totalmente automático en 3 y 6 posiciones, habilitado para conexión en la nube que garantiza seguridad, exactitud y precisión en la determinación de materia extraíble según los métodos de Randall y Twisselmann.",
+          description:
+            "Extractor totalmente automático en 3 y 6 posiciones, habilitado para conexión en la nube que garantiza seguridad, exactitud y precisión en la determinación de materia extraíble según los métodos de Randall y Twisselmann.",
           descriptionLong: `Extractor totalmente automático en 3 y 6 posiciones, habilitado para conexión en la nube que garantiza seguridad, exactitud y precisión en la determinación de materia extraíble según los métodos de Randall y Twisselmann.
           <br><br>
           <h5>Extracción sólido-líquido rápida y precisa</h5>
@@ -2021,7 +2048,8 @@ Espacio: perfil compacto, ocupa muy poco espacio en la mesa de laboratorio.
             keyname: "extractores-semiautomaticos",
           },
           name: "SER 148 Extractor Semi-Automático con Solventes",
-          description: "Extractores para la separación cuantitativa de sustancias con solvente, según la técnica de Randall que permite una drástica reducción de los tiempos de extracción.",
+          description:
+            "Extractores para la separación cuantitativa de sustancias con solvente, según la técnica de Randall que permite una drástica reducción de los tiempos de extracción.",
           descriptionLong: `Extractores para la separación cuantitativa de sustancias con solvente, según la técnica de Randall que permite una drástica reducción de los tiempos de extracción.
           <br><br>
           <h5>La solución semiautomática para la extracción con solventes</h5>
@@ -2064,7 +2092,8 @@ La alta tasa de recuperación del solvente usado y una alta reproducibilidad, so
             keyname: "unidad-de-hidrolisis",
           },
           name: "HU 6 Unidad de hidrólisis",
-          description: "Unidad de hidrólisis de seis posiciones para pretratar la muestra a analizar con SER 148 o SER 158, ideal tanto para hidrólisis ácida como básica.",
+          description:
+            "Unidad de hidrólisis de seis posiciones para pretratar la muestra a analizar con SER 148 o SER 158, ideal tanto para hidrólisis ácida como básica.",
           descriptionLong: `
           Unidad de hidrólisis de seis posiciones para pretratar la muestra a analizar con SER 148 o SER 158, ideal tanto para hidrólisis ácida como básica.
           <br><br>
@@ -2130,7 +2159,8 @@ Ahorro de espacio: el reducido espacio que ocupa ahorra un valioso espacio en la
             keyname: "analizador-automatico",
           },
           name: "FIWE Advance Analizador Automático de Fibra",
-          description: "El analizador completamente automático para la determinación de fibra cruda y detergente según métodos de referencia oficiales que requieren un tiempo mínimo del operador con una interfaz de usuario única y conectividad en la nube.",
+          description:
+            "El analizador completamente automático para la determinación de fibra cruda y detergente según métodos de referencia oficiales que requieren un tiempo mínimo del operador con una interfaz de usuario única y conectividad en la nube.",
           descriptionLong: `El analizador completamente automático para la determinación de fibra cruda y detergente según métodos de referencia oficiales que requieren un tiempo mínimo del operador con una interfaz de usuario única y conectividad en la nube.
           <br><br>
           <h5>Fibra cruda y detergente con máxima automatización</h5>
@@ -2204,7 +2234,8 @@ Ahorro de espacio: el reducido espacio que ocupa ahorra un valioso espacio en la
             keyname: "extractores-semiautomaticos",
           },
           name: "FIWE Analizador de Fibra",
-          description: "Extractores para la determinación de la fibra cruda y detergente, mediante el uso de reactivos precalentados según los métodos oficiales (Weende, Van Soest).",
+          description:
+            "Extractores para la determinación de la fibra cruda y detergente, mediante el uso de reactivos precalentados según los métodos oficiales (Weende, Van Soest).",
           descriptionLong: `Extractores para la determinación de la fibra cruda y detergente, mediante el uso de reactivos precalentados según los métodos oficiales (Weende, Van Soest).
           <br><br>
           <h5>Determinación de fibra cruda y detergente</h5>
@@ -2260,7 +2291,8 @@ El crisol, que contiene la muestra desengrasada, se transfiere directamente al a
             keyname: "extractor-a-frio",
           },
           name: "COEX Extractor Frío",
-          description: "Extractor en frío para una extracción rápida y eficaz de la grasa antes del análisis de la fibra directamente en los crisoles de vidrio de FIWE y FIWE Advance.",
+          description:
+            "Extractor en frío para una extracción rápida y eficaz de la grasa antes del análisis de la fibra directamente en los crisoles de vidrio de FIWE y FIWE Advance.",
           descriptionLong: `Extractor en frío para una extracción rápida y eficaz de la grasa antes del análisis de la fibra directamente en los crisoles de vidrio de FIWE y FIWE Advance.
           <br><br>
           <h5>Extracción Preliminar de Grasa para mejorar la precisión analítica</h5>
@@ -2287,7 +2319,8 @@ COEX asegura una rápida extracción de la grasa directamente en los crisoles de
             keyname: "digestor-o-enzimatico",
           },
           name: "GDE Digestor Enzimático",
-          description: "Digestor enzimático para agitación continua y constante de la muestra, evitando el sobrecalentamiento.",
+          description:
+            "Digestor enzimático para agitación continua y constante de la muestra, evitando el sobrecalentamiento.",
           descriptionLong: `Digestor enzimático para agitación continua y constante de la muestra, evitando el sobrecalentamiento.
           <br><br>
           <h5>Fiabilidad y precisión para el análisis de fibra dietética</h5>
@@ -2321,7 +2354,8 @@ COEX asegura una rápida extracción de la grasa directamente en los crisoles de
             keyname: "unidad-de-filtrado",
           },
           name: "CSF6 Unitad de Filtrado",
-          description: "Unidad de filtración para análisis de fibra dietética total en alimentos.",
+          description:
+            "Unidad de filtración para análisis de fibra dietética total en alimentos.",
           descriptionLong: `Unidad de filtración para análisis de fibra dietética total en alimentos.
           <br><br>
           <h5>Filtración rápida y eficaz</h5>
@@ -2354,7 +2388,8 @@ También es posible inyectar aire comprimido desde abajo para eliminar cualquier
             keyname: "reactor-de-estabilidad",
           },
           name: "OXITEST Reactor de Estabilidad Oxidativa",
-          description: "Reactor innovador para la determinación de la estabilidad oxidativa de grasas en toda la muestra según el procedimiento oficial AOCS Cd-12c-16.",
+          description:
+            "Reactor innovador para la determinación de la estabilidad oxidativa de grasas en toda la muestra según el procedimiento oficial AOCS Cd-12c-16.",
           descriptionLong: `Reactor innovador para la determinación de la estabilidad oxidativa de grasas en toda la muestra según el procedimiento oficial AOCS Cd-12c-16.
           <br><br>
           <h5>Estabilidad oxidativa de grasas y aceites para laboratorios de I+D y control de calidad</h5>
@@ -2492,7 +2527,8 @@ El OXITEST gracias a su conectividad a VELP Ermes te permite reducir las operaci
             keyname: "agitadores-magneticos",
           },
           name: "MST Digital Agitador Magnético Digital",
-          description: "Agitador magnético pequeño y eficaz con pantalla digital, temporizador, retroceso automático y SpeedServo.",
+          description:
+            "Agitador magnético pequeño y eficaz con pantalla digital, temporizador, retroceso automático y SpeedServo.",
           descriptionLong: `Agitador magnético pequeño y eficaz con pantalla digital, temporizador, retroceso automático y SpeedServo.
           <br><br>
           <h5>Potente y compacto</h5>
@@ -2531,7 +2567,8 @@ El OXITEST gracias a su conectividad a VELP Ermes te permite reducir las operaci
             keyname: "agitadores-magneticos",
           },
           name: "MSL 8 - Agitador magnético para grandes volúmenes",
-          description: "Agitador magnético seguro y resistente capaz de agitar un volumen máximo de 8 litros. La solución ideal para aplicaciones que precisen de agitación de grandes volúmenes en sectores como el biológico y el farmacéutico.",
+          description:
+            "Agitador magnético seguro y resistente capaz de agitar un volumen máximo de 8 litros. La solución ideal para aplicaciones que precisen de agitación de grandes volúmenes en sectores como el biológico y el farmacéutico.",
           descriptionLong: `Agitador magnético seguro y resistente capaz de agitar un volumen máximo de 8 litros. La solución ideal para aplicaciones que precisen de agitación de grandes volúmenes en sectores como el biológico y el farmacéutico.
           <br><br>
           <h5>Rendimiento superior para aplicaciones de laboratorio que implican un alto volumen de agitación</h5>
@@ -2572,7 +2609,8 @@ El OXITEST gracias a su conectividad a VELP Ermes te permite reducir las operaci
             keyname: "agitadores-magneticos",
           },
           name: "MSL 8 Digital - Agitador magnético digital para grandes volúmenes",
-          description: "Agitador magnético digital capaz de agitar un volumen máximo de 8 litros y equipado con temporizador, autorevers automático y bloqueo de seguridad. La solución ideal para aplicaciones que precisen de agitación de grandes volúmenes en sectores como el biológico y el farmacéutico.",
+          description:
+            "Agitador magnético digital capaz de agitar un volumen máximo de 8 litros y equipado con temporizador, autorevers automático y bloqueo de seguridad. La solución ideal para aplicaciones que precisen de agitación de grandes volúmenes en sectores como el biológico y el farmacéutico.",
           descriptionLong: `Agitador magnético digital capaz de agitar un volumen máximo de 8 litros y equipado con temporizador, autorevers automático y bloqueo de seguridad. La solución ideal para aplicaciones que precisen de agitación de grandes volúmenes en sectores como el biológico y el farmacéutico.
           <br><br>
           <h5>Rendimiento superior para aplicaciones de laboratorio que implican un alto volumen de agitación</h5>
@@ -2623,7 +2661,8 @@ El OXITEST gracias a su conectividad a VELP Ermes te permite reducir las operaci
             keyname: "agitadores-magneticos",
           },
           name: "MSL 25 Digital - Agitador magnético digital para grandes volúmenes",
-          description: "Agitador magnético digital capaz de agitar un volumen máximo de 25 litros y equipado con temporizador, autorevers automático y bloqueo de seguridad. La solución ideal para aplicaciones que precisen de agitación de grandes volúmenes en sectores como el biólogico, farmacéutico, biofarmacéutico y nutracéutica.",
+          description:
+            "Agitador magnético digital capaz de agitar un volumen máximo de 25 litros y equipado con temporizador, autorevers automático y bloqueo de seguridad. La solución ideal para aplicaciones que precisen de agitación de grandes volúmenes en sectores como el biólogico, farmacéutico, biofarmacéutico y nutracéutica.",
           descriptionLong: `Agitador magnético digital capaz de agitar un volumen máximo de 25 litros y equipado con temporizador, autorevers automático y bloqueo de seguridad. La solución ideal para aplicaciones que precisen de agitación de grandes volúmenes en sectores como el biólogico, farmacéutico, biofarmacéutico y nutracéutica.
           <br><br>
           <h5>Rendimiento superior para aplicaciones de laboratorio que implican un alto volumen de agitación</h5>
@@ -2674,7 +2713,8 @@ El OXITEST gracias a su conectividad a VELP Ermes te permite reducir las operaci
             keyname: "agitadores-magneticos",
           },
           name: "MSL 50 - Agitador magnético para grandes volúmenes",
-          description: "Agitador magnético digital capaz de agitar un volumen máximo de 50 litros y equipado con temporizador, retroceso automático y bloqueo de seguridad. La solución ideal para aplicaciones que precisen de agitación de grandes volúmenes en sectores como el biólogico, farmacéutico, biofarmacéutico y nutracéutica.",
+          description:
+            "Agitador magnético digital capaz de agitar un volumen máximo de 50 litros y equipado con temporizador, retroceso automático y bloqueo de seguridad. La solución ideal para aplicaciones que precisen de agitación de grandes volúmenes en sectores como el biólogico, farmacéutico, biofarmacéutico y nutracéutica.",
           descriptionLong: `Agitador magnético digital capaz de agitar un volumen máximo de 50 litros y equipado con temporizador, retroceso automático y bloqueo de seguridad. La solución ideal para aplicaciones que precisen de agitación de grandes volúmenes en sectores como el biólogico, farmacéutico, biofarmacéutico y nutracéutica.
           <br><br>
           <h5>Rendimiento superior para aplicaciones de laboratorio que implican un alto volumen de agitación</h5>
@@ -2723,7 +2763,8 @@ El OXITEST gracias a su conectividad a VELP Ermes te permite reducir las operaci
             keyname: "agitadores-magneticos",
           },
           name: "MULTISTIRRER - Agitador Magnético Multiposición",
-          description: "Agitador magnético de 6 o 15 posiciones capaz de permanecer frío incluso después de varios días de uso.",
+          description:
+            "Agitador magnético de 6 o 15 posiciones capaz de permanecer frío incluso después de varios días de uso.",
           descriptionLong: `Agitador magnético de 6 o 15 posiciones capaz de permanecer frío incluso después de varios días de uso.
           <br><br>
           <h5>Robusto y práctico</h5>
@@ -2760,7 +2801,8 @@ El OXITEST gracias a su conectividad a VELP Ermes te permite reducir las operaci
             keyname: "agitadores-magneticos",
           },
           name: "MULTISTIRRER Digital - Agitador magnético digital multiposición",
-          description: "Agitadores digitales multiposición de 6 o 15 posiciones capaces de permanecer fríos incluso después de varios días de uso y equipados con temporizador.",
+          description:
+            "Agitadores digitales multiposición de 6 o 15 posiciones capaces de permanecer fríos incluso después de varios días de uso y equipados con temporizador.",
           descriptionLong: `Agitadores digitales multiposición de 6 o 15 posiciones capaces de permanecer fríos incluso después de varios días de uso y equipados con temporizador.
           <br><br>
           <h5>Robusto y Preciso</h5>
@@ -2802,7 +2844,8 @@ El OXITEST gracias a su conectividad a VELP Ermes te permite reducir las operaci
             keyname: "agitadores-magneticos",
           },
           name: "ESP Agitador magnético ultraplano",
-          description: "Agitador magnético ultraplano, sin componentes mecánicos móviles y sin mantenimiento.",
+          description:
+            "Agitador magnético ultraplano, sin componentes mecánicos móviles y sin mantenimiento.",
           descriptionLong: `Agitador magnético ultraplano, sin componentes mecánicos móviles y sin mantenimiento.
           <br><br>
           <h5>Resistente</h5>
@@ -2839,7 +2882,8 @@ El OXITEST gracias a su conectividad a VELP Ermes te permite reducir las operaci
             keyname: "agitadores-magneticos",
           },
           name: "MICROSTIRRER Agitador magnético",
-          description: "Agitador magnético de laboratorio especialmente diseñado para microtitulaciones.",
+          description:
+            "Agitador magnético de laboratorio especialmente diseñado para microtitulaciones.",
           descriptionLong: `Agitador magnético de laboratorio especialmente diseñado para microtitulaciones.
           <br><br>
           <h5>Fiable y fácil de usar</h5>
@@ -2872,7 +2916,8 @@ El OXITEST gracias a su conectividad a VELP Ermes te permite reducir las operaci
             keyname: "agitadores-magneticos",
           },
           name: "AMI Agitador magnético iluminado",
-          description: "Agitadores magnéticos iluminados, especialmente útiles para titulaciones.",
+          description:
+            "Agitadores magnéticos iluminados, especialmente útiles para titulaciones.",
           descriptionLong: `Agitadores magnéticos iluminados, especialmente útiles para titulaciones.
           <br><br>
           <h5>Resistente y fiable</h5>
@@ -2910,7 +2955,8 @@ El OXITEST gracias a su conectividad a VELP Ermes te permite reducir las operaci
             keyname: "agitadores-magneticos-calefaccion",
           },
           name: "AREX 6 Connect PRO Agitadores magnéticos con calefacción",
-          description: "El primer agitador magnético de calentamiento con conexión Wi-Fi a la plataforma en la nube VELP Ermes para controlar los análisis en tiempo real.",
+          description:
+            "El primer agitador magnético de calentamiento con conexión Wi-Fi a la plataforma en la nube VELP Ermes para controlar los análisis en tiempo real.",
           descriptionLong: `El primer agitador magnético de calentamiento con conexión Wi-Fi a la plataforma en la nube VELP Ermes para controlar los análisis en tiempo real.
           <br><br>
           <h5>Controla tu AREX 6 Connect PROen cualquier lugar y en cualquier momento con VELP Ermes</h5>
@@ -3008,7 +3054,8 @@ Además, es posible configurar la inversión de rotación a intervalos de tiempo
             keyname: "agitadores-magneticos-calefaccion",
           },
           name: "AREX 6 Dgital PRO Agitadores magnéticos con calefacción",
-          description: "Agitador magnético de calentamiento digital con placa de aluminio revestido en cerámica, temporizador, inversión de rotación que asegura la máxima precisión en la termorregulación y agitación de la muestra.",
+          description:
+            "Agitador magnético de calentamiento digital con placa de aluminio revestido en cerámica, temporizador, inversión de rotación que asegura la máxima precisión en la termorregulación y agitación de la muestra.",
           descriptionLong: `Agitador magnético de calentamiento digital con placa de aluminio revestido en cerámica, temporizador, inversión de rotación que asegura la máxima precisión en la termorregulación y agitación de la muestra.
           <br><br>
           <h5>La seguridad es lo primero</h5>
@@ -3094,7 +3141,8 @@ Además, es posible configurar la inversión de rotación a intervalos de tiempo
             keyname: "agitadores-magneticos-calefaccion",
           },
           name: "AREX 6 Agitadores magnéticos con calefacción",
-          description: "Agitador calefactor magnético potente y seguro con placa de aluminio revestido de cerámica con posibilidad de conectar los termorreguladores VTF.",
+          description:
+            "Agitador calefactor magnético potente y seguro con placa de aluminio revestido de cerámica con posibilidad de conectar los termorreguladores VTF.",
           descriptionLong: `Agitador calefactor magnético potente y seguro con placa de aluminio revestido de cerámica con posibilidad de conectar los termorreguladores VTF.
           <br><br>
           <h5>Seguro y fácil de usar</h5>
@@ -3135,7 +3183,8 @@ Además, es posible configurar la inversión de rotación a intervalos de tiempo
             keyname: "agitadores-magneticos-calefaccion",
           },
           name: "ARE 6 Agitadores magnéticos con calefacción",
-          description: "Agitador de calentamiento magnético con placa de aluminio, equipado con motor brushless, nuevo imán de AlNiCo, botón iluminado para activar el calentamiento e indicación de la temperatura de la placa.",
+          description:
+            "Agitador de calentamiento magnético con placa de aluminio, equipado con motor brushless, nuevo imán de AlNiCo, botón iluminado para activar el calentamiento e indicación de la temperatura de la placa.",
           descriptionLong: `Agitador de calentamiento magnético con placa de aluminio, equipado con motor brushless, nuevo imán de AlNiCo, botón iluminado para activar el calentamiento e indicación de la temperatura de la placa.
           <br><br>
           <h5>Seguro y fácil de usar</h5>
@@ -3171,7 +3220,8 @@ Además, es posible configurar la inversión de rotación a intervalos de tiempo
             keyname: "agitadores-magneticos-calefaccion",
           },
           name: "AREX 5 Digital Agitadores magnéticos con calefacción",
-          description: "Agitador magnético digital con calefacción que garantiza la máxima precisión en el control de la temperatura de la muestra, la seguridad del operador y una elevada reproducibilidad.",
+          description:
+            "Agitador magnético digital con calefacción que garantiza la máxima precisión en el control de la temperatura de la muestra, la seguridad del operador y una elevada reproducibilidad.",
           descriptionLong: `Agitador magnético digital con calefacción que garantiza la máxima precisión en el control de la temperatura de la muestra, la seguridad del operador y una elevada reproducibilidad.
           <br><br>
           <h5>Termorregulación precisa para una alta reproducibilidad</h5>
@@ -3235,7 +3285,8 @@ Además, es posible configurar la inversión de rotación a intervalos de tiempo
             keyname: "agitadores-magneticos-calefaccion",
           },
           name: "AREX 5 Agitadores magnéticos con calefacción",
-          description: "Agitador magnética con calefacción versátil, con placa CerAlTop™ y posibilidad de conectar el controlador de temperatura digital VTF para el control directo de la temperatura del líquido.",
+          description:
+            "Agitador magnética con calefacción versátil, con placa CerAlTop™ y posibilidad de conectar el controlador de temperatura digital VTF para el control directo de la temperatura del líquido.",
           descriptionLong: `Agitador magnética con calefacción versátil, con placa CerAlTop™ y posibilidad de conectar el controlador de temperatura digital VTF para el control directo de la temperatura del líquido.
           <br><br>
           <h5>Control digital de la temperatura con VTF</h5>
@@ -3281,7 +3332,8 @@ Además, es posible configurar la inversión de rotación a intervalos de tiempo
             keyname: "agitadores-magneticos-calefaccion",
           },
           name: "ARE 5 Agitadores magnéticos con calefacción",
-          description: "Agitador magnético con placa calefactora, analógico, robusto y fiable, diseñado para ofrecer seguridad y un alto rendimiento de agitación y calentamiento. La solución ideal para aplicaciones básicas en laboratorios industriales y académicos.",
+          description:
+            "Agitador magnético con placa calefactora, analógico, robusto y fiable, diseñado para ofrecer seguridad y un alto rendimiento de agitación y calentamiento. La solución ideal para aplicaciones básicas en laboratorios industriales y académicos.",
           descriptionLong: `Agitador magnético con placa calefactora, analógico, robusto y fiable, diseñado para ofrecer seguridad y un alto rendimiento de agitación y calentamiento. La solución ideal para aplicaciones básicas en laboratorios industriales y académicos.
           <br><br>
           <h5>Seguridad y durabilidad</h5>
@@ -3317,7 +3369,8 @@ Además, es posible configurar la inversión de rotación a intervalos de tiempo
             keyname: "agitadores-magneticos-calefaccion",
           },
           name: "AREC Connect Agitador magnético con Calefacción con placa Cerámica",
-          description: "Innovador agitador magnético con placa de cerámica, seguro y vanguardista con tecnología Wi-Fi integrada que garantiza una termorregulación precisa y una agitación potente para los laboratorios químicos, farmacéuticos y biotecnológicos.",
+          description:
+            "Innovador agitador magnético con placa de cerámica, seguro y vanguardista con tecnología Wi-Fi integrada que garantiza una termorregulación precisa y una agitación potente para los laboratorios químicos, farmacéuticos y biotecnológicos.",
           descriptionLong: `Innovador agitador magnético con placa de cerámica, seguro y vanguardista con tecnología Wi-Fi integrada que garantiza una termorregulación precisa y una agitación potente para los laboratorios químicos, farmacéuticos y biotecnológicos.
           <br><br>
           <h5>Excelentes prestaciones en cuanto a calentamiento y termorregulación para mejorar la reproducibilidad</h5>
@@ -3392,7 +3445,8 @@ Además, es posible configurar la inversión de rotación a intervalos de tiempo
             keyname: "agitadores-magneticos-calefaccion",
           },
           name: "AREC.X Agitador magnético con Calefacción con placa Cerámica",
-          description: "Potente agitador digital de placa caliente cuadrada con una toma para la conexión a un termorregulador digital VTF Vertex. La solución ideal para los laboratorios que requieren de un control preciso de la temperatura de la muestra.",
+          description:
+            "Potente agitador digital de placa caliente cuadrada con una toma para la conexión a un termorregulador digital VTF Vertex. La solución ideal para los laboratorios que requieren de un control preciso de la temperatura de la muestra.",
           descriptionLong: `Potente agitador digital de placa caliente cuadrada con una toma para la conexión a un termorregulador digital VTF Vertex. La solución ideal para los laboratorios que requieren de un control preciso de la temperatura de la muestra.
           <br><br>
           <h5>Termorregulación precisa y exacta para mejorar la reproducibilidad</h5>
@@ -3444,7 +3498,8 @@ El agitador magnético de placa caliente AREC.X ofrece un diseño muy innovador 
             keyname: "agitadores-magneticos-calefaccion",
           },
           name: "AREC Agitador magnético con Calefacción con placa Cerámica",
-          description: "Potente agitador digital de placa caliente cuadrada. Resistente, seguro y fiable. La solución ideal para aplicaciones básicas de laboratorio.",
+          description:
+            "Potente agitador digital de placa caliente cuadrada. Resistente, seguro y fiable. La solución ideal para aplicaciones básicas de laboratorio.",
           descriptionLong: `Potente agitador digital de placa caliente cuadrada. Resistente, seguro y fiable. La solución ideal para aplicaciones básicas de laboratorio.
           <br><br>
           <h5>Calentamiento y agitación óptimos para aplicaciones básicas de laboratorio</h5>
@@ -3481,7 +3536,8 @@ El agitador magnético de placa caliente AREC.X ofrece un diseño muy innovador 
             keyname: "agitadores-magneticos-calefaccion",
           },
           name: "HSC Agitador magnético con Calefacción con placa Cerámica",
-          description: "Agitador calefactor analógico con una placa de calentamiento cerámica cuadrada. Resistente, seguro y fiable. La solución ideal para aplicaciones básicas  de calentamiento y de agitación que no necesitan un control preciso de la temperatura del medio.",
+          description:
+            "Agitador calefactor analógico con una placa de calentamiento cerámica cuadrada. Resistente, seguro y fiable. La solución ideal para aplicaciones básicas  de calentamiento y de agitación que no necesitan un control preciso de la temperatura del medio.",
           descriptionLong: `Agitador calefactor analógico con una placa de calentamiento cerámica cuadrada. Resistente, seguro y fiable. La solución ideal para aplicaciones básicas  de calentamiento y de agitación que no necesitan un control preciso de la temperatura del medio.
           <br><br>
           <h5>El agitador de placa caliente de nivel básico para aplicaciones generales de laboratorio</h5>
@@ -3514,7 +3570,8 @@ El agitador magnético de placa caliente AREC.X ofrece un diseño muy innovador 
             keyname: "agitadores-magneticos-calefaccion",
           },
           name: "AM4 Digital PRO Agitador con Calentamiento Multi-Posición",
-          description: "Agitador magnético calefactor digital de cuatro posiciones independientes, con placas CerAlTop TM perfecto para termorregulaciones con Pt100, VTF.",
+          description:
+            "Agitador magnético calefactor digital de cuatro posiciones independientes, con placas CerAlTop TM perfecto para termorregulaciones con Pt100, VTF.",
           descriptionLong: `Agitador magnético calefactor digital de cuatro posiciones independientes, con placas CerAlTop TM perfecto para termorregulaciones con Pt100, VTF.
           <br><br>
           <h5>Pantalla digital, para un control total de las operaciones.</h5>
@@ -3559,7 +3616,8 @@ El agitador magnético de placa caliente AREC.X ofrece un diseño muy innovador 
             keyname: "agitadores-magneticos-calefaccion",
           },
           name: "AM4 Agitador con Calentamiento Multi-Posición",
-          description: "Agitador magnético con placa calefactora de aluminio con cuatro posiciones independientes.",
+          description:
+            "Agitador magnético con placa calefactora de aluminio con cuatro posiciones independientes.",
           descriptionLong: `Agitador magnético con placa calefactora de aluminio con cuatro posiciones independientes.
           <br><br>
           <h5>Excelente prestaciones</h5>
@@ -3593,7 +3651,8 @@ El agitador magnético de placa caliente AREC.X ofrece un diseño muy innovador 
             keyname: "agitadores-magneticos-calefaccion",
           },
           name: "MULTI-HS 6/15 Agitador con Calentamiento Digital",
-          description: "Agitador magnético digital disponible en 6 y 15 posiciones. El MULTI-HS tiene características exclusivas como el temporizador, el bloqueo de seguridad, el motor brushless capaz de garantizar el máximo rendimiento y seguridad.",
+          description:
+            "Agitador magnético digital disponible en 6 y 15 posiciones. El MULTI-HS tiene características exclusivas como el temporizador, el bloqueo de seguridad, el motor brushless capaz de garantizar el máximo rendimiento y seguridad.",
           descriptionLong: `Agitador magnético digital disponible en 6 y 15 posiciones. El MULTI-HS tiene características exclusivas como el temporizador, el bloqueo de seguridad, el motor brushless capaz de garantizar el máximo rendimiento y seguridad.
           <br><br>
           <h5>Máxima seguridad y resistencia</h5>
@@ -3643,7 +3702,8 @@ El agitador magnético de placa caliente AREC.X ofrece un diseño muy innovador 
             keyname: "agitadores-magneticos-calefaccion",
           },
           name: "VTF Termorregulador Digital",
-          description: "Adecuado para muchas aplicaciones donde se requiere una termorregulación precisa.",
+          description:
+            "Adecuado para muchas aplicaciones donde se requiere una termorregulación precisa.",
           descriptionLong: `Adecuado para muchas aplicaciones donde se requiere una termorregulación precisa.
           <br><br>
           <h5>Precisión de Temperatura</h5>
@@ -3676,7 +3736,8 @@ El agitador magnético de placa caliente AREC.X ofrece un diseño muy innovador 
             keyname: "placas-calefactoras",
           },
           name: "RC 5 Placa Calefactora",
-          description: "Placa calefactora de aluminio de una posición muy resistente.",
+          description:
+            "Placa calefactora de aluminio de una posición muy resistente.",
           descriptionLong: `Placa calefactora de aluminio de una posición muy resistente.
           <br><br>
           <h5>Excelente calefacción para todas las aplicaciones de laboratorio</h5>
@@ -3710,11 +3771,12 @@ El agitador magnético de placa caliente AREC.X ofrece un diseño muy innovador 
             keyname: "agitadores",
           },
           categoryProduct: {
-            name: "Agitadores Magneticos con calefacción",
-            keyname: "agitadores-magneticos-calefaccion",
+            name: "Placas calefactoras",
+            keyname: "placas-calefactoras",
           },
           name: "RC 2 Placas Calefactoras",
-          description: "Placa calefactora de aluminio de dos posiciones, con posibilidad de regular la temperatura.",
+          description:
+            "Placa calefactora de aluminio de dos posiciones, con posibilidad de regular la temperatura.",
           descriptionLong: `Placa calefactora de aluminio de dos posiciones, con posibilidad de regular la temperatura.
           <br><br>
           <h5>Excelente rendimiento, práctico y fácil de usar</h5>
@@ -3739,11 +3801,12 @@ El agitador magnético de placa caliente AREC.X ofrece un diseño muy innovador 
             keyname: "agitadores",
           },
           categoryProduct: {
-            name: "Agitadores Magneticos con calefacción",
-            keyname: "agitadores-magneticos-calefaccion",
+            name: "Placas calefactoras",
+            keyname: "placas-calefactoras",
           },
           name: "REC Placa Calefactora Ceramica Digital",
-          description: "Placa calefactora digital de laboratorio con una placa de cerámica que garantiza una gran resistencia a la corrosión y un ajuste preciso de la temperatura.",
+          description:
+            "Placa calefactora digital de laboratorio con una placa de cerámica que garantiza una gran resistencia a la corrosión y un ajuste preciso de la temperatura.",
           descriptionLong: `Placa calefactora digital de laboratorio con una placa de cerámica que garantiza una gran resistencia a la corrosión y un ajuste preciso de la temperatura.
           <br><br>
           <h5>Rendimiento de calentamiento avanzado para sus reacciones de laboratorio</h5>
@@ -3767,14 +3830,922 @@ El agitador magnético de placa caliente AREC.X ofrece un diseño muy innovador 
         },
         {
           alt: "alt-logo",
-          srcImage: pro01_1,
+          srcImage: eq30_1,
           typeProduct: {
             name: "Agitadores",
             keyname: "agitadores",
           },
           categoryProduct: {
-            name: "Agitadores Magneticos con calefacción",
-            keyname: "agitadores-magneticos-calefaccion",
+            name: "Agitadores verticales",
+            keyname: "agitadores-verticales",
+          },
+          name: "OHS 200 Advance Agitador de Varillas",
+          description: `Agitador de varilla con par de 200Ncm, doble velocidad, pantalla TFT de 3,5", temporizador, conectividad wifi y USB capaz de agitar hasta 100l.`,
+          descriptionLong: `Agitador de varilla con par de 200Ncm, doble velocidad, pantalla TFT de 3,5", temporizador, conectividad wifi y USB capaz de agitar hasta 100l.
+          <br><br>
+          <h5>Seguridad y durabilidad para su laboratorio</h5>
+OHS 200 Advance es el agitador de varillas VELP diseñado para garantizar los más altos estándares de seguridad.
+          <ul>
+          <li>El grado de protección IP54 garantiza la máxima protección del instrumento contra la corrosión y un alto rendimiento en entornos de trabajo exigentes.</li>
+          <li>La función de bloqueo de herramientas evita cambios involuntarios en la configuración.</li>
+          <li>Los sistemas de seguridad integrados desactivan la agitación en caso de sobrecarga, sobrecalentamiento o cortocircuito.</li>
+          <li>El mando activa la agitación solo mediante presión, evitando arranques accidentales</li>
+          <li>La velocidad programada se alcanza gradualmente para evitar salpicaduras.</li>
+          <li>El sensor de vibraciones integrado detiene la agitación en caso de vibraciones debido a una fijación incorrecta en la varilla. Se encuentran disponibles diferentes niveles de sensibilidad.</li>
+          </ul>
+          OHS 200 Advance garantiza un funcionamiento continuo y está respaldado por una extensión de garantía de 3 años.
+          <br><br>
+          <h5>La mejor potencia de agitación de la categoría</h5>
+          OHS 200 Advance es la solución ideal incluso para las aplicaciones más exigentes y está equipado con un potente motor brushless y control electrónico capaz de garantizar la máxima potencia en cualquier situación.
+          <br><br>
+          Las dos relaciones de velocidad del OHS 200 Advance garantizan el mejor rendimiento tanto para aplicaciones que requieren un par máximo como para aquellas a altas velocidades:
+          <br><br>
+          
+          Velocidad de engranaje 1: 6-400 giros/minuto
+          <br>
+          Velocidad de engranaje 2: 30-2000 giros/minuto 
+          <br><br>
+        
+          OHS 200 Advance es adecuado para todas las muestras con una viscosidad máxima de hasta 100.000 mPas y para un volumen máximo de 100 l (H2O).
+          <br><br>
+          
+          La tecnología de compensación de par SpeedServoTM mantiene la velocidad constante, ajustando automáticamente la velocidad según los cambios en la viscosidad.
+          <br><br>
+          <h5>Par constante a cualquier velocidad</h5>
+          El potente motor brushless y el microprocesador garantizan un excelente rendimiento que marca la diferencia entre un agitador convencional y la serie VELP OHS.
+          <br><br>
+          
+          El par es estable en todo el rango de velocidades, lo que garantiza la máxima potencia incluso a altas velocidades. Este es un parámetro muy importante para la reproducibilidad de las pruebas.
+          <br><br>
+          
+          OHS 200 Advance muestra el nivel de par utilizado en la pantalla de 3,5 "que tiene una sección dedicada a él. También es posible evaluar la evolución de los cambios en los niveles de par (y por tanto de viscosidad) en el gráfico en tiempo real.
+          Smartchuck: Insertar y quitar la varilla nunca ha sido tan fácil.
+          <br><br>
+                    
+          La tecnología SmartChuck™ de OHS Advance simplifica el proceso de inserción y extracción de la varilla agitadora, que también se puede hacer con una mano y no requiere herramientas.
+          <br><br>
+          
+          Con dos simples pasos, puede desbloquear el anillo protector para operar la varilla hacia adentro y hacia afuera con la mayor facilidad.
+          <br><br>
+          
+          Abrir el anillo durante el proceso de agitación bloqueará automáticamente el análisis y el instrumento le informará para garantizar la máxima seguridad.
+          <br><br>
+          <h5>Intuitivo y preciso</h5>
+          La intuitiva pantalla TFT de 3,5 "del OHS 200 Advance le guiará en la configuración de sus condiciones de trabajo en unos sencillos pasos para que sea preciso y obtenga resultados reproducibles.
+          <br><br>
+          
+          La pantalla principal contiene todos los ajustes necesarios y con el modo gráfico en tiempo real permite visualizar las variaciones de par, velocidad y temperatura en tiempo real
+          <br><br>
+          
+          El OHS 200 Advance, gracias al temporizador programable desde 1min hasta 99.59h, permite trabajar sin supervisión. Además, es posible configurar métodos con los que programar tareas repetitivas donde se requieren rampas y operaciones de intervalo.
+          <br><br>
+          <h5>Mantener la temperatura bajo control</h5>
+          El OHS Advance se vende con la sonda de temperatura Pt100. Puede controlar la temperatura durante su análisis tanto desde el instrumento en la pantalla o desde el gráfico en tiempo real.
+          <br><br>
+          
+          El OHS Advance permite no solo supervisar constantemente la temperatura de la reacción. En el caso de reacciones exotérmicas, el avance de OHS se puede configurar para reducir la velocidad a medida que aumenta la temperatura de la muestra.
+          <br><br>
+          
+          <h5>Los beneficios de la conectividad de OHS Advance</h5>
+          OHS Advance es el único agitador de varillas que ofrece la posibilidad de controlar y supervisar procesos a través de la conexión Wi-Fi a VELP Ermes y vía USB a su PC.
+          <br><br>
+          
+          VELP Ermes permite el control de dispositivos OHS Advance desde PC, smartphone y tablet a través de una interfaz web simple e intuitiva. Con esta plataforma diseñada por VELP es posible activar la agitación, configurar un temporizador, configurar un método (entre los guardados en el dispositivo), descargar y compartir informes con un clic.
+          <br><br>
+        
+          Para aplicaciones en los sectores farmacéutico, biotecnológico, etc VELP Ermes es capaz de gestionar OHS Advance localizado en salas blancas u otros entornos controlados, sin necesidad de largos procedimientos de seguridad.
+          <br><br>          
+          Con el software OHS/CotrollerSoftTM, VELP ofrece la posibilidad a todos los laboratorios que no pueden beneficiarse de los servicios en la nube, una alternativa válida, a través de la conectividad USB.
+          `,
+          videoLink: "3QTaDxhvLBs",
+          sendPriceText: "Ver más información",
+        },
+        {
+          alt: "alt-logo",
+          srcImage: eq31_1,
+          typeProduct: {
+            name: "Agitadores",
+            keyname: "agitadores",
+          },
+          categoryProduct: {
+            name: "Agitadores verticales",
+            keyname: "agitadores-verticales",
+          },
+          name: "OHS 100 Advance Agitador de Varillas",
+          description: `Agitador de varilla con par de 100Ncm, pantalla TFT de 3,5", temporizador, conectividad Wi-Fi y USB, capaz de agitar hasta 100l.`,
+          descriptionLong: `Agitador de varilla con par de 100Ncm, pantalla TFT de 3,5", temporizador, conectividad Wi-Fi y USB, capaz de agitar hasta 100l.
+          <br><br>
+          <h5>Seguridad y durabilidad para su laboratorio</h5>
+          OHS 100 Advance es el agitador de varillas VELP diseñado para garantizar los más altos estándares de seguridad.
+          <ul>
+          <li>El grado de protección IP54 garantiza la máxima protección del instrumento contra la corrosión y un altas prestaciones en entornos de trabajo exigentes.</li>
+          <li>La función de bloqueo de herramientas evita cambios involuntarios en la configuración.</li>
+          <li>Los sistemas de seguridad integrados desactivan la agitación en caso de sobrecarga, sobrecalentamiento o cortocircuito.</li>
+          <li>El pomo activa la agitación solo mediante una presión, evitando arranques accidentales</li>
+          <li>La velocidad programada se alcanza gradualmente para evitar salpicaduras.</li>
+          <li>El sensor de vibraciones integrado detiene la agitación en caso de vibraciones debido a una fijación incorrecta en la varilla. Se encuentran disponibles diferentes niveles de sensibilidad.</li>
+          </ul>
+          OHS 100 Advance garantiza un funcionamiento continuo y está respaldado por una extensión de garantía de 3 años
+          <br><br>
+          <h5>La mejor potencia de agitación de la categoría</h5>
+          OHS 100 Advance es la solución ideal incluso para las aplicaciones más exigentes y está equipado con un potente motor brushless y control electrónico capaz de garantizar la máxima potencia en cualquier situación.
+          La relación de velocidad del OHS 100 Advance (30-1300 rpm) garantiza las más altas prestaciones tanto para aplicaciones que requieren un par máximo como para aquellas a altas velocidades.
+          OHS 100 Advance es adecuado para todas las muestras con una viscosidad máxima de hasta 70.000 mPas y para un volumen máximo de 100 l (H2O).
+          <br><br>
+          
+          La tecnología de compensación de par SpeedServoTM mantiene la velocidad constante ajustando automáticamente la velocidad a los cambios de viscosidad.
+          <br><br>
+          <h5>Par constante a cualquier velocidad</h5>
+          El potente motor brushless y el microprocesador garantizan un excelente rendimiento que marca la diferencia entre un agitador convencional y la serie VELP OHS.
+          <br><br>
+          
+          El par es estable en todo el rango de velocidades, lo que garantiza la máxima potencia incluso a altas velocidades. Este es un parámetro muy importante para la reproducibilidad de las pruebas.
+          <br><br>
+          
+          OHS 100 Digital muestra el nivel de par utilizado en la pantalla que tiene una sección dedicada a él. También es posible evaluar la evolución de los cambios en los niveles de par (y por lo tanto en la viscosidad) en el gráfico en tiempo real.
+          Smartchuck: Insertar y quitar la varilla nunca ha sido tan fácil.
+          <br><br>          
+          
+          La tecnología SmartChuck™ de OHS Advance simplifica el proceso de inserción y extracción de la varilla agitadora, que también se puede hacer con una mano y no requiere ninguna herramienta. 
+          <br><br>
+          
+          Con dos simples pasos, puede desbloquear el anillo protector para operar la varilla hacia adentro y hacia afuera con la mayor facilidad.
+          <br><br>
+          
+          Abrir el anillo durante el proceso de agitación bloqueará automáticamente el análisis y el instrumento le informará para garantizar la máxima seguridad.
+          <br><br>
+          <h5>Intuitivo y preciso</h5>
+          La intuitiva pantalla TFT de 3,5 "del OHS 100 Advance le guiará en la configuración de sus condiciones de trabajo en unos sencillos pasos para que sea preciso y logre resultados reproducibles.
+          <br><br>
+          
+          La pantalla principal contiene todos los ajustes necesarios y con el modo gráfico en tiempo real es posible visualizar las variaciones de par, velocidad y temperatura en tiempo real.
+          <br><br>
+          
+          Gracias al temporizador que se puede configurar desde 1min hasta 99.59h, el OHS 100 Advance permite trabajar sin supervisión. Además, es posible configurar métodos con los que programar tareas repetitivas donde se requieren rampas y operaciones de intervalo.
+          <br><br>
+          <h5>Mantener la temperatura bajo control</h5>
+          El OHS Advance se vende con la sonda de temperatura Pt100. Puede controlar la temperatura durante su análisis tanto desde el instrumento en la pantalla o desde el gráfico en tiempo real.
+          <br><br>
+          
+          El OHS Advance permite no solo supervisar constantemente la temperatura de la reacción. En el caso de reacciones exotérmicas, el avance de OHS se puede configurar para reducir la velocidad a medida que aumenta la temperatura de la muestra.
+          <br><br>
+          <h5>Los beneficios de la conectividad de OHS Advance</h5>
+          OHS Advance es el único agitador de varillas que ofrece la posibilidad de controlar y supervisar procesos a través de la conexión Wi-Fi a VELP Ermes y vía USB a su PC.
+          <br><br>
+          
+          VELP Ermes permite el control de dispositivos OHS Advance desde PC, smartphone y tablet a través de una interfaz web simple e intuitiva. Con esta plataforma diseñada por VELP es posible activar la agitación, configurar un temporizador, configurar un método (entre los guardados en el dispositivo), descargar y compartir informes con un clic.
+          <br><br>
+          
+          Para aplicaciones en los sectores farmacéutico, biotecnológico, etc VELP Ermes es capaz de gestionar OHS Advance localizado en salas blancas u otros entornos controlados, sin necesidad de largos procedimientos de seguridad.
+          <br><br>          
+          Con el software OHS/CotrollerSoftTM, VELP ofrece la posibilidad a todos los laboratorios que no pueden beneficiarse de los servicios en la nube, una alternativa válida, a través de la conectividad USB.
+          `,
+          videoLink: "3QTaDxhvLBs",
+          sendPriceText: "Ver más información",
+        },
+        {
+          alt: "alt-logo",
+          srcImage: eq32_1,
+          typeProduct: {
+            name: "Agitadores",
+            keyname: "agitadores",
+          },
+          categoryProduct: {
+            name: "Agitadores verticales",
+            keyname: "agitadores-verticales",
+          },
+          name: "OHS 60 Advance Agitador de Varillas",
+          description: `Varilla agitadora con par de 60 Ncm, pantalla TFT de 3,5", temporizador, conectividad Wi-Fi y USB capaz de agitar hasta 40l.`,
+          descriptionLong: `Varilla agitadora con par de 60 Ncm, pantalla TFT de 3,5", temporizador, conectividad Wi-Fi y USB capaz de agitar hasta 40l.
+          <br><br>
+          <h5>Seguridad y durabilidad para su laboratorio</h5>
+          OHS 60 Advance es el agitador de varillas VELP diseñado para garantizar los más altos estándares de seguridad.
+          <ul>
+          <li>El grado de protección IP54 garantiza la máxima protección del instrumento contra la corrosión y un altas prestaciones en entornos de trabajo exigentes.</li>
+          <li>La función de bloqueo de herramientas evita cambios involuntarios en la configuración.</li>
+          <li>Los sistemas de seguridad integrados desactivan la agitación en caso de sobrecarga, sobrecalentamiento o cortocircuito.</li>
+          <li>El pomo activa la agitación solo mediante presión, evitando arranques accidentales</li>
+          <li>La velocidad programada se alcanza gradualmente para evitar salpicaduras.</li>
+          <li>El sensor de vibraciones integrado detiene la agitación en caso de vibraciones debido a una fijación incorrecta en la varilla. Se encuentran disponibles diferentes niveles de sensibilidad.</li>
+          </ul>
+          OHS 60 Advance garantiza un funcionamiento continuo y está respaldado por una extensión de garantía de 3 años. 
+          <br><br>
+          <h5>La mejor potencia de agitación de la categoría</h5>
+          OHS 60 Advance es la solución ideal incluso para las aplicaciones más exigentes y está equipado con un potente motor brushless y control electrónico capaz de garantizar la máxima potencia en cualquier situación.
+          <br><br>
+          
+          La relación de velocidad del OHS 60 Advance (30-2000 rpm) garantiza las más  tanto para aplicaciones que requieren un par máximo como para aquellas a altas velocidades.
+          OHS 60 Advance es adecuado para todas las muestras con una viscosidad máxima de hasta 50.000 mPas y para un volumen máximo de 40 l (H2O).
+          <br><br>
+          
+          La tecnología de compensación de par SpeedServoTM mantiene la velocidad constante ajustando automáticamente la velocidad a los cambios de viscosidad.
+          <br><br>
+          
+          <h5>Par constante a cualquier velocidad</h5>
+          El potente motor brushless y el microprocesador garantizan un excelente rendimiento que marca la diferencia entre un agitador convencional y la serie VELP OHS.
+          <br><br>
+          
+          El par es estable en todo el rango de velocidades, lo que garantiza la máxima potencia incluso a altas velocidades. Este es un parámetro muy importante para la reproducibilidad de las pruebas.
+          <br><br>
+          
+          OHS 60 Advance muestra el nivel del par utilizado en la pantalla de 3,5 "que tiene una sección dedicada al mismo. También es posible evaluar la evolución de los cambios en los niveles de par (y por tanto de viscosidad) en el gráfico en tiempo real.
+          Smartchuck: Insertar y quitar la varilla nunca ha sido tan fácil.
+          <br><br>
+          
+          La tecnología SmartChuck™ de OHS Advance simplifica el proceso de inserción y extracción de la varilla agitadora, que también se puede hacer con una mano y no requiere ninguna herramienta. 
+          <br><br>
+          
+          Con dos simples pasos, puede desbloquear el anillo protector para operar la varilla hacia adentro y hacia afuera con la mayor facilidad.
+          <br><br>
+          
+          Abrir el anillo durante el proceso de agitación bloqueará automáticamente el análisis y el instrumento le informará para garantizar la máxima seguridad.
+          <br><br>
+          <h5>Intuitivo y preciso</h5>
+          La intuitiva pantalla TFT de 3,5 "del OHS 60 Advance le guiará en la configuración de sus condiciones de trabajo en unos sencillos pasos para que sea preciso y logre resultados reproducibles.
+          <br><br>
+          
+          La pantalla principal contiene todos los ajustes necesarios y con el modo gráfico en tiempo real es posible visualizar las variaciones de par, velocidad y temperatura en tiempo real.
+          <br><br>
+          
+          Gracias al temporizador que se puede configurar desde 1min hasta 99.59h, el OHS 60 Advance permite trabajar sin supervisión. Además, es posible configurar métodos con los que programar tareas repetitivas donde se requieren rampas y operaciones de intervalo.
+          <br><br>
+          <h5>Mantener la temperatura bajo control</h5>
+          El OHS Advance se vende con la sonda de temperatura Pt100. Puede controlar la temperatura durante su análisis tanto desde el instrumento en la pantalla o desde el gráfico en tiempo real.
+          <br><br>
+          
+          El OHS Advance permite no solo supervisar constantemente la temperatura de la reacción. En el caso de reacciones exotérmicas, el avance de OHS se puede configurar para reducir la velocidad a medida que aumenta la temperatura de la muestra.
+          <br><br>
+          
+          Los beneficios de la conectividad de OHS Advance
+          <br><br>
+          
+          OHS Advance es el único agitador de varillas que ofrece la posibilidad de controlar y supervisar procesos a través de la conexión Wi-Fi a VELP Ermes y vía USB a su PC.
+          <br><br>
+          
+          VELP Ermes permite el control de dispositivos OHS Advance desde PC, smartphone y tablet a través de una interfaz web simple e intuitiva. Con esta plataforma diseñada por VELP es posible activar la agitación, configurar un temporizador, configurar un método (entre los guardados en el dispositivo), descargar y compartir informes con un clic.
+          <br><br>
+          
+          Para aplicaciones en los sectores farmacéutico, biotecnológico, etc VELP Ermes es capaz de gestionar OHS Advance localizado en salas blancas u otros entornos controlados, sin necesidad de largos procedimientos de seguridad.
+          <br><br>
+          Con el software OHS/CotrollerSoftTM, VELP ofrece la posibilidad a todos los laboratorios que no pueden beneficiarse de los servicios en la nube, una alternativa válida, a través de la conectividad USB.
+          `,
+          videoLink: "3QTaDxhvLBs",
+          sendPriceText: "Ver más información",
+        },
+        {
+          alt: "alt-logo",
+          srcImage: eq33_1,
+          typeProduct: {
+            name: "Agitadores",
+            keyname: "agitadores",
+          },
+          categoryProduct: {
+            name: "Agitadores verticales",
+            keyname: "agitadores-verticales",
+          },
+          name: "OHS 200 Digital Agitador de Varillas",
+          description:
+            "Agitador de varilla con par de 200Ncm, engranaje de doble velocidad, pantalla digital y temporizador capaz de agitar hasta 100l.",
+          descriptionLong: `Agitador de varilla con par de 200Ncm, engranaje de doble velocidad, pantalla digital y temporizador capaz de agitar hasta 100l.
+          <br><br>
+          <h5>Seguridad y durabilidad para su laboratorio</h5>
+          OHS 200 Digital está diseñado para garantizar los más altos estándares de seguridad. La cubierta sellada y resistente y la clasificación IP 54 garantizan una larga vida útil incluso en los entornos más duros.
+          <ul>
+          <li>Los sensores de seguridad integrados desactivan la agitación en caso de sobrecarga, sobrecalentamiento y cortocircuito, preservando el rendimiento a lo largo del tiempo</li>
+          <li>La función Bloqueo del instrumento evita cambios involuntarios en los ajustes.</li>
+          </ul>
+          OHS 200 Digital garantiza un funcionamiento continuo y está respaldado por una extensión de garantía de 3 años.
+          <br><br>
+          <h5>La mejor potencia de agitación de la categoría</h5>
+          OHS 200 Digital es la solución ideal incluso para las aplicaciones más exigentes y está equipado con un potente motor brushless y un control electrónico capaz de garantizar la máxima potencia en cualquier situación.
+          <br><br>
+          
+          Las dos marchas de velocidad del OHS 200 Digital garantizan las más altas prestaciones tanto para aplicaciones que requieren un par máximo como para aquellas a altas velocidades:
+          <ul>
+          <li>Velocidad del engranaje 1: 6-400 vueltas/min</li>
+          <li>Velocidad de engranaje  2: 30-2000 vueltas/min</li>
+          </ul>
+          OHS 200 Digital es adecuado para todas las muestras con una viscosidad máxima de hasta 100.000 mPas y para un volumen máximo de 100 l (H2O).
+          <br><br>
+          
+          La tecnología de compensación del par SpeedServoTM mantiene la velocidad constante, ajustándose automáticamente a los cambios de viscosidad.
+          <br><br>
+          <h5>Par constante a cualquier velocidad</h5>
+          El potente motor brushless y el microprocesador garantizan un excelente rendimiento que marca la diferencia entre un agitador convencional y la serie VELP OHS.
+          <br><br>
+          
+          El par es estable en todo el rango de velocidades, lo que garantiza la máxima potencia incluso a altas velocidades. Este es un parámetro muy importante para la reproducibilidad de las pruebas.
+          <br><br>
+          
+          OHS 200 Digital muestra el nivel de par utilizado, directamente en la pantalla que tiene una sección dedicada a él.
+          <br><br>
+                
+          Smartchuck: Insertar y quitar la varilla nunca ha sido tan fácil.
+          <br><br>
+          
+          La tecnología SmartChuck™ de OHS Digital simplifica el proceso de inserción y extracción de la varilla agitadora, que también se puede hacer con una mano y no requiere de ninguna herramientas.
+          <br><br>
+          
+          Con dos simples pasos, puede desbloquear el anillo protector para operar la varilla hacia adentro y hacia afuera con la mayor facilidad.
+          <br><br>
+          
+          Abrir el anillo durante el proceso de agitación bloqueará automáticamente el análisis y el instrumento le informará para garantizar la máxima seguridad.
+          <br><br>
+          <h5>Fácil de usar y preciso</h5>
+          La pantalla intuitiva contiene toda la información necesaria y le permite ver los cambios de viscosidad en tiempo real.
+          <br><br>
+          
+          Gracias al temporizador que se puede configurar desde 1min hasta 99.59h, el OHS 200 Digital permite trabajar sin supervisión.
+          <br><br>
+          
+          La interfaz USB facilita cualquier actualización de software.
+          `,
+          videoLink: "3QTaDxhvLBs",
+          sendPriceText: "Ver más información",
+        },
+        {
+          alt: "alt-logo",
+          srcImage: eq34_1,
+          typeProduct: {
+            name: "Agitadores",
+            keyname: "agitadores",
+          },
+          categoryProduct: {
+            name: "Agitadores verticales",
+            keyname: "agitadores-verticales",
+          },
+          name: "OHS 100 Digital Agitador de Varillas",
+          description:
+            "Agitador de varilla con par de 100 Ncm, indicador digital y temporizador capaz de agitar hasta 100 l.",
+          descriptionLong: `Agitador de varilla con par de 100 Ncm, indicador digital y temporizador capaz de agitar hasta 100 l.
+          <br><br>
+          <h5>Seguridad y durabilidad para su laboratorio</h5>
+          OHS 100 Digital está diseñado para garantizar los más altos estándares de seguridad. La cubierta sellada y resistente y la clasificación IP 54 garantizan una larga vida útil incluso en los entornos más duros.
+          <ul>
+          <li>Los sensores de seguridad integrados desactivan la agitación en caso de sobrecarga, sobrecalentamiento y cortocircuito, preservando el rendimiento a lo largo del tiempo</li>
+          <li>La función Bloqueo del instrumento evita cambios involuntarios en los ajustes.</li>
+          </ul>
+          OHS 100 Digital garantiza un funcionamiento continuo y está respaldado por una extensión de garantía de 3 años.
+          <h5>La mejor potencia de agitación de la categoría</h5>
+          OHS 100 Digital es la solución ideal incluso para las aplicaciones más exigentes y está equipado con un potente motor brushless y un control electrónico capaz de garantizar la máxima potencia en cualquier situación.
+          <br><br>
+          La relación de velocidad del OHS 100 Digital (30-1300 rpm) garantiza el mejor rendimiento tanto para aplicaciones que requieren un par máximo como para aquellas a altas velocidades.
+          <br><br>
+          OHS 100 Digital es adecuado para todas las muestras con una viscosidad máxima de hasta 70.000 mPas y un volumen máximo de 100 l (H2O).
+          <br><br> 
+          La tecnología de compensación de par SpeedServoTM mantiene la velocidad constante ajustando automáticamente la velocidad a los cambios de viscosidad.
+          <br><br> 
+          <h5>Par constante a cualquier velocidad</h5>
+          El potente motor brushless y el microprocesador garantizan un excelente rendimiento que marca la diferencia entre un agitador convencional y la serie VELP OHS.
+          <br><br> 
+          El par es estable en todo el rango de velocidades, lo que garantiza la máxima potencia incluso a altas velocidades. Este es un parámetro muy importante para la reproducibilidad de las pruebas.
+          <br><br> 
+          OHS 100 Digital muestra el nivel de par utilizado en la pantalla que tiene una sección dedicada a él. 
+          <br><br> 
+          Smartchuck: Insertar y quitar la varilla nunca ha sido tan fácil.
+          <br><br> 
+          La tecnología SmartChuck™ de OHS Advance simplifica el proceso de inserción y extracción de la varilla agitadora, que también se puede hacer con una mano y no requiere ninguna herramienta. 
+          <br><br> 
+          Con dos simples pasos, puede desbloquear el anillo protector para operar la varilla hacia adentro y hacia afuera con la mayor facilidad.
+          <br><br> 
+          Abrir el anillo durante el proceso de agitación bloqueará automáticamente el análisis y el instrumento le informará para garantizar la máxima seguridad.
+          <br><br>
+          <h5>Fácil de usar y preciso</h5>
+          La pantalla intuitiva contiene toda la información necesaria y le permite ver los cambios de viscosidad en tiempo real. 
+          <br><br>
+          Gracias al temporizador que se puede configurar desde 1min hasta 99.59h, el OHS 100 Digital permite trabajar sin supervisión. 
+          <br><br>
+          La interfaz USB facilita cualquier actualización de software
+          `,
+          videoLink: "3QTaDxhvLBs",
+          sendPriceText: "Ver más información",
+        },
+        {
+          alt: "alt-logo",
+          srcImage: eq35_1,
+          typeProduct: {
+            name: "Agitadores",
+            keyname: "agitadores",
+          },
+          categoryProduct: {
+            name: "Agitadores verticales",
+            keyname: "agitadores-verticales",
+          },
+          name: "OHS 60 Digital Agitador de Varillas",
+          description:
+            "Agitador de varilla con par de 60Ncm, indicador digital y temporizador capaz de agitar hasta 40l.",
+          descriptionLong: `Agitador de varilla con par de 60Ncm, indicador digital y temporizador capaz de agitar hasta 40l.
+          <br><br>
+          <h5>Seguridad y durabilidad para su laboratorio</h5>
+          OHS 60 Digital está diseñado para garantizar los más altos estándares de seguridad. La cubierta sellada y resistente y la clasificación IP 54 garantizan una larga vida útil incluso en los entornos más duros.
+          <ul>
+          <li>Los sensores de seguridad integrados desactivan la agitación en caso de sobrecarga, sobrecalentamiento y cortocircuito, preservando el rendimiento a lo largo del tiempo</li>
+          <li>La función Bloqueo del instrumento evita cambios involuntarios en los ajustes.</li>
+          </ul>
+          OHS 60 Digital garantiza un funcionamiento continuo y está respaldado por una extensión de garantía de 3 años.
+          <h5>La mejor potencia de agitación de la categoría</h5>
+          OHS 60 Digital es la solución ideal incluso para las aplicaciones más exigentes y está equipado con un potente motor brushless y un control electrónico capaz de garantizar la máxima potencia en cualquier situación.
+          <br><br>
+          La relación de velocidad del OHS 60 Digital (30-2000 rpm) garantiza el mejor rendimiento tanto para aplicaciones que requieren un par máximo como para aquellas a altas velocidades.
+          <br><br>
+          OHS 60 Digital es adecuado para todas las muestras con una viscosidad máxima de hasta 50.000 mPas y un volumen máximo de 40 l (H2O).
+          <br><br>
+          La tecnología de compensación de par SpeedServoTM mantiene la velocidad constante ajustando automáticamente la velocidad a los cambios de viscosidad.
+          <br><br>
+          <h5>Par constante a cualquier velocidad</h5>
+          El potente motor brushless y el microprocesador garantizan un excelente rendimiento que marca la diferencia entre un agitador convencional y la serie VELP OHS.
+          <br><br>
+          El par es estable en todo el rango de velocidades, lo que garantiza la máxima potencia incluso a altas velocidades. Este es un parámetro muy importante para la reproducibilidad de las pruebas.
+          <br><br>
+          OHS 60 Digital muestra el nivel de par utilizado en la pantalla que tiene una sección dedicada a él. 
+          <br><br>
+          Smartchuck: Insertar y quitar la varilla nunca ha sido tan fácil.
+          <br><br>
+          La tecnología SmartChuck™ de OHS Advance simplifica el proceso de inserción y extracción de la varilla agitadora, que también se puede hacer con una mano y no requiere ninguna herramienta. 
+          <br><br>
+          Con dos simples pasos, puede desbloquear el anillo protector para operar la varilla hacia adentro y hacia afuera con la mayor facilidad.
+          <br><br>
+          Abrir el anillo durante el proceso de agitación bloqueará automáticamente el análisis y el instrumento le informará para garantizar la máxima seguridad.
+          <br><br>
+          <h5>Fácil de usar y preciso</h5>
+          La pantalla intuitiva contiene toda la información necesaria y le permite ver los cambios de viscosidad en tiempo real. 
+          <br><br>
+          Gracias al temporizador que se puede configurar desde 1min hasta 99.59h, el OHS 60 Digital permite trabajar sin supervisión. 
+          <br><br>
+          La interfaz USB facilita cualquier actualización de software
+          `,
+          videoLink: "3QTaDxhvLBs",
+          sendPriceText: "Ver más información",
+        },
+        {
+          alt: "alt-logo",
+          srcImage: eq36_1,
+          typeProduct: {
+            name: "Agitadores",
+            keyname: "agitadores",
+          },
+          categoryProduct: {
+            name: "Agitadores verticales",
+            keyname: "agitadores-verticales",
+          },
+          name: "OHS 40 Digital Agitador de Varillas",
+          description:
+            "Agitador de varilla con par de 40Ncm, indicador digital y temporizador capaz de agitar hasta 25l.",
+          descriptionLong: `Agitador de varilla con par de 40Ncm, indicador digital y temporizador capaz de agitar hasta 25l.
+          <br><br>
+          <h5>Seguridad y durabilidad para su laboratorio</h5>
+          OHS 40 Digital está diseñado para garantizar los más altos estándares de seguridad. La cubierta sellada y resistente y la clasificación IP 54 garantizan una larga vida útil incluso en los entornos más duros.
+          <ul>
+          <li>Los sensores de seguridad integrados desactivan la agitación en caso de sobrecarga, sobrecalentamiento y cortocircuito, preservando el rendimiento a lo largo del tiempo</li>
+          <li>La función Bloqueo del instrumento evita cambios involuntarios en los ajustes.</li>
+          </ul>         
+          OHS 40 Digital garantiza un funcionamiento continuo y está respaldado por una extensión de garantía de 3 años.
+          <br><br>
+          <h5>La mejor potencia de agitación de la categoría</h5>
+          OHS 40 Digital es la solución ideal incluso para las aplicaciones más exigentes y está equipado con un potente motor brushless y un control electrónico capaz de garantizar la máxima potencia en cualquier situación.
+          <br><br>
+          La relación de velocidad del OHS 40 Digital (30-2000 rpm) garantiza el mejor rendimiento tanto para aplicaciones que requieren un par máximo como para aquellas a altas velocidades.
+          <br><br>
+          OHS 40 Digital es adecuado para todas las muestras con una viscosidad máxima de hasta 25.000 mPas y un volumen máximo de 25 l (H2O).
+          <br><br>
+          La tecnología de compensación de par SpeedServoTM mantiene la velocidad constante ajustando automáticamente la velocidad a los cambios de viscosidad.
+          <br><br>
+          <h5>Par constante a cualquier velocidad</h5>
+          El potente motor brushless y el microprocesador garantizan un excelente rendimiento que marca la diferencia entre un agitador convencional y la serie VELP OHS.
+          <br><br>
+          El par es estable en todo el rango de velocidades, lo que garantiza la máxima potencia incluso a altas velocidades. Este es un parámetro muy importante para la reproducibilidad de las pruebas.
+          <br><br>
+          OHS 40 Digital muestra el nivel de par utilizado en la pantalla que tiene una sección dedicada a él. 
+          <br><br>
+          Smartchuck: Insertar y quitar la varilla nunca ha sido tan fácil.
+          <br><br>
+          La tecnología SmartChuck™ de OHS Advance simplifica el proceso de inserción y extracción de la varilla agitadora, que también se puede hacer con una mano y no requiere ninguna herramienta. 
+          <br><br>
+          Con dos simples pasos, puede desbloquear el anillo protector para operar la varilla hacia adentro y hacia afuera con la mayor facilidad.
+          <br><br>
+          Abrir el anillo durante el proceso de agitación bloqueará automáticamente el análisis y el instrumento le informará para garantizar la máxima seguridad.
+          <br><br>
+          <h5>Fácil de usar y preciso</h5>
+          La pantalla intuitiva contiene toda la información necesaria y le permite ver los cambios de viscosidad en tiempo real. 
+          <br><br>
+          Gracias al temporizador que se puede configurar desde 1min hasta 99.59h, el OHS 40 Digital permite trabajar sin supervisión. 
+          <br><br>
+          La interfaz USB facilita cualquier actualización de software
+          `,
+          videoLink: "3QTaDxhvLBs",
+          sendPriceText: "Ver más información",
+        },
+        {
+          alt: "alt-logo",
+          srcImage: eq37_1,
+          typeProduct: {
+            name: "Agitadores",
+            keyname: "agitadores",
+          },
+          categoryProduct: {
+            name: "Agitadores verticales",
+            keyname: "agitadores-verticales",
+          },
+          name: "OHS 20 Digital Agitador de Varillas",
+          description:
+            "Agitador de varilla con par de 20Ncm, indicador digital y temporizador capaz de agitar hasta 25l.",
+          descriptionLong: `Agitador de varilla con par de 20Ncm, indicador digital y temporizador capaz de agitar hasta 25l.
+          <br><br>
+          <h5>Seguridad y durabilidad para su laboratorio</h5>
+          OHS 20 Digital está diseñado para garantizar los más altos estándares de seguridad. La cubierta sellada y resistente y la clasificación IP 54 garantizan una larga vida útil incluso en los entornos más duros.
+          <ul>
+          <li>Los sensores de seguridad integrados desactivan la agitación en caso de sobrecarga, sobrecalentamiento y cortocircuito, preservando el rendimiento a lo largo del tiempo</li>
+          <li>La función Bloqueo del instrumento evita cambios involuntarios en los ajustes.</li>
+          </ul>
+          OHS 20 Digital garantiza un funcionamiento continuo y está respaldado por una extensión de garantía de 3 años.
+          <br><br>
+          <h5>La mejor potencia de agitación de la categoría</h5>
+          OHS 20 Digital es la solución ideal incluso para las aplicaciones más exigentes y está equipado con un potente motor brushless y un control electrónico capaz de garantizar la máxima potencia en cualquier situación.
+          <br><br>
+          La relación de velocidad del OHS 20 Digital (30-2000 rpm) garantiza el mejor rendimiento tanto para aplicaciones que requieren un par máximo como para aquellas a altas velocidades.
+          <br><br>
+          OHS 20 Digital es adecuado para todas las muestras con una viscosidad máxima de hasta 10.000 mPas y un volumen máximo de 25 l (H2O).
+          <br><br>
+          La tecnología de compensación de par SpeedServoTM mantiene la velocidad constante ajustando automáticamente la velocidad a los cambios de viscosidad.
+          <br><br>
+          <h5>Par constante a cualquier velocidad</h5>
+          El potente motor brushless y el microprocesador garantizan un excelente rendimiento que marca la diferencia entre un agitador convencional y la serie VELP OHS.
+          <br><br>
+          El par es estable en todo el rango de velocidades, lo que garantiza la máxima potencia incluso a altas velocidades. Este es un parámetro muy importante para la reproducibilidad de las pruebas.
+          <br><br>
+          OHS 20 Digital muestra el nivel de par utilizado en la pantalla que tiene una sección dedicada a él. 
+          <br><br>
+          Smartchuck: Insertar y quitar la varilla nunca ha sido tan fácil.
+          <br><br>
+          La tecnología SmartChuck™ de OHS Advance simplifica el proceso de inserción y extracción de la varilla agitadora, que también se puede hacer con una mano y no requiere ninguna herramienta. 
+          <br><br>
+          Con dos simples pasos, puede desbloquear el anillo protector para operar la varilla hacia adentro y hacia afuera con la mayor facilidad.
+          <br><br>
+          Abrir el anillo durante el proceso de agitación bloqueará automáticamente el análisis y el instrumento le informará para garantizar la máxima seguridad.
+          <br><br>
+          <h5>Fácil de usar y preciso</h5>
+          La pantalla intuitiva contiene toda la información necesaria y le permite ver los cambios de viscosidad en tiempo real.
+          <br><br>
+          Gracias al temporizador que se puede configurar desde 1min hasta 99.59h, el OHS 20 Digital permite trabajar sin supervisión.
+          <br><br>
+          La interfaz USB facilita cualquier actualización de software
+          `,
+          videoLink: "3QTaDxhvLBs",
+          sendPriceText: "Ver más información",
+        },
+        {
+          alt: "alt-logo",
+          srcImage: eq38_1,
+          typeProduct: {
+            name: "Agitadores",
+            keyname: "agitadores",
+          },
+          categoryProduct: {
+            name: "Agitadores verticales",
+            keyname: "agitadores-verticales",
+          },
+          name: "CONTROLLER Advance",
+          description: `La innovadora solución para gestionar y supervisar la velocidad de rotación del eje de los motores sin escobillas en sistemas de reactores a escala de laboratorio de hasta 100 L provista de una pantalla TFT de 3,5", registro de datos y conectividad Wi-Fi.`,
+          descriptionLong: `La innovadora solución para gestionar y supervisar la velocidad de rotación del eje de los motores sin escobillas en sistemas de reactores a escala de laboratorio de hasta 100 L provista de una pantalla TFT de 3,5", registro de datos y conectividad Wi-Fi.
+          <br><br>
+          <h5>El innovador controlador para el sistema de reacción química</h5>
+          Los sistemas de reacción de vidrio se utilizan en una amplia variedad de campos industriales para controlar los procesos químicos para transformar las materias primas en los productos finales deseados. Los reactores pueden tener una estructura compleja para hacer frente a diferentes condiciones de funcionamiento en términos de la naturaleza de los productos químicos involucrados (reactivos y productos de reacción) y las condiciones físicas de funcionamiento.
+          <br><br>
+          El CONTROLLER Advance está diseñado para gestionar y supervisar la velocidad de rotación del eje de los motores sin escobillas en sistemas de reactores de planta piloto de hasta 100 L. El CONTROLLER Advance admite reacciones para:
+          <ul>
+          <li>Agitación: ajuste con precisión la velocidad deseada (rpm) y la dirección de agitación</li>
+          <li>Torque: monitoree con precisión los cambios en la viscosidad de la mezcla de reacción </li>
+          <li>Temperatura: medición de la temperatura de la reacción a través de la conexión PT100</li>
+          </ul>
+
+          <h5>Fácil de usar y programable</h5>
+          <ul>
+          <li>La pantalla TFT de 3,5" muestra toda la información de configuración de un vistazo</li>
+          <li>Monitoreo del gráfico de par de tiempo de reacción, velocidad y temperatura</li>
+          <li>Control de velocidad digital preciso: ± 1 rpm</li>
+          <li>Perilla intuitiva para navegar por el menú e iniciar operaciones de detención</li>
+          <li>Conexión de sonda PT100 para monitoreo de temperatura (-200 °C a +550 °C)</li>
+          <li>Métodos programables para configurar hasta 4 rampas de tiempo/velocidad</li>
+          <li>Temporizador para operaciones desatendidas</li>
+          <li>Cambios fáciles en la dirección de agitación CW/CCW</li>
+          <li>Botón de bloqueo de seguridad para evitar cambios involuntarios con la configuración</li>
+          </ul>
+          <h5>Opciones de conectividad exclusivas para un control total de las reacciones</h5>          
+          La  conectividad Wi-Fi avanzada de CONTROLLER a la plataforma en la nube VELP Ermes ofrece ventajas exclusivas: 
+          <br><br>
+          <ul>
+          <li>Control remoto y monitoreo en tiempo real de múltiples instrumentos</li>
+          <li>Acceso desde PC, tablet y smartphone</li>
+          <li>Soporte de servicio mejorado</li>
+          <li>Registro de datos e informes en múltiples formatos</li>
+          <li>Actualizaciones de software</li>
+          </ul>
+          Para todos los laboratorios que no pueden beneficiarse de los servicios en la nube, VELP ofrece una alternativa válida con conectividad USB. La interfaz USB permite conectar el controlador a un PC a través  del software OHS/CONTROLLERSoftTM para el registro constante de datos, la supervisión y el encendido y apagado del controlador.
+          `,
+          videoLink: "",
+          sendPriceText: "Ver más información",
+        },
+        {
+          alt: "alt-logo",
+          srcImage: eq39_1,
+          typeProduct: {
+            name: "Agitadores",
+            keyname: "agitadores",
+          },
+          categoryProduct: {
+            name: "Agitadores verticales",
+            keyname: "agitadores-verticales",
+          },
+          name: "CONTROLLER Digital",
+          description:
+            "La solución básica para gestionar y controlar la velocidad de rotación del eje de los motores sin escobillas en sistemas de reactores a escala de laboratorio de hasta 100 L",
+          descriptionLong: `La solución básica para gestionar y controlar la velocidad de rotación del eje de los motores sin escobillas en sistemas de reactores a escala de laboratorio de hasta 100 L
+          <br><br>
+          <h5>El controlador básico para sistemas de reacción química</h5>
+          Los sistemas de reacción de vidrio se utilizan en una amplia variedad de campos industriales para controlar los procesos químicos para transformar las materias primas en los productos finales deseados. Los reactores pueden tener una estructura compleja para hacer frente a diferentes condiciones de funcionamiento en términos de la naturaleza de los productos químicos involucrados (reactivos y productos de reacción) y las condiciones físicas de funcionamiento.
+          <br><br>
+          El CONTROLLER Digital gestiona y supervisa la velocidad de rotación del eje de los motores sin escobillas en sistemas de reactores de planta piloto de hasta 100 L. El CONTROLLER Digital admite reacciones para:
+          <ul>
+          <li>Agitación: ajuste con precisión la velocidad deseada (rpm) y la dirección de agitación</li>
+          <li>Torque: monitoree la viscosidad de la mezcla de reacción con indicadores LED</li>
+          </ul>
+          <h5>Intuitivo y fiable</h5>
+          <ul>
+          <li>Pantalla digital para ajustar con precisión la velocidad de agitación</li>
+          <li>Monitoreo de par a través de la pantalla Led dedicada de 4 segmentos</li>
+          <li>Control de velocidad preciso: ± 1 rpm</li>
+          <li>Perilla intuitiva para navegar por el menú e iniciar operaciones de detención</li>
+          <li>Temporizador para operaciones desatendidas</li>
+          <li>Cambios fáciles en la dirección de agitación CW/CCW</li>
+          <li>Botón de bloqueo de seguridad para evitar cambios involuntarios con la configuración</li>
+          </ul>
+          `,
+          videoLink: "",
+          sendPriceText: "Ver más información",
+        },
+        {
+          alt: "alt-logo",
+          srcImage: eq40_1,
+          typeProduct: {
+            name: "Agitadores",
+            keyname: "agitadores",
+          },
+          categoryProduct: {
+            name: "Agitadores verticales",
+            keyname: "agitadores-verticales",
+          },
+          name: "DLH Agitador Digital Vertical",
+          description:
+            "Agitador de varilla digital con par de 80Ncm, pantalla digital y temporizador capaz de agitar hasta 40 L.",
+          descriptionLong: `Agitador de varilla digital con par de 80Ncm, pantalla digital y temporizador capaz de agitar hasta 40 L.
+          <br><br>
+          <h5>Seguro y fácil de usar</h5>
+          La pantalla DLH es brillante y fácil de leer, todos los parámetros principales, como la velocidad establecida, la velocidad real, el par y el temporizador, son visibles a simple vista.
+          <br><br>
+          El instrumento también está equipado con un temporizador digital programable hasta 999: 59 minutos con apagado automático, lo que permite el funcionamiento sin supervisión.
+          <br><br>
+          DLH garantiza la máxima seguridad y protege en caso de sobrecarga y sobrecalentamiento.
+          <br><br>
+          Sencillo de instalar, resistente e intuitivo. El DLH tiene unas dimensiones reducidas para aprovechar al máximo el espacio del banco.
+          <br><br>
+          <h5>La potencia que busca</h5>
+          DLH es apto para remover eficazmente y también a máxima velocidad, asegurando un inicio gradual para evitar salpicaduras.
+          <br><br>
+          DLH alcanza una velocidad máxima de 2000 rpm, por lo que es ideal para volúmenes de hasta 40 litros y viscosidades medio-altas, con un máximo de 50.000 mPa*s.
+          <br><br>
+          El sistema de retroalimentación garantiza una velocidad constante incluso cuando la viscosidad varía.
+          <br><br>
+          El sistema de cierre intuitivo es simple y conveniente y no requiere herramientas. DLH acepta diferentes modelos de varillas, para las más variadas aplicaciones, con un diámetro máximo de 10 mm.
+          <br><br>
+          <h5>Resistente y ligero</h5>
+          DLH ha sido diseñado para un trabajo continuo incluso en las condiciones de funcionamiento más estresantes.
+          <br><br>
+          La estructura especial de tecnopolímero y el grado de protección IP 40 garantizan un excelente nivel de protección y resistencia química. El DLH ofrece un simple manejo ya que se encuentra entre los más ligeros del mercado.
+          <br><br>
+          El robusto motor garantiza un funcionamiento continuo a lo largo de los años, sin costes de mantenimiento adicionales.
+          `,
+          videoLink: "3M2LT766gYo",
+          sendPriceText: "Ver más información",
+        },
+        {
+          alt: "alt-logo",
+          srcImage: eq41_1,
+          typeProduct: {
+            name: "Agitadores",
+            keyname: "agitadores",
+          },
+          categoryProduct: {
+            name: "Agitadores verticales",
+            keyname: "agitadores-verticales",
+          },
+          name: "DLS Agitador Digital Vertical",
+          description:
+            "Agitador de varilla digital con torque de 40 Ncm, display digital y temporizador capaz de agitar hasta 25 L.",
+          descriptionLong: `Agitador de varilla digital con torque de 40 Ncm, display digital y temporizador capaz de agitar hasta 25 L.
+          <br><br>
+          <h5>Seguro y fácil de usar</h5>
+          La pantalla DLS es brillante y fácil de leer, todos los parámetros principales, como la velocidad establecida, la velocidad real, el par y el temporizador, son visibles a simple vista.
+          <br><br>
+          El instrumento también está equipado con un temporizador digital programable hasta 999: 59 minutos con apagado automático, lo que permite el funcionamiento sin supervisión.
+          <br><br>
+          DLS garantiza la máxima seguridad y protege en caso de sobrecarga y sobrecalentamiento.
+          <br><br>
+          Sencillo de instalar, resistente e intuitivo. El DLS tiene unas dimensiones reducidas para aprovechar al máximo el espacio del banco.
+          <br><br>
+          <h5>La potencia que busca</h5>
+          DLS es apto para remover eficazmente y también a máxima velocidad, asegurando un inicio gradual para evitar salpicaduras.
+          <br><br>
+          DLS alcanza una velocidad máxima de 2000 rpm, por lo que es ideal para volúmenes de hasta 25 litros y viscosidades medio-altas, con un máximo de 25.000 mPa*s. 
+          <br><br>
+          El sistema de retroalimentación garantiza una velocidad constante incluso cuando la viscosidad varía.
+          <br><br>
+          El sistema de cierre intuitivo es simple y conveniente y no requiere herramientas. DLS acepta diferentes modelos de varillas, para las más variadas aplicaciones, con un diámetro máximo de 10 mm.
+          <br><br>
+          <h5>Resistente y ligero</h5>
+          DLS ha sido diseñado para un trabajo continuo incluso en las condiciones de funcionamiento más estresantes.
+          <br><br>
+          La estructura especial de tecnopolímero y el grado de protección IP 40 garantizan un excelente nivel de protección y resistencia química. El DLS ofrece un simple manejo ya que se encuentra entre los más ligeros del mercado.
+          <br><br>
+El robusto motor garantiza un funcionamiento continuo a lo largo de los años, sin costes de mantenimiento adicionales.
+          `,
+          videoLink: "",
+          sendPriceText: "Ver más información",
+        },
+        {
+          alt: "alt-logo",
+          srcImage: eq42_1,
+          typeProduct: {
+            name: "Agitadores",
+            keyname: "agitadores",
+          },
+          categoryProduct: {
+            name: "Agitadores verticales",
+            keyname: "agitadores-verticales",
+          },
+          name: "PW Agitador de varillas",
+          description:
+            "Agitador analógico con par de 120 Ncm, pantalla digital y temporizador capaz de agitar hasta 70 L.",
+          descriptionLong: `Agitador analógico con par de 120 Ncm, pantalla digital y temporizador capaz de agitar hasta 70 L.
+          <br><br>
+          <h5>Potente, seguro y fácil de usar</h5>
+          PW es un agitador de varillas intuitivo, capaz de garantizar la máxima seguridad y protección en caso de sobrecarga y sobrecalentamiento.
+          <br><br>
+          Fácil de instalar, duradero y con un tamaño pequeño, PW es la mejor opción para muestras de alta viscosidad.
+          <br><br>
+          ¡VELP PW asegura un comienzo suave y una agitación eficaz incluso a la velocidad máxima!
+          <br><br>
+          PW puede alcanzar velocidades de 1200 rpm y agitar hasta 70 litros. El dispositivo es capaz de manejar una viscosidad alta, con un máximo de 100.000 mPa*s.
+          <br><br>
+          El sistema de cierre intuitivo es simple y conveniente y no requiere de ninguna herramienta. PW acepta diferentes modelos de varillas, para las más variadas aplicaciones, con un diámetro máximo de 10 mm.
+          <br><br>
+          <h5>Resistente y ligero</h5>
+          PW ha sido diseñado para un trabajo continuo incluso en las condiciones de funcionamiento más estresantes.
+          <br><br>
+          La estructura especial de tecnopolímero y el grado de protección IP 40 garantizan un excelente nivel de protección y resistencia química. El PW ofrece un simple manejo ya que se encuentra entre los más ligeros del mercado.
+          <br><br>
+          El robusto motor garantiza un funcionamiento continuo a lo largo de los años, sin costes de mantenimiento adicionales.
+          `,
+          videoLink: "",
+          sendPriceText: "Ver más información",
+        },
+        {
+          alt: "alt-logo",
+          srcImage: eq43_1,
+          typeProduct: {
+            name: "Agitadores",
+            keyname: "agitadores",
+          },
+          categoryProduct: {
+            name: "Agitadores verticales",
+            keyname: "agitadores-verticales",
+          },
+          name: "LH Agitador de varilla",
+          description:
+            "Agitador analógico con par de 80 Ncm capaz de agitar hasta 40 L.",
+          descriptionLong: `Agitador analógico con par de 80 Ncm capaz de agitar hasta 40 L.
+          <br><br>
+          <h5>Potente, seguro y fácil de usar</h5>
+          LH es un agitador de varillas intuitivo, capaz de garantizar la máxima seguridad y protección en caso de sobrecarga y sobrecalentamiento.
+          <br><br>
+          Fácil de instalar, duradero y con un tamaño pequeño, LH es la mejor opción para muestras de alta viscosidad.
+          <br><br>
+          ¡VELP LH asegura un comienzo suave y una agitación eficaz incluso a la velocidad máxima!
+          <br><br>
+          LH puede alcanzar velocidades de 2000 rpm y agitar hasta 40 litros. El dispositivo es capaz de manejar una viscosidad alta, con un máximo de 50.000 mPa*s.
+          <br><br>
+          El sistema de cierre intuitivo es simple y conveniente y no requiere de ninguna herramienta. LH acepta diferentes modelos de varillas, para las más variadas aplicaciones, con un diámetro máximo de 10 mm.
+          <br><br>
+          <h5>Resistente y ligero</h5>
+          LH ha sido diseñado para un trabajo continuo incluso en las condiciones de funcionamiento más estresantes.
+          <br><br>
+          La estructura especial de tecnopolímero y el grado de protección IP 40 garantizan un excelente nivel de protección y resistencia química. El LH ofrece un simple manejo ya que se encuentra entre los más ligeros del mercado.
+          <br><br>
+          El robusto motor garantiza un funcionamiento continuo a lo largo de los años, sin costes de mantenimiento adicionales.
+          `,
+          videoLink: "",
+          sendPriceText: "Ver más información",
+        },
+        {
+          alt: "alt-logo",
+          srcImage: eq44_1,
+          typeProduct: {
+            name: "Agitadores",
+            keyname: "agitadores",
+          },
+          categoryProduct: {
+            name: "Agitadores verticales",
+            keyname: "agitadores-verticales",
+          },
+          name: "LS Agitador de varilla",
+          description:
+            "Agitador analógico con par de 40Ncm capaz de agitar hasta 25L.",
+          descriptionLong: `Agitador analógico con par de 40Ncm capaz de agitar hasta 25L.
+          <br><br>
+          <h5>Potente, seguro y fácil de usar</h5>
+          LS es un agitador de varillas intuitivo, capaz de garantizar la máxima seguridad y protección en caso de sobrecarga y sobrecalentamiento.
+          <br><br>
+          Fácil de instalar, duradero y con un tamaño pequeño, LS es la mejor opción para muestras de alta viscosidad.
+          <br><br>
+          ¡VELP LS asegura un comienzo suave y una agitación eficaz incluso a la velocidad máxima!
+          <br><br>
+          LS puede alcanzar velocidades de 2000 rpm y agitar hasta 25 litros. El dispositivo es capaz de manejar una viscosidad alta, con un máximo de 25.000 mPa*s.
+          <br><br>
+          El sistema de cierre intuitivo es simple y conveniente y no requiere de ninguna herramienta. LS acepta diferentes modelos de varillas, para las más variadas aplicaciones, con un diámetro máximo de 10 mm.
+          <br><br>
+          <h5>Resistente y ligero</h5>
+          LS ha sido diseñado para un trabajo continuo incluso en las condiciones de funcionamiento más estresantes.
+          <br><br>
+          La estructura especial de tecnopolímero y el grado de protección IP 40 garantizan un excelente nivel de protección y resistencia química. El LS ofrece un simple manejo ya que se encuentra entre los más ligeros del mercado.
+          <br><br>
+          El robusto motor garantiza un funcionamiento continuo a lo largo de los años, sin costes de mantenimiento adicionales.
+          `,
+          videoLink: "",
+          sendPriceText: "Ver más información",
+        },
+        {
+          alt: "alt-logo",
+          srcImage: eq45_1,
+          typeProduct: {
+            name: "Agitadores",
+            keyname: "agitadores",
+          },
+          categoryProduct: {
+            name: "Agitadores verticales",
+            keyname: "agitadores-verticales",
+          },
+          name: "ES Agitador de varillas",
+          description:
+            "Agitador analógico con par de 15 Ncm capaz de agitar hasta 15 L.",
+          descriptionLong: `Agitador analógico con par de 15 Ncm capaz de agitar hasta 15 L.
+          <br><br>
+          <h5>Potente, seguro y fácil de usar</h5>
+          ES es un agitador de varillas intuitivo, capaz de garantizar la máxima seguridad y protección en caso de sobrecarga y sobrecalentamiento.
+          <br><br>
+          Fácil de instalar, duradero y con un tamaño pequeño, ES es la mejor opción para muestras de alta viscosidad.
+          <br><br>
+          ¡VELP ES asegura un comienzo suave y una agitación eficaz incluso a la velocidad máxima!
+          <br><br>
+          ES puede alcanzar velocidades de 1300 rpm y agitar hasta 15 litros. El dispositivo es capaz de manejar una viscosidad alta, con un máximo de 1.000 mPa*s.
+          <br><br>
+          El sistema de cierre intuitivo es simple y conveniente y no requiere de ninguna herramienta. ES acepta diferentes modelos de varillas, para las más variadas aplicaciones, con un diámetro máximo de 10 mm.
+          <br><br>
+          <h5>Resistente y ligero</h5>
+          ES ha sido diseñado para un trabajo continuo incluso en las condiciones de funcionamiento más estresantes.
+          <br><br>
+          La estructura especial de tecnopolímero y el grado de protección IP 40 garantizan un excelente nivel de protección y resistencia química. El ES ofrece un simple manejo ya que se encuentra entre los más ligeros del mercado.
+          <br><br>
+          El robusto motor garantiza un funcionamiento continuo a lo largo de los años, sin costes de mantenimiento adicionales.
+          `,
+          videoLink: "",
+          sendPriceText: "Ver más información",
+        },
+        {
+          alt: "alt-logo",
+          srcImage: eq40_1,
+          typeProduct: {
+            name: "Agitadores",
+            keyname: "agitadores",
+          },
+          categoryProduct: {
+            name: "Agitadores vortex",
+            keyname: "agitadores-vortex",
+          },
+          name: "",
+          description: "",
+          descriptionLong: ``,
+          videoLink: "",
+          sendPriceText: "Ver más información",
+        },
+        {
+          alt: "alt-logo",
+          srcImage: eq40_1,
+          typeProduct: {
+            name: "Agitadores",
+            keyname: "agitadores",
+          },
+          categoryProduct: {
+            name: "Agitadores vortex",
+            keyname: "agitadores-vortex",
           },
           name: "",
           description: "",
