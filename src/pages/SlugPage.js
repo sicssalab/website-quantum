@@ -128,10 +128,6 @@ const SlugPage = (props) => {
                     locales={locales}
                     {...rest}
                 />);
-            // case "footer-component":
-            //     return (<Footer key={position}
-            //         {...rest}
-            //     />);
             default:
                 return <div key={position}></div>
         }

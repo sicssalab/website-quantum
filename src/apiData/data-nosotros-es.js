@@ -6,7 +6,7 @@ const resource = {
     slug: pagesContants.nosotrosES,
     locale: "es",
     metadata: {
-        "metaTitle": "Nosotros | Quantum Analytical",
+        "metaTitle": "Quantum Analytical: Nosotros",
         "metaDescription": "---",
         "keywords": "---",
         "url": pagesContants.nosotrosES, //canonical

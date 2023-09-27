@@ -3,7 +3,6 @@ import { LazyLoadImage } from "react-lazy-load-image-component";
 import { ContainerCustom } from "../../ui/Containers";
 import { useMediaQuery } from "react-responsive";
 import breakpointConstants from "../../../constants/breakpointConstants";
-import FloatInverse from "../../ui/boxFloat/FloatInverse";
 import useCreateFormHbspt from "../../../hooks/useCreateFormHbspt";
 
 const ContactShotBlog = (props) => {

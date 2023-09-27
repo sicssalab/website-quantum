@@ -2,24 +2,16 @@ import React from "react";
 import useCreateFormHbspt from "../../../hooks/useCreateFormHbspt";
 import breakpointConstants from "../../../constants/breakpointConstants";
 import { useMediaQuery } from "react-responsive";
-import FloatInverse from "../../ui/boxFloat/FloatInverse";
 import { LazyLoadImage } from "react-lazy-load-image-component";
 
 const ContactBlog = (props) => {
   const { contact, hbsptSettings, imageMobile, image, altImage } = props;
   const isMobile = useMediaQuery({ maxWidth: breakpointConstants.MD });
   useCreateFormHbspt(hbsptSettings);
-  const styleFloats = {
-    position: "absolute",
-    right: isMobile ? 0 : "70px",
-    top: 0,
-    width: "82px",
-    height: "82px",
-  };
+
   return (
     <div className="contact-blog-container position-relative">
       <div className="contact-residential">
-        <FloatInverse sx={styleFloats} />
         <div className="div-row">
           <div className="container-map">
             <LazyLoadImage

@@ -3,7 +3,6 @@ import { LazyLoadImage } from "react-lazy-load-image-component";
 import { ContainerCustom } from "../../ui/Containers";
 import { useMediaQuery } from "react-responsive";
 import breakpointConstants from "../../../constants/breakpointConstants";
-import FloatInverse from "../../ui/boxFloat/FloatInverse";
 
 const MisionVisionSection = (props) => {
     const { missionTitle, missionDescription, visionTitle, visionDescription, image, imageMobile } = props;
@@ -22,13 +21,6 @@ const MisionVisionSection = (props) => {
             <p className="description">{visionDescription}</p>
         </div>)
         : <></>;
-        const styleFloats = {
-            position: "absolute",
-            right: isMobile ? 0 : "70px",
-            top: 0,
-            width: "82px",
-            height: "82px"
-          };
     return (<section className="mission-component position-relative">
         <ContainerCustom>
             <div className="mission-body">

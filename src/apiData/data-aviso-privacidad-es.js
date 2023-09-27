@@ -7,7 +7,7 @@ const resource = {
     //slugSub: "aviso-de-privadidad",
     locale: "es",
     metadata: {
-        "metaTitle": "Aviso de Privacidad | Sicssa Lab",
+        "metaTitle": "Quantum Analytical: Aviso de Privacidad",
         "metaDescription": "Conoce los alcances y condiciones generales del tratamiento de los datos personales que tienen los usuarios de nuestro sitio web.",
         "keywords": "Consultoría de TI, Consultoría de desarrollo de Software, Desarrollo de aplicaciones, Desarrollo de aplicaciones web, Desarrollo de software a la medida, Consultores de software, Desarrollo de aplicaciones móviles, Desarrollo de software escalable, Consultores en innovación tecnológica, automatización de procesos, programadores.",
         "url": pagesContants.avisoPrivacidadES, //canonical

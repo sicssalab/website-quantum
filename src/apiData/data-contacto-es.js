@@ -6,7 +6,7 @@ const resource = {
     slug: pagesContants.contactoES,
     locale: "es",
     metadata: {
-        "metaTitle": "Contacto | Quantum Analytical",
+        "metaTitle": "Quantum Analytical: Contacto",
         "metaDescription": "Contáctanos y obtén información sobre los productos que manejamos",
         "keywords": "---",
         "url": pagesContants.contactoES, //canonical

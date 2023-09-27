@@ -1,9 +1,7 @@
 import React from "react";
 import { useMediaQuery } from "react-responsive";
 import { ContainerCustom } from "../../ui/Containers";
-import FloatBoxs from "../../ui/boxFloat/FloatBox/FloatBoxs";
 import breakpointConstants from "../../../constants/breakpointConstants";
-import FloatInverse from "../../ui/boxFloat/FloatInverse";
 import Press from "./components/Press";
 import { useEffect, useState } from "react";
 import PagePressSection from "./components/PagePressSection";
@@ -20,20 +18,6 @@ const PressList = (props) => {
   const itemsView = 5;
 
   const totalPages = Math.ceil(items.length / itemsView);
-  const styleFloats = {
-    position: "absolute",
-    right: isMobile ? 0 : "70px",
-    top: 0,
-    width: "82px",
-    height: "82px",
-  };
-  const styleFloatsInverse = {
-    width: "90px",
-    height: "90px",
-    position: "absolute",
-    left: 0,
-    bottom: 0,
-  };
 
   useEffect(() => {
     setPagination(isMobile ? "list" : "pagination");
@@ -83,7 +67,6 @@ const PressList = (props) => {
   return (
     <section className="press-contact-container-list">
       <ContainerCustom>
-        <FloatBoxs sx={styleFloats} />
         <div>
           {insieItems &&
             insieItems.map((item, i) => {
@@ -91,7 +74,6 @@ const PressList = (props) => {
             })}
         </div>
         <PagePressSection onNextPage={nextPage} onPrevPage={prevPage} totalPages={totalPages} pageView={pageView} />
-        <FloatInverse sx={styleFloatsInverse} />
       </ContainerCustom>
     </section>
   );

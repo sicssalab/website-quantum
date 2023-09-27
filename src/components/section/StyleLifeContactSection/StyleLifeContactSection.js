@@ -3,7 +3,6 @@ import { LazyLoadImage } from "react-lazy-load-image-component";
 import { ContainerCustom } from "../../ui/Containers";
 import { useMediaQuery } from "react-responsive";
 import breakpointConstants from "../../../constants/breakpointConstants";
-import FloatBoxs from "../../ui/boxFloat/FloatBox/FloatBoxs";
 
 const StyleLifeContactSection = (props) => {
     const { title, description, image, imageMobile } = props;
