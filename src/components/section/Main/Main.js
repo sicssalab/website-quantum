@@ -4,10 +4,8 @@ import SlickSlider from "../../ui/SlickSlider/SlickSlider";
 import BoxSocial from "../../ui/box/BoxSocial";
 import NavbarHeader from "../../ui/NavbarHeader/NavbarHeader";
 import AOS from 'aos';
-import scrollDown from "../../../assets/icons/scroll-down.svg";
 import { ContainerCustom } from "../../ui/Containers";
 import { useGlobalState } from "../../../store/StoreProvider";
-import { Image } from "react-bootstrap";
 const Main = (props) => {
   const { items, locales, title, description, isLanding, socialNetwork } = props;
   const {routesData} = useGlobalState();
@@ -44,10 +42,6 @@ const Main = (props) => {
         <BoxSocial items={socialNetwork} />
 
       </ContainerCustom>
-      <div className={`arrow-absolute`}>
-        <span>Scroll Down</span>
-        <Image src={scrollDown} alt="scroll down" width={30} />
-      </div>
     </header>
   );
 };

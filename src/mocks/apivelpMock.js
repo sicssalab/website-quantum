@@ -53,6 +53,24 @@ import eq08_1 from "../assets/landings/velp/equipos/agitadores/multistirrer_digi
 import eq09_1 from "../assets/landings/velp/equipos/agitadores/esp/1ESP00-207750-228233.jpg";
 import eq10_1 from "../assets/landings/velp/equipos/agitadores/microstirrer/1MICROSTIRRER00-207810-228275MAGEN.jpg";
 import eq11_1 from "../assets/landings/velp/equipos/agitadores/ami/1AMI00-218308-227920.jpg";
+import eq12_1 from "../assets/landings/velp/equipos/agitadores-magneticos/arex-6-connect-pro/1.jpg";
+import eq13_1 from "../assets/landings/velp/equipos/agitadores-magneticos/arex-6-digital-pro/1VELPAREX6DigitalProSA20500460-208454-228287.jpg";
+import eq14_1 from "../assets/landings/velp/equipos/agitadores-magneticos/arex-6/1.jpg";
+import eq15_1 from "../assets/landings/velp/equipos/agitadores-magneticos/are-6/1.jpg";
+import eq16_1 from "../assets/landings/velp/equipos/agitadores-magneticos/arex-5-digital/1VELPAREX5-Digital01-282746-282916.jpg";
+import eq17_1 from "../assets/landings/velp/equipos/agitadores-magneticos/arex-5/1.jpg";
+import eq18_1 from "../assets/landings/velp/equipos/agitadores-magneticos/are-5/1.jpg";
+import eq19_1 from "../assets/landings/velp/equipos/agitadores-magneticos/arec-connect/1.jpg";
+import eq20_1 from "../assets/landings/velp/equipos/agitadores-magneticos/arec-x/1.jpg";
+import eq21_1 from "../assets/landings/velp/equipos/agitadores-magneticos/arec/1.jpg";
+import eq22_1 from "../assets/landings/velp/equipos/agitadores-magneticos/HSC/1.jpg";
+import eq23_1 from "../assets/landings/velp/equipos/agitadores-magneticos/am4-digital-pro/1.jpg";
+import eq24_1 from "../assets/landings/velp/equipos/agitadores-magneticos/am4/1.jpg";
+import eq25_1 from "../assets/landings/velp/equipos/agitadores-magneticos/multi-hs-6-15/1.jpg";
+import eq26_1 from "../assets/landings/velp/equipos/agitadores-magneticos/vtf/1.jpg";
+import eq27_1 from "../assets/landings/velp/equipos/placas-calefactoras/rc-5/1.jpg";
+import eq28_1 from "../assets/landings/velp/equipos/placas-calefactoras/rc-2/1.jpg";
+import eq29_1 from "../assets/landings/velp/equipos/placas-calefactoras/rec/1VELPREC00-236772-239838.jpg";
 
 const apiSelcaEscondidaMock = {
   items: [
@@ -2880,23 +2898,890 @@ El OXITEST gracias a su conectividad a VELP Ermes te permite reducir las operaci
           videoLink: "",
           sendPriceText: "Ver más información",
         },
-        // {
-        //   alt: "alt-logo",
-        //   srcImage: pro01_1,
-        //   typeProduct: {
-        //     name: "Agitadores",
-        //     keyname: "agitadores",
-        //   },
-        //   categoryProduct: {
-        //     name: "Agitadores Magneticos",
-        //     keyname: "agitadores-magneticos",
-        //   },
-        //   name: "",
-        //   description: "",
-        //   descriptionLong: ``,
-        //   videoLink: "",
-        //   sendPriceText: "Ver más información",
-        // },
+        {
+          alt: "alt-logo",
+          srcImage: eq12_1,
+          typeProduct: {
+            name: "Agitadores",
+            keyname: "agitadores",
+          },
+          categoryProduct: {
+            name: "Agitadores Magneticos con calefacción",
+            keyname: "agitadores-magneticos-calefaccion",
+          },
+          name: "AREX 6 Connect PRO Agitadores magnéticos con calefacción",
+          description: "El primer agitador magnético de calentamiento con conexión Wi-Fi a la plataforma en la nube VELP Ermes para controlar los análisis en tiempo real.",
+          descriptionLong: `El primer agitador magnético de calentamiento con conexión Wi-Fi a la plataforma en la nube VELP Ermes para controlar los análisis en tiempo real.
+          <br><br>
+          <h5>Controla tu AREX 6 Connect PROen cualquier lugar y en cualquier momento con VELP Ermes</h5>
+          VELP Ermes permite la reducción de operaciones de rutina en sus instrumentos gracias al control en tiempo real de su AREX 6 Connect PRO esté donde esté.
+          <br><br>
+          
+          Acceda a su registro de análisis para maximizar la productividad y la reproducibilidad de sus reacciones.
+          <br><br>
+          
+          Las notificaciones y alertas inmediatas te permitirán estar siempre informado sobre el estado de tu análisis y gracias a la interrupción remota tendrás el control total de tus procesos, garantizando la máxima seguridad.
+          <br><br>
+          
+          Acceda a los datos de su instrumento con total seguridad a través de la plataforma VELP Ermes y benefíciese de las actualizaciones de software inmediatas, sin la necesidad de técnicos especializados.
+          <br><br>
+          <h5>La seguridad es lo primero</h5>
+          
+          Los AREX 6 Connect PRO están equipados con 2 circuitos de lectura de temperatura independientes que protegen el instrumento en caso de mal funcionamiento de uno de los dos.
+          Si la sonda no se inserta en la muestra que se está analizando, el instrumento deja de calentar y muestra un mensaje de seguridad en la pantalla.
+          <br><br>
+          
+          Los AREX 6 Connect PRO están equipados con la tecnología más avanzada y le permiten establecer el límite máximo de temperatura requerido por análisis con temperaturas específicas.
+          <br><br>
+          
+          AREX 6 Connect PRO es un producto IP42 diseñado para garantizar años de uso y resistencia en el laboratorio. La estructura y los materiales protegen las partes internas del instrumento de posibles daños.
+          <br><br>
+          
+          Los AREX 6 Connect PRO tienen una garantía de 3 años (la extensión de la garantía se obtiene al registrar el producto)
+          <br><br>
+          
+          La cubierta de silicona asegura una mayor protección del instrumento contra posibles derrames o salpicaduras.
+          <br><br>
+          <h5>Termorregulación de vanguardia</h5>
+          
+          
+          AREX 6 Connect PRO ofrece la mejor termorregulación disponible. El sistema de termorregulación PID garantiza un control de temperatura estable y rápido y con un mínimo overshoot
+          <br><br>
+          
+          VTF y sonda Pt100 permiten un control de temperatura exacto y preciso.
+          
+          Es posible elegir entre 2 modos de termorregulación diferentes: 
+          <ul>
+          <li>FAST: La temperatura establecida se alcanza rápidamente.</li>
+          <li>FINE: La temperatura establecida se alcanza lentamente, reduciendo al mínimo el sobrecalentamiento.</li>
+          <li>Nueva interfaz para facilitar el uso</li>
+          </ul>
+
+          La pantalla LED brillante y los iconos intuitivos permiten una fácil lectura de las condiciones de trabajo del instrumento.
+          <br><br>
+          
+          La conexión de la sonda o termorreguladores, la activación de la calefacción, el alcance de la temperatura programada, la activación del temporizador y la inversión de rotación son información proporcionada por los nuevos iconos.
+          <br><br>
+          
+          Bloquee el instrumento presionando el botón central durante 3 segundos, un LED blanco parpadeará si se detecta una interacción.
+          <br><br>
+          
+          La velocidad y la temperatura se establecen con precisión mediante los botones sensibles y se activan solo después de una ligera presión.
+          <br><br>
+          
+          AREX 6 Connect PRO está equipado con un menú avanzado que le permite configurar el instrumento con las características que mejor se adapten a las necesidades de cada laboratorio.
+          <br><br>
+          <h5>Prestaciones sin precedentes</h5>
+          El motor brushless permite agitar hasta 20 litros a una velocidad regulable de 30 a 1700 rpm. Gracias al sistema SpeedServo ™, la velocidad se mantiene constante incluso cuando cambia la viscosidad.
+          <br><br>
+          
+          El imán de AlNiCo garantiza una agitación homogénea, incluso en las zonas periféricas de la placa y un potente acoplamiento magnético entre el motor y la barra de agitación, aspecto muy importante con el uso de accesorios.
+          <br><br>
+          
+          La placa CerAlTop™, de aleación de aluminio revestida con una capa cerámica, garantiza una transferencia de calor rápida y homogénea en toda la superficie. Además, la fina capa de cerámica protege la placa de arañazos y productos químicos.
+          <br><br>
+          
+          <h5>Temporizador integrado y rotación inversa</h5>
+          El botón central le permite configurar el temporizador de 1min a 99h59min.
+          <br><br>
+ 
+El temporizador se puede configurar en 2 modos diferentes:
+          <ul>
+          <li>Snap: El temporizador comienza la cuenta regresiva tan pronto como se activa una función (agitar o calentar).</li>
+          <li>SetP: El temporizador inicia la cuenta atrás tan pronto como se alcanza la temperatura establecida.</li>
+          </ul>
+
+Además, es posible configurar la inversión de rotación a intervalos de tiempo.
+          `,
+          videoLink: "",
+          sendPriceText: "Ver más información",
+        },
+        {
+          alt: "alt-logo",
+          srcImage: eq13_1,
+          typeProduct: {
+            name: "Agitadores",
+            keyname: "agitadores",
+          },
+          categoryProduct: {
+            name: "Agitadores Magneticos con calefacción",
+            keyname: "agitadores-magneticos-calefaccion",
+          },
+          name: "AREX 6 Dgital PRO Agitadores magnéticos con calefacción",
+          description: "Agitador magnético de calentamiento digital con placa de aluminio revestido en cerámica, temporizador, inversión de rotación que asegura la máxima precisión en la termorregulación y agitación de la muestra.",
+          descriptionLong: `Agitador magnético de calentamiento digital con placa de aluminio revestido en cerámica, temporizador, inversión de rotación que asegura la máxima precisión en la termorregulación y agitación de la muestra.
+          <br><br>
+          <h5>La seguridad es lo primero</h5>
+          Los AREX 6 Digital PRO están equipados con 2 circuitos de lectura de temperatura independientes que protegen el instrumento en caso de mal funcionamiento de uno de los dos.
+          Si la sonda no se inserta en la muestra que se está analizando, el instrumento deja de calentar y muestra un mensaje de seguridad en la pantalla.
+          <br><br>
+          
+          Los AREX 6 Digital PRO están equipados con la tecnología más avanzada y le permiten establecer el límite máximo de temperatura requerido por análisis con temperaturas específicas.
+          <br><br>
+          
+          AREX 6 Digital PRO es un producto IP42 diseñado para garantizar años de uso y resistencia en el laboratorio. La estructura y los materiales protegen las partes internas del instrumento de posibles daños.
+          <br><br>
+          
+          Los AREX 6 Digital PRO tienen una garantía de 3 años (la extensión de la garantía se obtiene al registrar el producto)
+          <br><br>
+          
+          La cubierta de silicona asegura una mayor protección del instrumento contra posibles derrames o salpicaduras.
+          <br><br>
+          <h5>Termorregulación de vanguardia</h5>
+          
+          AREX 6 Connect PRO ofrece la mejor termorregulación disponible. El sistema de termorregulación PID garantiza un control de temperatura estable y rápido y con un mínimo overshoot
+          <br><br>
+          
+          VTF y sonda Pt100 permiten un control de temperatura exacto y preciso. 
+          <br><br>
+          
+          Es posible elegir entre 2 modos de termorregulación diferentes: 
+          <ul>
+          <li>FAST: La temperatura establecida se alcanza rápidamente.</li>
+          <li>FINE: La temperatura establecida se alcanza lentamente, reduciendo al mínimo el sobrecalentamiento.</li>
+          </ul>
+          
+          <h5>Nueva interfaz para un uso sencillo</h5>
+          
+          La pantalla LED brillante y los iconos intuitivos permiten una fácil lectura de las condiciones de trabajo del instrumento.
+          <br><br>
+          
+          La conexión de la sonda o termorreguladores, la activación de la calefacción, el alcance de la temperatura programada, la activación del temporizador y la inversión de rotación son información proporcionada por los nuevos iconos.
+          <br><br>
+          
+          Bloquee el instrumento presionando el botón central durante 3 segundos, un LED blanco parpadeará si se detecta una interacción.
+          <br><br>
+          
+          La velocidad y la temperatura se establecen con precisión mediante los botones sensibles y se activan solo después de una ligera presión.
+          <br><br>
+          
+          AREX 6 Digital PRO está equipado con un menú avanzado que le permite configurar el instrumento con las características que mejor se adapten a las necesidades de cada laboratorio.
+          <br><br>
+          <h5>Prestaciones sin precedentes</h5>
+          
+          El motor brushless permite agitar hasta 20 litros a una velocidad regulable de 30 a 1700 rpm. Gracias al sistema SpeedServo ™, la velocidad se mantiene constante incluso cuando cambia la viscosidad.
+          <br><br>
+          
+          El imán de AlNiCo garantiza una agitación homogénea, incluso en las zonas periféricas de la placa y un potente acoplamiento magnético entre el motor y la barra de agitación, aspecto muy importante con el uso de accesorios.
+          <br><br>
+          
+          La placa CerAlTop™, de aleación de aluminio revestida con una capa cerámica, garantiza una transferencia de calor rápida y homogénea en toda la superficie. Además, la fina capa de cerámica protege la placa de arañazos y productos químicos.
+          <br><br>
+          <h5>Temporizador integrado y rotación inversa</h5>
+          
+          El botón central le permite configurar el temporizador de 1min a 99h59min.
+          <br><br>
+          
+El temporizador se puede configurar en 2 modos diferentes:
+          <ul>
+          <li>Snap: El temporizador comienza la cuenta regresiva tan pronto como se activa una función (agitar o calentar).</li>
+          <li>SetP: El temporizador inicia la cuenta atrás tan pronto como se alcanza la temperatura establecida.</li>
+          </ul>
+Además, es posible configurar la inversión de rotación a intervalos de tiempo.
+          `,
+          videoLink: "",
+          sendPriceText: "Ver más información",
+        },
+        {
+          alt: "alt-logo",
+          srcImage: eq14_1,
+          typeProduct: {
+            name: "Agitadores",
+            keyname: "agitadores",
+          },
+          categoryProduct: {
+            name: "Agitadores Magneticos con calefacción",
+            keyname: "agitadores-magneticos-calefaccion",
+          },
+          name: "AREX 6 Agitadores magnéticos con calefacción",
+          description: "Agitador calefactor magnético potente y seguro con placa de aluminio revestido de cerámica con posibilidad de conectar los termorreguladores VTF.",
+          descriptionLong: `Agitador calefactor magnético potente y seguro con placa de aluminio revestido de cerámica con posibilidad de conectar los termorreguladores VTF.
+          <br><br>
+          <h5>Seguro y fácil de usar</h5>
+          La tecla central activa el calentamiento de la placa solo después de una ligera presión, evitando un encendido accidental.
+          <br><br>
+          El icono de seguridad informa al operador que la placa está caliente, evitando posibles quemaduras. Permanecerá encendido hasta que la temperatura sea inferior a 50 °C.
+          <br><br>
+          Los mandos permiten un ajuste preciso de la velocidad y la temperatura con nueva ergonomía y mayor sensibilidad.
+          <br><br>
+          AREX 6 es un producto IP42 diseñado para garantizar años de uso y resistencia incluso en las situaciones más complejas. La estructura y los materiales protegen las partes internas del instrumento de posibles daños. AREX 6 tiene una garantía de 3 años (la extensión de la garantía se obtiene registrando el producto).
+          <br><br>
+          La cubierta de silicona asegura una mayor protección del instrumento contra posibles derrames o salpicaduras.
+          <br><br>
+          <h5>Termorregulación digital con VTF y VTF EVO</h5>
+          Al conectar los controladores de temperatura digitales VTF y VTF EVO, el AREX 6 se convierte en un instrumento de nivel superior, con temporizador integrado para programar actividades.
+          <br><br>
+          El VTF EVO permite controlar todos los parámetros de temperatura directamente desde el PC, gracias a la conexión inalámbrica. Además, es posible establecer rampas de temperatura o set point de temperatura.
+          <br><br>
+          <h5>Prestaciones sin precedentes</h5>
+          El motor brushless permite agitar hasta 20 litros a una velocidad regulable de 30 a 1700 rpm. Gracias al sistema SpeedServo ™, la velocidad se mantiene constante incluso cuando cambia la viscosidad.
+          <br><br>
+          El imán AlNiCo garantiza una agitación homogénea, incluso en las zonas periféricas de la placa y un potente acoplamiento magnético entre el motor y la barra de agitación.
+          <br><br>
+          La placa CerAlTop ™, fabricada en aleación de aluminio revestida con una capa de cerámica, garantiza una transferencia de calor rápida y homogénea en toda la superficie. Además, la fina capa de cerámica protege la placa de arañazos y productos químicos.
+          `,
+          videoLink: "",
+          sendPriceText: "Ver más información",
+        },
+        {
+          alt: "alt-logo",
+          srcImage: eq15_1,
+          typeProduct: {
+            name: "Agitadores",
+            keyname: "agitadores",
+          },
+          categoryProduct: {
+            name: "Agitadores Magneticos con calefacción",
+            keyname: "agitadores-magneticos-calefaccion",
+          },
+          name: "ARE 6 Agitadores magnéticos con calefacción",
+          description: "Agitador de calentamiento magnético con placa de aluminio, equipado con motor brushless, nuevo imán de AlNiCo, botón iluminado para activar el calentamiento e indicación de la temperatura de la placa.",
+          descriptionLong: `Agitador de calentamiento magnético con placa de aluminio, equipado con motor brushless, nuevo imán de AlNiCo, botón iluminado para activar el calentamiento e indicación de la temperatura de la placa.
+          <br><br>
+          <h5>Seguro y fácil de usar</h5>
+          La tecla central activa el calentamiento de la placa solo después de una ligera presión, evitando un encendido accidental.
+          <br><br>
+          El icono de seguridad informa al operador que la placa está caliente, evitando posibles quemaduras. Permanecerá encendida hasta que la temperatura sea inferior a 50 °C.
+          <br><br>
+          Los botones permiten un ajuste preciso de la velocidad y la temperatura con nueva ergonomía y mayor sensibilidad.
+          <br><br>
+          ARE 6 es un producto IP42 diseñado para garantizar años de uso y resistencia incluso en las situaciones más complejas. La estructura y los materiales protegen las partes internas del instrumento de posibles daños. ARE 6 tiene una garantía de 3 años (la extensión de la garantía se obtiene registrando el producto).
+          <br><br>
+          La cubierta de silicona asegura una mayor protección del instrumento contra posibles derrames o salpicaduras.
+          <br><br>
+          <h5>Prestaciones sin precedentes</h5>
+          El motor brushless permite agitar hasta 20 litros a una velocidad regulable de 30 a 1700 rpm. Gracias al sistema SpeedServo ™, la velocidad se mantiene constante incluso cuando cambia la viscosidad.
+          <br><br>
+          El imán de AlNiCo garantiza una agitación homogénea, incluso en las zonas periféricas de la placa y un potente acoplamiento magnético entre el motor y la barra de agitación, aspecto muy importante con el uso de accesorios.
+          <br><br>
+          La placa CerAlTop™, de aleación de aluminio revestida con una capa cerámica, garantiza una transferencia de calor rápida y homogénea en toda la superficie. Además, la fina capa de cerámica protege la placa de arañazos y productos químicos.
+          `,
+          videoLink: "",
+          sendPriceText: "Ver más información",
+        },
+        {
+          alt: "alt-logo",
+          srcImage: eq16_1,
+          typeProduct: {
+            name: "Agitadores",
+            keyname: "agitadores",
+          },
+          categoryProduct: {
+            name: "Agitadores Magneticos con calefacción",
+            keyname: "agitadores-magneticos-calefaccion",
+          },
+          name: "AREX 5 Digital Agitadores magnéticos con calefacción",
+          description: "Agitador magnético digital con calefacción que garantiza la máxima precisión en el control de la temperatura de la muestra, la seguridad del operador y una elevada reproducibilidad.",
+          descriptionLong: `Agitador magnético digital con calefacción que garantiza la máxima precisión en el control de la temperatura de la muestra, la seguridad del operador y una elevada reproducibilidad.
+          <br><br>
+          <h5>Termorregulación precisa para una alta reproducibilidad</h5>
+          <br><br>
+          El agitador magnético con calefacción AREX 5 Digital es la solución ideal para los laboratorios que requieren un control preciso de la temperatura de la muestra y la máxima reproducibilidad.
+          <br><br>
+          AREX Digital 5 puede conectarse a las sondas Pt100, Pt1000 y al controlador digital de temperatura VTF para un control preciso y directo de la temperatura de la muestra.
+          <br><br>
+          La placa CerAlTop™ alcanza una temperatura máxima de 310°C. Cuando se conecta a la sonda de temperatura (Pt100 y Pt1000), el instrumento termorregula la muestra hasta 310°C, con una precisión de ± 1,0 °C. Con el termorregulador digital VTF, el AREX 5 Digital puede calentar el fluido hasta 300°C con una precisión de ± 0,5 °C.
+          <br><br>
+          Cuando se conecta una sonda de temperatura, pueden seleccionarse dos modos de termorregulación diferentes para satisfacer todas las necesidades del laboratorio:
+          <ul>
+          <li>FAST: la temperatura ajustada se alcanza rápidamente</li>
+          <li>FINE: la temperatura de consigna se alcanza más lentamente, minimizando el overshoot</li>
+          </ul>
+          Explore la sección MODELOS y elija la configuración del sistema que mejor se adapte a las necesidades de su laboratorio.
+          <br><br>
+          <h5>Agitación potente para las reacciones de laboratorio</h5>
+          El agitador magnético con calefacción AREX 5 está equipado con un potente motor brushless que permite agitar volúmenes de hasta 20 litros (H2O).
+          <br><br>
+          La velocidad puede ajustarse con precisión y exactitud, de 50 a 1.500 rpm, lo que la hace ideal para todo tipo de aplicaciones, tanto de baja como de alta velocidad.
+          <br><br>
+          AREX 5 Digital está equipado con la tecnología SpeedServo™ para mantener una velocidad constante, incluso cuando cambia la viscosidad de la muestra.
+          <br><br>
+          La combinación del potente motor brushless y el fuerte acoplamiento magnético aseguran una agitación uniforme, incluso en las zonas periféricas de la placa, garantizando una velocidad constante en todas las posiciones.
+          <br><br>
+          <h5>Seguridad y durabilidad</h5>
+          El agitador magnético con calefacción AREX 5 Digital ofrece un alto nivel de seguridad y protección para los operadores de laboratorio.
+          <br><br>
+          Los componentes electrónicos internos están protegidos por la estructura de la placa, que garantiza una alta resistencia incluso en los entornos y aplicaciones de laboratorio más exigentes, por ejemplo cuando se trabaja con fluidos a bajas temperaturas (por debajo de 0 °C). 
+          <br><br>
+          La placa CerAlTop™ de 135 mm de diámetro está fabricada en aleación de aluminio recubierta con una capa cerámica, y garantiza una transferencia de calor uniforme y rápida por toda la superficie. Además, la fina capa de cerámica la protege de arañazos y productos químicos, por lo que es muy duradera y fácil de limpiar. Por tanto, es la solución ideal para aplicaciones en las que intervienen ácidos, bases y disolventes.
+          <br><br>
+          Varias funciones de seguridad protegen al usuario en sus operaciones diarias; entre ellas, circuitos de seguridad, protección contra sobretemperatura y alarma de detección de sonda. También es posible limitar la temperatura máxima para cumplir incluso los requisitos de seguridad más exigentes.
+          <br><br>
+          Se muestra un mensaje de seguridad "Hot" cuando la temperatura de la placa supera los 50°C y la función de calentamiento no está activa.
+          <br><br>
+          La AREX 5 Digital es un producto con certificación IP42, diseñado para garantizar años de uso y resistencia en el laboratorio, y tiene una garantía de 3 años (la ampliación de la garantía se obtiene registrando el producto).
+          <br><br>
+          <h5>Interfaz de usuario optimizada para facilitar su uso</h5>
+          La brillante pantalla LED permite leer fácilmente las condiciones de trabajo del instrumento y controlar constantemente la temperatura y la velocidad de agitación.
+          <br><br>
+          La inclinación del panel frontal se ha diseñado cuidadosamente para optimizar la experiencia del usuario.
+          <br><br>
+          La velocidad y la temperatura se ajustan con precisión mediante los mandos sensibles, que se activan sólo tras una ligera presión.
+          <br><br>
+          El agitador magnético con calefacción AREX 5 Digital ofrece un diseño extremadamente compacto, innovador y atractivo para una comodidad excepcional, tanto durante las aplicaciones de sobremesa como cuando debe colocarse en el interior de una campana de ventilación.
+          `,
+          videoLink: "",
+          sendPriceText: "Ver más información",
+        },
+        {
+          alt: "alt-logo",
+          srcImage: eq17_1,
+          typeProduct: {
+            name: "Agitadores",
+            keyname: "agitadores",
+          },
+          categoryProduct: {
+            name: "Agitadores Magneticos con calefacción",
+            keyname: "agitadores-magneticos-calefaccion",
+          },
+          name: "AREX 5 Agitadores magnéticos con calefacción",
+          description: "Agitador magnética con calefacción versátil, con placa CerAlTop™ y posibilidad de conectar el controlador de temperatura digital VTF para el control directo de la temperatura del líquido.",
+          descriptionLong: `Agitador magnética con calefacción versátil, con placa CerAlTop™ y posibilidad de conectar el controlador de temperatura digital VTF para el control directo de la temperatura del líquido.
+          <br><br>
+          <h5>Control digital de la temperatura con VTF</h5>
+          El AREX 5 es un agitador magnético con calefacción robusto y versátil, adecuado tanto para aplicaciones básicas como para las que requieren termorregulación de la muestra.
+          <br><br>
+          AREX 5 está disponible tanto en modo autónomo como con el controlador digital de temperatura VTF incluido en el paquete.
+          <br><br>
+          La placa CerAlTopTM alcanza una temperatura máxima de 310°C. Cuando se conecta al VTF, el AREX 5 puede termorregular la muestra hasta 300°C, con una precisión de ± 0,5°C.
+          <br><br>
+          Explore la sección MODELOS y elija la configuración del sistema que mejor se adapte a las necesidades de su laboratorio.
+          <br><br>
+          <h5>Intuitivo y seguro</h5>
+          El agitador magnético con calefacción AREX 5 ofrece un alto nivel de seguridad y protección a los operadores de laboratorio.
+          <br><br>
+          Dos indicadores luminosos informan al operador cuando la función de calentamiento está activa. Además, un icono especial permanece iluminado cuando la temperatura de la placa supera los 50°C, incluso cuando el instrumento está apagado.
+          <br><br>
+          La electrónica interna está protegida por la estructura de la placa, que garantiza una alta resistencia incluso en los entornos y aplicaciones de laboratorio más exigentes, por ejemplo cuando se trabaja con fluidos a bajas temperaturas (por debajo de 0°C). 
+          <br><br>
+          La placa CerAlTop™ de 135 mm de diámetro está fabricada en aleación de aluminio recubierta con una capa cerámica, y garantiza una transferencia de calor uniforme y rápida en toda la superficie.
+          Además, la fina capa de cerámica la protege de arañazos y productos químicos, por lo que es muy duradera y fácil de limpiar. Por tanto, es la solución ideal para aplicaciones en las que intervienen ácidos, bases y disolventes.
+          <br><br>
+          Además, el agitador AREX 5 es un producto con certificación IP42, diseñado para garantizar años de uso y resistencia en el laboratorio, y tiene una garantía de 3 años (la ampliación de la garantía se obtiene registrando el producto).
+          <br><br>
+          <h5>Agitación potente para las reacciones de laboratorio</h5>
+          El agitador magnético con calefacción AREX 5 está equipado con un potente motor brushless que permite agitar volúmenes de hasta 20 litros (H2O), para aplicaciones cotidianas de laboratorio como la preparación de muestras y soluciones tampón.
+          <br><br>
+          Girando el mando derecho, la velocidad de agitación puede ajustarse fácilmente de 100 a 1500 rpm.
+          <br><br>
+          El AREX 5 está equipado con la tecnología SpeedServo™ para mantener una velocidad constante, incluso cuando cambia la viscosidad de la muestra.
+          `,
+          videoLink: "",
+          sendPriceText: "Ver más información",
+        },
+        {
+          alt: "alt-logo",
+          srcImage: eq18_1,
+          typeProduct: {
+            name: "Agitadores",
+            keyname: "agitadores",
+          },
+          categoryProduct: {
+            name: "Agitadores Magneticos con calefacción",
+            keyname: "agitadores-magneticos-calefaccion",
+          },
+          name: "ARE 5 Agitadores magnéticos con calefacción",
+          description: "Agitador magnético con placa calefactora, analógico, robusto y fiable, diseñado para ofrecer seguridad y un alto rendimiento de agitación y calentamiento. La solución ideal para aplicaciones básicas en laboratorios industriales y académicos.",
+          descriptionLong: `Agitador magnético con placa calefactora, analógico, robusto y fiable, diseñado para ofrecer seguridad y un alto rendimiento de agitación y calentamiento. La solución ideal para aplicaciones básicas en laboratorios industriales y académicos.
+          <br><br>
+          <h5>Seguridad y durabilidad</h5>
+          El agitador magnético con calefacción ARE 5 es uno de los favoritos del mercado desde 1983. Es la solución ideal para aplicaciones básicas que no requieren un control preciso de la temperatura de la muestra. Es un referente para muchos laboratorios de todo el mundo, desde universidades y centros de investigación hasta laboratorios industriales. 
+          <br><br>
+          La placa de aluminio de 135 mm de diámetro garantiza una perfecta homogeneidad de la temperatura y una transferencia de calor óptima en toda la superficie.
+          <br><br>
+          Dos indicadores luminosos informan al operador cuando la función de calentamiento está activa. Además, un icono especial permanece iluminado cuando la temperatura de la placa supera los 50 °C, incluso cuando el instrumento está apagado.
+          <br><br>
+          La electrónica interna está protegida por la estructura de la placa, que garantiza una alta resistencia incluso en los entornos y aplicaciones de laboratorio más exigentes, por ejemplo cuando se trabaja con fluidos fríos (por debajo de 0°C). 
+          <br><br>
+          Además, el calefactor agitador magnético ARE 5 es un producto con certificación IP42, diseñado para garantizar años de uso y resistencia en el laboratorio, y tiene una garantía de 3 años (la ampliación de la garantía se obtiene registrando el producto).
+          Agitación y calentamiento para aplicaciones generales de laboratorio
+          <br><br>
+          El agitador magnético con calefacción ARE 5 está equipado con un potente motor brushless que permite agitar volúmenes de hasta 15 litros (H2O), para aplicaciones cotidianas de laboratorio.
+          <br><br>
+          Girando el mando izquierdo, la temperatura puede ajustarse hasta 310 °C, mientras que el mando derecho permite ajustar la velocidad de agitación de 100 a 1.500 rpm.
+          <br><br>
+          El ARE 5 está equipado con la tecnología SpeedServo™ para mantener una velocidad constante, incluso cuando cambia la viscosidad de la muestra.
+          `,
+          videoLink: "",
+          sendPriceText: "Ver más información",
+        },
+        {
+          alt: "alt-logo",
+          srcImage: eq19_1,
+          typeProduct: {
+            name: "Agitadores",
+            keyname: "agitadores",
+          },
+          categoryProduct: {
+            name: "Agitadores Magneticos con calefacción",
+            keyname: "agitadores-magneticos-calefaccion",
+          },
+          name: "AREC Connect Agitador magnético con Calefacción con placa Cerámica",
+          description: "Innovador agitador magnético con placa de cerámica, seguro y vanguardista con tecnología Wi-Fi integrada que garantiza una termorregulación precisa y una agitación potente para los laboratorios químicos, farmacéuticos y biotecnológicos.",
+          descriptionLong: `Innovador agitador magnético con placa de cerámica, seguro y vanguardista con tecnología Wi-Fi integrada que garantiza una termorregulación precisa y una agitación potente para los laboratorios químicos, farmacéuticos y biotecnológicos.
+          <br><br>
+          <h5>Excelentes prestaciones en cuanto a calentamiento y termorregulación para mejorar la reproducibilidad</h5>
+          El AREC Connect está equipado con una tecnología calefactora de la placa de última generación diseñada por VELP que garantiza la homogeneidad de la temperatura, la eficiencia térmica y un rendimiento de calentamiento superior y duradero en el tiempo.
+          <br><br>
+          AREC Connect puede conectarse a la sonda externa Pt100 para una termorregulación precisa, siendo ideal para aplicaciones en las que se requiere de un control exacto de la temperatura. La mejor solución para laboratorios de Química, Biotecnología y Farmacia.
+          <br><br>
+          La sonda garantiza una termorregulación estable y precisa hasta 300 °C, con una precisión de ± 0,5 °C.
+          <br><br>
+          AREC Connect está disponible en diferentes sistemas con configuraciones diversas para adaptarse mejor a sus exigencias y obtener todo lo que necesita con un solo clic. Explore la sección MODELOS para elegir el sistema más adecuado para su laboratorio.
+          Potente agitación para todas sus reacciones de laboratorio
+          <br><br>
+          Puede confiar en el AREC Connect para las reacciones de laboratorio más exigentes, ya que agita volúmenes de hasta 20 litros (H2O) gracias al potente acoplamiento magnético.
+          <br><br>
+          Gracias al potente motor Brushless, el AREC Connect agita soluciones acuosas desde 30 hasta 1700 rpm siendo ideal para cualquier tipo de aplicación tanto a bajas como a altas velocidades. Incluso las aplicaciones químicas, farmacéuticas y microbiológicas más exigentes y sensibles se agitan con un rendimiento superior.
+          <br><br>
+          El AREC Connect está equipado con la tecnología SpeedServo™ diseñada por VELP gracias a la cual se mantiene constante la velocidad de agitación aunque cambie la viscosidad.
+          <br><br>
+          <h5>Seguridad absoluta y facilidad de uso para los operadores de laboratorio</h5>
+          El agitador magnético con calefacción AREC Connect garantiza una seguridad y protección superior para los usuarios, ya que está fabricado íntegramente con tecnopolímero y está equipado con una placa de cerámica extremadamente resistente, ideal por su alta resistencia a los ácidos, las bases y los solventes.
+          <br><br>
+          Cuando la temperatura de la placa es superior a 50 °C y la función de calentamiento no está activada, aparece el mensaje de seguridad de superficie caliente "hot".
+          <br><br>
+          El panel de control es de fácil acceso, está situado a una distancia segura de la fuentes de calor y está protegido contra posibles daños causados por derrames accidentales de líquidos gracias a una canalización para el drenaje de estos líquidos.
+          <br><br>
+          La estructura de tecnopolímero está cuidadosamente diseñada para que los derrames accidentales de líquidos no penetren y  lleguen a  los componentes electrónicos del instrumento.
+          <br><br>
+          Utilizando un paño húmedo, todos los residuos se eliminarán fácilmente y el AREC Connect con su placa de cerámica quedará perfectamente limpio y listo para su siguiente uso en el laboratorio.
+          <br><br>
+          <h5>Ahorre tiempo con la interfaz de usuario extremadamente intuitiva</h5>
+          Gracias a la doble pantalla digital extremadamente luminosa y de fácil lectura del AREC Connect, podrá controlar constantemente la temperatura y la velocidad de agitación seleccionadas girando los prácticos mandos: el izquierdo para la temperatura (hasta 550 °C) y el derecho para la velocidad de agitación (hasta 1700 rpm).
+          <br><br>
+          El agitador magnético de placa caliente AREC Connect ofrece un diseño muy innovador para una comodidad absoluta sobre el banco y/o dentro de la campana del laboratorio.
+          <br><br>
+          <h5>Funcionamiento programable para una mayor eficiencia en el laboratorio</h5>
+          AREC Connect está equipado con algunas funciones exclusivas y extremadamente avanzadas que optimizan el funcionamiento y no es necesaria la supervisión por parte del usuario:
+          <ul>
+          <li>Temporizador integrado para adaptarse a su flujo de trabajo en el laboratorio: de 1 minuto a 99 h 59 min (pasos de 1 minuto)</li>
+          <li>Inversión automática de la dirección de agitación que garantiza una mayor capacidad de mezcla: de 5 s a 99 min 59 s (pasos de 1 s)</li>
+          <li>Programas en modo intermitente para mejorar la programación de las operaciones sin supervisión - de 5 s a 99 min 59 s (pasos de 1 s)</li>
+          <li>Señales acústicas cuando termina el temporizador y para las alarmas</li>
+          <li>Función de bloqueo de seguridad para evitar la posible alteración de las condiciones de trabajo</li>
+          </ul>
+          El AREC Connect y sus funciones premium son fáciles de utilizar gracias a la interfaz de usuario inteligente con iconos  intuitivos en la pantalla LED.
+          <br><br>
+          De la gestión manual, que consume mucho más tiempo, a los procesos de laboratorio con VELP Ermes
+          <br><br>
+          AREC Connect cuenta con tecnología Wi-Fi integrada para conectarse a VELP Ermes Cloud Platform, la solución perfecta para su Smart Lab.
+          <br><br>
+          VELP Ermes Cloud Platform permite reducir las tareas manuales diarias y las operaciones repetitivas gracias a la supervisión y el control en tiempo real de su AREC Connect.
+          <br><br>
+          Sólo con un PC, un Smartphone o una Tablet podrá acceder a los datos de su instrumento y a las condiciones de trabajo en cualquier momento y en cualquier lugar, podrá gestionar sus análisis recientes y compartir informes con sus compañeros.
+          <br><br>
+          Conecte su agitador con calefacción a VELP Ermes y benefíciese de un soporte técnico premium y único de los centros autorizados por VELP. 
+          <br><br>
+          Las notificaciones inmediatas de eventos y alarmas le informan sobre los análisis y la interrupción remota de los mismos garantiza el control total de su proceso.
+          <br><br>
+          El registro de datos y la información sobre el instrumento están disponibles para mejorar la productividad de su laboratorio y la reproducibilidad de sus análisis.
+          `,
+          videoLink: "",
+          sendPriceText: "Ver más información",
+        },
+        {
+          alt: "alt-logo",
+          srcImage: eq20_1,
+          typeProduct: {
+            name: "Agitadores",
+            keyname: "agitadores",
+          },
+          categoryProduct: {
+            name: "Agitadores Magneticos con calefacción",
+            keyname: "agitadores-magneticos-calefaccion",
+          },
+          name: "AREC.X Agitador magnético con Calefacción con placa Cerámica",
+          description: "Potente agitador digital de placa caliente cuadrada con una toma para la conexión a un termorregulador digital VTF Vertex. La solución ideal para los laboratorios que requieren de un control preciso de la temperatura de la muestra.",
+          descriptionLong: `Potente agitador digital de placa caliente cuadrada con una toma para la conexión a un termorregulador digital VTF Vertex. La solución ideal para los laboratorios que requieren de un control preciso de la temperatura de la muestra.
+          <br><br>
+          <h5>Termorregulación precisa y exacta para mejorar la reproducibilidad</h5>
+          El AREC.X es la solución más versátil para aplicaciones de laboratorio sensibles a la temperatura en las que se requiere una termorregulación precisa de la muestra.
+          <br><br>
+          La tecnología a la vanguardia de la placa calefactora de cerámica VELP garantiza la homogeneidad de la temperatura, la eficiencia térmica y un rendimiento de calentamiento duradero en el tiempo.
+          <br><br>
+          El AREC.X puede conectarse a la sonda externa Pt100 o al VTF para una termorregulación precisa del medio.
+          <br><br>
+          La sonda asegura la termorregulación hasta 250 °C, con una precisión de ± 1,0 °C, mientras que el VTF garantiza un nivel de termorregulación superior hasta 300 °C y una precisión de ± 0,5 °C. El VTF está equipado con un temporizador, para un funcionamiento sin supervisión y una mayor productividad.
+          <br><br>
+          Explore la sección de MODELOS y elija el AREC.X como sistema autónomo o seleccione la configuración del sistema que mejor se adapte a sus necesidades.
+          <br><br>
+          <h5>Potente agitación para sus reacciones de laboratorio</h5>
+          Puede confiar en el AREC.X para las reacciones de laboratorio más exigentes, ya que agita volúmenes de hasta 15 litros (H2O) gracias a su potente motor y a su acoplamiento magnético.
+          <br><br>
+          El AREC.X agita soluciones acuosas desde 50 hasta 1500 rpm siendo una solución adecuada para cualquier tipo de aplicación tanto a bajas como a altas velocidades.
+          <br><br>
+          El control electrónico adapta la velocidad de agitación para que esta se mantenga constante aunque se produzcan cambios en la viscosidad del medio.
+          <br><br>
+          <h5>Seguridad y facilidad de uso para los operadores de laboratorio</h5>
+          <br><br>
+          El agitador calefactor de cerámica AREC.X garantiza un alto nivel de seguridad y protección para los operadores de laboratorio.
+          <br><br>
+          Cuando la temperatura de la placa es superior a 50 °C y la función de calentamiento no está activa, aparece un mensaje de seguridad de superficie "Hot".
+          <br><br>
+          La estructura de tecnopolímero resiste a los productos químicos incluso en entornos difíciles. La ranura de drenaje específica está cuidadosamente diseñada para que los derrames accidentales de líquidos no lleguen a la parte electrónica del instrumento.
+          <br><br>
+          La placa cerámica extremadamente resistente es fácil de limpiar y resistente a los ácidos, las bases y los solventes. Utilizando un paño húmedo, todos los residuos se eliminarán fácilmente y el AREC.X con su placa de cerámica quedará perfectamente limpio y listo para su siguiente uso en el laboratorio.
+          <h5>Ahorre tiempo con la interfaz de usuario intuitiva</h5>
+          Gracias a la pantalla digital del AREC.X, extremadamente luminosa y de fácil lectura, podrá controlar constantemente la temperatura girando el práctico mando (hasta 550 °C).
+          <br><br>
+          La interfaz intuitiva garantiza un control excelente de las condiciones de trabajo. Un indicador LED blanco y brillante informa de que la agitación está en marcha.
+          <br><br>
+El agitador magnético de placa caliente AREC.X ofrece un diseño muy innovador para una comodidad absoluta sobre el banco y/o dentro de la campana del laboratorio.
+          `,
+          videoLink: "",
+          sendPriceText: "Ver más información",
+        },
+        {
+          alt: "alt-logo",
+          srcImage: eq21_1,
+          typeProduct: {
+            name: "Agitadores",
+            keyname: "agitadores",
+          },
+          categoryProduct: {
+            name: "Agitadores Magneticos con calefacción",
+            keyname: "agitadores-magneticos-calefaccion",
+          },
+          name: "AREC Agitador magnético con Calefacción con placa Cerámica",
+          description: "Potente agitador digital de placa caliente cuadrada. Resistente, seguro y fiable. La solución ideal para aplicaciones básicas de laboratorio.",
+          descriptionLong: `Potente agitador digital de placa caliente cuadrada. Resistente, seguro y fiable. La solución ideal para aplicaciones básicas de laboratorio.
+          <br><br>
+          <h5>Calentamiento y agitación óptimos para aplicaciones básicas de laboratorio</h5>
+          El agitador con placa cafectora de cerámica AREC está diseñado para laboratorios que necesiten un ajuste preciso de la temperatura y una potente agitación, ideal para para valoraciones o preparaciones de muestras y soluciones tampón.
+          <br><br>
+          El AREC está equipado con una tecnología calefactora de la placa a la vanguardia diseñada por VELP que garantiza la homogeneidad de la temperatura en toda la superficie de la placa, la eficiencia térmica y un rendimiento del calentamiento duradero en el tiempo.
+          <br><br>
+          El potente motor del AREC agita volúmenes de hasta 15 litros (H2O) gracias a un excelente acoplamiento magnético.
+          <br><br>
+          Con una selección de velocidad de agitación de 50 a 1500 rpm, el AREC es una solución adecuada para aplicaciones tanto a bajas como a altas velocidades.
+          <br><br>
+          <h5>Facilidad de uso y seguridad para los operarios del laboratorio</h5>
+          La pantalla digital del AREC, luminosa y de fácil lectura, permite ajustar y controlar con precisión la temperatura de la placa desde la temperatura ambiente hasta los 550 °C.
+          <br><br>
+          El agitador de placa caliente de cerámica AREC garantiza un alto nivel de seguridad y protección para los operadores del laboratorio.
+          <br><br>
+          Cuando la temperatura de la placa es superior a 50 °C y la función de calentamiento no está activada, aparece un mensaje de seguridad de superficie caliente “Hot”.
+          <br><br>
+          La estructura de tecnopolímero resiste a los productos químicos incluso en entornos difíciles. La canalización de drenaje específica está cuidadosamente diseñada para que los derrames accidentales de líquidos no lleguen a la electrónica del instrumento.
+          <br><br>
+          La placa cerámica extremadamente resistente es fácil de limpiar y resistente a los ácidos, las bases y los solventes. Utilizando un paño húmedo, todos los residuos se eliminarán fácilmente y el AREC quedará perfectamente limpio.`,
+          videoLink: "",
+          sendPriceText: "Ver más información",
+        },
+        {
+          alt: "alt-logo",
+          srcImage: eq22_1,
+          typeProduct: {
+            name: "Agitadores",
+            keyname: "agitadores",
+          },
+          categoryProduct: {
+            name: "Agitadores Magneticos con calefacción",
+            keyname: "agitadores-magneticos-calefaccion",
+          },
+          name: "HSC Agitador magnético con Calefacción con placa Cerámica",
+          description: "Agitador calefactor analógico con una placa de calentamiento cerámica cuadrada. Resistente, seguro y fiable. La solución ideal para aplicaciones básicas  de calentamiento y de agitación que no necesitan un control preciso de la temperatura del medio.",
+          descriptionLong: `Agitador calefactor analógico con una placa de calentamiento cerámica cuadrada. Resistente, seguro y fiable. La solución ideal para aplicaciones básicas  de calentamiento y de agitación que no necesitan un control preciso de la temperatura del medio.
+          <br><br>
+          <h5>El agitador de placa caliente de nivel básico para aplicaciones generales de laboratorio</h5>
+          <br><br>
+          Puede confiar en el HSC para las aplicaciones cotidianas de laboratorio, como la preparación de muestras y soluciones tampón, ya que agita hasta 15 litros (H2O).
+          <br><br>
+          El HSC está equipado con una tecnología calefactora de la placa de última generación diseñada por VELP que garantiza la homogeneidad de la temperatura, la eficiencia térmica y un rendimiento del calentamiento duradero en el tiempo.
+          <br><br>
+          El HSC agita soluciones acuosas desde 50 hasta 1300 rpm siendo una solución adecuada para aplicaciones generales de laboratorios químicos, biológicos, bioquímicos, etc. 
+          <br><br>
+          <h5>Facilidad de uso y seguridad para los investigadores y operadores de laboratorio</h5>
+          El agitador analógico de placa caliente HSC con placa de cerámica garantiza un alto nivel de seguridad y protección para los investigadores y operadores de laboratorio.
+          <br><br>
+          La estructura de tecnopolímero es resistente a los productos químicos incluso en entornos difíciles. La canalización de drenaje específica está cuidadosamente diseñada para que los derrames accidentales de líquidos no lleguen a la electrónica del instrumento.
+          <br><br>
+          La placa cerámica, extremadamente resistente, es fácil de limpiar y resistente a ácidos, bases y solventes. Utilizando un paño húmedo, todos los residuos se eliminarán fácilmente y el HSC quedará perfectamente limpio.
+          `,
+          videoLink: "",
+          sendPriceText: "Ver más información",
+        },
+        {
+          alt: "alt-logo",
+          srcImage: eq23_1,
+          typeProduct: {
+            name: "Agitadores",
+            keyname: "agitadores",
+          },
+          categoryProduct: {
+            name: "Agitadores Magneticos con calefacción",
+            keyname: "agitadores-magneticos-calefaccion",
+          },
+          name: "AM4 Digital PRO Agitador con Calentamiento Multi-Posición",
+          description: "Agitador magnético calefactor digital de cuatro posiciones independientes, con placas CerAlTop TM perfecto para termorregulaciones con Pt100, VTF.",
+          descriptionLong: `Agitador magnético calefactor digital de cuatro posiciones independientes, con placas CerAlTop TM perfecto para termorregulaciones con Pt100, VTF.
+          <br><br>
+          <h5>Pantalla digital, para un control total de las operaciones.</h5>
+          AM4 Digital PRO es el agitador magnético digital multiposición para termorregulaciones con 4 posiciones independientes.
+          <br><br>
+          Con AM4 Digital PRO es posible ajustar la temperatura hasta 370 °C y la velocidad de agitación de 50 a 1500 rpm.
+          <br><br>
+          El sistema SpeedServo ™ asegura una velocidad constante incluso cuando cambia la viscosidad (controrreacción).
+          <br><br>
+          AM4 Digital PRO le permite configurar y monitorear constante y precisamente tanto la velocidad de agitación como la temperatura.
+          <br><br>
+          <h5>Termorregulaciones precisas con la sonda Pt100 y VTF</h5>
+          El paquete AM4 Digital PRO incluye la sonda externa Pt100, para termorregular su muestra hasta 250 °C, con una precisión de ± 1.0 °C.
+          <br><br>
+          El agitador magnético multiposición AM4 Digital PRO se puede conectar a los termorreguladores VTF y VTF EVO, para una perfecta termorregulación hasta 300 °C, dado el altísimo nivel de precisión de ± 0,5 °C.
+          <br><br>
+          La placa CerAlTop ™ particular, en aleación de aluminio revestida con una capa cerámica, asegura una formidable homogeneidad de temperatura, excelente resistencia a los agentes químicos y facilidad de limpieza.
+          <br><br>
+          <h5>Máxima protección y comodidad</h5>
+          Los agitadores magnéticos AM4 Digital PRO garantizan un alto nivel de seguridad y protección para el usuario.
+          <br><br>
+          El panel de control es de fácil acceso, alejado de fuentes de calor peligrosas para el operador y protegido de cualquier fuga de líquido mediante un canal especial.
+          <br><br>
+          AM4 Digital PRO se puede programar con una temperatura máxima de seguridad, para algunas aplicaciones particulares que requieren temperaturas específicas y para evitar situaciones desagradables.
+          <br><br>
+          Además, la placa electrónica activa una advertencia de alta temperatura ("Hot Plate Warning") que permanece activa incluso cuando el instrumento está apagado, cuando la temperatura de la placa es superior a 50 °C.
+          <br><br>
+          La geometría particular evita que los derramess accidentales del líquido en examen entren en las partes internas del instrumento.
+          `,
+          videoLink: "",
+          sendPriceText: "Ver más información",
+        },
+        {
+          alt: "alt-logo",
+          srcImage: eq24_1,
+          typeProduct: {
+            name: "Agitadores",
+            keyname: "agitadores",
+          },
+          categoryProduct: {
+            name: "Agitadores Magneticos con calefacción",
+            keyname: "agitadores-magneticos-calefaccion",
+          },
+          name: "AM4 Agitador con Calentamiento Multi-Posición",
+          description: "Agitador magnético con placa calefactora de aluminio con cuatro posiciones independientes.",
+          descriptionLong: `Agitador magnético con placa calefactora de aluminio con cuatro posiciones independientes.
+          <br><br>
+          <h5>Excelente prestaciones</h5>
+          <ul>
+          <li>Distribución uniforme del calor gracias a la placa calefactora de aleación de aluminio</li>
+          <li>Excelente resistencia química</li>
+          <li>Temperatura máxima 370 °C</li>
+          <li>Acepta hasta 4 vasos de precipitados de 15 litros</li>
+          <li>Regulación electrónica de velocidad hasta 1500 vueltas/min</li>
+          <li>Excelente control de velocidad, incluso a bajas velocidades</li>
+          <li>SpeedServo™ asegura una velocidad constante incluso con viscosidades variables</li>
+          <li>Imán guía de alta potencia tipo PCM</li>
+          <li>Diseñado para una vida útil más larga y garantizado d 3 años</li>
+          <li>4 agitadores de calentamiento controlados independientemente</li>
+          <li>Distancia entre centros de posición de agitación: 186 mm</li>
+          <li>Acepta copas esféricos hasta Ø 135 mm</li>
+          </ul>
+        `,
+          videoLink: "",
+          sendPriceText: "Ver más información",
+        },
+        {
+          alt: "alt-logo",
+          srcImage: eq25_1,
+          typeProduct: {
+            name: "Agitadores",
+            keyname: "agitadores",
+          },
+          categoryProduct: {
+            name: "Agitadores Magneticos con calefacción",
+            keyname: "agitadores-magneticos-calefaccion",
+          },
+          name: "MULTI-HS 6/15 Agitador con Calentamiento Digital",
+          description: "Agitador magnético digital disponible en 6 y 15 posiciones. El MULTI-HS tiene características exclusivas como el temporizador, el bloqueo de seguridad, el motor brushless capaz de garantizar el máximo rendimiento y seguridad.",
+          descriptionLong: `Agitador magnético digital disponible en 6 y 15 posiciones. El MULTI-HS tiene características exclusivas como el temporizador, el bloqueo de seguridad, el motor brushless capaz de garantizar el máximo rendimiento y seguridad.
+          <br><br>
+          <h5>Máxima seguridad y resistencia</h5>
+          Pulse el botón central durante 3 segundos y active el Safety Lock del instrumento que evita cambios involuntarios en las condiciones de trabajo del MULTI-HS Digital.
+          <br><br>
+          Cuando la temperatura de la placa es superior a 50°C, MULTI-HS Digital muestra una notificación en la pantalla para evitar el riesgo de quemaduras.
+          <br><br>
+          La placa MULTI-HS Digital es la única en el mercado con material CerAlTop™, una aleación de aluminio recubierta con una fina capa cerámica que garantiza una transferencia de calor homogénea en toda la superficie y máxima velocidad de calentamiento.
+          <br><br>
+          El fino revestimiento de cerámica protege el aluminio de los productos químicos y los posibles arañazos para una máxima resistencia y seguridad.
+          <br><br>
+          <h5>Intuitivo y fácil de usar</h5>
+          La pantalla y los iconos intuitivos diseñados por VELP le permiten ver los parámetros de trabajo incluso desde la distancia.
+          <br><br>
+          Los cuatro iconos se iluminan cuando se activan las funciones respectivas:
+          <br><br>
+          Calefacción, Punto de ajuste de temperatura, Temporizador, Autoreverse.
+          <br><br>
+          Los botones le permiten configurar la velocidad y la temperatura de una manera simple y precisa. Para activar el instrumento será necesario presionar el pomo que evita activaciones involuntarias.
+          <br><br>
+          Presionar simultáneamente los botones permite acceder al menú avanzado para personalizar el instrumento.
+          <br><br>
+          <h5>Potencia y precisión</h5>
+          Las mejores prestaciones para la agitación y el calentamiento simultáneos
+          <br><br>
+          Los potentes motores brushless de MULTI-HS Digital permiten trabajar de forma continua, garantizando potencia y resistencia con ajuste de velocidad de 100 a 1000 rpm.
+          <br><br>
+          MULTI-HS mantiene constante la velocidad y la temperatura en todas las posiciones para garantizar la máxima sincronización y uniformidad.
+          <br><br>
+          La tecnología SpeedServoTM ajusta la velocidad a los cambios de viscosidad dentro de los vasos de precipitado. Programe su MULTI-HS Digital con temporizador de rotación inversa
+          <br><br>
+          Programe sus reacciones con el temporizador integrado del MULTI-HS Digital. MULTI-HS Digital emite una señal acústica para informar al operador del final del programa.
+          <br><br>
+          También es posible configurar la inversión de rotación temporizada para mejorar la eficacia de la agitación.`,
+          videoLink: "",
+          sendPriceText: "Ver más información",
+        },
+        {
+          alt: "alt-logo",
+          srcImage: eq26_1,
+          typeProduct: {
+            name: "Agitadores",
+            keyname: "agitadores",
+          },
+          categoryProduct: {
+            name: "Agitadores Magneticos con calefacción",
+            keyname: "agitadores-magneticos-calefaccion",
+          },
+          name: "VTF Termorregulador Digital",
+          description: "Adecuado para muchas aplicaciones donde se requiere una termorregulación precisa.",
+          descriptionLong: `Adecuado para muchas aplicaciones donde se requiere una termorregulación precisa.
+          <br><br>
+          <h5>Precisión de Temperatura</h5>
+          El termorregulador VTF se puede utilizar en múltiples aplicaciones donde se requiera precisión, fiabilidad y flexibilidad de uso, ya que está equipado con la innovadora Tecnología FUZZY LOGIC, que permite que la termorregulación se adapte automáticamente a diferentes situaciones, como potencia, carga y pérdida de calor. 
+          La sonda de alta sensibilidad ofrece unas prestaciones a la vanguardia en el control de temperatura: permite una mejor alineación con la temperatura del punto de ajuste (precisión de ± 0.5 °C) y un menos "overshoot" inicial (discrepancia inicial con la temperatura establecida).
+          <br><br>
+          <h5>Sistema de Fijación Exclusivo</h5>
+          VTF está equipado con un exclusivo e innovador sistema de fijación integrado que facilita el posicionamiento de la sonda Pt100 dentro de los vasos de precipitados más habituales.
+          <br><br>
+          Las dos abrazaderas laterales permiten el ajuste de la altura del VTF, mientras que el sistema de fricción asegura su movimiento en el plano horizontal. ¡Ningún sistema será tan cómodo!
+          <br><br>
+          <h5>Timer Digital Integrado</h5>
+          Otra característica única del VTF es el temporizador integrado. 
+          De hecho, es posible seleccionar hasta un tiempo máximo de 24 horas y 59 minutos, y al final de la cuenta atrás el instrumento apagará automáticamente la termorregulación.
+          <br><br>
+          El modo de temporizador se reconoce por el parpadeo alterno de las 2 flechas en el lado izquierdo de la pantalla.
+          `,
+          videoLink: "",
+          sendPriceText: "Ver más información",
+        },
+        {
+          alt: "alt-logo",
+          srcImage: eq27_1,
+          typeProduct: {
+            name: "Agitadores",
+            keyname: "agitadores",
+          },
+          categoryProduct: {
+            name: "Placas calefactoras",
+            keyname: "placas-calefactoras",
+          },
+          name: "RC 5 Placa Calefactora",
+          description: "Placa calefactora de aluminio de una posición muy resistente.",
+          descriptionLong: `Placa calefactora de aluminio de una posición muy resistente.
+          <br><br>
+          <h5>Excelente calefacción para todas las aplicaciones de laboratorio</h5>
+          RC 5 está equipado con una placa de calefacción de aluminio de 135 mm de diámetro, que garantiza una temperatura homogénea y una transferencia de calor óptima en toda la superficie.
+          <br><br>
+          RC 5 es ideal para aplicaciones cotidianas de laboratorio, como hervir líquidos, preparar soluciones, disolver tampones y reactivos.
+          <br><br>
+          Girando el mando se puede ajustar fácilmente la temperatura hasta 310 °C, para calentar volúmenes de hasta 15 litros (H2O).
+          <br><br>
+          <h5>Facilidad de uso, seguridad y durabilidad</h5>
+          El panel de control frontal se ha diseñado cuidadosamente para optimizar la experiencia del usuario.
+          <br><br>
+          La placa RC 5 cuenta con la certificación IP42, lo que proporciona un alto nivel de seguridad y protección para los operadores de laboratorio.
+          <br><br>
+          La electrónica interna está protegida por la estructura de la placa, lo que convierte a la RC 5 en una placa robusta, duradera y fiable. 
+          <br><br>
+          Diversas funciones de seguridad, como los circuitos de seguridad y la protección contra sobretemperatura, garantizan una protección completa para los operarios.
+          <br><br>
+          Dos indicadores luminosos informan al usuario cuando la función de calentamiento está activa. Además, un icono especial permanece iluminado cuando la temperatura de la placa supera los 50 °C, incluso cuando el instrumento está apagado.
+          <br><br>
+          RC 5 está diseñado para durar y tiene una garantía de 3 años (la ampliación de la garantía se obtiene registrando el producto).
+          `,
+          videoLink: "",
+          sendPriceText: "Ver más información",
+        },
+        {
+          alt: "alt-logo",
+          srcImage: eq28_1,
+          typeProduct: {
+            name: "Agitadores",
+            keyname: "agitadores",
+          },
+          categoryProduct: {
+            name: "Agitadores Magneticos con calefacción",
+            keyname: "agitadores-magneticos-calefaccion",
+          },
+          name: "RC 2 Placas Calefactoras",
+          description: "Placa calefactora de aluminio de dos posiciones, con posibilidad de regular la temperatura.",
+          descriptionLong: `Placa calefactora de aluminio de dos posiciones, con posibilidad de regular la temperatura.
+          <br><br>
+          <h5>Excelente rendimiento, práctico y fácil de usar</h5>
+          <ul>
+          <li>Distribución uniforme del calor con placa calefactora revestida de aleación de aluminio</li>
+          <li>Excelente resistencia química</li>
+          <li>Temperatura máxima  370 °C</li>
+          <li>Acepta hasta 15 litros (placa de cocción Ø 135 mm)</li>
+          <li>Selección del voltaje/ frecuencia de red</li>
+          <li>Panel de control blindado contra cualquier derrames de líquidos</li>
+          <li>Diseñado para durar mucho y con garantía de 3 años</li>
+          </ul>
+          `,
+          videoLink: "",
+          sendPriceText: "Ver más información",
+        },
+        {
+          alt: "alt-logo",
+          srcImage: eq29_1,
+          typeProduct: {
+            name: "Agitadores",
+            keyname: "agitadores",
+          },
+          categoryProduct: {
+            name: "Agitadores Magneticos con calefacción",
+            keyname: "agitadores-magneticos-calefaccion",
+          },
+          name: "REC Placa Calefactora Ceramica Digital",
+          description: "Placa calefactora digital de laboratorio con una placa de cerámica que garantiza una gran resistencia a la corrosión y un ajuste preciso de la temperatura.",
+          descriptionLong: `Placa calefactora digital de laboratorio con una placa de cerámica que garantiza una gran resistencia a la corrosión y un ajuste preciso de la temperatura.
+          <br><br>
+          <h5>Rendimiento de calentamiento avanzado para sus reacciones de laboratorio</h5>
+          El REC está equipado con una tecnología calefactora de la placa de última generación, diseñada por VELP, que garantiza la homogeneidad de la temperatura, la eficiencia térmica y un rendimiento de calentamiento duradero en el tiempo.
+          <br><br>
+          Puede confiar en el REC para aplicaciones de laboratorio realizadas a temperaturas altas, ya que la temperatura  máxima de la placa calefactora es de 550 °C.
+          <br><br>
+          Gracias a la pantalla digital del REC, luminosa y fácil de leer, podrá controlar constantemente la temperatura deseada girando el práctico mando.
+          <br><br>
+          <h5>Facilidad de uso y seguridad para los operarios del laboratorio</h5>
+          La placa calefactora REC garantiza un alto nivel de seguridad y protección para los operarios del laboratorio, ya que está fabricada íntegramente con tecnopolímero y está dotada de una placa cerámica extremadamente resistente, siendo ideal por su alta resistencia a ácidos, bases y solventes.
+          <br><br>
+          Cuando la temperatura de la placa es superior a 50 °C y la función de calentamiento no está activada, aparece un mensaje de seguridad de superficie caliente “Hot”.
+          <br><br>
+          La estructura de tecnopolímero está cuidadosamente diseñada para que las salpicaduras accidentales de líquidos no puedan llegar a la electrónica. El diseño de bajo perfil ofrece una gran comodidad sobre el banco y dentro de la campana del laboratorio.
+          <br><br>
+          Utilizando un paño húmedo, todos los residuos se eliminarán fácilmente y el REC, con su placa superior de cerámica, quedará perfectamente limpio. Siempre listo para sus operaciones de laboratorio programadas.
+          `,
+          videoLink: "",
+          sendPriceText: "Ver más información",
+        },
+        {
+          alt: "alt-logo",
+          srcImage: pro01_1,
+          typeProduct: {
+            name: "Agitadores",
+            keyname: "agitadores",
+          },
+          categoryProduct: {
+            name: "Agitadores Magneticos con calefacción",
+            keyname: "agitadores-magneticos-calefaccion",
+          },
+          name: "",
+          description: "",
+          descriptionLong: ``,
+          videoLink: "",
+          sendPriceText: "Ver más información",
+        },
       ],
     },
   ],

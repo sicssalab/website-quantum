@@ -7,7 +7,6 @@ import Experience from "../components/section/Experience";
 import GalleryResidential from "../components/section/GalleryResidential/GalleryResidential";
 import InformationResidential from "../components/section/InformationResidential";
 import Main from "../components/section/Main";
-import MapUrban from "../components/section/MapUrban/MapUrban";
 import OthersProtectsResidential from "../components/section/OthersProtectsResidential";
 import OwnProyects from "../components/section/OwnProyects";
 import Press from "../components/section/Press";
@@ -58,10 +57,6 @@ const SlugPage = (props) => {
                 />);
             case "proyects-component":
                 return (<Proyects key={position}
-                    {...rest}
-                />);
-            case "map-urban-component":
-                return (<MapUrban key={position}
                     {...rest}
                 />);
             case "press-component":
