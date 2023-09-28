@@ -95,6 +95,15 @@ import eq58_1 from "../assets/landings/velp/equipos/respirometros/RESPIROMETRIC-
 import eq59_1 from "../assets/landings/velp/equipos/respirometros/RESPIROMETRIC-Sensor-System-6-para-la-biodegradabilidad/1.jpg";
 import eq60_1 from "../assets/landings/velp/equipos/respirometros/DBO-sensor/1.jpg";
 import eq61_1 from "../assets/landings/velp/equipos/incubadoras/FOC-120e/1.jpg";
+import eq62_1 from "../assets/landings/velp/equipos/incubadoras/FOC-120I/1.jpg";
+import eq63_1 from "../assets/landings/velp/equipos/incubadoras/foc-200e/1.jpg";
+import eq64_1 from "../assets/landings/velp/equipos/incubadoras/foc-200i/1.jpg";
+import eq65_1 from "../assets/landings/velp/equipos/incubadoras/foc-200il/1.jpg";
+import eq66_1 from "../assets/landings/velp/equipos/incubadoras/ftc-120/1.jpg";
+import eq67_1 from "../assets/landings/velp/equipos/floculadores/fc-s/1.jpg";
+import eq68_1 from "../assets/landings/velp/equipos/floculadores/fp4/1.jpg";
+import eq69_1 from "../assets/landings/velp/equipos/floculadores/jlt/1.jpg";
+import eq70_1 from "../assets/landings/velp/equipos/agitadores/rotax-6-8/1.jpg";
 
 const apiSelcaEscondidaMock = {
   items: [
@@ -5427,7 +5436,7 @@ Acceda a los datos de su instrumento con total seguridad a través de la platafo
         },
         {
           alt: "alt-logo",
-          srcImage: eq40_1,
+          srcImage: eq62_1,
           typeProduct: {
             name: "Incubadores",
             keyname: "incubadores",
@@ -5435,6 +5444,429 @@ Acceda a los datos de su instrumento con total seguridad a través de la platafo
           categoryProduct: {
             name: "Incubadores refrigerados",
             keyname: "incubadores-refrigerados",
+          },
+          name: "FOC 120I Connect Cooled Incubator",
+          description: "Termostato de refrigeración de 120L que proporciona conectividad de alto nivel y control de temperatura de alto rendimiento con el sistema Auto-Tuning.",
+          descriptionLong: `Termostato de refrigeración de 120L que proporciona conectividad de alto nivel y control de temperatura de alto rendimiento con el sistema Auto-Tuning.
+          <br><br>
+          <h5>Máxima regulación y estabilidad térmica</h5>
+          <ul>
+          <li>El sistema de regulación Auto-Tuning asegura una excelente homogeneidad y estabilidad térmica (±0,5°C)</li>
+          <li>Sistema de refrigeración ecológico</li>
+          <li>Puerta interior transparente para el control visual de las muestras sin perturbaciones</li>
+          <li>Rango de la temperatura de incubación entre 3 y 50 °C</li>
+          <li>Sistema de termorregulación Auto-Tuning</li>
+          <li>Temperatura uniforme gracias a la ventilación forzada</li>
+          <li>Bajos costes de operación</li>
+          </ul>
+          <h5>Preciso y fácil de usar</h5>
+          <ul>
+          <li>Volumen total de 120 litros</li>
+          <li>Enchufes internos para alimentar dispositivos</li>
+          <li>Interfaz digital intuitiva con tres teclas para facilitar la configuración del instrumento</li>
+          <li>Acepta 2 sistemas de respirometría VELP (2 sistemas de sensores de DBO 6, o 1 sistema de sensores de DBO 10)</li>
+          <li>Control constante de acuerdo a las BPL (Buenas Prácticas de Laboratorio)</li>
+          <li>Tiempo de grabación ajustable (en caso de conexión con Ermes o TempSoft™)</li>
+          <li>TempSoft™ opcional. El software incorpora umbrales de alarma altos/bajos</li>
+          <li>Calibración rápida y fácil</li>
+          </ul>
+          <h5>Controle su FOC Connect en cualquier lugar, en cualquier momento con VELP Ermes</h5>
+          Gracias a VELP Ermes ya no se necesitan cables. Pruebe la plataforma que permite reducir las operaciones rutinarias de sus instrumentos gracias al control en tiempo real de su FOC Connect dondequiera que esté.
+          <br><br>
+          Acceso al registro de sus análisis para maximizar la productividad de su trabajo.
+          <br>
+          Las notificaciones y alertas inmediatas le mantendrán informado del estado de sus análisis, y con la interrupción remota tendrá el control total de sus procesos garantizando una máxima seguridad.
+          Acceda a los datos de su instrumento con total seguridad a través de la plataforma VELP Ermes y benefíciese de las actualizaciones de softwares y de la asistencia inmediata ad hoc.
+          <h5>Mantén tu FOC Connect bajo control con el software TEMPSoft™</h5>
+          Conectando el FOC directamente al PC a través del software TEMPSoft™ es posible:
+          <ul>
+          <li>controlar hasta 10 FOC Connect.</li>
+          <li>configurar temperaturas y rampas (diferentes temperaturas y tiempos) y establecer cualquier alarma</li>
+          <li>comprobar gráficamente la tendencia de la temperatura interna</li>
+          <li>exportar datos en diferentes formatos</li>
+          <li>almacenar los datos de los análisis según las BPL (Buenas Prácticas de Laboratorio).</li>
+          </ul>
+          FOC Connect permite el uso del protocolo de comunicación MODBUS.
+          `,
+          videoLink: "",
+          sendPriceText: "Ver más información",
+        },
+        {
+          alt: "alt-logo",
+          srcImage: eq63_1,
+          typeProduct: {
+            name: "Incubadores",
+            keyname: "incubadores",
+          },
+          categoryProduct: {
+            name: "Incubadores refrigerados",
+            keyname: "incubadores-refrigerados",
+          },
+          name: "FOC 200E Connect Cooled Incubator",
+          description: "Termostato refrigerado de 200L que proporciona una alta conectividad y preciso control de la temperatura gracias al innovativo sistema Auto-Tuning.",
+          descriptionLong: `Termostato refrigerado de 200L que proporciona una alta conectividad y preciso control de la temperatura gracias al innovativo sistema Auto-Tuning.
+          <br><br>
+          <h5>Máxima regulación y estabilidad térmica</h5>
+          <ul>
+          <li>El sistema de regulación Auto-Tuning asegura una excelente homogeneidad y estabilidad térmica (±0,5°C)</li>
+          <li>Sistema de refrigeración ecológico</li>
+          <li>Rango de la temperatura de incubación entre 3 y 50 °C</li>
+          <li>Sistema de termorregulación Auto-Tuning</li>
+          <li>Temperatura uniforme gracias a la ventilación forzada</li>
+          <li>Bajos costes de operación</li>
+          </ul>
+          <h5>Preciso y fácil de usar</h5>
+          <ul>
+          <li>Volumen total de 200 litros</li>
+          <li>Enchufes internos para alimentar dispositivos</li>
+          <li>Interfaz digital intuitiva con tres teclas para facilitar la configuración del instrumento</li>
+          <li>Acepta hasta 4 sistemas Respirometric Sensor VELP (4 sistemas de sensores de DBO 6, o 1 sistema de sensores de DBO 10)</li>
+          <li>Control constante de acuerdo a las BPL (Buenas Prácticas de Laboratorio)</li>
+          <li>Tiempo de grabación ajustable (en caso de conexión con Ermes o TempSoft™)</li>
+          <li>TempSoft™opcional. El software incorpora umbrales de alarma altos/bajos</li>
+          <li>Calibración rápida y fácil</li>
+          </ul>
+          <h5>Controle su FOC Connect en cualquier lugar, en cualquier momento con VELP Ermes</h5>
+          Gracias a VELP Ermes ya no se necesitan cables. Pruebe la plataforma que permite reducir las operaciones rutinarias de sus instrumentos gracias al control en tiempo real de su FOC Connect dondequiera que esté.
+          <br><br>
+          Acceso al registro de sus análisis para maximizar la productividad de su trabajo.
+          <br><br>
+          Las notificaciones y alertas inmediatas le mantendrán informado del estado de sus análisis, y con la interrupción remota tendrá el control total de sus procesos garantizando una máxima seguridad.
+          Acceda a los datos de su instrumento con total seguridad a través de la plataforma VELP Ermes y benefíciese de las actualizaciones de softwares y de la asistencia inmediata ad hoc.
+          <br><br>
+          <h5>Control your FOC Connect through TEMPSoft™ software</h5>
+          Through the optional TEMPSoft™  software and the related connection of the FOC Connect to the pc, you are able to:
+          <ul>
+          <li>control up to 10 FOC Connect.</li>
+          <li>set working ramps (different times and temperatures) and the desired setpoint, with the possibility of minimum and maximum temperature alarm thresholds</li>
+          <li>monitor of the internal temperature with a dedicated graph</li>
+          <li>data export in multiple formats</li>
+          <li>store test data in conformity with GLP (Good Laboratory Practice)</li>
+          </ul>
+          FOC  Connect comes with the MODBUS  communication protocol.
+          `,
+          videoLink: "",
+          sendPriceText: "Ver más información",
+        },
+        {
+          alt: "alt-logo",
+          srcImage: eq64_1,
+          typeProduct: {
+            name: "Incubadores",
+            keyname: "incubadores",
+          },
+          categoryProduct: {
+            name: "Incubadores refrigerados",
+            keyname: "incubadores-refrigerados",
+          },
+          name: "FOC 200I Connect Cooled Incubator",
+          description: "Termostato refrigerado de 200L que garantiza altos niveles de conectividad y temperatura constante gracias a su puerta transparente y a la regulación innovadora Auto-Tuning",
+          descriptionLong: `Termostato refrigerado de 200L que garantiza altos niveles de conectividad y temperatura constante gracias a su puerta transparente y a la regulación innovadora Auto-Tuning
+          <br><br>
+          <h5>Máxima regulación y estabilidad térmica</h5>
+          <ul>
+          <li>El sistema de regulación Auto-Tuning asegura una excelente homogeneidad y estabilidad térmica (±0,5°C)</li>
+          <li>Sistema de refrigeración ecológico</li>
+          <li>Puerta interior transparente para el control visual de las muestras sin perturbaciones</li>
+          <li>Rango de la temperatura de incubación entre 3 y 50 °C</li>
+          <li>Sistema de termorregulación Auto-Tuning</li>
+          <li>Temperatura uniforme gracias a la ventilación forzada</li>
+          <li>Bajos costes de operación</li>
+          </ul>
+          <h5>Preciso y fácil de usar</h5>
+          <ul>
+          <li>Volumen total de 200 litros</li>
+          <li>Enchufes internos para alimentar dispositivos</li>
+          <li>Interfaz digital intuitiva con tres teclas para facilitar la configuración del instrumento</li>
+          <li>Acepta hasta 4 sistemas Respirometric Sensor VELP (4 sistemas de sensores de DBO 6, o 1 sistema de sensores de DBO 10)</li>
+          <li>Control constante de acuerdo a las BPL (Buenas Prácticas de Laboratorio)</li>
+          <li>Tiempo de grabación ajustable (en caso de conexión con Ermes o TempSoft™)</li>
+          <li>TempSoft™opcional. El software incorpora umbrales de alarma altos/bajos</li>
+          <li>Calibración rápida y fácil</li>
+          </ul>
+          <h5>Controle su FOC Connect en cualquier lugar, en cualquier momento con VELP Ermes</h5>
+          Gracias a VELP Ermes ya no se necesitan cables. Pruebe la plataforma que permite reducir las operaciones rutinarias de sus instrumentos gracias al control en tiempo real de su FOC Connect dondequiera que esté.
+          <br><br>
+          Acceso al registro de sus análisis para maximizar la productividad de su trabajo.
+          <br>
+          Las notificaciones y alertas inmediatas le mantendrán informado del estado de sus análisis, y con la interrupción remota tendrá el control total de sus procesos garantizando una máxima seguridad.
+          Acceda a los datos de su instrumento con total seguridad a través de la plataforma VELP Ermes y benefíciese de las actualizaciones de softwares y de la asistencia inmediata ad hoc.
+          <br><br>
+          <h5>Mantén tu FOC Connect bajo control con el software TEMPSoft™</h5>
+          Conectando el FOC directamente al PC a través del software TEMPSoft™ es posible:
+          <ul>
+          <li>controlar hasta 10 FOC Connect.</li>
+          <li>configurar temperaturas y rampas (diferentes temperaturas y tiempos) y establecer cualquier alarma</li>
+          <li>comprobar gráficamente la tendencia de la temperatura interna</li>
+          <li>exportar datos en diferentes formatos</li>
+          <li>almacenar los datos de los análisis según las BPL (Buenas Prácticas de Laboratorio).</li>
+          </ul>
+          FOC Connect permite el uso del protocolo de comunicación MODBUS.
+          `,
+          videoLink: "",
+          sendPriceText: "Ver más información",
+        },
+        {
+          alt: "alt-logo",
+          srcImage: eq65_1,
+          typeProduct: {
+            name: "Incubadores",
+            keyname: "incubadores",
+          },
+          categoryProduct: {
+            name: "Incubadores refrigerados",
+            keyname: "incubadores-refrigerados",
+          },
+          name: "FOC 200IL Connect Illuminated Cooled Incubator",
+          description: "Termostato refrigerado de 200L que garantiza una conectividad de alto nivel, iluminación homogénea y temperatura constante gracias a su puerta transparente y a su innovador sistema Auto-Tuning.",
+          descriptionLong: `Termostato refrigerado de 200L que garantiza una conectividad de alto nivel, iluminación homogénea y temperatura constante gracias a su puerta transparente y a su innovador sistema Auto-Tuning.
+          <br><br>
+          <h5>Máxima regulación y estabilidad térmica</h5>
+          <ul>
+          <li>El sistema de regulación Auto-Tuning asegura una excelente homogeneidad y estabilidad térmica (±0,5°C)</li>
+          <li>Sistema de refrigeración ecológico</li>
+          <li>Puerta interior transparente para el control visual de las muestras sin perturbaciones</li>
+          <li>Rango de la temperatura de incubación entre 3 y 50 °C</li>
+          <li>Sistema de termorregulación Auto-Tuning</li>
+          <li>Temperatura uniforme gracias a la ventilación forzada</li>
+          <li>Bajos costes de operación</li>
+          </ul>
+          <h5>Recomendado para:</h5>
+          <ul>
+          <li>Crecimiento de plantas</li>
+          <li>Germinación de semillas</li>
+          <li>Cultivos</li>
+          <li>Cría de plantas, insectos y pequeños animales</li>
+          <li>Cultivo de bacterias</li>
+          <li>Estudios de fermentación</li>
+          <li>Otros experimentos que requieren temperatura e iluminación constante</li>
+          </ul>
+          <h5>Preciso y fácil de usar</h5>
+          <ul>
+          <li>Temporizador para personalizar ciclos de iluminación</li>
+          <li>Equipado con 2 estantes iluminados (30.000 lux/estante) cada uno con seis barras de LED montadas horizontalmente bajo el estante</li>
+          <li>Volumen total de 200 litros</li>
+          <li>Enchufes internos para alimentar dispositivos</li>
+          <li>Interfaz digital intuitiva con tres teclas para facilitar la configuración del instrumento</li>
+          <li>Acepta hasta 4 sistemas Respirometric Sensor VELP (4 sistemas de sensores de DBO 6, o 1 sistema de sensores de DBO 10)</li>
+          <li>Control constante de acuerdo a las BPL (Buenas Prácticas de Laboratorio)</li>
+          <li>Tiempo de grabación ajustable (en caso de conexión con Ermes o TempSoft™)</li>
+          <li>TempSoft™ opcional. El software incorpora umbrales de alarma altos/bajos</li>
+          <li>Calibración rápida y fácil</li>
+          </ul>
+          <h5>Controle su FOC Connect en cualquier lugar, en cualquier momento con VELP Ermes</h5>
+          Gracias a VELP Ermes ya no se necesitan cables. Pruebe la plataforma que permite reducir las operaciones rutinarias de sus instrumentos gracias al control en tiempo real de su FOC Connect dondequiera que esté.
+          <br><br>
+          Acceso al registro de sus análisis para maximizar la productividad de su trabajo.
+          Las notificaciones y alertas inmediatas le mantendrán informado del estado de sus análisis, y con la interrupción remota tendrá el control total de sus procesos garantizando una máxima seguridad.
+          Acceda a los datos de su instrumento con total seguridad a través de la plataforma VELP Ermes y benefíciese de las actualizaciones de softwares y de la asistencia inmediata ad hoc.
+          <br><br>
+          <h5>Mantén tu FOC Connect bajo control con el software TEMPSoft™</h5>
+          Conectando el FOC directamente al PC a través del software TEMPSoft™ es posible:
+          <ul>
+          <li>controlar hasta 10 FOC Connect.</li>
+          <li>configurar temperaturas y rampas (diferentes temperaturas y tiempos) y establecer cualquier alarma</li>
+          <li>comprobar gráficamente la tendencia de la temperatura interna</li>
+          <li>exportar datos en diferentes formatos</li>
+          <li>almacenar los datos de los análisis según las BPL (Buenas Prácticas de Laboratorio).</li>
+          </ul>
+          FOC Connect permite el uso del protocolo de comunicación MODBUS.
+          `,
+          videoLink: "",
+          sendPriceText: "Ver más información",
+        },
+        {
+          alt: "alt-logo",
+          srcImage: eq66_1,
+          typeProduct: {
+            name: "Incubadores",
+            keyname: "incubadores",
+          },
+          categoryProduct: {
+            name: "Incubadores refrigerados",
+            keyname: "incubadores-refrigerados",
+          },
+          name: "FTC 120 Incubadores Refrigerados",
+          description: "Incubadores refrigerados especialmente diseñado para la incubación de las unidades de medida DBO",
+          descriptionLong: `Incubadores refrigerados especialmente diseñado para la incubación de las unidades de medida DBO
+          <br><br>
+          <h5>Alta eficiencia</h5>
+          <ul>
+          <li>Muestras incubadas a 20 °C estándar</li>
+          <li>Tomas internas para alimentar los dispositivos de medición de DBO</li>
+          <li>Acepta 3 sistemas de sensores DBO 6, o 2 sistemas de sensores DBO 10</li>
+          <li>Temperatura uniforme gracias al uso de ventilación forzada</li>
+          <li>Visualización de 2 dígitos de la temperatura interna</li>
+          <li>Sistema de refrigeración ecológico</li>
+          <li>Coste operativo reducido</li>
+          </ul>
+          `,
+          videoLink: "",
+          sendPriceText: "Ver más información",
+        },
+        {
+          alt: "alt-logo",
+          srcImage: eq67_1,
+          typeProduct: {
+            name: "Floculadores",
+            keyname: "floculadores",
+          },
+          categoryProduct: {
+            name: "Floculadores",
+            keyname: "floculadores",
+          },
+          name: "FC S Floculadores con posiciones independientes para Prueba de Jarras",
+          description: "Floculadores en 4 y 6 posiciones independientes para permitir condiciones de análisis óptimas y resultados altamente reproducibles para Prueba de Jarras",
+          descriptionLong: `Floculadores en 4 y 6 posiciones independientes para permitir condiciones de análisis óptimas y resultados altamente reproducibles para Prueba de Jarras
+          <br><br>
+          <h5>Preciso y fácil de usar</h5>
+          <ul>
+          <li>La velocidad se puede cambiar durante la construcción</li>
+          <li>Panel trasero iluminado para simplificar la observación de la muestra</li>
+          <li>Varillas de agitación de altura ajustable con la ayuda de herramientas</li>
+          <li>Resultados confiables y repetibles gracias a la calidad de agitación VELP</li>
+          <li>Velocidad precisa gracias a un motor de engranajes de CC controlado electrónicamente</li>
+          <li>Resistencia a la corrosión química y mecánica</li>
+          <li>Velocidades seleccionables independientemente - 10-15-30-45-60-90-120-150-200-300 rpm</li>
+          <li>El mismo producto puede ser sometido a diferentes condiciones en paralelo</li>
+          <li>Modelos de 4 o 6 posibles posiciones</li>
+          </ul>
+          <h5>¿Qué es la Prueba de Jarras?</h5>
+          La Prueba de Jarras (Jar Test) es una prueba a escala real de los productos químicos de tratamiento utilizados en un sistema de agua en particular.
+          <br><br>
+          Simula, a escala, el proceso de coagulación / floculación que se produce en una planta de tratamiento de agua, ayudando al operador a determinar la cantidad adecuada de químicos para el tratamiento y, por tanto, a mejorar el rendimiento de la planta. 
+          <br><br>
+          La prueba implica ajustar la cantidad de productos químicos y la secuencia en la que se agregan. La muestra debe agitarse para que la formación de flóculos, el desarrollo y el asentamiento se puedan observar exactamente como lo haría en la planta de tratamiento a gran escala.
+          <br><br>
+          Luego, el operador realiza una serie de pruebas para comparar los efectos de diferentes cantidades de agentes floculantes a diferentes valores de pH para determinar su tamaño apropiado.
+          `,
+          videoLink: "",
+          sendPriceText: "Ver más información",
+        },
+        {
+          alt: "alt-logo",
+          srcImage: eq68_1,
+          typeProduct: {
+            name: "Floculadores",
+            keyname: "floculadores",
+          },
+          categoryProduct: {
+            name: "Floculadores",
+            keyname: "floculadores",
+          },
+          name: "FP4 Floculador portátil para Prueba de Jarras",
+          description: "Floculador portátil que permite adoptar condiciones estándar para Prueba de Jarras en el sitio",
+          descriptionLong: `Floculador portátil que permite adoptar condiciones estándar para Prueba de Jarras en el sitio
+          <br><br>
+          <h5>Práctico y fiable</h5>
+          <ul>
+          <li>Diseñado para usarse en el sitio, para obtener resultados inmediatos</li>
+          <li>Se alimenta del encendedor del coche o se enchufa a la red eléctrica</li>
+          <li>Base antideslizante para mayor estabilidad</li>
+          <li>Luz central para una fácil lectura</li>
+          <li>Elección de velocidad de agitación 20-40-50-100-200 rpm</li>
+          <li>Tiempo de funcionamiento seleccionable para garantizar incluso funcionamiento sin supervisión</li>
+          <li>Resultados confiables y repetibles de calidad de agitación VELP</li>
+          <li>Velocidad precisa gracias a un motor de engranajes de CC controlado electrónicamente</li>
+          <li>Se pueden procesar hasta 4 muestras en paralelo</li>
+          <li>Varillas de agitación de altura ajustable sin el uso de herramientas</li>
+          <li>Resistencia a la corrosión química y mecánica</li>
+          </ul>
+          <h5>¿Qué es la Prueba de Jarras?</h5>
+          La Prueba de Jarras (Jar Test) es una prueba a escala real de los productos químicos de tratamiento utilizados en un sistema de agua en particular.
+          Simula, a escala, el proceso de coagulación / floculación que se produce en una planta de tratamiento de agua, ayudando al operador a determinar la cantidad adecuada de químicos para el tratamiento y, por tanto, a mejorar el rendimiento de la planta.
+          <br><br>
+          La prueba implica ajustar la cantidad de productos químicos y la secuencia en la que se agregan. La muestra debe agitarse para que la formación de flóculos, el desarrollo y el asentamiento se puedan observar exactamente como lo haría en la planta de tratamiento a gran escala.
+          <br><br>
+Luego, el operador realiza una serie de pruebas para comparar los efectos de diferentes cantidades de agentes floculantes a diferentes valores de pH para determinar su tamaño apropiado.
+          `,
+          videoLink: "",
+          sendPriceText: "Ver más información",
+        },
+        {
+          alt: "alt-logo",
+          srcImage: eq69_1,
+          typeProduct: {
+            name: "Floculadores",
+            keyname: "floculadores",
+          },
+          categoryProduct: {
+            name: "Floculadores",
+            keyname: "floculadores",
+          },
+          name: "JLT Floculadores para Prueba de Jarras",
+          description: "Floculadores en 4 y 6 posiciones con display digital y temporizador para Prueba de Jarras.",
+          descriptionLong: `Floculadores en 4 y 6 posiciones con display digital y temporizador para Prueba de Jarras.
+          <br><br>
+          <h5>Simple y fiable</h5>
+          <ul>
+          <li>Tiempo de funcionamiento controlado por microprocesador para operaciones desatendidas</li>
+          <li>Panel trasero iluminado para simplificar la observación de la muestra</li>
+          <li>Varillas de agitación de altura ajustable con la ayuda de herramientas</li>
+          <li>La velocidad seleccionable digitalmente de 10 a 300 rpm.</li>
+          <li>Velocidad y tiempo idénticos para todas las posiciones para obtener resultados comparables</li>
+          <li>Resultados fiables y repetibles gracias a la calidad de la agitación VELP</li>
+          <li>Velocidad precisa gracias a un motorreductor de corriente continua controlado electrónicamente</li>
+          <li>Alta resistencia a la corrosión química y mecánica</li>
+          <li>Pantalla LED de alta visibilidad para velocidad y tiempo</li>
+          <li>Elección de modelos de 4 o 6 posiciones</li>
+          </ul>
+          <h5>¿Qué es la Prueba de Jarras?</h5>
+          La Prueba de Jarras (Jar Test) es una prueba a escala relativa a los productos químicos utilizados en un sistema de agua en particular.
+          <br><br>
+          Simula, a escala, el proceso de coagulación/floculación que tiene lugar en una planta de tratamiento de aguas, lo que ayuda al operador a determinar la cantidad adecuada de productos químicos para el tratamiento y, por tanto, mejorando el rendimiento de la planta. 
+          <br><br>
+          La prueba implica ajustar la cantidad de productos químicos y la secuencia en la que se agregan. La muestra debe agitarse de forma decuada para que la formación de flóculos, el desarrollo y el asentamiento puedan observarse exactamente como sucedería en una instalación de tratamiento a gran escala.
+          <br><br>
+          Luego, el operador realiza una serie de pruebas para comparar los efectos de diferentes cantidades de agentes floculantes a diferentes valores de pH para determinar el tamaño adecuado.
+          `,
+          videoLink: "",
+          sendPriceText: "Ver más información",
+        },
+        {
+          alt: "alt-logo",
+          srcImage: eq70_1,
+          typeProduct: {
+            name: "Agitadores",
+            keyname: "agitadores",
+          },
+          categoryProduct: {
+            name: "Agitadores rotativos",
+            keyname: "agitadores-rotativos",
+          },
+          name: "ROTAX 6.8 Mezclador rotatorio",
+          description: "Mezclador rotativo capaz de ofrecer un excelente rendimiento para todas las aplicaciones donde se requiera rotación, agitación y mezcla de la muestra.",
+          descriptionLong: `Mezclador rotativo capaz de ofrecer un excelente rendimiento para todas las aplicaciones donde se requiera rotación, agitación y mezcla de la muestra.
+          <br><br>
+          <h5>Preciso y seguro</h5>
+          <ul>
+          <li>Resistencia a la corrosión química y mecánica</li>
+          <li>La rotación se detiene automáticamente en caso de bloqueo</li>
+          <li>Cumple con las normas UNI 10802 y DIN 38414</li>
+          <li>Regulación electrónica de velocidad hasta 30 rpm</li>
+          <li>LCD para indicación de velocidad</li>
+          <li>Acepta 6 botellas de 2 L o 8 x 1 L (con adaptador)</li>
+          </ul>
+          <h5>Recomendado para:</h5>
+          <ul>
+          <li>Evaluación de la solubilidad de contaminantes en agua, provenientes de lodos;</li>
+          <li>La evaluación de sedimentos y residuos sólidos de plantas de tratamiento de residuos, plantas de tratamiento de aguas residuales;</li>
+          <li>Laboratorios de análisis de residuos y laboratorios de análisis medioambiental.</li>
+          </ul>
+          `,
+          videoLink: "",
+          sendPriceText: "Ver más información",
+        },
+        {
+          alt: "alt-logo",
+          srcImage: eq40_1,
+          typeProduct: {
+            name: "Agitadores",
+            keyname: "agitadores",
+          },
+          categoryProduct: {
+            name: "Agitadores rotativos",
+            keyname: "agitadores-rotativos",
           },
           name: "",
           description: "",
