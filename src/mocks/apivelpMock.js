@@ -1,16 +1,8 @@
 import pagesContants from "../constants/pagesContants";
 import logo from "../assets/LOGO-MARCAS-PROVEEDORES/velph.jpeg";
 
-import producto1_1 from "../assets/landings/arizona/productos/1/computrac-max-4000xl_315x220_l.png";
-import producto1_2 from "../assets/landings/arizona/productos/1/computrac-max-4000xl_315x220_r.png";
-
-import producto2_1 from "../assets/landings/arizona/productos/2/computrac-max-5000-xl_l.png";
-import producto2_2 from "../assets/landings/arizona/productos/2/computrac-max-5000-xl_r.png";
-
-import producto3_1 from "../assets/landings/arizona/productos/3/computrac-vapor-pro-xl_315x220_left.png";
-import producto3_2 from "../assets/landings/arizona/productos/3/computrac-vapor-pro-xl_315x220_right.png";
-
-import producto4_1 from "../assets/landings/arizona/productos/4/vaporproxl-autosampler-lab.png";
+import main1 from "../assets/landings/velp/home/main.jpeg"
+import main2 from "../assets/landings/velp/home/main2.jpeg"
 
 import pro01_1 from "../assets/landings/velp/instruments/analizadores/ema-502/imagen_1_VELPEMA502-02-287274-287962.jpg";
 import pro02_1 from "../assets/landings/velp/instruments/analizadores/cn-802/producto.jpg";
@@ -87,6 +79,22 @@ import eq42_1 from "../assets/landings/velp/equipos/agitadores/pw/1.jpg";
 import eq43_1 from "../assets/landings/velp/equipos/agitadores/lh-varilla/1.jpg";
 import eq44_1 from "../assets/landings/velp/equipos/agitadores/ls-varilla/1.jpg";
 import eq45_1 from "../assets/landings/velp/equipos/agitadores/es-varilla/1.jpg";
+import eq46_1 from "../assets/landings/velp/equipos/agitadores-vortex/multi-tx5-digital/1VELPMULTI-TX5-Digital01-260535-260556-261271.jpg";
+import eq47_1 from "../assets/landings/velp/equipos/agitadores-vortex/wizard/1.jpg";
+import eq48_1 from "../assets/landings/velp/equipos/agitadores-vortex/tx4/1.jpg";
+import eq49_1 from "../assets/landings/velp/equipos/agitadores-vortex/zx4/1.jpg";
+import eq50_1 from "../assets/landings/velp/equipos/agitadores-vortex/zx3/1VELPZX3SA202A0176-imagen 2209677.jpg";
+import eq51_1 from "../assets/landings/velp/equipos/agitadores-vortex/rx3/1.jpg";
+import eq52_1 from "../assets/landings/velp/equipos/dispersores/ov-625/1.jpg";
+import eq53_1 from "../assets/landings/velp/equipos/termorreactor/eco-6/1ECO-6-Termorreactor-DQO.jpg";
+import eq54_1 from "../assets/landings/velp/equipos/termorreactor/eco-8-y-25/1.jpg";
+import eq55_1 from "../assets/landings/velp/equipos/termorreactor/eco-16/1.jpg";
+import eq56_1 from "../assets/landings/velp/equipos/respirometros/RESPIROMETRIC-Sensor-System-6/1.jpg";
+import eq57_1 from "../assets/landings/velp/equipos/respirometros/RESPIROMETRIC-Sensor-System-6-Maxi/1.jpg";
+import eq58_1 from "../assets/landings/velp/equipos/respirometros/RESPIROMETRIC-Sensor-System-6-for-Soil/1.jpg";
+import eq59_1 from "../assets/landings/velp/equipos/respirometros/RESPIROMETRIC-Sensor-System-6-para-la-biodegradabilidad/1.jpg";
+import eq60_1 from "../assets/landings/velp/equipos/respirometros/DBO-sensor/1.jpg";
+import eq61_1 from "../assets/landings/velp/equipos/incubadoras/FOC-120e/1.jpg";
 
 const apiSelcaEscondidaMock = {
   items: [
@@ -114,17 +122,13 @@ const apiSelcaEscondidaMock = {
       items: [
         {
           name: "test1",
-          url: "https://sicssalab.net/test-miraro/mocks/selva-escondidaii/selva1.webp",
-          urlMobile:
-            "https://sicssalab.net/test-miraro/mocks/selva-escondidaii/banner-selva1.webp",
+          url: main1,
+          // urlMobile:
+          //   "https://sicssalab.net/test-miraro/mocks/selva-escondidaii/banner-selva1.webp",
         },
         {
           name: "test2",
-          url: "https://sicssalab.net/test-miraro/mocks/selva-escondidaii/selva2.webp",
-        },
-        {
-          name: "test3",
-          url: "https://sicssalab.net/test-miraro/mocks/selva-escondidaii/selva3.webp",
+          url: main2,
         },
       ],
     },
@@ -4721,7 +4725,7 @@ El robusto motor garantiza un funcionamiento continuo a lo largo de los años, s
         },
         {
           alt: "alt-logo",
-          srcImage: eq40_1,
+          srcImage: eq46_1,
           typeProduct: {
             name: "Agitadores",
             keyname: "agitadores",
@@ -4730,9 +4734,694 @@ El robusto motor garantiza un funcionamiento continuo a lo largo de los años, s
             name: "Agitadores vortex",
             keyname: "agitadores-vortex",
           },
-          name: "",
-          description: "",
-          descriptionLong: ``,
+          name: "MULTI-TX5 Digital Agitador Vortex Multiprobeta",
+          description: "Exclusivo agitador vortex multiprobeta digital para mezclas caracterizado por una elevada productividad. El diseño innovador y compacto asegura la máxima ergonomía para múltiples aplicaciones con probetas de diferente medida",
+          descriptionLong: `Exclusivo agitador vortex multiprobeta digital para mezclas caracterizado por una elevada productividad. El diseño innovador y compacto asegura la máxima ergonomía para múltiples aplicaciones con probetas de diferente medida
+          <br><br>
+          <h5>Prestaciones superiores y la máxima versatilidad para sus aplicaciones de agitación</h5>
+          El MULTI-TX5 Digital es la solución exclusiva para todas las aplicaciones de agitación multi-probeta, incuso para las más complejas.
+          <br><br>
+          El MULTI-TX5 Digital soporta varios soportes de espuma para diferentes probetas vortex, configurándose como un agitador vortex multi-probeta muy versátil para emulsionar, desintegrar, mezclar u homogeneizar las muestras. Las principales aplicaciones incluyen suspensiones, genotipificación, test del ADN y del RNA.
+          <br><br>
+          Gracias al potente motor brushless, MULTI-TX5 Digital puede agitar soluciones de 100 hasta 2.500 rpm, permitiendo así afrontar y llevar a cabo las aplicaciones más diversas y desafiantes de agitación en laboratorio.
+          <br><br>
+          Gracias a la capacidad de agitar más o menos vigorosamente con las máximas prestaciones, MULTI-TX5  Digital es ideal tanto para aplicaciones de microbiología como de R&D o de control de calidad en diversos sectores como el farmacéutico, el cosmético, el alimentario, el de las bebidas y el químico.
+          <br><br>
+          <h5>Ergonomía y operatividad simplificada, para cualquier tipo de aplicación</h5>
+          Activar la mezcla y pasar a la aplicación siguiente con un diferente rack de espuma es simple y veloz con el MULTI-TX5 Digital.
+          <br><br>
+          Es suficiente con preparar el rack con las probetas, aflojar las dos perillas de los tornillos en la placa de cierre y levantar la placa. 
+          <br><br>
+          Es posible quitar la placa o mantenerla en el eje más largo para reducir y simplificar las operaciones manuales. 
+          <br><br>
+          Por último, es necesario colocar el rack con las probetas dentro del soporte de espuma, bajar la placa de cierre hasta alcanzar las probetas y apretar las perillas.
+          <br><br>
+          <h5>Todo está listo para iniciar la mezcla.</h5>
+          Seguridad y simplicidad de uso para todos los operadores de laboratorio
+          <br><br>
+          El MULTI-TX5 Digital garantiza un elevado nivel de seguridad y protección para los operadores de laboratorio ya que ha sido realizado con acero inoxidable.
+          <br><br>
+          La estructura está minuciosamente diseñada para garantizar el máximo confort, la mejor resistencia y el mínimo espacio ocupado en el banco del laboratorio.
+          <br><br>
+          El panel de control digital está estudiado para ofrecer un nivel de ergonomía superior y una elevada facilidad de uso.
+          <br><br>
+          Configurar y controlar el tiempo de agitación y la velocidad de agitación es simple gracias a los cómodos mandos giratorios y a la doble pantalla digital ultraluminosa de elevada legibilidad.
+          <br><br>
+          Presione la tecla central durante 3 segundos y active el Bloqueo de Seguridad del instrumento para impedir modificaciones involuntarias de las condiciones de trabajo del MULTI-TX5 Digital.
+          <br><br>
+          <h5>Funcionalidad a la vanguardia, eficiencia en laboratorio</h5>
+          MULTI-TX5 Digital dispone de algunas funciones exclusivas y muy avanzadas que aseguran automatización operativa y optimizan el funcionamiento no supervisado:
+          <ul>
+          <li>Temporizador integrado que se adapta a los diferentes flujos operativos y de trabajo en el laboratorio - de 1 min a 99 h 59 min (pasos de 1 min)</li>
+          <li>Modalidad pulse que permite al instrumento agitar las muestras a la máxima velocidad con rampa inmediata durante 2 segundos y por tanto pararse durante 1 segundo, repitiendo la operación hasta que se pare manualmente la unidadà o el temporizador llegue a cero</li>
+          <li>Modalidad de trabajo continuo con cómputo del tiempo visualizado en la pantalla</li>
+          <li>Inversión automática de rotación que asegura una mejor capacidad de mezcla - de 5 s a 99 min 59 s (pasos de 1 s)</li>
+          <li>Programas en modalidad intermitente para una mejor programación de las operaciones no supervisadas - de 5 s a 99 min 59 s (pasos desde 1 s)</li>
+          </ul>
+          Activar y gestionar las funcionalidades avanzadas del MULTI-TX5 Digital es simple gracias a la Smart User Interface con iconos intuitivos presentes en la pantalla de LED.
+          `,
+          videoLink: "",
+          sendPriceText: "Ver más información",
+        },
+        {
+          alt: "alt-logo",
+          srcImage: eq47_1,
+          typeProduct: {
+            name: "Agitadores",
+            keyname: "agitadores",
+          },
+          categoryProduct: {
+            name: "Agitadores vortex",
+            keyname: "agitadores-vortex",
+          },
+          name: "WIZARD IR Vortex a Infrarrojo",
+          description: "Mezclador vortex con velocidad regulable, en modo continuo o con el exclusivo sensor de infrarrojos.",
+          descriptionLong: `Mezclador vortex con velocidad regulable, en modo continuo o con el exclusivo sensor de infrarrojos.
+          <br><br>
+          <h5>Robusto y práctico</h5>
+          <ul>
+          <li>Compacto en altura y superficie</li>
+          <li>La estabilidad se optimiza con la palanca selectora de modo de funcionamiento</li>
+          <li>Equipado con 3 pies de goma antideslizantes para permanecer en la posición deseada</li>
+          <li>Funcionamiento a velocidad variable, controlado electrónicamente hasta 3000 giros/min.</li>
+          <li>Amplia gama de accesorios para tubos, placas y matraces</li>
+          <li>Modelo universal de tensión / frecuencia</li>
+          <li>Los accesorios se adaptan con una simple presión</li>
+          <li>Resistencia óptima a los productos químicos de las carcasas de tecnopolímero</li>
+          <li>Excelente estabilidad con base de aleación de zinc</li>
+          <li>Protección IP 42 contra partículas y líquidos</li>
+          <li>Diseñado para la vida más larga y garantizada por 3 años</li>
+          </ul>
+          <h5>Sensor de infrarrojos, patentado VELP</h5>
+          VELP Scientifica es la única empresa en el mundo que suministra el tecnológico y revolucionario sistema IR, un modo de funcionamiento extremadamente eficiente.
+          Cuando el sensor detecta un tubo, el sensor activa automáticamente el instrumento, ¡sin necesidad de presión por parte del técnico de laboratorio! 
+          <br><br>
+          En comparación con el modo de presión clásico, el sistema de sensor IR patentado garantiza una reducción drástica de las tensiones percibidas por el operador. 
+          `,
+          videoLink: "",
+          sendPriceText: "Ver más información",
+        },
+        {
+          alt: "alt-logo",
+          srcImage: eq48_1,
+          typeProduct: {
+            name: "Agitadores",
+            keyname: "agitadores",
+          },
+          categoryProduct: {
+            name: "Agitadores vortex",
+            keyname: "agitadores-vortex",
+          },
+          name: "TX4 Agitador Vortex Digital con Sensor IR",
+          description: "Mezclador Vortex con display digital, velocidad regulable, en modo continuo o con el exclusivo sensor de infrarrojos.",
+          descriptionLong: `Mezclador Vortex con display digital, velocidad regulable, en modo continuo o con el exclusivo sensor de infrarrojos.
+          <br><br>
+          <h5>Robusto y versátil</h5>
+          <ul>
+          <li>Control digital de tiempo y velocidad</li>
+          <li>Operación cronometrada hasta 999: 59 minutos</li>
+          <li>Pantalla LCD grande y brillante de múltiples parámetros</li>
+          <li>Operación de velocidad variable, controlada electrónicamente hasta 3000 giros/min.</li>
+          <li>Amplia variedad de accesorios</li>
+          <li>Modelo universal de voltaje/frecuencia</li>
+          <li>Los accesorios se ajustan con una simple presión</li>
+          <li>Resistencia química óptima</li>
+          <li>Excelente estabilidad con base de aleación de zinc</li>
+          <li>Base antideslizante para permanecer en la posición deseada</li>
+          <li>Protección IP 42 contra partículas y líquidos</li>
+          <li>Diseñado para una vida útil más larga de largo y garantizado por una garantía de 3 años</li>
+          </ul>
+          <h5>Sensor de infrarrojos, patentado VELP</h5>
+          VELP Scientifica es la única empresa en el mundo que suministra el revolucionario y tecnológico sistema IR, un modo de funcionamiento extremadamente eficiente.
+          <br><br>
+          Cuando el sensor detecta el tubo, el sensor activa automáticamente el instrumento, ¡sin necesidad de presión por parte del técnico de laboratorio! 
+          <br><br>
+          En comparación con el modo de presión clásico, el sistema de sensor de infrarrojos patentado garantiza una reducción drástica de las tensiones percibidas por el operador.
+          `,
+          videoLink: "HVSXHmHHDhs",
+          sendPriceText: "Ver más información",
+        },
+        {
+          alt: "alt-logo",
+          srcImage: eq49_1,
+          typeProduct: {
+            name: "Agitadores",
+            keyname: "agitadores",
+          },
+          categoryProduct: {
+            name: "Agitadores vortex",
+            keyname: "agitadores-vortex",
+          },
+          name: "ZX4 Agitador de Vortex con Sensor IR",
+          description: "Mezclador vortex con velocidad regulable, en modo continuo o con el exclusivo sensor de infrarrojos.",
+          descriptionLong: `Mezclador vortex con velocidad regulable, en modo continuo o con el exclusivo sensor de infrarrojos.
+          <br><br>
+          <h5>Resistente y versátil</h5>
+          <ul>
+          <li>Velocidad variable, controlada electrónicamente hasta 3000 vueltas/min</li>
+          <li>Amplia gama de accesorios</li>
+          <li>Modelo universal de voltaje / frecuencia</li>
+          <li>Los accesorios se ajustan con una simple presión</li>
+          <li>Óptima resistencia química</li>
+          <li>Excelente estabilidad con base de aleación de zinc</li>
+          <li>Base antideslizante para permanecer en la posición deseada</li>
+          <li>Protección IP 42 contra partículas y líquidos</li>
+          <li>Diseñado para durar mucho tiempo y garantizado durante 3 años</li>
+          </ul>
+          <h5>Sensor de infrarrojos, patentado VELP</h5>
+          VELP Scientifica es la única empresa en el mundo que suministra el revolucionario y tecnológico sistema IR, un modo de funcionamiento extremadamente eficiente.
+          <br><br>
+          Cuando el sensor detecta una probeta, el sensor activa automáticamente el instrumento, ¡sin necesidad de presión por parte del técnico de laboratorio.
+          <br><br>
+          En comparación con el modo de presión clásico, el sistema de sensor de infrarrojos patentado garantiza una reducción drástica de las tensiones percibidas por el operador.
+          `,
+          videoLink: "",
+          sendPriceText: "Ver más información",
+        },
+        {
+          alt: "alt-logo",
+          srcImage: eq50_1,
+          typeProduct: {
+            name: "Agitadores",
+            keyname: "agitadores",
+          },
+          categoryProduct: {
+            name: "Agitadores vortex",
+            keyname: "agitadores-vortex",
+          },
+          name: "ZX3 Agitador de Vortex Avanzado",
+          description: "Mezclador vórtex con velocidad ajustable, en modo táctil o continuo. ¡El best seller!",
+          descriptionLong: `Mezclador vórtex con velocidad ajustable, en modo táctil o continuo. ¡El best seller!
+          <br><br>
+          <h5>Fiable y universal</h5>
+          <ul>
+          <li>Velocidad variable, controlada electrónicamente hasta 3000 vueltas/min</li>
+          <li>Inicio automático en modo táctil o funcionamiento continuo</li>
+          <li>Amplia gama de accesorios</li>
+          <li>Modelo universal de voltaje / frecuencia</li>
+          <li>Los accesorios se ajustan con una simple presión</li>
+          <li>Óptima resistencia química</li>
+          <li>Excelente estabilidad con base de aleación de zinc</li>
+          <li>Base antideslizante para permanecer en la posición deseada</li>
+          <li>Protección IP 42 contra partículas y líquidos</li>
+          <li>Diseñado para durar mucho tiempo y garantizado durante 3 años</li>
+          </ul>
+          `,
+          videoLink: "",
+          sendPriceText: "Ver más información",
+        },
+        {
+          alt: "alt-logo",
+          srcImage: eq51_1,
+          typeProduct: {
+            name: "Agitadores",
+            keyname: "agitadores",
+          },
+          categoryProduct: {
+            name: "Agitadores vortex",
+            keyname: "agitadores-vortex",
+          },
+          name: "RX3 Agitador Vortex",
+          description: "Mezclador vórtex con velocidad constante en modo táctil.",
+          descriptionLong: `Mezclador vórtex con velocidad constante en modo táctil.
+          <br><br>
+          <h5>Simple y confiable</h5>
+          <ul>
+          <li>Funcionamiento a velocidad fija, controlada electrónicamente hasta 3000 vueltas/min</li>
+          <li>Inicio automático en modo táctil o funcionamiento continuo</li>
+          <li>Óptima resistencia química</li>
+          <li>Excelente estabilidad con base de aleación de zinc</li>
+          <li>Base antideslizante para permanecer en la posición deseada</li>
+          <li>Protección IP 42 contra partículas y líquidos</li>
+          <li>Diseñado para durar mucho tiempo y garantizado durante 3 años</li>
+          </ul>
+          `,
+          videoLink: "",
+          sendPriceText: "Ver más información",
+        },
+        {
+          alt: "alt-logo",
+          srcImage: eq52_1,
+          typeProduct: {
+            name: "Dispersores",
+            keyname: "dispersores",
+          },
+          categoryProduct: {
+            name: "Dispersores",
+            keyname: "dispersores",
+          },
+          name: "OV 625 Digital Dispersor",
+          description: "Potente dispersor digital diseñado para homogeneización, emulsificación, suspensiones y mezclado a alta velocidad de tejidos biológicos, productos farmacéuticos, cosméticos y alimentos.",
+          descriptionLong: `Potente dispersor digital diseñado para homogeneización, emulsificación, suspensiones y mezclado a alta velocidad de tejidos biológicos, productos farmacéuticos, cosméticos y alimentos.
+          <br><br>
+          <h5>Rendimiento óptimo para una dispersión, homogeneización y mezcla excepcionales</h5>
+          El OV 625 Digital incorpora tecnologías de vanguardia y altos niveles de experiencia en ingeniería para garantizar una alta fuerza de corte y un excelente rendimiento de homogeneización, emulsión, suspensión y mezcla para una amplia gama de aplicaciones.
+          <br><br>
+          Gracias a una amplia oferta de herramientas de dispersión, el OV 625 Digital permite procesar volúmenes que van desde 0,2 mililitros hasta 2,5 litros (H2O) y hasta 5.000 mPas de muestras viscosas.
+          <br><br>
+          Cualquiera que sea el desafío de su laboratorio, puede confiar en un dispersor robusto y preciso que garantiza excelentes propiedades mecánicas y resistencia química.
+          <br><br>
+          <h5>Precisión y fiabilidad con una facilidad de uso inigualable</h5>
+          El OV 625 Digital es la solución ideal para aplicaciones con las más altas exigencias de reproducibilidad.
+          <br><br>
+          La pantalla LED brillante e intuitiva de 3 dígitos y la cómoda perilla giratoria permiten ajustes de velocidad electrónicos precisos y control entre 3.00 y 25.000 rpm.
+          <br><br>
+          El panel de control está diseñado para optimizar la experiencia del usuario: el parámetro de velocidad es visible de un vistazo para brindar una excelente visibilidad en todas las condiciones de trabajo.
+          <br><br>
+          <h5>Un dispersor seguro y duradero</h5>
+          Varias características de seguridad brindan la máxima protección para el usuario en las operaciones diarias. Una vez establecida la velocidad de consigna, el OV 625 Digital garantiza un arranque suave para alcanzar la velocidad deseada de forma gradual. Además, varias alarmas informan al operador en caso de sobrecarga y sobrecalentamiento.
+          <br><br>
+          La carcasa resistente y robusta protege todos los componentes electrónicos internos y permite un funcionamiento adecuado en las condiciones más exigentes.
+          <br><br>
+          El diseño ergonómico, compacto e innovador y la estructura robusta hacen del OV 625 Digital una solución diseñada para durar, garantizada por una garantía de 3 años (es necesario registrar el producto en línea).
+          <br><br>
+          <h5>Herramientas de dispersión de instalación rápida</h5>
+          La herramienta de dispersión adecuada es fundamental para lograr el mejor rendimiento y una alta reproducibilidad.
+          <br><br>
+          Una herramienta de dispersión consta de un rotor que gira a alta velocidad dentro de un estator estacionario . La región entre la punta del rotor y el espacio del estator se denomina espacio de corte . Debido a la alta velocidad circunferencial , el medio se introduce axialmente en el cabezal de dispersión y luego se fuerza radialmente a través de las ranuras en el espacio de corte, rompiendo las partículas. Las herramientas de dispersión VELP están fabricadas con acero inoxidable (316L) y llevan un sello de PTFE para que sean químicamente compatibles con diferentes muestras y reactivos.
+          <br><br>
+          Se requieren diferentes tipos de herramientas de dispersión para procesar diferentes fluidos. A veces es necesario utilizar dos herramientas de dispersión para lograr requisitos específicos. Gracias a una perilla y al sistema de instalación rápida, es posible cambiar la herramienta de dispersión en un abrir y cerrar de ojos y estar listo para lo siguiente.
+          `,
+          videoLink: "",
+          sendPriceText: "Ver más información",
+        },
+        {
+          alt: "alt-logo",
+          srcImage: eq53_1,
+          typeProduct: {
+            name: "Termorreactores",
+            keyname: "termorreactores",
+          },
+          categoryProduct: {
+            name: "Termorreactores DQO",
+            keyname: "termorreactores-dqo",
+          },
+          name: "ECO 6 Termorreactor para análisis DQO",
+          description: "Termorreactor de 6 posiciones con posibilidad de ajuste de la temperatura (hasta 200 °C) y tiempo de funcionamiento (hasta 999 minutos).",
+          descriptionLong: `Termorreactor de 6 posiciones con posibilidad de ajuste de la temperatura (hasta 200 °C) y tiempo de funcionamiento (hasta 999 minutos).
+          <br><br>
+          <h5>Intuitivo y digital</h5>
+          ECO 6 asegura una programación fácil y sencilla del tiempo (de 1 a 999 minutos o continuo) y la temperatura (de la habitación a 200 ° C).
+          A través de la pantalla digital es posible controlar la prueba en cualquier momento, visualizando la cuenta atrás constantemente.
+          <br><br>
+          La unidad se apaga automáticamente cuando expira el tiempo de análisis. La seguridad es un objetivo fundamental como lo demuestran las numerosas señales acústicas y visuales con las que está equipado.
+          <br><br>
+          <h5>Máxima versatilidad</h5>
+          ECO 6 COD se diseñó originalmente para usar tubos de ensayo relativamente grandes (Ø 42 mm) procesando hasta 6 x 200 ml, pero gracias al reductor también se puede usar con 18 tubos de 16 mm o 6 de 22 mm. Esto hace que ECO 6 sea muy versátil y flexible, ya que puede procesar muestras de acuerdo con diferentes métodos.
+          <br><br>
+          La termorreacción en pequeños tubos minimiza el consumo de reactivos y reduce el espacio y el equipo necesarios para que un solo bloque de reactor trabaje en múltiples muestras simultáneamente. ECO 6 es adecuado para realizar un análisis de DQO en poco tiempo, en tan solo 30 minutos con una temperatura de digestión alta (160 ° C).
+          `,
+          videoLink: "",
+          sendPriceText: "Ver más información",
+        },
+        {
+          alt: "alt-logo",
+          srcImage: eq54_1,
+          typeProduct: {
+            name: "Termorreactores",
+            keyname: "termorreactores",
+          },
+          categoryProduct: {
+            name: "Termorreactores DQO",
+            keyname: "termorreactores-dqo",
+          },
+          name: "ECO 8 y ECO 25 Termorreactor para análisis DQO",
+          description: "Termorreactor de 8 y 25 posiciones con temperaturas (70, 100, 120, 150, 160°C) y tiempos de fraguado (30, 60, 120 minutos o continuamente)",
+          descriptionLong: `Termorreactor de 8 y 25 posiciones con temperaturas (70, 100, 120, 150, 160°C) y tiempos de fraguado (30, 60, 120 minutos o continuamente)
+          <br><br>
+          <h5>Intuitivo y versatil</h5>
+          Los termorreactores ECO 8 y ECO 25 proporcionan una programación fácil e intuitiva tanto del tiempo como de la temperatura, los dos parámetros necesarios para realizar el análisis.
+          <br><br>
+          Pulsando repetidamente las teclas correspondientes, el usuario pasa de un valor a otro, pudiendo seleccionar entre cinco temperaturas (70, 100, 120, 150 y 160 °C) y cuatro tiempos (30, 60, 120 minutos o de forma continua).
+          <br><br>
+          La termorreacción en pequeños tubos minimiza el consumo de reactivos y reduce el equipo necesario, ya que solo se necesita un bloque calefactor capaz de operar sobre múltiples muestras simultáneamente.
+          <br><br>
+          Cada prueba presenta un vial desechable que se inserta en el bloque, utilizando pequeñas cantidades de reactivo y muestra, lo que reduce el coste.
+          <br><br>
+          El instrumento está equipado con apagado automático cuando se alcanza el tiempo establecido.
+          <br><br>
+          <h5>Seguro y fácil de manejar</h5>
+          Uno de los elementos que distingue a la serie ECO es sin duda el alto grado de seguridad, posible gracias a la tapa transparente de los tubos de ensayo y los distintos dispositivos de seguridad de temperatura con los que están equipados los distintos modelos.
+          <br><br>
+Además, ECO 25 es capaz de soportar un extractor de tubos, una especie de rack equipado con un sistema alfanumérico para simplificar la identificación de los distintos tubos. De esta forma, un beneficio adicional es la manipulación, ya que el usuario puede mover todos los tubos al mismo tiempo.
+          `,
+          videoLink: "",
+          sendPriceText: "Ver más información",
+        },
+        {
+          alt: "alt-logo",
+          srcImage: eq55_1,
+          typeProduct: {
+            name: "Termorreactores",
+            keyname: "termorreactores",
+          },
+          categoryProduct: {
+            name: "Termorreactores DQO",
+            keyname: "termorreactores-dqo",
+          },
+          name: "ECO 16 Termorreactor para análisis DQO",
+          description: "Termorreactor de 16 posiciones con capacidad para ajustar la temperatura (hasta 165 ° C) y el tiempo de funcionamiento (hasta 999 minutos).",
+          descriptionLong: `Termorreactor de 16 posiciones con capacidad para ajustar la temperatura (hasta 165 ° C) y el tiempo de funcionamiento (hasta 999 minutos).
+          <br><br>
+          <h5>Intuitivo y digital</h5>
+          ECO 16 asegura una programación sencilla y fácil de tiempo (de 1 a 999 minutos o continuo) y temperatura (de habitación a 165 °C).
+          A través de la pantalla digital es posible controlar la prueba en cualquier momento, visualizando la cuenta atrás constantemente.
+          <br><br>
+          La unidad se apaga automáticamente cuando expira el tiempo de análisis. La seguridad es un objetivo fundamental como lo demuestran las numerosas señales acústicas y visuales con las que está equipado. ECO 16 también tiene una tapa transparente para cubrir los tubos que ofrece un control visual constante de la muestra.
+          <br><br>
+          <h5>Seguro y rápido</h5>
+          ECO 16 se puede utilizar con 14 tubos de ensayo de 16 mm y 2 de 22 mm.
+          <br><br>
+          La termorreacción en pequeños tubos minimiza el consumo de reactivos y reduce el espacio y el equipo necesarios ya que un solo reactor trabaja con múltiples muestras simultáneamente.
+          <br><br>
+          ECO 16 es adecuado para realizar un análisis de DQO en poco tiempo, en tan solo 30 minutos con una temperatura de digestión alta (16
+          `,
+          videoLink: "",
+          sendPriceText: "Ver más información",
+        },
+        {
+          alt: "alt-logo",
+          srcImage: eq56_1,
+          typeProduct: {
+            name: "DBO y Respirometros",
+            keyname: "dbo-y-respirometros",
+          },
+          categoryProduct: {
+            name: "BBO",
+            keyname: "dbo",
+          },
+          name: "RESPIROMETRIC Sensor System 6 - DBO",
+          description: "La solución compacta, fiable y habilitada para nubes para la determinación de la DBO y las pruebas de respirometría aeróbica.",
+          descriptionLong: `La solución compacta, fiable y habilitada para nubes para la determinación de la DBO y las pruebas de respirometría aeróbica.
+          <br><br>
+          <h5>Demanda bioquímica de oxígeno DBO</h5>
+          El RESPIROMETRIC  Sensor para la DBO está diseñado para proporcionar una solución precisa y fiable para laboratorios dedicados al control de calidad de las aguas.
+          <br><br>
+          La determinación de la DBO (Demanda Bioquímica de Oxígeno) es una forma fácil de controlar la actividad de los microorganismos en las muestras de agua y garantiza resultados precisos.
+          <br><br>
+          Los microorganismos presentes o inoculados en una muestra de agua que contiene materia orgánica biodegradable consumen oxígeno para su actividad metabólica y producen, por lo tanto, un volumen correspondiente de dióxido de carbono.
+          <br><br>
+          El dióxido de carbono es absorbido por un compuesto colocado en el cuello de la botella. El resultado de este proceso es una disminución de la presión del gas. El sensor mide esta diferencia de presiones incial y final y expresa el resultado en mg/l. 
+          <br><br>
+          <h5>Potente y fácil de usar</h5>
+          La pantalla LED de 4 dígitos permite un ahorro de la batería del sensor en comparación con otros sensores del mercado
+          <ul>
+          <li>Interfaz intuitiva con 2 botones para facilitar el análisis</li>
+          <li>Rango de valores: 500 ÷ 2000 mbar (hPa)</li>
+          <li>Resultados disponibles en diferentes unidades de medida: DBO (mg/l) y Presión (milibar)</li>
+          <li>Escalas de DBO: 90, 250, 600, 1000, 4000.</li>
+          <li>Conversión automática de los resultados de presión a DBO</li>
+          <li>Controla tus sensores con el software Wireless DataBox™ y RESPIROSOFT™</li>
+          </ul>
+          El RESPIROMETRIC Sensor transmite los datos directamente al PC permitiendo el control en tiempo real del análisis. Los análisis de DBO pueden durar de 5 a 30 días, la exclusiva solución VELP permite supervisar constantemente múltiples análisis gracias al software VELP RESPIROSoft™.
+          <ul>
+          <li>Curva del análisis en tiempo real</li>
+          <li>La información principal está siempre disponible y expuesta claramente</li>
+          <li>Control del estado de la batería del sensor</li>
+          <li>Métodos preinstalados para facilitar la configuración de los análisis</li>
+          <li>Informes personalizados en múltiples formatos</li>
+          <li>Comparación de los resultados</li>
+          <li>Se pueden establecer intervalos de muestreo, dependiendo de las necesidades de la aplicación</li>
+          </ul>
+          El VELP DataBox™, junto con el software RESPIROSoft™, se incluye con los sistemas y permite la transmisión inalámbrica de los datos de los sensores al PC. El DataBox™ almacena los resultados de hasta 48 RESPIROMETRIC  Sensor (8 sistemas).
+          Conexión a la nube VELP Ermes para controlar su sensor y su incubadora en cualquier momento y en cualquier lugar.
+          <br><br>
+          Conecte el RESPIROMETRIC Sensor a la exclusiva plataforma VELP Ermes para mejorar su experiencia de laboratorio.
+          <ul>
+          <li>Conectarse a la plataforma VELP Ermes mejorará su productividad en el laboratorio.</li>
+          <li>Visualización gráfica en tiempo real de los análisis, incluso desde diferentes lugares, con PC, Tablet y/o Smartphone.</li>
+          <li>Control y vigilancia de de varios laboratorios desde una única web.</li>
+          <li>Visualización de las condiciones de trabajo del instrumento en tiempo real</li>
+          <li>Apoyo técnico y analítico a distancia</li>
+          <li>Base de datos de los análisis accesible en cualquier momento y en cualquier lugar</li>
+          <li>Crear y compartir informes en diferentes formatos</li>
+          <li>Notificaciones y alertas inmediatas dependiendo de su configuración (en la plataforma y por correo electrónico)</li>
+          </ul>
+          `,
+          videoLink: "",
+          sendPriceText: "Ver más información",
+        },
+        {
+          alt: "alt-logo",
+          srcImage: eq57_1,
+          typeProduct: {
+            name: "DBO y Respirometros",
+            keyname: "dbo-y-respirometros",
+          },
+          categoryProduct: {
+            name: "BBO",
+            keyname: "dbo",
+          },
+          name: "RESPIROMETRIC Sensor System 6 Maxi - BMP",
+          description: "Solución versátil para realizar los análisis anaeróbicos para la determinación del potencial bioquímico de metano PBM. ",
+          descriptionLong: `Solución versátil para realizar los análisis anaeróbicos para la determinación del potencial bioquímico de metano PBM. 
+          <br><br>
+          <h5>La solución ideal para su análisis de PBM, potencial bioquímico de metano</h5>
+          El RESPIROMETRIC Sensor System Maxi está diseñado para apoyar los estudios de respiración anaeróbica para determinar el potencial bioquímico de metano (BMP) de la biomasa.
+          <br><br>
+          
+          El análisis BMP estudia la producción de biogás a partir de residuos orgánicos, principalmente para el tratamiento de residuos y aguas residuales y para la producción de energía renovable.
+          <br><br>
+          
+          El sistema es adecuado también para otros estudios anaeróbicos como los ensayos de Desnitrificación. Para realizar este análisis es necesario añadir las botellas de desnitrificación VELP opcionales Cod. A00000410. 
+          <br><br>
+          <h5>Potente y fácil de usar</h5>
+          <ul>
+          <li>La pantalla LED de 4 dígitos permite un ahorro de la batería del sensor en comparación con otros sensores del mercado</li>
+          <li>Interfaz intuitiva con 2 botones para facilitar el análisis</li>
+          <li>Rango de valores: 500 ÷ 2000 mbar (hPa)</li>
+          <li>Resultados disponibles en diferentes unidades de medida: PBM (NmLCH4/gSV) y Presión (milibar)</li>
+          <li>Conversión automática de los resultados de presión a PBM</li>
+          </ul>
+          <h5>Unique wireless control: DataBox™ and RESPIROSOFT™ Software</h5>
+          El RESPIROMETRIC Sensor transmite los datos directamente al PC permitiendo el control en tiempo real del análisis. Los análisis de DBO pueden durar de 5 a 30 días, la exclusiva solución VELP permite supervisar constantemente múltiples análisis gracias al software VELP RESPIROSoft™.
+          <ul>
+          <li>Curva del análisis en tiempo real</li>
+          <li>La información principal está siempre disponible y expuesta claramente</li>
+          <li>Control del estado de la batería del sensor</li>
+          <li>Métodos preinstalados para facilitar la configuración de los análisis</li>
+          <li>Informes personalizados en múltiples formatos</li>
+          <li>Comparación de los resultados</li>
+          <li>Se pueden establecer intervalos de muestreo, dependiendo de las necesidades de la aplicación</li>
+          </ul> 
+          El VELP DataBox™, junto con el software RESPIROSoft™, se incluye con los sistemas y permite la transmisión inalámbrica de los datos de los sensores al PC. El DataBox™ almacena los resultados de hasta 48 RESPIROMETRIC  Sensor (8 sistemas).
+          <h5>VELP Ermes connection to monitor your sensor and incubator anytime, anywhere</h5>
+          Conecte el RESPIROMETRIC Sensor a la exclusiva plataforma VELP Ermes para mejorar su experiencia de laboratorio.
+          <ul>
+          <li>Conectarse a la plataforma VELP Ermes mejorará su productividad en el laboratorio.</li>
+          <li>Visualización gráfica en tiempo real de los análisis, incluso desde diferentes lugares, con PC, Tablet y/o Smartphone.</li>
+          <li>Control y vigilancia de de varios laboratorios desde una única web.</li>
+          <li>Visualización de las condiciones de trabajo del instrumento en tiempo real</li>
+          <li>Apoyo técnico y analítico a distancia</li>
+          <li>Base de datos de los análisis accesible en cualquier momento y en cualquier lugar</li>
+          <li>Crear y compartir informes en diferentes formatos</li>
+          <li>Notificaciones y alertas inmediatas dependiendo de su configuración (en la plataforma y por correo electrónico)</li>
+          </ul>
+          `,
+          videoLink: "",
+          sendPriceText: "Ver más información",
+        },
+        {
+          alt: "alt-logo",
+          srcImage: eq58_1,
+          typeProduct: {
+            name: "DBO y Respirometros",
+            keyname: "dbo-y-respirometros",
+          },
+          categoryProduct: {
+            name: "BBO",
+            keyname: "dbo",
+          },
+          name: "RESPIROMETRIC Sensor System 6 for Soil Analysis",
+          description: "Solución versátil, fiable y habilitada para la nube ideal para las pruebas de degradación aeróbica en diversos suelos y compost.",
+          descriptionLong: `Solución versátil, fiable y habilitada para la nube ideal para las pruebas de degradación aeróbica en diversos suelos y compost.
+          <br><br>
+          <h5>Potente y fácil de usar</h5>
+          El sistema de sensores RESPIROMETRIC para el análisis de suelos está diseñado para apoyar las pruebas de degradación aeróbica en suelos y compost. El análisis proporciona resultados de la respiración microbiana del suelo a partir de la mineralización de sustancias orgánicas. Una de las principales aplicaciones de estas pruebas está relacionada con los procesos de detección y seguimiento durante las descontaminaciones y limpiezas.
+          <ul>
+          <li>La pantalla LED de 4 dígitos permite un ahorro de la batería del sensor en comparación con otros sensores del mercado</li>
+          <li>Interfaz intuitiva con 2 botones para facilitar el análisis</li>
+          <li>Rango de valores: 500 ÷ 2000 mbar (hPa)</li>
+          <li>Resultados disponibles en milibares</li>
+          </ul>
+          <h5>Unique wireless control: DataBox™ and RESPIROSOFT™ Software</h5>
+          Conecte el RESPIROMETRIC Sensor a la exclusiva plataforma VELP Ermes para mejorar su experiencia de laboratorio.
+          <br><br>
+          Conectarse a la plataforma VELP Ermes mejorará su productividad en el laboratorio.
+          <ul>
+          <li>Visualización gráfica en tiempo real de los análisis, incluso desde diferentes lugares, con PC, Tablet y/o Smartphone.</li>
+          <li>Control y vigilancia de de varios laboratorios desde una única web.</li>
+          <li>Visualización de las condiciones de trabajo del instrumento en tiempo real</li>
+          <li>Apoyo técnico y analítico a distancia</li>
+          <li>Base de datos de los análisis accesible en cualquier momento y en cualquier lugar</li>
+          <li>Crear y compartir informes en diferentes formatos</li>
+          <li>Notificaciones y alertas inmediatas dependiendo de su configuración (en la plataforma y por correo electrónico)</li>
+          </ul>
+          <h5>Conexión a la nube VELP Ermes para controlar su sensor y su incubadora en cualquier momento y en cualquier lugar.</h5>
+          Conecte el RESPIROMETRIC Sensor a la exclusiva plataforma VELP Ermes para mejorar su experiencia de laboratorio.
+          <br><br>
+          Conectarse a la plataforma VELP Ermes mejorará su productividad en el laboratorio.
+          <ul>
+          <li>Visualización gráfica en tiempo real de los análisis, incluso desde diferentes lugares, con PC, Tablet y/o Smartphone.</li>
+          <li>Control y vigilancia de de varios laboratorios desde una única web.</li>
+          <li>Visualización de las condiciones de trabajo del instrumento en tiempo real</li>
+          <li>Apoyo técnico y analítico a distancia</li>
+          <li>Base de datos de los análisis accesible en cualquier momento y en cualquier lugar</li>
+          <li>Crear y compartir informes en diferentes formatos</li>
+          <li>Notificaciones y alertas inmediatas dependiendo de su configuración (en la plataforma y por correo electrónico)</li>
+          </ul>
+          `,
+          videoLink: "",
+          sendPriceText: "Ver más información",
+        },
+        {
+          alt: "alt-logo",
+          srcImage: eq59_1,
+          typeProduct: {
+            name: "DBO y Respirometros",
+            keyname: "dbo-y-respirometros",
+          },
+          categoryProduct: {
+            name: "BBO",
+            keyname: "dbo",
+          },
+          name: "RESPIROMETRIC Sensor System 6 para la biodegradabilidad de los plásticos",
+          description: "Solución diseñada para la determinación del grado de biodegradabilidad de los materiales plásticos en solución acuosa mediante una degradación aeróbica.",
+          descriptionLong: `Solución diseñada para la determinación del grado de biodegradabilidad de los materiales plásticos en solución acuosa mediante una degradación aeróbica.
+          <br><br>
+          <h5>Potente y fácil de usar</h5>
+          El RESPIROMETRIC Sensor System para la biodegradabilidad de los materiales plásticos está diseñado para la realización de las pruebas de degradación aeróbica para la determinación del grado de biodegradabilidad de los materiales plásticos, incluidos los que contienen aditivos, sumergidos en un medio acuoso.
+          <ul>
+          <li>El MULTISTIRRER Digital de 6 posiciones permite un ajuste preciso de la velocidad de agitación y la función de bloqueo evita cambios involuntarios en la velocidad de agitación.</li>
+          <li>La pantalla LED de 4 dígitos permite un ahorro de la batería del sensor en comparación con otros sensores del mercado</li>
+          <li>Interfaz intuitiva con 2 botones para facilitar el análisis</li>
+          <li>Rango de valores: 500 ÷ 2000 mbar (hPa)</li>
+          <li>Resultados disponibles en milibares</li>
+          </ul>
+          <h5>Controla tus sensores con el software Wireless DataBox™ y RESPIROSOFT™</h5>
+          El RESPIROMETRIC Sensor transmite los datos directamente al PC permitiendo el control en tiempo real del análisis. Los análisis de DBO pueden durar de 5 a 30 días, la exclusiva solución VELP permite supervisar constantemente múltiples análisis gracias al software VELP RESPIROSoft™.
+          <ul>
+          <li>Curva del análisis en tiempo real</li>
+          <li>La información principal está siempre disponible y expuesta claramente</li>
+          <li>Control del estado de la batería del sensor</li>
+          <li>Métodos preinstalados para facilitar la configuración de los análisis</li>
+          <li>Informes personalizados en múltiples formatos</li>
+          <li>Comparación de los resultados</li>
+          <li>Se pueden establecer intervalos de muestreo, dependiendo de las necesidades de la aplicación</li>
+          </ul>
+          El VELP DataBox™, junto con el software RESPIROSoft™, se incluye con los sistemas y permite la transmisión inalámbrica de los datos de los sensores al PC. El DataBox™ almacena los resultados de hasta 48 RESPIROMETRIC  Sensor (8 sistemas).
+          <h5>Conexión a la nube VELP Ermes para controlar su sensor y su incubadora en cualquier momento y en cualquier lugar.</h5>
+          Conecte el RESPIROMETRIC Sensor a la exclusiva plataforma VELP Ermes para mejorar su experiencia de laboratorio.
+          <br><br>
+          Conectarse a la plataforma VELP Ermes mejorará su productividad en el laboratorio.
+          <ul>
+          <li>Visualización gráfica en tiempo real de los análisis, incluso desde diferentes lugares, con PC, Tablet y/o Smartphone.</li>
+          <li>Control y vigilancia de de varios laboratorios desde una única web.</li>
+          <li>Visualización de las condiciones de trabajo del instrumento en tiempo real</li>
+          <li>Apoyo técnico y analítico a distancia</li>
+          <li>Base de datos de los análisis accesible en cualquier momento y en cualquier lugar</li>
+          <li>Crear y compartir informes en diferentes formatos</li>
+          <li>Notificaciones y alertas inmediatas dependiendo de su configuración (en la plataforma y por correo electrónico)</li>
+          </ul>
+          `,
+          videoLink: "",
+          sendPriceText: "Ver más información",
+        },
+        {
+          alt: "alt-logo",
+          srcImage: eq60_1,
+          typeProduct: {
+            name: "DBO y Respirometros",
+            keyname: "dbo-y-respirometros",
+          },
+          categoryProduct: {
+            name: "BBO",
+            keyname: "dbo",
+          },
+          name: "DBO Sensor Análisis DBO",
+          description: "Solución innovadora, sin mercurio y extremadamente fiable para la determinación de la DBO.",
+          descriptionLong: `Solución innovadora, sin mercurio y extremadamente fiable para la determinación de la DBO.
+          <br><br>
+          <h5>Solución ideal para su análisis de DBO</h5>
+          La determinación de la DBO (Demanda Bioquímica de Oxígeno) es una forma fácil de controlar la actividad de los microorganismos en las muestras de agua y garantiza resultados precisos.
+          <br><br>
+          Los microorganismos presentes o inoculados en una muestra de agua que contiene materia orgánica biodegradable consumen oxígeno para su actividad metabólica y producen, por lo tanto, un volumen correspondiente de dióxido de carbono.
+          <br><br>
+          El dióxido de carbono es absorbido por compuesto colocado en el cuello de la botella. El resultado de este proceso es una disminución de la presión del gas. El sensor mide esta diferencia de presiones incial y final y expresa el resultado en mg/l. 
+          <br><br>
+          El sensor de DBO RESPIROMÉTRICO está diseñado para proporcionar una solución precisa y fiable para laboratorios dedicados al control de calidad de aguas.
+          <br><br>
+          <h5>Seguro y fácil de usar</h5>
+          <ul>
+          <li>Escala DBO 90, 250, 600 y 999 ppm de DBO</li>
+          <li>Los valores más altos pueden medirse diluyendo la muestra.</li>
+          <li>Se coloca directamente en el contenedor del análisis</li>
+          <li>Almacena automáticamente 5 valores de DBO en intervalos de 24 horas</li>
+          <li>No se interrumpe el análisis durante el fin de semana</li>
+          <li>Los resultados son accesibles, incluso después de cinco días</li>
+          <li>Lectura directa en mg/l (ppm)</li>
+          <li>Estaciones de agitación compactas</li>
+          <li>Los modelos con estaciones de agitación ofrecen la calidad de agitación VELP</li>
+          <li>Protección IP 54 contra la entrada de partículas y líquidos</li>
+          <li>Cumplimiento de la clase 3 IEC 101</li>
+          </ul>
+          `,
+          videoLink: "",
+          sendPriceText: "Ver más información",
+        },
+        {
+          alt: "alt-logo",
+          srcImage: eq61_1,
+          typeProduct: {
+            name: "Incubadores",
+            keyname: "incubadores",
+          },
+          categoryProduct: {
+            name: "Incubadores refrigerados",
+            keyname: "incubadores-refrigerados",
+          },
+          name: "FOC 120E Connect Cooled Incubator",
+          description: "Termostato refrigerado de 120L que proporciona conectividad de alto nivel y control de temperatura de alto rendimiento con el sistema Auto-Tuning.",
+          descriptionLong: `Termostato refrigerado de 120L que proporciona conectividad de alto nivel y control de temperatura de alto rendimiento con el sistema Auto-Tuning.
+          <br><br>
+          <h5>Máxima regulación y estabilidad térmica</h5>
+          <ul>
+          <li>El sistema de regulación Auto-Tuning asegura una excelente homogeneidad y estabilidad térmica (±0,5°C)</li>
+          <li>Sistema de refrigeración ecológico</li>
+          <li>Rango de la temperatura de incubación entre 3 y 50 °C</li>
+          <li>Sistema de termorregulación Auto-Tuning</li>
+          <li>Temperatura uniforme gracias a la ventilación forzada</li>
+          <li>Bajos costes de operación</li>
+          </ul>
+          <h5>Preciso y fácil de usar</h5>
+          <ul>
+          <li>Volumen total de 120 litros</li>
+          <li>Enchufes internos para alimentar dispositivos</li>
+          <li>Interfaz digital intuitiva con tres teclas para facilitar la configuración del instrumento</li>
+          <li>Acepta hasta 3. sistemas Respirometric Sensor VELP (3 sistemas de sensores de DBO 6, o 2 sistema de sensores de DBO 10)</li>
+          <li>Control constante de acuerdo a las BPL (Buenas Prácticas de Laboratorio)</li>
+          <li>Tiempo de grabación ajustable (en caso de conexión con Ermes o TempSoft™)</li>
+          <li>TempSoft™opcional. El software incorpora umbrales de alarma altos/bajos</li>
+          <li>Calibración rápida y fácil</li>
+          </ul>
+          <h5>Controle su FOC Connect en cualquier lugar, en cualquier momento con VELP Ermes</h5>
+          Gracias a VELP Ermes ya no se necesitan cables. Pruebe la plataforma que permite reducir las operaciones rutinarias de sus instrumentos gracias al control en tiempo real de su FOC Connect dondequiera que esté.
+          <br><br>
+          Acceso al registro de sus análisis para maximizar la productividad de su trabajo.
+          <br>
+Las notificaciones y alertas inmediatas le mantendrán informado del estado de sus análisis, y con la interrupción remota tendrá el control total de sus procesos garantizando una máxima seguridad.
+Acceda a los datos de su instrumento con total seguridad a través de la plataforma VELP Ermes y benefíciese de las actualizaciones de softwares y de la asistencia inmediata ad hoc.
+          <h5>Mantén tu FOC Connect bajo control con el software TEMPSoft™</h5>
+          Conectando el FOC directamente al PC a través del software TEMPSoft™ es posible:
+          <ul>
+          <li>controlar hasta 10 FOC Connect.</li>
+          <li>configurar temperaturas y rampas (diferentes temperaturas y tiempos) y establecer cualquier alarma</li>
+          <li>comprobar gráficamente la tendencia de la temperatura interna</li>
+          <li>exportar datos en diferentes formatos</li>
+          <li>almacenar los datos de los análisis según las BPL (Buenas Prácticas de Laboratorio).</li>
+          </ul>
+          FOC Connect permite el uso del protocolo de comunicación MODBUS.
+          `,
           videoLink: "",
           sendPriceText: "Ver más información",
         },
@@ -4740,12 +5429,12 @@ El robusto motor garantiza un funcionamiento continuo a lo largo de los años, s
           alt: "alt-logo",
           srcImage: eq40_1,
           typeProduct: {
-            name: "Agitadores",
-            keyname: "agitadores",
+            name: "Incubadores",
+            keyname: "incubadores",
           },
           categoryProduct: {
-            name: "Agitadores vortex",
-            keyname: "agitadores-vortex",
+            name: "Incubadores refrigerados",
+            keyname: "incubadores-refrigerados",
           },
           name: "",
           description: "",

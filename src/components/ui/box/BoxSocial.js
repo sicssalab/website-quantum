@@ -43,7 +43,7 @@ const BoxSocial = (props) => {
           <LazyLoadImage
             alt={item.alt}
             src={getIcon(item.type)}
-            height={20}
+            height={25}
           />
         </a>
       })}
