@@ -1,6 +1,6 @@
 import pagesContants from "../constants/pagesContants";
-import mainHeader1 from "../assets/sicssa/home/main.jpeg";
-
+import main1 from "../assets/home1.jpeg"
+import main2 from "../assets/home2.jpeg"
 
 const apiHome = {
     items: [
@@ -28,14 +28,12 @@ const apiHome = {
             items: [
                 {
                     name: "main",
-                    //url: require("/src/assets/sicssa/home/main.jpeg"),
-                    url: mainHeader1,
-                    urlMobile:"/src/assets/sicssa/home/main-mobile.jpeg",
+                    url: main1,
                 },
                 {
                     name: "main 2",
-                    url: "/src/assets/sicssa/home/main-2.jpeg",
-                    urlMobile:"/src/assets/sicssa/home/main-2-mobile.jpeg",
+                    url: main2,
+                    urlMobile:main1,
                 }
             ],
         },
