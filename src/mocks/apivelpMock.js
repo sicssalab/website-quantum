@@ -104,6 +104,10 @@ import eq67_1 from "../assets/landings/velp/equipos/floculadores/fc-s/1.jpg";
 import eq68_1 from "../assets/landings/velp/equipos/floculadores/fp4/1.jpg";
 import eq69_1 from "../assets/landings/velp/equipos/floculadores/jlt/1.jpg";
 import eq70_1 from "../assets/landings/velp/equipos/agitadores/rotax-6-8/1.jpg";
+import eq71_1 from "../assets/landings/velp/equipos/turbidimetro/1.jpg";
+import eq72_1 from "../assets/landings/velp/equipos/baño-circulacion/ocb/1.jpg";
+import eq73_1 from "../assets/landings/velp/equipos/bombas/jpv/1.jpg";
+import eq74_1 from "../assets/landings/velp/equipos/bombas/sp311/1.jpg";
 
 const apiSelcaEscondidaMock = {
   items: [
@@ -5859,18 +5863,127 @@ Luego, el operador realiza una serie de pruebas para comparar los efectos de dif
         },
         {
           alt: "alt-logo",
-          srcImage: eq40_1,
+          srcImage: eq71_1,
           typeProduct: {
-            name: "Agitadores",
-            keyname: "agitadores",
+            name: "Turbidimetro",
+            keyname: "turbidimetro",
           },
           categoryProduct: {
-            name: "Agitadores rotativos",
-            keyname: "agitadores-rotativos",
+            name: "Turbidimetro",
+            keyname: "turbidimetro",
           },
-          name: "",
-          description: "",
-          descriptionLong: ``,
+          name: "TB1 Turbidímetro",
+          description: "Turbidímetro portátil que mide la turbidez de muestras acuosas de forma sencilla y precisa.",
+          descriptionLong: `Turbidímetro portátil que mide la turbidez de muestras acuosas de forma sencilla y precisa.
+          <br><br>
+          <h5>Impermeable, intuitivo y preciso</h5>
+          <ul>
+          <li>Portátil</li>
+          <li>Fácil de calibrar</li>
+          <li>Resultados entregados en segundos</li>
+          <li>Análisis precisos</li>
+          <li>Se pueden probar hasta 1200 muestras con un juego de baterías</li>
+          <li>Suministrado con 4 estándares de calibración (800, 100, 20 y 0.02 NTU)</li>
+          <li>IP 67 - protección de ingreso partículas y agua</li>
+          <li>Caja de ABS - trazabilidad estándar NIST</li>
+          <li>Medida según la norma ISO 7027 Incluye tres viales, paño, aceite de silicona, pilas y estuche</li>
+          </ul>
+          `,
+          videoLink: "",
+          sendPriceText: "Ver más información",
+        },
+        {
+          alt: "alt-logo",
+          srcImage: eq72_1,
+          typeProduct: {
+            name: "Baños de circulación abiertos",
+            keyname: "baños-de-circulacion-abiertos",
+          },
+          categoryProduct: {
+            name: "Baño termostático",
+            keyname: "baño-termostatico",
+          },
+          name: "OCB Baño termostático",
+          description: "El baño termostático VELP Scientifica está diseñado para todas aquellas aplicaciones en las que se requiera un termostato rápido y preciso de las muestras mediante la circulación constante de agua.",
+          descriptionLong: `El baño termostático VELP Scientifica está diseñado para todas aquellas aplicaciones en las que se requiera un termostato rápido y preciso de las muestras mediante la circulación constante de agua.
+          <br><br>
+          <h5>Preciso e intuitivo</h5>
+          <ul>
+          <li>OCB garantiza una excelente homogeneidad de temperatura</li>
+          <li>El temporizador se puede configurar como máximo 24 h 59 min</li>
+          <li>La temperatura se puede configurar de la habitación a 105 °C</li>
+          <li>Pantalla LCD termostatizada de alta eficacia para configurar la temperatura con máxima precisión</li>
+          <li>Bañeras de 5 o 7 litros</li>
+          <li>Elección de rejillas para tubos disponibles</li>
+          <li>La bañeras de 5 litros acepta 2 rejillas; la bañeras de 7 litros acepta 3 rejillas</li>
+          </ul>
+          `,
+          videoLink: "",
+          sendPriceText: "Ver más información",
+        },
+        {
+          alt: "alt-logo",
+          srcImage: eq73_1,
+          typeProduct: {
+            name: "Bombas",
+            keyname: "bombas",
+          },
+          categoryProduct: {
+            name: "Bomba de vacío",
+            keyname: "bomba-de-vacio",
+          },
+          name: "JPV Bomba de vacío",
+          description: "Una bomba capaz de asegurar una constante recirculación de agua, reduciendo drásticamente el consumo. Ideal para aplicaciones donde se requiere una aspiración sin pulsaciones.",
+          descriptionLong: `Una bomba capaz de asegurar una constante recirculación de agua, reduciendo drásticamente el consumo. Ideal para aplicaciones donde se requiere una aspiración sin pulsaciones.
+          <br><br>
+          <h5>Calidad y facilidad de uso</h5>
+          <ul>
+          <li>Ausencia de ruidos y vibraciones</li>
+          <li>Caudal regulable de 0 a 22 litros por minuto</li>
+          <li>Utilización de un depósito donde el agua introducida se recircula de forma continua</li>
+          <li>Independiente de las contingencias del agua del grifo</li>
+          <li>Asas para simplificar la elevación</li>
+          <li>Grifo para vaciar el depósito</li>
+          <li>Proporciona vacío donde no hay suministro de agua confiable disponible</li>
+          <li>Vacío ajustable desde atmosférico hasta 0.04 bar</li>
+          <li>Estructura ABS capaz de garantizar una alta resistencia a la corrosión química</li>
+          </ul>
+          <h5>Recomendado para:</h5>
+          Evaporadores rotativos, filtración al vacío, (SPE), etc.
+          `,
+          videoLink: "",
+          sendPriceText: "Ver más información",
+        },
+        {
+          alt: "alt-logo",
+          srcImage: eq74_1,
+          typeProduct: {
+            name: "Bombas",
+            keyname: "bombas",
+          },
+          categoryProduct: {
+            name: "Bomba de vacío",
+            keyname: "bomba-de-vacio",
+          },
+          name: "SP 311 Bomba Peristáltica",
+          description: "Bomba peristáltica ideal para el trasvase de gases, líquidos, mezclas y emulsiones en diversos sectores industriales",
+          descriptionLong: `Bomba peristáltica ideal para el trasvase de gases, líquidos, mezclas y emulsiones en diversos sectores industriales
+          <br><br>
+          <h5>Simplicidad y fiabilidad</h5>
+          <ul>
+          <li>Mantenimiento mínimo</li>
+          <li>Fácil limpieza: sin contacto de líquidos y partes mecánicas</li>
+          <li>Mangueras (2 diámetros disponibles) resisten la mayoría de los productos químicos</li>
+          <li>Control electrónico de velocidad</li>
+          <li>Capaz de bombear desde 10 metros de profundidad</li>
+          </ul>
+          <h5>Recomendado para:</h5>
+          <ul>
+          <li>Transferencia de líquidos, gases, mezclas, emulsiones, etc.</li>
+          <li>Muestras y dosificación continua</li>
+          <li>Automatización de análisis</li>
+          </ul>
+          `,
           videoLink: "",
           sendPriceText: "Ver más información",
         },

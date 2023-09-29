@@ -2,7 +2,7 @@ import pagesContants from "../constants/pagesContants";
 import pageData from "../mocks/apivelpMock";
 
 const resource = {
-    shortName: "Selva escondida II",
+    shortName: "VELP Scientifica",
     slug: pagesContants.landingVelp,
     locale: "es",
     metadata: {
