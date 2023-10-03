@@ -77,19 +77,18 @@ const apiOwnProyects = {
                     image: logo5,
                     imageMobile: logo5,
                     link: pagesContants.landingABB
-                    // hasta qui con links
                 },
                 {
                     alt: 'logo labindia',
                     image: logo6,
                     imageMobile: logo6,
-                    // link: pagesContants.landingNaayES
+                    link: pagesContants.landingOptosky
                 },
                 {
                     alt: 'logo labindia',
                     image: logo7,
                     imageMobile: logo7,
-                    // link: pagesContants.landingNaayES
+                    link: pagesContants.landingSixcan
                 },
                 {
                     alt: 'logo labindia',
@@ -107,13 +106,13 @@ const apiOwnProyects = {
                     alt: 'logo labindia',
                     image: logo10,
                     imageMobile: logo10,
-                    // link: pagesContants.landingNaayES
+                    link: pagesContants.landingThomas
                 },
                 {
                     alt: 'logo labindia',
                     image: logo11,
                     imageMobile: logo11,
-                    // link: pagesContants.landingNaayES
+                    link: pagesContants.landingShimadzu
                 },
                 {
                     alt: 'logo labindia',

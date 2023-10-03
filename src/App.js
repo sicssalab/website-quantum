@@ -126,6 +126,15 @@ function App(props) {
         <Route path={pagesContants.landingAquaSolutions}
           element={<SlugPage locales={locales} />}
         />
+        <Route path={pagesContants.landingSixcan}
+          element={<SlugPage locales={locales} />}
+        />
+        <Route path={pagesContants.landingThomas}
+          element={<SlugPage locales={locales} />}
+        />
+        <Route path={pagesContants.landingShimadzu}
+          element={<SlugPage locales={locales} />}
+        />
         <Route path={pagesContants.terminosCondicionesES}
           element={<SlugPage locales={locales} />}
         />
