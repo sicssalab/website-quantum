@@ -10,14 +10,13 @@ import logo9 from "../assets/LOGO-MARCAS-PROVEEDORES/9bwb-technologies.jpeg";
 import logo10 from "../assets/LOGO-MARCAS-PROVEEDORES/10thomas-scientific.webp";
 import logo11 from "../assets/LOGO-MARCAS-PROVEEDORES/11shimadzu.jpeg";
 import logo12 from "../assets/LOGO-MARCAS-PROVEEDORES/12aqua-solutions.jpeg";
-import logo13 from "../assets/LOGO-MARCAS-PROVEEDORES/13optimize-technologies.png";
 import pagesContants from "../constants/pagesContants";
 
 const apiOwnProyects = {
     items: [
         {
             type: "header-component",
-            title: "<span class='title-bg'>Nuestros<br /><strong>Proyectos</strong></span>",
+            title: "<span class='title-bg'>Nuestros<br /><strong>Productos</strong></span>",
             isLanding: false,
             socialNetwork: [
                 {
@@ -65,19 +64,19 @@ const apiOwnProyects = {
                     alt: 'logo hitachi',
                     image: logo3,
                     imageMobile: logo3,
-                    // link: pagesContants.landingEviaES
+                    link: pagesContants.landingHitachi
                 },
                 {
                     alt: 'logo labindia',
                     image: logo4,
                     imageMobile: logo4,
-                    // link: pagesContants.landingNaayES
+                    link: pagesContants.landingLabindia
                 },
                 {
                     alt: 'logo abb',
                     image: logo5,
                     imageMobile: logo5,
-                    // link: pagesContants.landingPalmasES
+                    link: pagesContants.landingABB
                     // hasta qui con links
                 },
                 {
@@ -96,13 +95,13 @@ const apiOwnProyects = {
                     alt: 'logo labindia',
                     image: logo8,
                     imageMobile: logo8,
-                    // link: pagesContants.landingNaayES
+                    link: pagesContants.landingAstori
                 },
                 {
                     alt: 'logo labindia',
                     image: logo9,
                     imageMobile: logo9,
-                    // link: pagesContants.landingNaayES
+                    link: pagesContants.landingBwBTechnologies
                 },
                 {
                     alt: 'logo labindia',
@@ -120,13 +119,7 @@ const apiOwnProyects = {
                     alt: 'logo labindia',
                     image: logo12,
                     imageMobile: logo12,
-                    // link: pagesContants.landingNaayES
-                },
-                {
-                    alt: 'logo labindia',
-                    image: logo13,
-                    imageMobile: logo13,
-                    // link: pagesContants.landingNaayES
+                    link: pagesContants.landingAquaSolutions
                 },
             ]
         },

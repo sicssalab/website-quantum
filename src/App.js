@@ -105,6 +105,27 @@ function App(props) {
         <Route path={pagesContants.landingVelp}
           element={<SlugPage locales={locales} />}
         />
+        <Route path={pagesContants.landingHitachi}
+          element={<SlugPage locales={locales} />}
+        />
+        <Route path={pagesContants.landingLabindia}
+          element={<SlugPage locales={locales} />}
+        />
+        <Route path={pagesContants.landingABB}
+          element={<SlugPage locales={locales} />}
+        />
+        <Route path={pagesContants.landingOptosky}
+          element={<SlugPage locales={locales} />}
+        />
+        <Route path={pagesContants.landingAstori}
+          element={<SlugPage locales={locales} />}
+        />
+        <Route path={pagesContants.landingBwBTechnologies}
+          element={<SlugPage locales={locales} />}
+        />
+        <Route path={pagesContants.landingAquaSolutions}
+          element={<SlugPage locales={locales} />}
+        />
         <Route path={pagesContants.terminosCondicionesES}
           element={<SlugPage locales={locales} />}
         />

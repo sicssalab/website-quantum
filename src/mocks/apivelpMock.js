@@ -105,7 +105,7 @@ import eq68_1 from "../assets/landings/velp/equipos/floculadores/fp4/1.jpg";
 import eq69_1 from "../assets/landings/velp/equipos/floculadores/jlt/1.jpg";
 import eq70_1 from "../assets/landings/velp/equipos/agitadores/rotax-6-8/1.jpg";
 import eq71_1 from "../assets/landings/velp/equipos/turbidimetro/1.jpg";
-import eq72_1 from "../assets/landings/velp/equipos/baño-circulacion/ocb/1.jpg";
+import eq72_1 from "../assets/landings/velp/equipos/bano-circulacion/ocb/1.jpg";
 import eq73_1 from "../assets/landings/velp/equipos/bombas/jpv/1.jpg";
 import eq74_1 from "../assets/landings/velp/equipos/bombas/sp311/1.jpg";
 

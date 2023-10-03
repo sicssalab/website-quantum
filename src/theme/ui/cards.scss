@@ -194,6 +194,11 @@
     font-weight: var(--bs-body-font-weight);
     line-height: var(--bs-body-line-height);
   }
+  .card-body {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+  }
 }
 
 @media (max-width: $sm) {
