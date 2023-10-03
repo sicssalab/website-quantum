@@ -1,16 +1,11 @@
-import pagesContants from "../constants/pagesContants";
-//import logo from "../assets/landings/arizona/brookfield-logo2023.png"
 import logo from "../assets/LOGO-MARCAS-PROVEEDORES/brookfield-ametek.jpg";
 
-import producto1_1 from "../assets/landings/arizona/productos/1/computrac-max-4000xl_315x220_l.png";
+import main1 from "../assets/landings/arizona/HOME BROOKFIELD.png";
+import main2 from "../assets/landings/arizona/HOME BROOKFIELD 2.jpg";
+
 import producto1_2 from "../assets/landings/arizona/productos/1/computrac-max-4000xl_315x220_r.png";
-
 import producto2_1 from "../assets/landings/arizona/productos/2/computrac-max-5000-xl_l.png";
-import producto2_2 from "../assets/landings/arizona/productos/2/computrac-max-5000-xl_r.png";
-
 import producto3_1 from "../assets/landings/arizona/productos/3/computrac-vapor-pro-xl_315x220_left.png";
-import producto3_2 from "../assets/landings/arizona/productos/3/computrac-vapor-pro-xl_315x220_right.png";
-
 import producto4_1 from "../assets/landings/arizona/productos/4/vaporproxl-autosampler-lab.png";
 
 const apiSelcaEscondidaMock = {
@@ -44,17 +39,13 @@ const apiSelcaEscondidaMock = {
       items: [
         {
           name: "test1",
-          url: "https://sicssalab.net/test-miraro/mocks/selva-escondidaii/selva1.webp",
-          urlMobile:
-            "https://sicssalab.net/test-miraro/mocks/selva-escondidaii/banner-selva1.webp",
+          url: main1,
+          // urlMobile:
+          //   "https://sicssalab.net/test-miraro/mocks/selva-escondidaii/banner-selva1.webp",
         },
         {
           name: "test2",
-          url: "https://sicssalab.net/test-miraro/mocks/selva-escondidaii/selva2.webp",
-        },
-        {
-          name: "test3",
-          url: "https://sicssalab.net/test-miraro/mocks/selva-escondidaii/selva3.webp",
+          url: main2,
         },
       ],
     },
@@ -85,7 +76,11 @@ const apiSelcaEscondidaMock = {
                     <li>Rápido: El exclusivo sistema de enfriamiento rápido mejora el rendimiento en un 25% con respecto a otras pérdidas rápidas en instrumentos de secado.</li>
                     <li>Versátil: El MAX 4000XL es lo suficientemente robusto como para sobresalir en una amplia gama de aplicaciones, desde alimentos hasta plástico y papel.</li>
                     <li>Soporte de clase mundial: Si encuentra una aplicación desafiante, nuestro equipo de expertos en análisis de humedad está aquí para ayudarlo, de forma gratuita.</li>
-                </ul>`,
+                </ul>
+                <div class="text-center">
+                  <a target="_blank" href="https://www.brookfieldengineering.com/-/media/ametekbrookfield/2023-brochures/moisture-analyzer/brochure_max4000xl_2023aug1_eng.pdf?la=en&revision=00031e65-9193-4563-a622-28f6a9282a9c&hash=55BA075B50ADDB24A70B23640CD9E900">Ver documentación</a>
+                </div>
+                `,
           sendPriceText: "Ver más información",
         },
         {
@@ -102,7 +97,11 @@ const apiSelcaEscondidaMock = {
                     <li>Sencillo: Operación con un solo botón sin necesidad de pasos intermedios de pesaje o enfriamiento.</li>
                     <li>Duradero: Fabricado en los EE.UU. con una carcasa totalmente de acero, el MAX 5000XL fue diseñado para un uso intensivo.</li>
                     <li>Preciso: Se correlaciona con métodos populares, incluidos ASTM D5630, ASTM D4574, ASTM E1534 y más.</li>
-                </ul>`,
+                </ul>
+                <div class="text-center">
+                  <a target="_blank" href="https://www.brookfieldengineering.com/-/media/ametekbrookfield/2023-brochures/moisture-analyzer/brochure_max5000xl_2023aug1_eng.pdf?la=en&revision=7b4ce94b-a75e-42eb-a870-e161d9dc2229&hash=0356CE58A951BC6BAF16E7AC8149E101">Ver documentación</a>
+                </div>
+                `,
           sendPriceText: "Ver más información",
         },
         {
@@ -119,7 +118,8 @@ const apiSelcaEscondidaMock = {
                     <li>Sensible: Detecte tan solo 10 microgramos (0.00001g) de agua y determine el contenido de humedad tan bajo como 10 ppm.</li>
                     <li>Flexible: Muestre muestras en viales de diferentes tamaños sin exponerlas al aire ambiente.</li>
                     <li>Fácil de usar: La nueva pantalla táctil y la interfaz de usuario intuitiva ayudan a eliminar las posibles fuentes de error del operador.</li>
-                </ul>`,
+                </ul>
+                `,
           sendPriceText: "Ver más información",
         },
         {
