@@ -21,7 +21,7 @@ app.use("/src/assets", express.static(path.join(__dirname, "src/assets")));
 app.use("/public", express.static(path.join(__dirname, "../dist/public")));
 
 app.get(/\.(txt)$/, express.static(path.resolve(__dirname, "../dist/public")));
-app.get(/\.(js|css|map|ico|svg|webp|webm|otf|txt|jpg|jpeg|gif|png)$/, express.static(path.resolve(__dirname, "../dist")));
+app.get(/\.(js|css|map|ico|svg|webp|webm|otf|txt|jpg|jpeg|gif|png|avif|pdf)$/, express.static(path.resolve(__dirname, "../dist")));
 
 const renderHeader = (html, optionsPage, locale) => {
   const meta = optionsPage.metadata;

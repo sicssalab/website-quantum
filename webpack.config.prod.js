@@ -104,7 +104,18 @@ module.exports = (enviroment) => {
             },
           },
           {
-            test: /\.(jpe?g|png|gif|webp)$/i,
+            test: /\.(pdf)$/,
+            use: [
+              {
+                loader: 'file-loader',
+                options: {
+                  name: '[name].[ext]'
+                }
+              }
+            ]
+          },
+          {
+            test: /\.(jpe?g|png|gif|webp|avif)$/i,
             loader: "url-loader",
             options: {
               name: "./assets/[path][name].[ext]",
