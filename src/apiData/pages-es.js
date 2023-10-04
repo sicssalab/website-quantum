@@ -75,18 +75,18 @@ const resource = {
                 order: 4,
                 orderMobile: 4,
             },
-            // {
-            //     name: "Aviso  de Privacidad",
-            //     url: pagesContants.avisoPrivacidadES,
-            //     order: 3,
-            //     orderMobile: 3,
-            // },
-            // {
-            //     name: "Términos y Condiciones",
-            //     url: pagesContants.terminosCondicionesES,
-            //     order: 2,
-            //     orderMobile: 2,
-            // },
+            {
+                name: "Aviso  de Privacidad",
+                url: pagesContants.avisoPrivacidadES,
+                order: 3,
+                orderMobile: 3,
+            },
+            {
+                name: "Términos y Condiciones",
+                url: pagesContants.terminosCondicionesES,
+                order: 2,
+                orderMobile: 2,
+            },
             {
                 name: "Contacto",
                 url: pagesContants.contactoES,

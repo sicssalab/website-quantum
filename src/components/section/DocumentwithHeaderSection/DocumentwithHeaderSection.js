@@ -5,13 +5,13 @@ import { ContainerCustom } from "../../ui/Containers";
 
 const DocumentwithHeaderSection = (props) => {
     const { routesData } = useGlobalState();
-    const { locales, description, title } = props;
+    const { locales, description, title, imgNoInvert } = props;
     const { logo, menu: menuItems } = routesData.header;
 
     return (
         <div className="document-with-header">
             <header className="header-blog position-relative">
-                <div className="content-nav">
+                <div className={`content-nav ${imgNoInvert ? "no-invert": ""}`}>
                     <NavbarHeader
                         logo={logo}
                         menu={menuItems}

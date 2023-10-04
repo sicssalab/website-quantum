@@ -13,15 +13,9 @@ const resource = {
         "sitename": "SICSSA LAB",
         "type": "website",
         //"follow": //TODO solo las que no llevan index agregarlo nofollow, noindex //Meta name=”robots” content=”noindex,nofollow”
-        "image": "/src/assets/sicssa/metatag-sicssa-lab.png"
+        //"image": "/src/assets/sicssa/metatag-sicssa-lab.png"
     },
-    localizations: [
-        {
-            "shortName": "aviso de privacidad EN",
-            slug: pagesContants.terminosCondicionesEN,
-            "locale": "en"
-        }
-    ],
+    localizations: [],
     ...apiTerminosCondiciones
 }
 
