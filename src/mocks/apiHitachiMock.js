@@ -11,6 +11,9 @@ import pro05_1 from "../assets/landings/hitachi/productos/espectrofotometro/u290
 import pro06_1 from "../assets/landings/hitachi/productos/espectrofotometro/uh5300/1.avif";
 import pro07_1 from "../assets/landings/hitachi/productos/espectrofotometro/u5100/1.avif";
 import pro08_1 from "../assets/landings/hitachi/productos/espectrofotometro/u3900/1.avif";
+import pro09_1 from "../assets/landings/hitachi/productos/espectrofotometro/nexta-sta/1.avif";
+import pro10_1 from "../assets/landings/hitachi/productos/espectrofotometro/nexta-dsc/1.avif";
+import pro11_1 from "../assets/landings/hitachi/productos/software-nexta/1.avif";
 
 const apiSelcaEscondidaMock = {
   items: [
@@ -1040,7 +1043,7 @@ los mejores niveles de su clase* 2 de resolución de 1 nm.
           El Monocromo simple es adecuado para una muestra de baja concentración ya que la energía luminosa de la muestra es más fuerte en comparación con el Monocromo doble. El Double Monochrome es adecuado para muestras de alta concentración, ya que puede medir una alta absorbancia con poca luz parásita.
           <br><br>
           <h5>Especificaciones</h5>
-          <table>
+          <table class="table table-bordered table-striped">
             <tr>
               <th>Artículo</th>
               <th>U-3900</th>
@@ -1098,19 +1101,215 @@ Un botón de lectura de archivos con vista previa permite revisar hasta dos dato
         },
         {
           alt: "alt-logo",
-          srcImage: pro01_1,
+          srcImage: pro09_1,
           typeProduct: {
-            name: "Espectrofotómetro",
-            keyname: "espectrofotometro",
+            name: "Análisis Térmico",
+            keyname: "analisis-termico",
           },
           categoryProduct: {
-            name: "Espectrofotómetro",
-            keyname: "espectrofotometro",
+            name: "Análisis Térmico",
+            keyname: "analisis-termico",
           },
-          name: "",
-          description: "",
-          descriptionLong: `
+          name: "Analizador Termogravimétrico Simultáneo Serie NEXTA STA",
+          description: "La tecnología de control de equilibrio recientemente incorporada garantiza la estabilidad y reproducibilidad de la línea base a nivel de microgramos además de nuestro aclamado sistema de equilibrio digital horizontal de doble haz. La serie NEXTA STA tiene las siguientes características",
+          descriptionLong: `La tecnología de control de equilibrio recientemente incorporada garantiza la estabilidad y reproducibilidad de la línea base a nivel de microgramos además de nuestro aclamado sistema de equilibrio digital horizontal de doble haz. La serie NEXTA STA tiene las siguientes características;
+          Tecnología de control de alta temperatura que maneja una variedad de programas de temperatura<br>
+          Medición DSC disponible, que pone a disposición mediciones de capacidad calorífica específica<br>
+          La observación y medición de muestras, la característica clave pionera de Hitachi<br>
+          Incluye los canales de flujo recientemente diseñados para el intercambio de gases de alto nivel<br>
+          <br><br>
+          Además de las aplicaciones convencionales, La serie NEXTA STA muestra su fortaleza en análisis como la determinación cuantitativa de los componentes de materiales avanzados, materiales compuestos y trazas de humedad.
+          <h4>Características</h4>
+          <h5>1. Rendimiento básico de clase mundial</h5>
+          La serie NEXTA STA incorpora una nueva tecnología de control de equilibrio además del sistema de doble haz digital horizontal que ha sido bien recibido en nuestros modelos anteriores. Convencionalmente, la desviación de la línea base se produce debido a la histéresis en el programa de temperatura o a factores ambientales circundantes. Sin embargo, al incorporar una nueva tecnología de equilibrio, la serie NEXTA STA logró una estabilidad inicial que no se ve afectada por el programa de temperatura.
+          <br><br>
+          <h5>2. Amplia aplicación de medición utilizando tecnología de control de alta temperatura.</h5>
+          El horno de calentamiento de la serie NEXTA STA tiene una tecnología de control de temperatura mejorada que realiza varios programas de temperatura, como calentamiento a una velocidad de calentamiento constante, calentamiento y enfriamiento repetidos, calentamiento y mantenimiento isotérmico, DSC con temperatura modulada y análisis térmico de velocidad de reacción controlada.
+          <br><br>
+          <h5>3. Medición DSC disponible en la serie NEXTA STA: medición de la capacidad calorífica específica en el amplio rango de temperatura logrado por DSC</h5>
+          La serie NEXTA STA muestra una evolución de DTA a DSC, lo que permite la medición simultánea de termogravimetría y DSC, lo que la distingue de sus predecesoras. Además, al utilizar DSC con temperatura modulada, se logran mediciones de capacidad calorífica específicas en un amplio rango de temperaturas que no se pueden medir mediante DSC independiente.
+          <br><br>
+          <h5>4. Opción de observación de muestras “Real View®”</h5>
+          Se ha seguido desarrollando la bien recibida opción “Real View®”.
+          No solo se observan las muestras mientras se realizan las mediciones, sino que también se han incorporado varias funciones de análisis, como zoom digital, análisis de imágenes, capacidad de medición de longitud y análisis de color, que pueden admitir una variedad de aplicaciones.
+          <h5>Especificaciones</h5>
+          <table class="table table-bordered table-striped">
+            <tr>
+              <th></th>
+              <th>STA200</th>
+              <th>STA200RV</th>
+              <th>STA300</th>
+            </tr>
+            <tr>
+            <td>Tipo de saldo</td>
+            <td colspan="3">Tipo diferencial horizontal</td>
+            </tr>
+            <tr>
+            <td>Rango de temperatura</td>
+            <td>Ambiente hasta 1.100°C</td>
+            <td>Ambiente hasta 1.000°C</td>
+            <td>Ambiente hasta 1.500°C</td>
+            </tr>
+            <tr>
+            <td>TG Deriva de la línea base 1)</td>
+            <td colspan="3"><10ug</td>
+            </tr>
+            <tr>
+            <td>Estabilidad de referencia del TG 2)</td>
+            <td colspan="3"><10ug</td>
+            </tr>
+            <tr>
+            <td>Función DSC</td>
+            <td colspan="3">Equipado de serie</td>
+            </tr>
+            <tr>
+            <td>Medición de la capacidad calorífica específica</td>
+            <td colspan="3">Disponible (Opcional)</td>
+            </tr>
+            <tr>
+            <td>Precisión de temperatura</td>
+            <td colspan="3">+/-0,07°C</td>
+            </tr>
+            <tr>
+            <td>Precisión de temperatura</td>
+            <td colspan="3">+/-0,2°C</td>
+            </tr>
+            <tr>
+            <td>Vista Real®</td>
+            <td>N / A</td>
+            <td>Opcional</td>
+            <td>N / A</td>
+            </tr>
+            <tr>
+            <td>control de gases</td>
+            <td colspan="3">Controlador de flujo másico integrado</td>
+            </tr>
+          </table>
           `,
+          videoLink: "",
+          sendPriceText: "Ver más información",
+        },
+        {
+          alt: "alt-logo",
+          srcImage: pro10_1,
+          typeProduct: {
+            name: "Análisis Térmico",
+            keyname: "analisis-termico",
+          },
+          categoryProduct: {
+            name: "Análisis Térmico",
+            keyname: "analisis-termico",
+          },
+          name: "Calorímetro diferencial de barrido (DSC) Serie NEXTA® DSC",
+          description: "La serie NEXTA DSC, la última serie de calorímetros diferenciales de barrido (DSC) de Hitachi, ofrece una sensibilidad superior con una estabilidad inicial excepcional.",
+          descriptionLong: `La serie NEXTA DSC, la última serie de calorímetros diferenciales de barrido (DSC) de Hitachi, ofrece una sensibilidad superior con una estabilidad inicial excepcional. Además, permite un rango de temperatura aún más amplio para Real View ® . Los NEXTA DSC también tienen la capacidad de utilizar el método DSC de temperatura modulada para determinar la capacidad calorífica específica. Junto con las características de seguridad mejoradas diseñadas, este instrumento es aún más fácil de usar.
+          La serie de DSC proporciona tecnología de medición de vanguardia para el control de calidad en diversos campos, así como para la investigación y el desarrollo de polímeros, materiales inorgánicos, productos farmacéuticos y otros.
+          <h4>Características</h4>
+          <h5>Repetibilidad de línea base de clase mundial</h5>
+          Tanto NEXTA DSC600 como DSC200 utilizan un diseño avanzado de flujo de calor en el sensor. Esto permite que el calor del disipador de calor se transfiera uniformemente a la muestra y a la referencia, lo que da como resultado una alta estabilidad de referencia. Junto con un horno construido con un diseño de aislamiento de tres capas de baja capacidad calorífica, esto permite que NEXTA DSC alcance una repetibilidad y estabilidad de referencia de clase mundial.
+          <br><br>
+          <h5>Sensibilidad de clase mundial</h5>
+          El NEXTA DSC600 tiene un sensor DSC tipo termopila patentado. Al utilizar termopares sensores de temperatura de calorimetría diferencial de barrido (señal DSC) conectados en serie y multiplexados, los NEXTA DSC logran una alta sensibilidad de 0,1 µW o menos, lo que permite la medición de muestras aún más pequeñas.
+          <br><br>
+          <h5>Rango de temperatura más amplio para Real View ® DSC</h5>
+          La Unidad de Observación de Muestras Real View tiene una cámara incorporada de alta resolución de dos megapíxeles que admite la observación visual de la muestra. La ventana de visualización (ventana de observación) tiene un mecanismo de calentamiento que extiende el rango de medición desde el rango convencionalmente observable de temperatura ambiente y superior hasta la baja temperatura de -50°C. Esto permite al usuario observar procesos como la cristalización y la transición vítrea, por ejemplo, de muestras a bajas temperaturas. Esto ofrece una capacidad única para comprender el comportamiento de los materiales.
+          <br><br>
+          <h5>Determinación de la capacidad calorífica específica mediante el método DSC con temperatura modulada</h5>
+          El flujo de calor inverso (que muestra la transición vítrea y la fusión) y el flujo de calor no inverso (que muestra relajación entálpica, curado, evaporación, descomposición, etc.) se obtienen a partir de una medición DSC modulada. Esto es útil cuando estas transiciones o reacciones se superponen o el alivio del estrés oscurece una transición. El método DSC modulado también se puede utilizar para determinar la capacidad calorífica específica (Cp), lo que simplifica la medición de Cp.
+          <br><br>
+          <h5>Especificaciones</h5>
+          <table class="table table-bordered table-striped">
+            <tr>
+              <th></th>
+              <th>DSC600</th>
+              <th>DSC200</th>
+            </tr>
+            <tr>
+              <td>Principio de medición</td>
+              <td colspan="2">Flujo de calor</td>
+            </tr>
+            <tr>
+              <td>Rango de temperatura</td>
+              <td colspan="2">-150 ℃ ~ 725 ℃</td>
+            </tr>
+            <tr>
+              <td>Rango dinámico DSC</td>
+              <td>±100mW</td>
+              <td>±200mW</td>
+            </tr>
+            <tr>
+              <td>Ruido RMS / Sensibilidad</td>
+              <td>0,05 μW/0,1 μW</td>
+              <td>0,1 μW/0,2 μW</td>
+            </tr>
+            <tr>
+              <td>Precisión calorimétrica</td>
+              <td colspan="2">±0,05%<br>
+              * Calculado a partir de la desviación estándar (1σ/valor promedio en 10 mediciones consecutivas)</td>
+            </tr>
+            <tr>
+              <td>Repetibilidad de referencia</td>
+              <td colspan="2">±5μW<br>
+              * Unidad de refrigeración eléctrica: -50~300˚C, 10˚C/min</td>
+            </tr>
+            <tr>
+              <td>Tarifa programable</td>
+              <td colspan="2">0,01 ℃ ~ 100 ℃/minuto</td>
+            </tr>
+            <tr>
+              <td>Gas de purga</td>
+              <td colspan="2">Aire, gas inerte</td>
+            </tr>
+            <tr>
+              <td>Control de gas de purga</td>
+              <td colspan="2">Controlador de flujo másico, 2 líneas</td>
+            </tr>
+            <tr>
+              <td>Muestreador automático *</td>
+              <td colspan="2">Máximo 50 muestras</td>
+            </tr>
+            <tr>
+              <td>Unidad de refrigeración eléctrica *</td>
+              <td colspan="2">-80 ℃ ~ 500 ℃</td>
+            </tr>
+            <tr>
+              <td>Unidad de enfriamiento de gas automático LN2 *</td>
+              <td colspan="2">-150 ℃ ~ 725 ℃</td>
+            </tr>
+            <tr>
+              <td>Unidad de enfriamiento de aire automático *</td>
+              <td colspan="2">Ambiente ～725 ℃</td>
+            </tr>
+          </table>
+          `,
+          videoLink: "",
+          sendPriceText: "Ver más información",
+        },
+        {
+          alt: "alt-logo",
+          srcImage: pro11_1,
+          typeProduct: {
+            name: "Análisis Térmico",
+            keyname: "analisis-termico",
+          },
+          categoryProduct: {
+            name: "Análisis Térmico",
+            keyname: "analisis-termico",
+          },
+          name: "Software para NEXTA",
+          description: "El software para NEXTA presenta una función de guía para simplificar varios tipos de mediciones basadas en métodos estándar y un nuevo modo de medición que es muy fácil de usar, incluso para principiantes. Se han agregado nuevas funciones para simplificar la operación del instrumento para los usuarios nuevos en el análisis térmico, mientras que las capacidades existentes se han conservado para los usuarios experimentados.",
+          descriptionLong: `El software para NEXTA presenta una función de guía para simplificar varios tipos de mediciones basadas en métodos estándar y un nuevo modo de medición que es muy fácil de usar, incluso para principiantes. Se han agregado nuevas funciones para simplificar la operación del instrumento para los usuarios nuevos en el análisis térmico, mientras que las capacidades existentes se han conservado para los usuarios experimentados.
+          <br><br>
+          <h5>Características</h5>
+          <ul>
+          <li>Función de guía (guía basada en estándares, guía de calibración)</li>
+          <li>Modo simple/modo estándar</li>
+          <li>Insertar imagen - Editar imagen</li>
+          <li>Operación de pantalla táctil que incluye ajuste de escala de trama</li>
+          <li>Opciones de personalización (paleta de colores para gráficos, guardar configuraciones de escala, hiperpersonalización, configuraciones de superposición de datos)</li>
+          <li>Estación móvil (visualización y operación remota)</li>
+          <li>Funciones adicionales</li>
+          </ul>`,
           videoLink: "",
           sendPriceText: "Ver más información",
         },
