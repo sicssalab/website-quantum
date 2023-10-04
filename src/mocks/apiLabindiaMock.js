@@ -1,7 +1,7 @@
 import logo from "../assets/LOGO-MARCAS-PROVEEDORES/labindia.jpeg";
 
-import main1 from "../assets/landings/velp/home/main.jpeg"
-import main2 from "../assets/landings/velp/home/main2.jpeg"
+import main1 from "../assets/landings/labindia/HOME LABINDIA.webp"
+import main2 from "../assets/landings/labindia/HOME LABINDIA 2.webp"
 
 import pro01_1 from "../assets/landings/labindia/productos/probador/DS-14000/1.webp";
 import pro02_1 from "../assets/landings/labindia/productos/probador/ds-14000-bomba-piston/1.png";

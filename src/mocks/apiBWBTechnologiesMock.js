@@ -1,7 +1,7 @@
 import logo from "../assets/LOGO-MARCAS-PROVEEDORES/9bwb-technologies.jpeg";
 
-import main1 from "../assets/landings/velp/home/main.jpeg";
-import main2 from "../assets/landings/velp/home/main2.jpeg";
+import main1 from "../assets/landings/bwb-technologies/HOME BWB.webp";
+import main2 from "../assets/landings/bwb-technologies/HOME BWB 2.webp";
 
 import pro01_1 from "../assets/landings/bwb-technologies/productos/xp-plus/1.webp";
 import pro02_1 from "../assets/landings/bwb-technologies/productos/bio/1.webp";

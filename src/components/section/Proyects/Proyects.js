@@ -35,7 +35,7 @@ const Proyects = (props) => {
                         {title && <h2 dangerouslySetInnerHTML={{__html: title}} />}
                         {description && <p className="description" dangerouslySetInnerHTML={{__html: description}} />}
                         {(linkMore && textMore && !isMobile) && (
-                            <Button as={Link} to={`${languageUtils.linksLocale(locale)}${linkMore}`} className="mt-4 mb-4 button-link" variant="link">{textMore}</Button>
+                            <Button as={Link} to={`${languageUtils.linksLocale(locale)}${linkMore}`} className="mt-4 mb-4 fs-3 button-link" variant="link">{textMore}</Button>
                         )}
                         </div>
                     </div>

@@ -1,7 +1,7 @@
 import logo from "../assets/LOGO-MARCAS-PROVEEDORES/7sixcan.jpg";
 
-import main1 from "../assets/landings/velp/home/main.jpeg"
-import main2 from "../assets/landings/velp/home/main2.jpeg"
+import main1 from "../assets/landings/sixcan/HOME SIXCAN.jpeg"
+import main2 from "../assets/landings/sixcan/HOME SIXCAN 2.jpeg"
 
 import pro01_1 from "../assets/landings/sixcan/productos/sixcan-duo/1.jpg";
 

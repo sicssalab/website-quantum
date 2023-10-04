@@ -1,7 +1,7 @@
 import logo from "../assets/LOGO-MARCAS-PROVEEDORES/astory-tecnica.png";
 
-import main1 from "../assets/landings/velp/home/main.jpeg"
-import main2 from "../assets/landings/velp/home/main2.jpeg"
+import main1 from "../assets/landings/astori/HOME ASTORI.jpg"
+import main2 from "../assets/landings/astori/HOME ASTORI 2.jpg"
 
 import pro01_1 from "../assets/landings/astori/productos/cryospecial/1.jpg";
 import pro02_1 from "../assets/landings/astori/productos/cryotouch-1/1.jpeg";

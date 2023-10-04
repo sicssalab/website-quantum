@@ -32,6 +32,7 @@ const Footer = (props) => {
           <BoxSocial items={socialNetwork} />
         </div>
       </ContainerCustom>
+        <div className="content-develop text-center">Desarrollado por <a className="text-white" target="_blank" href={process.env.REACT_APP_OWNER_DOMAIN} rel="noreferrer">sicssalab.mx</a></div>
     </footer>
   );
 };

@@ -40,8 +40,6 @@ const apiSelcaEscondidaMock = {
         {
           name: "test1",
           url: main1,
-          // urlMobile:
-          //   "https://sicssalab.net/test-miraro/mocks/selva-escondidaii/banner-selva1.webp",
         },
         {
           name: "test2",

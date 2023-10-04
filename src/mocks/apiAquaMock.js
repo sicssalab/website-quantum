@@ -1,7 +1,7 @@
 import logo from "../assets/LOGO-MARCAS-PROVEEDORES/12aqua-solutions.jpeg";
 
-import main1 from "../assets/landings/velp/home/main.jpeg"
-import main2 from "../assets/landings/velp/home/main2.jpeg"
+import main1 from "../assets/landings/aqua-solutions/HOME AQUA.jpeg"
+import main2 from "../assets/landings/aqua-solutions/HOME AQUA 2.jpg"
 
 import pro01_1 from "../assets/landings/aqua-solutions/productos/sistemas-di-reactivo-tipo-i/1.jpg";
 import pro02_1 from "../assets/landings/aqua-solutions/productos/rodi-i-ultrapuros/1.png";

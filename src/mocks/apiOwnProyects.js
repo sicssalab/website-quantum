@@ -16,7 +16,7 @@ const apiOwnProyects = {
     items: [
         {
             type: "header-component",
-            title: "<span class='title-bg'>Nuestros<br /><strong>Productos</strong></span>",
+            title: "<span class='title-bg'>Nuestros<br /><strong>Proveedores</strong></span>",
             isLanding: false,
             socialNetwork: [
                 {

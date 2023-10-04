@@ -1,6 +1,6 @@
 .footer {
   padding-top: 67px;
-  padding-bottom: 20px;
+  //padding-bottom: 20px;
   background-color: $backgroundSegundaryDark;
 
   // "p, h1, h2,h3,h4": {
@@ -102,6 +102,13 @@
     img {
       height: 18px;
     }
+  }
+  .content-develop {
+    background-color: $backgroundSegundary;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    font-size: 14px;
+    font-weight: 100;
   }
 }
 

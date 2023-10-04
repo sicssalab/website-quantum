@@ -1,7 +1,7 @@
 import logo from "../assets/LOGO-MARCAS-PROVEEDORES/11shimadzu.jpeg";
 
-import main1 from "../assets/landings/velp/home/main.jpeg"
-import main2 from "../assets/landings/velp/home/main2.jpeg"
+import main1 from "../assets/landings/shimadzu/HOME SHIMADZU 2.jpg"
+import main2 from "../assets/landings/shimadzu/HOME SHIMADZU.jpg"
 
 import pro01_1 from "../assets/landings/shimadzu/productos/balanzas/ap-series/1.avif";
 import pro02_1 from "../assets/landings/shimadzu/productos/balanzas/auw-d-series/1.avif";

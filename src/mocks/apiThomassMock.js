@@ -1,7 +1,7 @@
 import logo from "../assets/landings/thomass/logo.png";
 
-import main1 from "../assets/landings/velp/home/main.jpeg"
-import main2 from "../assets/landings/velp/home/main2.jpeg"
+import main1 from "../assets/landings/thomass/HOME THOMAS.webp"
+import main2 from "../assets/landings/thomass/HOME THOMAS.webp"
 
 import pro01_1 from "../assets/landings/thomass/productos/hornos/natural-alta-temperatura/1.jpg";
 import pro02_1 from "../assets/landings/thomass/productos/hornos/gravedad-digitales/1.jpg";

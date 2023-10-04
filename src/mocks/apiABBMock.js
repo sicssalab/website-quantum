@@ -1,7 +1,7 @@
 import logo from "../assets/LOGO-MARCAS-PROVEEDORES/abb.png";
 
-import main1 from "../assets/landings/velp/home/main.jpeg"
-import main2 from "../assets/landings/velp/home/main2.jpeg"
+import main1 from "../assets/landings/abb/HOME ABB.jpg"
+import main2 from "../assets/landings/abb/HOMA ABB 2.jpg"
 
 import pro01_1 from "../assets/landings/abb/productos/ft-ir-mb3000/1.jpg";
 import pro02_1 from "../assets/landings/abb/productos/mb3000-ph/1.jpg";

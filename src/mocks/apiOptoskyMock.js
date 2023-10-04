@@ -1,7 +1,7 @@
 import logo from "../assets/LOGO-MARCAS-PROVEEDORES/optosky.jpeg";
 
-import main1 from "../assets/landings/velp/home/main.jpeg"
-import main2 from "../assets/landings/velp/home/main2.jpeg"
+import main1 from "../assets/landings/optosky/HOME OPTOSKY.jpg"
+import main2 from "../assets/landings/optosky/HOME OPTOSKY 2.jpg"
 
 import pro01_1 from "../assets/landings/optosky/productos/atr6500/1.jpg";
 import pro02_1 from "../assets/landings/optosky/productos/atr6500ch/1.jpg";
