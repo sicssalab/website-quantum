@@ -1,0 +1,142 @@
+{
+    "shortName": "aqua solutions",
+    "slug": "aqua-solutions",
+    "locale": "es",
+    "metadata": {
+        "metaTitle": "Quantum Analytical: Aqua Solutions",
+        "metaDescription": "---",
+        "keywords": "",
+        "url": "aqua-solutions",
+        "sitename": "Quantumdo",
+        "type": "website"
+    },
+    "localizations": [],
+    "items": [
+        {
+            "type": "header-component",
+            "title": "aqua solutions",
+            "isLanding": true,
+            "socialNetwork": [
+                {
+                    "alt": "red network",
+                    "link": "https://www.facebook.com/profile.php?id=100066922524010",
+                    "type": "facebook"
+                },
+                {
+                    "alt": "red network",
+                    "link": "https://twitter.com/AquaSolInc",
+                    "type": "twitter"
+                }
+            ],
+            "items": [
+                {
+                    "name": "test1",
+                    "url": "/public/landings/aqua-solutions/HOME AQUA.jpeg"
+                },
+                {
+                    "name": "test2",
+                    "url": "/public/landings/aqua-solutions/HOME AQUA 2.jpg"
+                }
+            ]
+        },
+        {
+            "type": "information-residential-component",
+            "logo": "/public/LOGO-MARCAS-PROVEEDORES/12aqua-solutions.jpeg",
+            "title": "aqua solutions",
+            "logoUrl": "",
+            "description": "AQUA SOLUTIONS se dedica a proporcionar a sus clientes sistemas de agua de laboratorio que proporcionen de manera conveniente, económica y confiable agua de grado reactivo de la más alta pureza para aplicaciones de laboratorio, a nivel mundial.\n      <br><br>\n      Sistemas de purificación de agua de laboratorio AQUA SOLUTIONS\n      Nos enorgullecemos de nuestra capacidad para responder con prontitud y precisión a las solicitudes de ventas y asistencia técnica de nuestros clientes. ¡Estamos listos para ayudarlo a dimensionar, diseñar, elegir y comprar el sistema de purificación de agua de AQUA SOLUTIONS que MEJOR satisfaga sus necesidades!\n      <br><br>\n      Y, si eso no fuera suficiente, ofrecemos la más alta calidad y rendimiento de la industria, junto con la garantía de sistema más larga y más funciones y beneficios \"estándar\" que los demás.",
+            "videoLink": ""
+        },
+        {
+            "type": "product-list",
+            "title": "Productos",
+            "items": [
+                {
+                    "alt": "alt-logo",
+                    "srcImage": "data:image/jpeg;base64,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",
+                    "typeProduct": {
+                        "name": "producto",
+                        "keyname": "producto"
+                    },
+                    "categoryProduct": {
+                        "name": "producto",
+                        "keyname": "producto"
+                    },
+                    "name": "Sistemas DI de grado reactivo tipo I",
+                    "description": "Todos los sistemas DI Tipo I de AQUA SOLUTIONS producen agua ultrapura de 18,2 megaohmios-cm que cumple o supera las especificaciones ASTM, CAP y CLSI para agua de grado reactivo Tipo I. Las versiones de flujo estándar (2 litros/min) y alto flujo/alta capacidad (8-12 litros/min) están disponibles en versiones analítica, biológica y de TOC ultrabajo.",
+                    "descriptionLong": "Todos los sistemas DI Tipo I de AQUA SOLUTIONS producen agua ultrapura de 18,2 megaohmios-cm que cumple o supera las especificaciones ASTM, CAP y CLSI para agua de grado reactivo Tipo I. Las versiones de flujo estándar (2 litros/min) y alto flujo/alta capacidad (8-12 litros/min) están disponibles en versiones analítica, biológica y de TOC ultrabajo.\n          <br><br>\n          <h5>Estos asequibles sistemas de purificación de agua de laboratorio Tipo I se utilizan en operaciones que utilizan agua corriente del grifo o agua pretratada.</h5>\n          Nuestros sistemas DI y RODI TIPO I de flujo estándar (2 litros/min) funcionan con alimentación interna de 12 VCC y pueden aceptar alimentación de 100-240 VCA a 50/60 Hz para uso industrial en cualquier parte del mundo. Están certificados por CSA y pueden tener la marca \"CE\" para exportación.\n          ",
+                    "videoLink": "",
+                    "sendPriceText": "Ver más información"
+                },
+                {
+                    "alt": "alt-logo",
+                    "srcImage": "data:image/png;base64,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",
+                    "typeProduct": {
+                        "name": "producto",
+                        "keyname": "producto"
+                    },
+                    "categoryProduct": {
+                        "name": "producto",
+                        "keyname": "producto"
+                    },
+                    "name": "Sistemas RODI tipo I ultrapuros de 18,2 megaom-cm",
+                    "description": "Los sistemas RODI combinados de AQUA SOLUTIONS incluyen un pretratamiento de ósmosis inversa incorporado y producen agua ultrapura Tipo I, 18,2 megaohmios-cm que cumple o supera las especificaciones ASTM, CAP y CLSI para agua de grado reactivo Tipo I. Nuestros sistemas de purificación de agua de laboratorio de flujo estándar (2 litros/minuto) y alto flujo/alta capacidad (8-12 litros/minuto) están disponibles en versiones analítica, biológica y de TOC ultrabajo.",
+                    "descriptionLong": "Los sistemas RODI combinados de AQUA SOLUTIONS incluyen un pretratamiento de ósmosis inversa incorporado y producen agua ultrapura Tipo I, 18,2 megaohmios-cm que cumple o supera las especificaciones ASTM, CAP y CLSI para agua de grado reactivo Tipo I. Nuestros sistemas de purificación de agua de laboratorio de flujo estándar (2 litros/minuto) y alto flujo/alta capacidad (8-12 litros/minuto) están disponibles en versiones analítica, biológica y de TOC ultrabajo.\n          <br><br>\n          Estos sistemas compactos pueden funcionar con prácticamente cualquier agua del grifo de calidad que contenga menos de 1000 ppm de sólidos disueltos totales.\n          ",
+                    "videoLink": "",
+                    "sendPriceText": "Ver más información"
+                },
+                {
+                    "alt": "alt-logo",
+                    "srcImage": "/public/landings/aqua-solutions/productos/tipo-ii/1.png",
+                    "typeProduct": {
+                        "name": "producto",
+                        "keyname": "producto"
+                    },
+                    "categoryProduct": {
+                        "name": "producto",
+                        "keyname": "producto"
+                    },
+                    "name": "Tipo II Punto de uso Sistemas de purificación de agua de laboratorio",
+                    "description": "El agua Tipo II se utiliza habitualmente para uso general en laboratorio, agua de alimentación a analizadores, pretratamiento para sistemas Tipo I y para lavar y enjuagar cristalería, ya sea manualmente o en el ciclo de enjuague final de una lavadora automática de cristalería.",
+                    "descriptionLong": "El agua Tipo II se utiliza habitualmente para uso general en laboratorio, agua de alimentación a analizadores, pretratamiento para sistemas Tipo I y para lavar y enjuagar cristalería, ya sea manualmente o en el ciclo de enjuague final de una lavadora automática de cristalería. Los sistemas de agua de laboratorio de grado reactivo AQUA SOLUTIONS Tipo II producen más de 2 megaohmios-cm de agua DI que cumple o supera los estándares ASTM, CAP y CLSI para agua Tipo II.\n          <br><br>\n          Para eliminar el costo y los inconvenientes asociados con el \"servicio DI\" tradicional, estos sistemas de purificación de agua de laboratorio tipo II están diseñados desde cero para que el usuario pueda instalarlos y repararlos. Cuentan con un conector de conexión rápida, una luz de pureza fácil de leer y un tanque DI de repuesto.\n          <br><br>\n          Las versiones de módulo simple y doble están disponibles para una variedad de aplicaciones que requieren agua DI tipo II a caudales de 5 a 12 LPM. También están disponibles como sistemas \"DW\" de mayor flujo y alta capacidad para lavadoras de cristalería que requieren caudales de 20 a 40 LPM. Nuestros sistemas RODI incluyen un pretratamiento de ósmosis inversa incorporado para reducir los costos operativos y cuentan con recirculación continua para mantener la máxima pureza del agua.\n          ",
+                    "videoLink": "",
+                    "sendPriceText": "Ver más información"
+                },
+                {
+                    "alt": "alt-logo",
+                    "srcImage": "/public/landings/aqua-solutions/productos/tipo-ii-rodi/1.jpg",
+                    "typeProduct": {
+                        "name": "producto",
+                        "keyname": "producto"
+                    },
+                    "categoryProduct": {
+                        "name": "producto",
+                        "keyname": "producto"
+                    },
+                    "name": "Tipo II Punto de uso Sistemas RODI",
+                    "description": "El agua Tipo II se utiliza habitualmente para uso general en laboratorio, agua de alimentación a analizadores, pretratamiento para sistemas Tipo I y para lavar y enjuagar cristalería, ya sea manualmente o en el ciclo de enjuague final de una lavadora automática de cristalería.",
+                    "descriptionLong": "El agua Tipo II se utiliza habitualmente para uso general en laboratorio, agua de alimentación a analizadores, pretratamiento para sistemas Tipo I y para lavar y enjuagar cristalería, ya sea manualmente o en el ciclo de enjuague final de una lavadora automática de cristalería. Los sistemas RODI de grado reactivo tipo II de AQUA SOLUTIONS producen agua desionizada de 2 a 15 megaohmios-cm que cumple o supera los estándares ASTM, CAP y CLSI para agua tipo II.\n          <br><br>\n          Para eliminar el costo y los inconvenientes asociados con el \"servicio DI\" tradicional, estos sistemas de purificación de agua de laboratorio tipo II están diseñados desde cero para que el usuario pueda instalarlos y repararlos. Incluyen pretratamiento de ósmosis inversa incorporado para reducir los costos operativos y cuentan con recirculación continua para mantener la máxima pureza del agua.\n          <br><br>\n          Las versiones estándar y de alto flujo están disponibles para una variedad de aplicaciones que requieren agua DI tipo II a caudales de 5 a 12 LPM. También están disponibles como sistemas \"DW\" de mayor flujo y alta capacidad para lavadoras de cristalería que requieren caudales de 20 a 40 LPM.\n          ",
+                    "videoLink": "",
+                    "sendPriceText": "Ver más información"
+                },
+                {
+                    "alt": "alt-logo",
+                    "srcImage": "/public/landings/aqua-solutions/productos/pretratamiento/1.jpg",
+                    "typeProduct": {
+                        "name": "producto",
+                        "keyname": "producto"
+                    },
+                    "categoryProduct": {
+                        "name": "producto",
+                        "keyname": "producto"
+                    },
+                    "name": "Pretratamiento de ósmosis inversa (RO) de AQUA SOLUTIONS",
+                    "description": "Los sistemas de pretratamiento de ósmosis inversa (RO) de AQUA SOLUTIONS están disponibles con tasas de producción de RO de 10 a 60 litros/hora para nuestros sistemas de mesa estándar y de 1 a 2 galones/minuto para sistemas montados en bastidor de alta capacidad.",
+                    "descriptionLong": "Los sistemas de pretratamiento de ósmosis inversa (RO) de AQUA SOLUTIONS están disponibles con tasas de producción de RO de 10 a 60 litros/hora para nuestros sistemas de mesa estándar y de 1 a 2 galones/minuto para sistemas montados en bastidor de alta capacidad. Los sistemas eliminan entre el 95% y el 99% de los contaminantes del agua del grifo, lo que representa una tecnología rentable para el pretratamiento del agua del grifo antes de la purificación final mediante un sistema DI.\n          <br><br>\n          Funcionan con agua del grifo con hasta 1000 PPM de sólidos disueltos totales y la mayoría de los sistemas incluyen prefiltros incorporados. Hay disponibles una variedad de opciones de tanques de almacenamiento, incluidos tanques presurizados que evitan el riesgo de contaminación transmitida por el aire y eliminan la necesidad de bombas de alimentación adicionales.\n          ",
+                    "videoLink": "",
+                    "sendPriceText": "Ver más información"
+                }
+            ]
+        }
+    ]
+}

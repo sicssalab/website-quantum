@@ -29,68 +29,38 @@ const getError = () => {
 
 //TODO Get ITEMS with context and use Ditpatch
 const getPages = async (request, dispatch, onSuccess, onError) => {
-  // const { locale, authSession, ...rest } = request;
-  // //const language = localeUtils.handleLanguage(locale);
-  // dispatch(fetching());
-  // await fetch(`${process.env.REACT_APP_API}hotel/detail`, {
-  //   method: "POST",
-  //   headers: {
-  //     "Content-Type": "application/json",
-  //     //Authorization: `Bearer ${authSession.token}`,
-  //   },
-  //   body: JSON.stringify({ ...rest, }),
-  // })
-  //   .then((response) => {
-  //     if (response.ok) return response.json();
-  //     throw new Error("Something went wrong.");
-  //   })
-  //   .then((data) => {
-  //     dispatch(get(data));
-  //     const auxResponse = {...data};
-  //     if (onSuccess && typeof onSuccess === "function") {
-  //       onSuccess(auxResponse);
-  //     }
-  //   })
-  //   .catch((ex) => {
-  //     dispatch(getError());
-  //     if (onError && typeof onError === "function") {
-  //       onError(ex);
-  //     }
-  //   });
-  getPagesMock(request, dispatch, onSuccess, onError)
+  const { locale, slug } = request;
+  //const language = localeUtils.handleLanguage(locale);
+  dispatch(fetching());
+  console.log(`Slug:`)
+  console.log(slug)
+  console.log(`${process.env.REACT_APP_DOMAIN}/public/json/data-${slug.toLowerCase()}-${locale}.json`)
+  await fetch(`${process.env.REACT_APP_DOMAIN}/public/json/data-${slug.toLowerCase()}-${locale}.json`, {
+    method: "GET",
+    headers: {
+      "Content-Type": "application/json",
+    },
+  })
+    .then((response) => {
+      if (response.ok) return response.json();
+      throw new Error("Something went wrong.");
+    })
+    .then((data) => {
+      dispatch(get(data));
+      const auxResponse = {...data};
+      if (onSuccess && typeof onSuccess === "function") {
+        onSuccess(auxResponse);
+      }
+    })
+    .catch((ex) => {
+      dispatch(getError());
+      if (onError && typeof onError === "function") {
+        onError(ex);
+      }
+    });
+  //getPagesMock(request, dispatch, onSuccess, onError)
 };
-//TODO Get ITEMS with context and use Ditpatch
-const getBlogPages = async (request, dispatch, onSuccess, onError) => {
-  // const { locale, authSession, ...rest } = request;
-  // //const language = localeUtils.handleLanguage(locale);
-  // dispatch(fetching());
-  // await fetch(`${process.env.REACT_APP_API}hotel/detail`, {
-  //   method: "POST",
-  //   headers: {
-  //     "Content-Type": "application/json",
-  //     //Authorization: `Bearer ${authSession.token}`,
-  //   },
-  //   body: JSON.stringify({ ...rest, }),
-  // })
-  //   .then((response) => {
-  //     if (response.ok) return response.json();
-  //     throw new Error("Something went wrong.");
-  //   })
-  //   .then((data) => {
-  //     dispatch(get(data));
-  //     const auxResponse = {...data};
-  //     if (onSuccess && typeof onSuccess === "function") {
-  //       onSuccess(auxResponse);
-  //     }
-  //   })
-  //   .catch((ex) => {
-  //     dispatch(getError());
-  //     if (onError && typeof onError === "function") {
-  //       onError(ex);
-  //     }
-  //   });
-  getPagesMock(request, dispatch, onSuccess, onError)
-};
+
 //TODO FAKE, REPLICAR EL RESPONSE AUX AL TRAER INFO
 const getPagesMock = async (request, dispatch, onSuccess, onError) => {
   const { locale, slug } = request;
@@ -120,7 +90,6 @@ const update = async (response, dispatch) => {
 
 const pageDataAction = {
   getPages,
-  getBlogPages,
   getPagesMock,
   update
 };

@@ -31,12 +31,12 @@
             "items": [
                 {
                     "name": "main",
-                    "url": "/static/media/home1.1458a1c0ed3d1394884c.jpeg"
+                    "url": "/public/home1.jpeg"
                 },
                 {
                     "name": "main 2",
-                    "url": "/static/media/home2.083fe8937a97819e68c9.jpeg",
-                    "urlMobile": "/static/media/home1.1458a1c0ed3d1394884c.jpeg"
+                    "url": "/public/home2.jpeg",
+                    "urlMobile": "/public/home1.jpeg"
                 }
             ]
         },

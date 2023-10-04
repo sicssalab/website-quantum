@@ -19,7 +19,7 @@ const resource = {
                 url: pagesContants.nosotrosES
             },
             {
-                name: "Productos",
+                name: "Proveedores",
                 url: pagesContants.proyectsES
             },
             {
@@ -70,7 +70,7 @@ const resource = {
                 orderMobile: 1,
             },
             {
-                name: "Productos",
+                name: "Proveedores",
                 url: pagesContants.proyectsES,
                 order: 4,
                 orderMobile: 4,

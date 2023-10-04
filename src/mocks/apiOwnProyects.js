@@ -45,7 +45,7 @@ const apiOwnProyects = {
         },
         {
             type: "own-proyects-component",
-            title: "PRODUCTOS",
+            title: "Proveedores",
             description: "<b>Quantum Analytical</b> le ofrece una gran variedad de equipos de instrumentación analítical para satisfacer sus necesidades, entre la diversa gama de productos que manejamos puede encontrar los siguientes:",
             items: [
                 {
