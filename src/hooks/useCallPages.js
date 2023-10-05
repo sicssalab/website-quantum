@@ -34,13 +34,14 @@ const useCallPages = () => {
     useEffect(() => {
         let slug = getSlug();
         if(slug === "/") slug = "home";
-        const localStorageName = localStorageConstants.PAGE + `_${locale}_${slug}`;
+        const localStorageName = localStorageConstants.PAGE + `do_${locale}_${slug}`;
         (typeof window !== 'undefined') && window.scrollTo({left: 0,top: 0,behavior: "instant"});
         let auxResponse = storage.getLocalStorage(localStorageName);
+
         if (auxResponse === null) {
             pageDataAction.getPages({ locale: locale, slug: slug }, dispatch,
                 (response) => {
-                    //storage.setLocalStorage(localStorageName, response, 5);
+                    storage.setLocalStorage(localStorageName, response, process.env.REACT_APP_TIME_PAGES);
                 });
         }
         else {
