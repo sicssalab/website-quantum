@@ -36,17 +36,17 @@
             "items": [
                 {
                     "name": "test1",
-                    "url": "/public/landings/astori/HOME ASTORI.jpg"
+                    "url": "/public2/landings/astori/HOME ASTORI.jpg"
                 },
                 {
                     "name": "test2",
-                    "url": "/public/landings/astori/HOME ASTORI 2.jpg"
+                    "url": "/public2/landings/astori/HOME ASTORI 2.jpg"
                 }
             ]
         },
         {
             "type": "information-residential-component",
-            "logo": "/public/LOGO-MARCAS-PROVEEDORES/astory-tecnica.png",
+            "logo": "/public2/LOGO-MARCAS-PROVEEDORES/astory-tecnica.png",
             "title": "astory",
             "logoUrl": "",
             "description": "ASTORI TECNICA fue fundada por el Sr. Oscar Astori el 1 de marzo de 1959 en Brescia.\n      <br><br>\n      Durante los años, nuestra empresa se ha hecho cada vez mejor, abriendo nuevas secciones de producción y asistencia técnica, nombrando más colaboradores expertos y invertiendo en tecnologías innovadoras y competitivas, además del conseguimiento de estándares de calidad más elevados, para obtener la satisfacción de nuestros Clientes y Distribuidores. Recientemente, nos hemos especializado en el desarrollo y la venta de productos y equipos de calidad para los laboratorios de análisis agroalimentarios; ahora somos una empresa líder en este sector y proponemos soluciones 100% únicas y originales a nuestros Clientes.",
@@ -58,7 +58,7 @@
             "items": [
                 {
                     "alt": "alt-logo",
-                    "srcImage": "/public/landings/astori/productos/cryospecial/1.jpg",
+                    "srcImage": "/public2/landings/astori/productos/cryospecial/1.jpg",
                     "typeProduct": {
                         "name": "Crióscopo",
                         "keyname": "crioscopo"
@@ -75,7 +75,7 @@
                 },
                 {
                     "alt": "alt-logo",
-                    "srcImage": "/public/landings/astori/productos/cryotouch-1/1.jpeg",
+                    "srcImage": "/public2/landings/astori/productos/cryotouch-1/1.jpeg",
                     "typeProduct": {
                         "name": "Crióscopo",
                         "keyname": "crioscopo"
@@ -92,7 +92,7 @@
                 },
                 {
                     "alt": "alt-logo",
-                    "srcImage": "/public/landings/astori/productos/cryotouch-20/1.jpeg",
+                    "srcImage": "/public2/landings/astori/productos/cryotouch-20/1.jpeg",
                     "typeProduct": {
                         "name": "Crióscopo",
                         "keyname": "crioscopo"
@@ -109,7 +109,7 @@
                 },
                 {
                     "alt": "alt-logo",
-                    "srcImage": "/public/landings/astori/productos/cryotouch-40/1.jpeg",
+                    "srcImage": "/public2/landings/astori/productos/cryotouch-40/1.jpeg",
                     "typeProduct": {
                         "name": "Crióscopo",
                         "keyname": "crioscopo"
@@ -126,7 +126,7 @@
                 },
                 {
                     "alt": "alt-logo",
-                    "srcImage": "/public/landings/astori/productos/speedy-lab/1.jpg",
+                    "srcImage": "/public2/landings/astori/productos/speedy-lab/1.jpg",
                     "typeProduct": {
                         "name": "Crióscopo",
                         "keyname": "crioscopo"
@@ -143,7 +143,7 @@
                 },
                 {
                     "alt": "alt-logo",
-                    "srcImage": "/public/landings/astori/productos/centrifuga-astor-8-digit/1.jpg",
+                    "srcImage": "/public2/landings/astori/productos/centrifuga-astor-8-digit/1.jpg",
                     "typeProduct": {
                         "name": "Crióscopo",
                         "keyname": "crioscopo"
@@ -160,7 +160,7 @@
                 },
                 {
                     "alt": "alt-logo",
-                    "srcImage": "/public/landings/astori/productos/nucleo-counter-scc-100/1.jpg",
+                    "srcImage": "/public2/landings/astori/productos/nucleo-counter-scc-100/1.jpg",
                     "typeProduct": {
                         "name": "Crióscopo",
                         "keyname": "crioscopo"

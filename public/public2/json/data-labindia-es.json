@@ -36,11 +36,11 @@
             "items": [
                 {
                     "name": "test1",
-                    "url": "/public/landings/labindia/HOME LABINDIA.webp"
+                    "url": "/public2/landings/labindia/HOME LABINDIA.webp"
                 },
                 {
                     "name": "test2",
-                    "url": "/public/landings/labindia/HOME LABINDIA 2.webp"
+                    "url": "/public2/landings/labindia/HOME LABINDIA 2.webp"
                 }
             ]
         },
@@ -64,7 +64,7 @@
             "items": [
                 {
                     "alt": "alt-logo",
-                    "srcImage": "/public/landings/labindia/productos/probador/DS-14000/1.webp",
+                    "srcImage": "/public2/landings/labindia/productos/probador/DS-14000/1.webp",
                     "typeProduct": {
                         "name": "Probador de disolución",
                         "keyname": "probador-de-disolucion"
@@ -81,7 +81,7 @@
                 },
                 {
                     "alt": "alt-logo",
-                    "srcImage": "/public/landings/labindia/productos/probador/ds-14000-bomba-piston/1.png",
+                    "srcImage": "/public2/landings/labindia/productos/probador/ds-14000-bomba-piston/1.png",
                     "typeProduct": {
                         "name": "Probador de disolución",
                         "keyname": "probador-de-disolucion"
@@ -98,7 +98,7 @@
                 },
                 {
                     "alt": "alt-logo",
-                    "srcImage": "/public/landings/labindia/productos/probador/ds-14000-bomba-smart-piston/1.png",
+                    "srcImage": "/public2/landings/labindia/productos/probador/ds-14000-bomba-smart-piston/1.png",
                     "typeProduct": {
                         "name": "Probador de disolución",
                         "keyname": "probador-de-disolucion"
@@ -115,7 +115,7 @@
                 },
                 {
                     "alt": "alt-logo",
-                    "srcImage": "/public/landings/labindia/productos/probador/ds-14000-peristaltica/1.webp",
+                    "srcImage": "/public2/landings/labindia/productos/probador/ds-14000-peristaltica/1.webp",
                     "typeProduct": {
                         "name": "Probador de disolución",
                         "keyname": "probador-de-disolucion"
@@ -132,7 +132,7 @@
                 },
                 {
                     "alt": "alt-logo",
-                    "srcImage": "/public/landings/labindia/productos/probador/ds-14000-smart/1.png",
+                    "srcImage": "/public2/landings/labindia/productos/probador/ds-14000-smart/1.png",
                     "typeProduct": {
                         "name": "Probador de disolución",
                         "keyname": "probador-de-disolucion"
@@ -149,7 +149,7 @@
                 },
                 {
                     "alt": "alt-logo",
-                    "srcImage": "/public/landings/labindia/productos/probador/ds-14000-basico/1.png",
+                    "srcImage": "/public2/landings/labindia/productos/probador/ds-14000-basico/1.png",
                     "typeProduct": {
                         "name": "Probador de disolución",
                         "keyname": "probador-de-disolucion"
@@ -166,7 +166,7 @@
                 },
                 {
                     "alt": "alt-logo",
-                    "srcImage": "/public/landings/labindia/productos/probador/ds800plus-piston/1.webp",
+                    "srcImage": "/public2/landings/labindia/productos/probador/ds800plus-piston/1.webp",
                     "typeProduct": {
                         "name": "Probador de disolución",
                         "keyname": "probador-de-disolucion"
@@ -183,7 +183,7 @@
                 },
                 {
                     "alt": "alt-logo",
-                    "srcImage": "/public/landings/labindia/productos/probador/ds800plus-piston-sencillo/1.png",
+                    "srcImage": "/public2/landings/labindia/productos/probador/ds800plus-piston-sencillo/1.png",
                     "typeProduct": {
                         "name": "Probador de disolución",
                         "keyname": "probador-de-disolucion"
@@ -200,7 +200,7 @@
                 },
                 {
                     "alt": "alt-logo",
-                    "srcImage": "/public/landings/labindia/productos/probador/ds800plus-jeringa/1.png",
+                    "srcImage": "/public2/landings/labindia/productos/probador/ds800plus-jeringa/1.png",
                     "typeProduct": {
                         "name": "Probador de disolución",
                         "keyname": "probador-de-disolucion"
@@ -217,7 +217,7 @@
                 },
                 {
                     "alt": "alt-logo",
-                    "srcImage": "/public/landings/labindia/productos/probador/ds8000-smart-piston/1.png",
+                    "srcImage": "/public2/landings/labindia/productos/probador/ds8000-smart-piston/1.png",
                     "typeProduct": {
                         "name": "Probador de disolución",
                         "keyname": "probador-de-disolucion"
@@ -234,7 +234,7 @@
                 },
                 {
                     "alt": "alt-logo",
-                    "srcImage": "/public/landings/labindia/productos/probador/ds8000-smart-basico/1.png",
+                    "srcImage": "/public2/landings/labindia/productos/probador/ds8000-smart-basico/1.png",
                     "typeProduct": {
                         "name": "Probador de disolución",
                         "keyname": "probador-de-disolucion"
@@ -251,7 +251,7 @@
                 },
                 {
                     "alt": "alt-logo",
-                    "srcImage": "/public/landings/labindia/productos/probador/ds-8000-basico/1.png",
+                    "srcImage": "/public2/landings/labindia/productos/probador/ds-8000-basico/1.png",
                     "typeProduct": {
                         "name": "Probador de disolución",
                         "keyname": "probador-de-disolucion"
@@ -268,7 +268,7 @@
                 },
                 {
                     "alt": "alt-logo",
-                    "srcImage": "/public/landings/labindia/productos/probador/kit-herramientras/1.avif",
+                    "srcImage": "/public2/landings/labindia/productos/probador/kit-herramientras/1.avif",
                     "typeProduct": {
                         "name": "Probador de disolución",
                         "keyname": "probador-de-disolucion"
@@ -285,7 +285,7 @@
                 },
                 {
                     "alt": "alt-logo",
-                    "srcImage": "/public/landings/labindia/productos/probador/ds8000peristaltica/1.png",
+                    "srcImage": "/public2/landings/labindia/productos/probador/ds8000peristaltica/1.png",
                     "typeProduct": {
                         "name": "Probador de disolución",
                         "keyname": "probador-de-disolucion"
@@ -302,7 +302,7 @@
                 },
                 {
                     "alt": "alt-logo",
-                    "srcImage": "/public/landings/labindia/productos/accesorios/1.avif",
+                    "srcImage": "/public2/landings/labindia/productos/accesorios/1.avif",
                     "typeProduct": {
                         "name": "Probador de disolución",
                         "keyname": "probador-de-disolucion"
@@ -319,7 +319,7 @@
                 },
                 {
                     "alt": "alt-logo",
-                    "srcImage": "/public/landings/labindia/productos/desintegracion/dt1000plus/1.webp",
+                    "srcImage": "/public2/landings/labindia/productos/desintegracion/dt1000plus/1.webp",
                     "typeProduct": {
                         "name": "Probador de desintegración",
                         "keyname": "probador-de-desintegracion"
@@ -336,7 +336,7 @@
                 },
                 {
                     "alt": "alt-logo",
-                    "srcImage": "/public/landings/labindia/productos/desintegracion/dt1000/1.webp",
+                    "srcImage": "/public2/landings/labindia/productos/desintegracion/dt1000/1.webp",
                     "typeProduct": {
                         "name": "Probador de desintegración",
                         "keyname": "probador-de-desintegracion"
@@ -353,7 +353,7 @@
                 },
                 {
                     "alt": "alt-logo",
-                    "srcImage": "/public/landings/labindia/productos/probador/ft1020/1.webp",
+                    "srcImage": "/public2/landings/labindia/productos/probador/ft1020/1.webp",
                     "typeProduct": {
                         "name": "Probador de friabilidad",
                         "keyname": "probador-de-friabilidad"
@@ -370,7 +370,7 @@
                 },
                 {
                     "alt": "alt-logo",
-                    "srcImage": "/public/landings/labindia/productos/probador/td1025/1.webp",
+                    "srcImage": "/public2/landings/labindia/productos/probador/td1025/1.webp",
                     "typeProduct": {
                         "name": "Probador de densidad",
                         "keyname": "probador-de-densidad"
@@ -387,7 +387,7 @@
                 },
                 {
                     "alt": "alt-logo",
-                    "srcImage": "/public/landings/labindia/productos/probador/th2050s/1.webp",
+                    "srcImage": "/public2/landings/labindia/productos/probador/th2050s/1.webp",
                     "typeProduct": {
                         "name": "Probador de dureza",
                         "keyname": "probador-de-dureza"
@@ -404,7 +404,7 @@
                 },
                 {
                     "alt": "alt-logo",
-                    "srcImage": "/public/landings/labindia/productos/probador/th1050s-plus/1.webp",
+                    "srcImage": "/public2/landings/labindia/productos/probador/th1050s-plus/1.webp",
                     "typeProduct": {
                         "name": "Probador de dureza",
                         "keyname": "probador-de-dureza"
@@ -421,7 +421,7 @@
                 },
                 {
                     "alt": "alt-logo",
-                    "srcImage": "/public/landings/labindia/productos/probador/th12-smart/1.webp",
+                    "srcImage": "/public2/landings/labindia/productos/probador/th12-smart/1.webp",
                     "typeProduct": {
                         "name": "Probador de dureza",
                         "keyname": "probador-de-dureza"
@@ -438,7 +438,7 @@
                 },
                 {
                     "alt": "alt-logo",
-                    "srcImage": "/public/landings/labindia/productos/probador/th2050s/1.webp",
+                    "srcImage": "/public2/landings/labindia/productos/probador/th2050s/1.webp",
                     "typeProduct": {
                         "name": "Probador de dureza",
                         "keyname": "probador-de-dureza"
@@ -455,7 +455,7 @@
                 },
                 {
                     "alt": "alt-logo",
-                    "srcImage": "/public/landings/labindia/productos/probador/th1050m/1.webp",
+                    "srcImage": "/public2/landings/labindia/productos/probador/th1050m/1.webp",
                     "typeProduct": {
                         "name": "Probador de dureza",
                         "keyname": "probador-de-dureza"
@@ -472,7 +472,7 @@
                 },
                 {
                     "alt": "alt-logo",
-                    "srcImage": "/public/landings/labindia/productos/valorador/kafi-smart/1.webp",
+                    "srcImage": "/public2/landings/labindia/productos/valorador/kafi-smart/1.webp",
                     "typeProduct": {
                         "name": "Valoradores automáticos",
                         "keyname": "valoradores-automaticos"
@@ -489,7 +489,7 @@
                 },
                 {
                     "alt": "alt-logo",
-                    "srcImage": "/public/landings/labindia/productos/valorador/titra-smart/1.webp",
+                    "srcImage": "/public2/landings/labindia/productos/valorador/titra-smart/1.webp",
                     "typeProduct": {
                         "name": "Valoradores automáticos",
                         "keyname": "valoradores-automaticos"
@@ -506,7 +506,7 @@
                 },
                 {
                     "alt": "alt-logo",
-                    "srcImage": "/public/landings/labindia/productos/valorador/titra-plus/1.avif",
+                    "srcImage": "/public2/landings/labindia/productos/valorador/titra-plus/1.avif",
                     "typeProduct": {
                         "name": "Valoradores automáticos",
                         "keyname": "valoradores-automaticos"
@@ -523,7 +523,7 @@
                 },
                 {
                     "alt": "alt-logo",
-                    "srcImage": "/public/landings/labindia/productos/valorador/kafi-plus/1.webp",
+                    "srcImage": "/public2/landings/labindia/productos/valorador/kafi-plus/1.webp",
                     "typeProduct": {
                         "name": "Valoradores automáticos",
                         "keyname": "valoradores-automaticos"
@@ -540,7 +540,7 @@
                 },
                 {
                     "alt": "alt-logo",
-                    "srcImage": "/public/landings/labindia/productos/medidor-ph/pico/1.webp",
+                    "srcImage": "/public2/landings/labindia/productos/medidor-ph/pico/1.webp",
                     "typeProduct": {
                         "name": "Medidor de PH",
                         "keyname": "medidot-de-ph"
@@ -557,7 +557,7 @@
                 },
                 {
                     "alt": "alt-logo",
-                    "srcImage": "/public/landings/labindia/productos/medidor-ph/ph-fan/1.webp",
+                    "srcImage": "/public2/landings/labindia/productos/medidor-ph/ph-fan/1.webp",
                     "typeProduct": {
                         "name": "Medidor de PH",
                         "keyname": "medidot-de-ph"
@@ -574,7 +574,7 @@
                 },
                 {
                     "alt": "alt-logo",
-                    "srcImage": "/public/landings/labindia/productos/medidor-ph/ph-pico/1.webp",
+                    "srcImage": "/public2/landings/labindia/productos/medidor-ph/ph-pico/1.webp",
                     "typeProduct": {
                         "name": "Medidor de PH",
                         "keyname": "medidot-de-ph"
@@ -591,7 +591,7 @@
                 },
                 {
                     "alt": "alt-logo",
-                    "srcImage": "/public/landings/labindia/productos/medidor-ph/pico-ph/1.webp",
+                    "srcImage": "/public2/landings/labindia/productos/medidor-ph/pico-ph/1.webp",
                     "typeProduct": {
                         "name": "Medidor de PH",
                         "keyname": "medidot-de-ph"
@@ -608,7 +608,7 @@
                 },
                 {
                     "alt": "alt-logo",
-                    "srcImage": "/public/landings/labindia/productos/aparato-punto-de-fusion/1.avif",
+                    "srcImage": "/public2/landings/labindia/productos/aparato-punto-de-fusion/1.avif",
                     "typeProduct": {
                         "name": "Aparatos de punto de fusion",
                         "keyname": "aparatos-de-punto-de-fusion"
@@ -625,7 +625,7 @@
                 },
                 {
                     "alt": "alt-logo",
-                    "srcImage": "/public/landings/labindia/productos/prueba-de-fugas/lt1001/1.avif",
+                    "srcImage": "/public2/landings/labindia/productos/prueba-de-fugas/lt1001/1.avif",
                     "typeProduct": {
                         "name": "Aparato de prueba de fugas",
                         "keyname": "prueba-de-fugas"
@@ -642,7 +642,7 @@
                 },
                 {
                     "alt": "alt-logo",
-                    "srcImage": "/public/landings/labindia/productos/prueba-de-fugas/usp-4/1.png",
+                    "srcImage": "/public2/landings/labindia/productos/prueba-de-fugas/usp-4/1.png",
                     "typeProduct": {
                         "name": "USP",
                         "keyname": "usp"

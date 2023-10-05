@@ -36,17 +36,17 @@
             "items": [
                 {
                     "name": "test1",
-                    "url": "/public/landings/abb/HOME ABB.jpg"
+                    "url": "/public2/landings/abb/HOME ABB.jpg"
                 },
                 {
                     "name": "test2",
-                    "url": "/public/landings/abb/HOMA ABB 2.jpg"
+                    "url": "/public2/landings/abb/HOMA ABB 2.jpg"
                 }
             ]
         },
         {
             "type": "information-residential-component",
-            "logo": "/public/LOGO-MARCAS-PROVEEDORES/abb.png",
+            "logo": "/public2/LOGO-MARCAS-PROVEEDORES/abb.png",
             "title": "ABB",
             "logoUrl": "",
             "description": "Las capacidades de ABB abarcan una de las carteras más grandes del mundo de analizadores FT-IR/FT-NIR de laboratorio, en línea y de proceso. \n      <br><br>\n      Fundada en 1973, ABB Analytical Measurements (anteriormente Bomem Inc) diseña, fabrica y comercializa espectrómetros FT-IR/FT-NIR asequibles y de alto rendimiento, así como soluciones analíticas llave en mano para petróleo, productos químicos, ciencias biológicas, semiconductores, académicos, metalurgia. Industrias OEM y espectrorradiómetros para el mercado de Teledetección/Aeroespacial.",

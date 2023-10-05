@@ -31,8 +31,8 @@
             "items": [
                 {
                     "name": "main",
-                    "url": "/public/servicios/main/main.jpg",
-                    "urlMobile": "/public/servicios/main/main-mobile.jpg"
+                    "url": "/public2/servicios/main/main.jpg",
+                    "urlMobile": "/public2/servicios/main/main-mobile.jpg"
                 }
             ]
         },
@@ -43,20 +43,20 @@
             "items": [
                 {
                     "alt": "logo brookfield ametek",
-                    "image": "/public/LOGO-MARCAS-PROVEEDORES/brookfield-ametek.jpg",
-                    "imageMobile": "/public/LOGO-MARCAS-PROVEEDORES/brookfield-ametek.jpg",
+                    "image": "/public2/LOGO-MARCAS-PROVEEDORES/brookfield-ametek.jpg",
+                    "imageMobile": "/public2/LOGO-MARCAS-PROVEEDORES/brookfield-ametek.jpg",
                     "link": "arizona"
                 },
                 {
                     "alt": "logo velph",
-                    "image": "/public/LOGO-MARCAS-PROVEEDORES/velph.jpeg",
-                    "imageMobile": "/public/LOGO-MARCAS-PROVEEDORES/velph.jpeg",
+                    "image": "/public2/LOGO-MARCAS-PROVEEDORES/velph.jpeg",
+                    "imageMobile": "/public2/LOGO-MARCAS-PROVEEDORES/velph.jpeg",
                     "link": "velp"
                 },
                 {
                     "alt": "logo hitachi",
-                    "image": "/public/LOGO-MARCAS-PROVEEDORES/hitachi-inspire-the-next.jpg",
-                    "imageMobile": "/public/LOGO-MARCAS-PROVEEDORES/hitachi-inspire-the-next.jpg",
+                    "image": "/public2/LOGO-MARCAS-PROVEEDORES/hitachi-inspire-the-next.jpg",
+                    "imageMobile": "/public2/LOGO-MARCAS-PROVEEDORES/hitachi-inspire-the-next.jpg",
                     "link": "hitachi"
                 },
                 {
@@ -67,38 +67,38 @@
                 },
                 {
                     "alt": "logo abb",
-                    "image": "/public/LOGO-MARCAS-PROVEEDORES/abb.png",
-                    "imageMobile": "/public/LOGO-MARCAS-PROVEEDORES/abb.png",
+                    "image": "/public2/LOGO-MARCAS-PROVEEDORES/abb.png",
+                    "imageMobile": "/public2/LOGO-MARCAS-PROVEEDORES/abb.png",
                     "link": "abb"
                 },
                 {
                     "alt": "logo labindia",
-                    "image": "/public/LOGO-MARCAS-PROVEEDORES/6optosky.jpeg",
-                    "imageMobile": "/public/LOGO-MARCAS-PROVEEDORES/6optosky.jpeg",
+                    "image": "/public2/LOGO-MARCAS-PROVEEDORES/6optosky.jpeg",
+                    "imageMobile": "/public2/LOGO-MARCAS-PROVEEDORES/6optosky.jpeg",
                     "link": "optosky"
                 },
                 {
                     "alt": "logo labindia",
-                    "image": "/public/LOGO-MARCAS-PROVEEDORES/7sixcan.jpg",
-                    "imageMobile": "/public/LOGO-MARCAS-PROVEEDORES/7sixcan.jpg",
+                    "image": "/public2/LOGO-MARCAS-PROVEEDORES/7sixcan.jpg",
+                    "imageMobile": "/public2/LOGO-MARCAS-PROVEEDORES/7sixcan.jpg",
                     "link": "sixcan"
                 },
                 {
                     "alt": "logo labindia",
-                    "image": "/public/LOGO-MARCAS-PROVEEDORES/8astory-tecnica.png",
-                    "imageMobile": "/public/LOGO-MARCAS-PROVEEDORES/8astory-tecnica.png",
+                    "image": "/public2/LOGO-MARCAS-PROVEEDORES/8astory-tecnica.png",
+                    "imageMobile": "/public2/LOGO-MARCAS-PROVEEDORES/8astory-tecnica.png",
                     "link": "astori"
                 },
                 {
                     "alt": "logo labindia",
-                    "image": "/public/LOGO-MARCAS-PROVEEDORES/9bwb-technologies.jpeg",
-                    "imageMobile": "/public/LOGO-MARCAS-PROVEEDORES/9bwb-technologies.jpeg",
+                    "image": "/public2/LOGO-MARCAS-PROVEEDORES/9bwb-technologies.jpeg",
+                    "imageMobile": "/public2/LOGO-MARCAS-PROVEEDORES/9bwb-technologies.jpeg",
                     "link": "bwb-technologies"
                 },
                 {
                     "alt": "logo labindia",
-                    "image": "/public/LOGO-MARCAS-PROVEEDORES/10thomas-scientific.webp",
-                    "imageMobile": "/public/LOGO-MARCAS-PROVEEDORES/10thomas-scientific.webp",
+                    "image": "/public2/LOGO-MARCAS-PROVEEDORES/10thomas-scientific.webp",
+                    "imageMobile": "/public2/LOGO-MARCAS-PROVEEDORES/10thomas-scientific.webp",
                     "link": "thomassc"
                 },
                 {
@@ -109,8 +109,8 @@
                 },
                 {
                     "alt": "logo labindia",
-                    "image": "/public/LOGO-MARCAS-PROVEEDORES/12aqua-solutions.jpeg",
-                    "imageMobile": "/public/LOGO-MARCAS-PROVEEDORES/12aqua-solutions.jpeg",
+                    "image": "/public2/LOGO-MARCAS-PROVEEDORES/12aqua-solutions.jpeg",
+                    "imageMobile": "/public2/LOGO-MARCAS-PROVEEDORES/12aqua-solutions.jpeg",
                     "link": "aqua-solutions"
                 }
             ]

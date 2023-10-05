@@ -30,7 +30,7 @@
         },
         {
             "type": "information-residential-component",
-            "logo": "/public/LOGO-MARCAS-PROVEEDORES/7sixcan.jpg",
+            "logo": "/public2/LOGO-MARCAS-PROVEEDORES/7sixcan.jpg",
             "title": "sixcan",
             "logoUrl": "",
             "description": "SIXCAN es un sistema que mide, procesa y registra parámetros físicos tales como temperatura, humedad, concentración de gases, peso, caudal, presión, niveles, estados lógicos, corriente, tensión, potencia, sensores 4-20 mA, 0-5V, sensores especiales..",
@@ -42,7 +42,7 @@
             "items": [
                 {
                     "alt": "alt-logo",
-                    "srcImage": "/public/landings/sixcan/productos/sixcan-duo/1.jpg",
+                    "srcImage": "/public2/landings/sixcan/productos/sixcan-duo/1.jpg",
                     "typeProduct": {
                         "name": "Espectrómetro",
                         "keyname": "espectrometro"
@@ -53,7 +53,7 @@
                     },
                     "name": "Sixcan duo",
                     "description": "Equipo de adquisición de datos inalámbrico. Entradas para 2 sensores de cualquier tipo. Pantalla LCD. Límites de alarmas de maximos y minimos para cada sensor",
-                    "descriptionLong": "Equipo de adquisición de datos inalámbrico. Entradas para 2 sensores de cualquier tipo. Pantalla LCD. Límites de alarmas de maximos y minimos para cada sensor\n          <div class=\"text-center\">\n            <a target=\"_blank\" href=\"/public/landings/sixcan/productos/sixcan-duo/SIXCAN-Gateway1.pdf\">Ver documentación</a>\n          </div>\n          ",
+                    "descriptionLong": "Equipo de adquisición de datos inalámbrico. Entradas para 2 sensores de cualquier tipo. Pantalla LCD. Límites de alarmas de maximos y minimos para cada sensor\n          <div class=\"text-center\">\n            <a target=\"_blank\" href=\"/public2/landings/sixcan/productos/sixcan-duo/SIXCAN-Gateway1.pdf\">Ver documentación</a>\n          </div>\n          ",
                     "videoLink": "",
                     "sendPriceText": "Ver más información"
                 }

@@ -36,17 +36,17 @@
             "items": [
                 {
                     "name": "test1",
-                    "url": "/public/landings/optosky/HOME OPTOSKY.jpg"
+                    "url": "/public2/landings/optosky/HOME OPTOSKY.jpg"
                 },
                 {
                     "name": "test2",
-                    "url": "/public/landings/optosky/HOME OPTOSKY 2.jpg"
+                    "url": "/public2/landings/optosky/HOME OPTOSKY 2.jpg"
                 }
             ]
         },
         {
             "type": "information-residential-component",
-            "logo": "/public/LOGO-MARCAS-PROVEEDORES/optosky.jpeg",
+            "logo": "/public2/LOGO-MARCAS-PROVEEDORES/optosky.jpeg",
             "title": "optosky",
             "logoUrl": "",
             "description": "La empresa Optosky ha estado brindando soluciones de espectroscopia de primera clase durante 20 años, con su sede cubre un área de 2500 metros cuadrados con 50 ingenieros en la ciudad de Xiamen, donde se celebró la novena cumbre internacional BRICK en 2017. Otro centro de investigación de I+D está ubicado en la ciudad de Wuhu con 30 Ingenieros que cubren un área de 2035 metros cuadrados.",
@@ -64,7 +64,7 @@
             "items": [
                 {
                     "alt": "alt-logo",
-                    "srcImage": "/public/landings/optosky/productos/atr6500/1.jpg",
+                    "srcImage": "/public2/landings/optosky/productos/atr6500/1.jpg",
                     "typeProduct": {
                         "name": "Espectrómetro",
                         "keyname": "espectrometro"
@@ -81,7 +81,7 @@
                 },
                 {
                     "alt": "alt-logo",
-                    "srcImage": "/public/landings/optosky/productos/atr6500ch/1.jpg",
+                    "srcImage": "/public2/landings/optosky/productos/atr6500ch/1.jpg",
                     "typeProduct": {
                         "name": "Espectrómetro",
                         "keyname": "espectrometro"
@@ -98,7 +98,7 @@
                 },
                 {
                     "alt": "alt-logo",
-                    "srcImage": "/public/landings/optosky/productos/atr6600/1.jpg",
+                    "srcImage": "/public2/landings/optosky/productos/atr6600/1.jpg",
                     "typeProduct": {
                         "name": "Espectrómetro",
                         "keyname": "espectrometro"
@@ -115,7 +115,7 @@
                 },
                 {
                     "alt": "alt-logo",
-                    "srcImage": "/public/landings/optosky/productos/atp8900/1.jpg",
+                    "srcImage": "/public2/landings/optosky/productos/atp8900/1.jpg",
                     "typeProduct": {
                         "name": "Espectrómetro",
                         "keyname": "espectrometro"

@@ -41,17 +41,17 @@
             "items": [
                 {
                     "name": "test1",
-                    "url": "/public/landings/thomass/HOME THOMAS.webp"
+                    "url": "/public2/landings/thomass/HOME THOMAS.webp"
                 },
                 {
                     "name": "test2",
-                    "url": "/public/landings/thomass/HOME THOMAS.webp"
+                    "url": "/public2/landings/thomass/HOME THOMAS.webp"
                 }
             ]
         },
         {
             "type": "information-residential-component",
-            "logo": "/public/landings/thomass/logo.png",
+            "logo": "/public2/landings/thomass/logo.png",
             "title": "thomas scientific",
             "logoUrl": "https://www.thomassci.com/",
             "description": "Durante más de 120 años, Thomas Scientific ha proporcionado lo último en equipos y suministros a la comunidad científica. De acuerdo con la tradición de los fundadores originales, Thomas Scientific ofrece un servicio de atención al cliente individualizado, equipos científicos innovadores y una cartera completa que ofrece una amplia selección de listados de productos a buen precio.",
@@ -69,7 +69,7 @@
             "items": [
                 {
                     "alt": "alt-logo",
-                    "srcImage": "/public/landings/thomass/productos/hornos/natural-alta-temperatura/1.jpg",
+                    "srcImage": "/public2/landings/thomass/productos/hornos/natural-alta-temperatura/1.jpg",
                     "typeProduct": {
                         "name": "Hornos",
                         "keyname": "hornos"
@@ -103,7 +103,7 @@
                 },
                 {
                     "alt": "alt-logo",
-                    "srcImage": "/public/landings/thomass/productos/hornos/convenccion-gravedad/1.jpg",
+                    "srcImage": "/public2/landings/thomass/productos/hornos/convenccion-gravedad/1.jpg",
                     "typeProduct": {
                         "name": "Hornos",
                         "keyname": "hornos"
@@ -120,7 +120,7 @@
                 },
                 {
                     "alt": "alt-logo",
-                    "srcImage": "/public/landings/thomass/productos/hornos/gravedad-alta-temperatura-dx/1.jpg",
+                    "srcImage": "/public2/landings/thomass/productos/hornos/gravedad-alta-temperatura-dx/1.jpg",
                     "typeProduct": {
                         "name": "Hornos",
                         "keyname": "hornos"
@@ -137,7 +137,7 @@
                 },
                 {
                     "alt": "alt-logo",
-                    "srcImage": "/public/landings/thomass/productos/hornos/gravedad-dvs/1.jpg",
+                    "srcImage": "/public2/landings/thomass/productos/hornos/gravedad-dvs/1.jpg",
                     "typeProduct": {
                         "name": "Hornos",
                         "keyname": "hornos"
@@ -154,7 +154,7 @@
                 },
                 {
                     "alt": "alt-logo",
-                    "srcImage": "/public/landings/thomass/productos/refractometros/atc-0-80/1.jpg",
+                    "srcImage": "/public2/landings/thomass/productos/refractometros/atc-0-80/1.jpg",
                     "typeProduct": {
                         "name": "Refractómetros",
                         "keyname": "refractometros"
@@ -171,7 +171,7 @@
                 },
                 {
                     "alt": "alt-logo",
-                    "srcImage": "/public/landings/thomass/productos/refractometros/pal-ri/1.jpg",
+                    "srcImage": "/public2/landings/thomass/productos/refractometros/pal-ri/1.jpg",
                     "typeProduct": {
                         "name": "Refractómetros",
                         "keyname": "refractometros"
@@ -188,7 +188,7 @@
                 },
                 {
                     "alt": "alt-logo",
-                    "srcImage": "/public/landings/thomass/productos/agitadores/termomezcladores/1.jpg",
+                    "srcImage": "/public2/landings/thomass/productos/agitadores/termomezcladores/1.jpg",
                     "typeProduct": {
                         "name": "Agitadores",
                         "keyname": "agitadores"
@@ -205,7 +205,7 @@
                 },
                 {
                     "alt": "alt-logo",
-                    "srcImage": "/public/landings/thomass/productos/agitadores/roto-mini/1.jpg",
+                    "srcImage": "/public2/landings/thomass/productos/agitadores/roto-mini/1.jpg",
                     "typeProduct": {
                         "name": "Agitadores",
                         "keyname": "agitadores"
@@ -222,7 +222,7 @@
                 },
                 {
                     "alt": "alt-logo",
-                    "srcImage": "/public/landings/thomass/productos/agitadores/maxq-6000/1.jpg",
+                    "srcImage": "/public2/landings/thomass/productos/agitadores/maxq-6000/1.jpg",
                     "typeProduct": {
                         "name": "Agitadores",
                         "keyname": "agitadores"
@@ -239,7 +239,7 @@
                 },
                 {
                     "alt": "alt-logo",
-                    "srcImage": "/public/landings/thomass/productos/agitadores/roto-therm/1.jpg",
+                    "srcImage": "/public2/landings/thomass/productos/agitadores/roto-therm/1.jpg",
                     "typeProduct": {
                         "name": "Agitadores",
                         "keyname": "agitadores"

@@ -18,8 +18,8 @@
             "items": [
                 {
                     "name": "nosotros banner",
-                    "url": "/public/nosotros/ordenador/main.png",
-                    "urlMobile": "/public/nosotros/mobile/main.png"
+                    "url": "/public2/nosotros/ordenador/main.png",
+                    "urlMobile": "/public2/nosotros/mobile/main.png"
                 }
             ]
         },

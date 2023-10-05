@@ -18,14 +18,14 @@
             "items": [
                 {
                     "name": "test1",
-                    "url": "/public/contacto/ordenador/main.jpeg",
-                    "urlMobile": "/public/contacto/mobile/main.jpeg"
+                    "url": "/public2/contacto/ordenador/main.jpeg",
+                    "urlMobile": "/public2/contacto/mobile/main.jpeg"
                 }
             ]
         },
         {
             "type": "contact-blog2-component",
-            "image": "/public/contacto/contacto.jpeg",
+            "image": "/public2/contacto/contacto.jpeg",
             "altImage": "iamgen",
             "contact": {
                 "title": "Informes dudas y comentarios",

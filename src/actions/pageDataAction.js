@@ -1,5 +1,4 @@
 import types from "../constants/reducers/pageDataConstants";
-import callPage from "../apiData/callPage";
 
 //TODO: get
 const get = (pageData) => {
@@ -30,12 +29,9 @@ const getError = () => {
 //TODO Get ITEMS with context and use Ditpatch
 const getPages = async (request, dispatch, onSuccess, onError) => {
   const { locale, slug } = request;
-  //const language = localeUtils.handleLanguage(locale);
+
   dispatch(fetching());
-  console.log(`Slug:`)
-  console.log(slug)
-  console.log(`${process.env.REACT_APP_DOMAIN}/public/json/data-${slug.toLowerCase()}-${locale}.json`)
-  await fetch(`${process.env.REACT_APP_DOMAIN}/public/json/data-${slug.toLowerCase()}-${locale}.json`, {
+  await fetch(`${process.env.REACT_APP_DOMAIN}/public2/json/data-${slug.toLowerCase()}-${locale}.json`, {
     method: "GET",
     headers: {
       "Content-Type": "application/json",
@@ -58,29 +54,6 @@ const getPages = async (request, dispatch, onSuccess, onError) => {
         onError(ex);
       }
     });
-  //getPagesMock(request, dispatch, onSuccess, onError)
-};
-
-//TODO FAKE, REPLICAR EL RESPONSE AUX AL TRAER INFO
-const getPagesMock = async (request, dispatch, onSuccess, onError) => {
-  const { locale, slug } = request;
-  dispatch(fetching());
-
-  try {
-    const response = await callPage(locale, slug.toLowerCase());
-    const auxResponse = {...response};
-    dispatch(get(response));
-  
-    if (onSuccess && typeof onSuccess === "function") {
-      onSuccess(auxResponse);
-    }
-  }
-  catch(_ex) {
-    dispatch(getError());
-    if (onError && typeof onError === "function") {
-      onError();
-    }
-  }
 };
 
 const update = async (response, dispatch) => {
@@ -90,7 +63,6 @@ const update = async (response, dispatch) => {
 
 const pageDataAction = {
   getPages,
-  getPagesMock,
   update
 };
 export default pageDataAction;

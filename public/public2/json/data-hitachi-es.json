@@ -36,17 +36,17 @@
             "items": [
                 {
                     "name": "test1",
-                    "url": "/public/landings/hitachi/HOME HITACHI.webp"
+                    "url": "/public2/landings/hitachi/HOME HITACHI.webp"
                 },
                 {
                     "name": "test2",
-                    "url": "/public/landings/hitachi/HOME HITACHI 2.jpg"
+                    "url": "/public2/landings/hitachi/HOME HITACHI 2.jpg"
                 }
             ]
         },
         {
             "type": "information-residential-component",
-            "logo": "/public/LOGO-MARCAS-PROVEEDORES/hitachi-inspire-the-next.jpg",
+            "logo": "/public2/LOGO-MARCAS-PROVEEDORES/hitachi-inspire-the-next.jpg",
             "title": "Hitachi",
             "logoUrl": "",
             "description": "Establecida en 2014, Hitachi High-Tech Mexico, S.A. de C.V. es una empresa de soluciones industriales que comercializa una amplia serie de partes automotrices, incluidos diferentes tipos de resinas, productos de metal forjado y sensores de presión del aceite/interruptor y promueve la colaboración con empresas extranjeras y locales a fin de expandir los negocios globales.",
@@ -64,7 +64,7 @@
             "items": [
                 {
                     "alt": "alt-logo",
-                    "srcImage": "/public/landings/hitachi/productos/hlpc-chromaster-3/1.avif",
+                    "srcImage": "/public2/landings/hitachi/productos/hlpc-chromaster-3/1.avif",
                     "typeProduct": {
                         "name": "Cromatógrafos liquidos",
                         "keyname": "cromatografos-liquidos"
@@ -81,7 +81,7 @@
                 },
                 {
                     "alt": "alt-logo",
-                    "srcImage": "/public/landings/hitachi/productos/cromatografos/liquido-alto-rendimiento-chromaster/1.avif",
+                    "srcImage": "/public2/landings/hitachi/productos/cromatografos/liquido-alto-rendimiento-chromaster/1.avif",
                     "typeProduct": {
                         "name": "Cromatógrafos liquidos",
                         "keyname": "cromatografos-liquidos"
@@ -98,7 +98,7 @@
                 },
                 {
                     "alt": "alt-logo",
-                    "srcImage": "/public/landings/hitachi/productos/cromatografos/primaide/1.avif",
+                    "srcImage": "/public2/landings/hitachi/productos/cromatografos/primaide/1.avif",
                     "typeProduct": {
                         "name": "Cromatógrafos liquidos",
                         "keyname": "cromatografos-liquidos"
@@ -115,7 +115,7 @@
                 },
                 {
                     "alt": "alt-logo",
-                    "srcImage": "/public/landings/hitachi/productos/cromatografos/chromaster-ultra-rs/1.avif",
+                    "srcImage": "/public2/landings/hitachi/productos/cromatografos/chromaster-ultra-rs/1.avif",
                     "typeProduct": {
                         "name": "Cromatógrafos liquidos",
                         "keyname": "cromatografos-liquidos"
@@ -132,7 +132,7 @@
                 },
                 {
                     "alt": "alt-logo",
-                    "srcImage": "/public/landings/hitachi/productos/espectrofotometro/u2900/1.avif",
+                    "srcImage": "/public2/landings/hitachi/productos/espectrofotometro/u2900/1.avif",
                     "typeProduct": {
                         "name": "Espectrofotómetro",
                         "keyname": "espectrofotometro"
@@ -149,7 +149,7 @@
                 },
                 {
                     "alt": "alt-logo",
-                    "srcImage": "/public/landings/hitachi/productos/espectrofotometro/uh5300/1.avif",
+                    "srcImage": "/public2/landings/hitachi/productos/espectrofotometro/uh5300/1.avif",
                     "typeProduct": {
                         "name": "Espectrofotómetro",
                         "keyname": "espectrofotometro"
@@ -166,7 +166,7 @@
                 },
                 {
                     "alt": "alt-logo",
-                    "srcImage": "/public/landings/hitachi/productos/espectrofotometro/u5100/1.avif",
+                    "srcImage": "/public2/landings/hitachi/productos/espectrofotometro/u5100/1.avif",
                     "typeProduct": {
                         "name": "Espectrofotómetro",
                         "keyname": "espectrofotometro"
@@ -183,7 +183,7 @@
                 },
                 {
                     "alt": "alt-logo",
-                    "srcImage": "/public/landings/hitachi/productos/espectrofotometro/u3900/1.avif",
+                    "srcImage": "/public2/landings/hitachi/productos/espectrofotometro/u3900/1.avif",
                     "typeProduct": {
                         "name": "Espectrofotómetro",
                         "keyname": "espectrofotometro"
@@ -200,7 +200,7 @@
                 },
                 {
                     "alt": "alt-logo",
-                    "srcImage": "/public/landings/hitachi/productos/espectrofotometro/nexta-sta/1.avif",
+                    "srcImage": "/public2/landings/hitachi/productos/espectrofotometro/nexta-sta/1.avif",
                     "typeProduct": {
                         "name": "Análisis Térmico",
                         "keyname": "analisis-termico"
@@ -217,7 +217,7 @@
                 },
                 {
                     "alt": "alt-logo",
-                    "srcImage": "/public/landings/hitachi/productos/espectrofotometro/nexta-dsc/1.avif",
+                    "srcImage": "/public2/landings/hitachi/productos/espectrofotometro/nexta-dsc/1.avif",
                     "typeProduct": {
                         "name": "Análisis Térmico",
                         "keyname": "analisis-termico"
@@ -234,7 +234,7 @@
                 },
                 {
                     "alt": "alt-logo",
-                    "srcImage": "/public/landings/hitachi/productos/software-nexta/1.avif",
+                    "srcImage": "/public2/landings/hitachi/productos/software-nexta/1.avif",
                     "typeProduct": {
                         "name": "Análisis Térmico",
                         "keyname": "analisis-termico"

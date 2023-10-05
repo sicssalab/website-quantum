@@ -56,11 +56,6 @@ const resource = {
                 link: "https://www.linkedin.com/company/quantum-do-analytical",
                 type: "linkedin"
             },
-            // {
-            //     alt: "red network",
-            //     link: "https://www.youtube.com/@sicssalab",
-            //     type: "youtube"
-            // },
         ],
         itemsAboutUs: [
             {

@@ -41,17 +41,17 @@
             "items": [
                 {
                     "name": "test1",
-                    "url": "/public/landings/bwb-technologies/HOME BWB.webp"
+                    "url": "/public2/landings/bwb-technologies/HOME BWB.webp"
                 },
                 {
                     "name": "test2",
-                    "url": "/public/landings/bwb-technologies/HOME BWB 2.webp"
+                    "url": "/public2/landings/bwb-technologies/HOME BWB 2.webp"
                 }
             ]
         },
         {
             "type": "information-residential-component",
-            "logo": "/public/LOGO-MARCAS-PROVEEDORES/9bwb-technologies.jpeg",
+            "logo": "/public2/LOGO-MARCAS-PROVEEDORES/9bwb-technologies.jpeg",
             "title": "BWB Technologies",
             "logoUrl": "",
             "description": "BWB Technologies se enorgullece de fabricar fotómetros de llama líderes en el mercado y galardonados. ¡Y nuestro servicio de atención al cliente continúa mucho después de realizar la venta!Ofrecemos nuestro único programa IQ OQ PQ en línea para la validación y certificación del sistema, así como opciones de garantía extendida. BWB Technologies USA brinda soporte a nuestros clientes y distribuidores que es insuperable.",
@@ -63,7 +63,7 @@
             "items": [
                 {
                     "alt": "alt-logo",
-                    "srcImage": "/public/landings/bwb-technologies/productos/xp-plus/1.webp",
+                    "srcImage": "/public2/landings/bwb-technologies/productos/xp-plus/1.webp",
                     "typeProduct": {
                         "name": "BWB",
                         "keyname": "bwb"
@@ -80,7 +80,7 @@
                 },
                 {
                     "alt": "alt-logo",
-                    "srcImage": "/public/landings/bwb-technologies/productos/bio/1.webp",
+                    "srcImage": "/public2/landings/bwb-technologies/productos/bio/1.webp",
                     "typeProduct": {
                         "name": "BWB",
                         "keyname": "bwb"
@@ -97,7 +97,7 @@
                 },
                 {
                     "alt": "alt-logo",
-                    "srcImage": "/public/landings/bwb-technologies/productos/bio-av/1.webp",
+                    "srcImage": "/public2/landings/bwb-technologies/productos/bio-av/1.webp",
                     "typeProduct": {
                         "name": "BWB",
                         "keyname": "bwb"

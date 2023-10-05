@@ -31,17 +31,17 @@
             "items": [
                 {
                     "name": "test1",
-                    "url": "/public/landings/aqua-solutions/HOME AQUA.jpeg"
+                    "url": "/public2/landings/aqua-solutions/HOME AQUA.jpeg"
                 },
                 {
                     "name": "test2",
-                    "url": "/public/landings/aqua-solutions/HOME AQUA 2.jpg"
+                    "url": "/public2/landings/aqua-solutions/HOME AQUA 2.jpg"
                 }
             ]
         },
         {
             "type": "information-residential-component",
-            "logo": "/public/LOGO-MARCAS-PROVEEDORES/12aqua-solutions.jpeg",
+            "logo": "/public2/LOGO-MARCAS-PROVEEDORES/12aqua-solutions.jpeg",
             "title": "aqua solutions",
             "logoUrl": "",
             "description": "AQUA SOLUTIONS se dedica a proporcionar a sus clientes sistemas de agua de laboratorio que proporcionen de manera conveniente, económica y confiable agua de grado reactivo de la más alta pureza para aplicaciones de laboratorio, a nivel mundial.\n      <br><br>\n      Sistemas de purificación de agua de laboratorio AQUA SOLUTIONS\n      Nos enorgullecemos de nuestra capacidad para responder con prontitud y precisión a las solicitudes de ventas y asistencia técnica de nuestros clientes. ¡Estamos listos para ayudarlo a dimensionar, diseñar, elegir y comprar el sistema de purificación de agua de AQUA SOLUTIONS que MEJOR satisfaga sus necesidades!\n      <br><br>\n      Y, si eso no fuera suficiente, ofrecemos la más alta calidad y rendimiento de la industria, junto con la garantía de sistema más larga y más funciones y beneficios \"estándar\" que los demás.",
@@ -87,7 +87,7 @@
                 },
                 {
                     "alt": "alt-logo",
-                    "srcImage": "/public/landings/aqua-solutions/productos/tipo-ii/1.png",
+                    "srcImage": "/public2/landings/aqua-solutions/productos/tipo-ii/1.png",
                     "typeProduct": {
                         "name": "producto",
                         "keyname": "producto"
@@ -104,7 +104,7 @@
                 },
                 {
                     "alt": "alt-logo",
-                    "srcImage": "/public/landings/aqua-solutions/productos/tipo-ii-rodi/1.jpg",
+                    "srcImage": "/public2/landings/aqua-solutions/productos/tipo-ii-rodi/1.jpg",
                     "typeProduct": {
                         "name": "producto",
                         "keyname": "producto"
@@ -121,7 +121,7 @@
                 },
                 {
                     "alt": "alt-logo",
-                    "srcImage": "/public/landings/aqua-solutions/productos/pretratamiento/1.jpg",
+                    "srcImage": "/public2/landings/aqua-solutions/productos/pretratamiento/1.jpg",
                     "typeProduct": {
                         "name": "producto",
                         "keyname": "producto"

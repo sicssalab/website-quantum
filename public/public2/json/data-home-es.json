@@ -31,12 +31,12 @@
             "items": [
                 {
                     "name": "main",
-                    "url": "/public/home1.jpeg"
+                    "url": "/public2/home1.jpeg"
                 },
                 {
                     "name": "main 2",
-                    "url": "/public/home2.jpeg",
-                    "urlMobile": "/public/home1.jpeg"
+                    "url": "/public2/home2.jpeg",
+                    "urlMobile": "/public2/home1.jpeg"
                 }
             ]
         },

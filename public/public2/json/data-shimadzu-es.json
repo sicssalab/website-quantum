@@ -36,11 +36,11 @@
             "items": [
                 {
                     "name": "test1",
-                    "url": "/public/landings/shimadzu/HOME SHIMADZU 2.jpg"
+                    "url": "/public2/landings/shimadzu/HOME SHIMADZU 2.jpg"
                 },
                 {
                     "name": "test2",
-                    "url": "/public/landings/shimadzu/HOME SHIMADZU.jpg"
+                    "url": "/public2/landings/shimadzu/HOME SHIMADZU.jpg"
                 }
             ]
         },
@@ -58,7 +58,7 @@
             "items": [
                 {
                     "alt": "alt-logo",
-                    "srcImage": "/public/landings/shimadzu/productos/balanzas/ap-series/1.avif",
+                    "srcImage": "/public2/landings/shimadzu/productos/balanzas/ap-series/1.avif",
                     "typeProduct": {
                         "name": "Balanzas",
                         "keyname": "balanzas"
@@ -75,7 +75,7 @@
                 },
                 {
                     "alt": "alt-logo",
-                    "srcImage": "/public/landings/shimadzu/productos/balanzas/auw-d-series/1.avif",
+                    "srcImage": "/public2/landings/shimadzu/productos/balanzas/auw-d-series/1.avif",
                     "typeProduct": {
                         "name": "Balanzas",
                         "keyname": "balanzas"
@@ -92,7 +92,7 @@
                 },
                 {
                     "alt": "alt-logo",
-                    "srcImage": "/public/landings/shimadzu/productos/balanzas/at-r-series/1.avif",
+                    "srcImage": "/public2/landings/shimadzu/productos/balanzas/at-r-series/1.avif",
                     "typeProduct": {
                         "name": "Balanzas",
                         "keyname": "balanzas"
@@ -109,7 +109,7 @@
                 },
                 {
                     "alt": "alt-logo",
-                    "srcImage": "/public/landings/shimadzu/productos/balanzas/at-series/1.avif",
+                    "srcImage": "/public2/landings/shimadzu/productos/balanzas/at-series/1.avif",
                     "typeProduct": {
                         "name": "Balanzas",
                         "keyname": "balanzas"
@@ -126,7 +126,7 @@
                 },
                 {
                     "alt": "alt-logo",
-                    "srcImage": "/public/landings/shimadzu/productos/balanzas/au-series/1.avif",
+                    "srcImage": "/public2/landings/shimadzu/productos/balanzas/au-series/1.avif",
                     "typeProduct": {
                         "name": "Balanzas",
                         "keyname": "balanzas"
@@ -143,7 +143,7 @@
                 },
                 {
                     "alt": "alt-logo",
-                    "srcImage": "/public/landings/shimadzu/productos/balanzas/up-series/1.avif",
+                    "srcImage": "/public2/landings/shimadzu/productos/balanzas/up-series/1.avif",
                     "typeProduct": {
                         "name": "Balanzas",
                         "keyname": "balanzas"
@@ -160,7 +160,7 @@
                 },
                 {
                     "alt": "alt-logo",
-                    "srcImage": "/public/landings/shimadzu/productos/balanzas/tw-twc-series/1.avif",
+                    "srcImage": "/public2/landings/shimadzu/productos/balanzas/tw-twc-series/1.avif",
                     "typeProduct": {
                         "name": "Balanzas",
                         "keyname": "balanzas"
@@ -177,7 +177,7 @@
                 },
                 {
                     "alt": "alt-logo",
-                    "srcImage": "/public/landings/shimadzu/productos/balanzas/tw-tx-txb-series/1.avif",
+                    "srcImage": "/public2/landings/shimadzu/productos/balanzas/tw-tx-txb-series/1.avif",
                     "typeProduct": {
                         "name": "Balanzas",
                         "keyname": "balanzas"
@@ -194,7 +194,7 @@
                 },
                 {
                     "alt": "alt-logo",
-                    "srcImage": "/public/landings/shimadzu/productos/balanzas/bl-serie/1.avif",
+                    "srcImage": "/public2/landings/shimadzu/productos/balanzas/bl-serie/1.avif",
                     "typeProduct": {
                         "name": "Balanzas",
                         "keyname": "balanzas"
@@ -211,7 +211,7 @@
                 },
                 {
                     "alt": "alt-logo",
-                    "srcImage": "/public/landings/shimadzu/productos/balanzas/elb-serie/1.avif",
+                    "srcImage": "/public2/landings/shimadzu/productos/balanzas/elb-serie/1.avif",
                     "typeProduct": {
                         "name": "Balanzas",
                         "keyname": "balanzas"
@@ -228,7 +228,7 @@
                 },
                 {
                     "alt": "alt-logo",
-                    "srcImage": "/public/landings/shimadzu/productos/balanzas/uw-ux-serie/1.avif",
+                    "srcImage": "/public2/landings/shimadzu/productos/balanzas/uw-ux-serie/1.avif",
                     "typeProduct": {
                         "name": "Balanzas",
                         "keyname": "balanzas"
@@ -245,7 +245,7 @@
                 },
                 {
                     "alt": "alt-logo",
-                    "srcImage": "/public/landings/shimadzu/productos/balanzas/moc63u/1.avif",
+                    "srcImage": "/public2/landings/shimadzu/productos/balanzas/moc63u/1.avif",
                     "typeProduct": {
                         "name": "analizador de humedad",
                         "keyname": "analizador-humedad"
@@ -262,7 +262,7 @@
                 },
                 {
                     "alt": "alt-logo",
-                    "srcImage": "/public/landings/shimadzu/productos/balanzas/moc-120h/1.avif",
+                    "srcImage": "/public2/landings/shimadzu/productos/balanzas/moc-120h/1.avif",
                     "typeProduct": {
                         "name": "analizador de humedad",
                         "keyname": "analizador-humedad"

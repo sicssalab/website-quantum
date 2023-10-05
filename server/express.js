@@ -3,7 +3,6 @@ import { StaticRouter } from "react-router-dom/server";
 import StoreProvider from "../src/store/StoreProvider";
 import { HelmetProvider } from "react-helmet-async";
 import App from "../src/App";
-//import callPage from "../src/apiData/callPage";
 import callRouterPage from "../src/apiData";
 import languageUtils from "../src/utils/languageUtils";
 
@@ -19,10 +18,11 @@ const app = express();
 const helmetContext = {};
 app.use("/src/assets", express.static(path.join(__dirname, "src/assets")));
 app.use("/public", express.static(path.join(__dirname, "../dist/public")));
+//TODO uso para llamado del cliente clone de /public
+app.use("/public2", express.static(path.join(__dirname, "../dist/public")));
 
 app.get(/\.(txt)$/, express.static(path.resolve(__dirname, "../dist/public")));
 app.get(/\.(js|css|map|ico|svg|webp|webm|otf|txt|jpg|jpeg|gif|png|avif|pdf)$/, express.static(path.resolve(__dirname, "../dist")));
-
 
 const callPage = async (locale, slug) => {
   let data = null;
@@ -32,8 +32,7 @@ const callPage = async (locale, slug) => {
   };
 
   try {
-    //console.log(`${process.env.REACT_APP_DOMAIN_SSR}/public/json/data-${request.slug.toLowerCase()}-${request.locale}.json`)
-    const response = await fetch(`${process.env.REACT_APP_DOMAIN_SSR}/public/json/data-${request.slug.toLowerCase()}-${request.locale}.json`,
+    const response = await fetch(`${process.env.REACT_APP_DOMAIN_SSR}/public2/json/data-${request.slug.toLowerCase()}-${request.locale}.json`,
       {
         method: 'GET',
         headers: { 'Content-Type': 'application/json' },
