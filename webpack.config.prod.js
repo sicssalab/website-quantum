@@ -58,12 +58,28 @@ module.exports = (enviroment) => {
               to: path.resolve(__dirname, 'dist/public'),
             },
             {
+              from: path.resolve(__dirname, 'public/public/contacto'),
+              to: path.resolve(__dirname, 'dist/public/contacto'),
+            },
+            {
+              from: path.resolve(__dirname, 'public/public/json'),
+              to: path.resolve(__dirname, 'dist/public/json'),
+            },
+            {
               from: path.resolve(__dirname, 'public/public/landings'),
               to: path.resolve(__dirname, 'dist/public/landings'),
             },
             {
               from: path.resolve(__dirname, 'public/public/LOGO-MARCAS-PROVEEDORES'),
               to: path.resolve(__dirname, 'dist/public/LOGO-MARCAS-PROVEEDORES'),
+            },
+            {
+              from: path.resolve(__dirname, 'public/public/nosotros'),
+              to: path.resolve(__dirname, 'dist/public/nosotros'),
+            },
+            {
+              from: path.resolve(__dirname, 'public/public/servicios'),
+              to: path.resolve(__dirname, 'dist/public/servicios'),
             },
             {
               from: 'public/public/*.jpeg',
