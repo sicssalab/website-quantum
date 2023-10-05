@@ -546,7 +546,7 @@
             "items": [
                 {
                     "alt": "alt-logo",
-                    "srcImage": "/static/media/1MST00-207560-228239.8e8e9d564e09fdde6568.jpg",
+                    "srcImage": "/public/landings/velp/equipos/agitadores/MST_agitador_magnetico/1MST00-207560-228239.jpg",
                     "typeProduct": {
                         "name": "Agitadores",
                         "keyname": "agitadores"
@@ -563,7 +563,7 @@
                 },
                 {
                     "alt": "alt-logo",
-                    "srcImage": "/static/media/1MSTdigital01-207693-227870.203b1702bb00fb707ab1.jpg",
+                    "srcImage": "/public/landings/velp/equipos/agitadores/MST_agitador_digital_magnetico/1MSTdigital01-207693-227870.jpg",
                     "typeProduct": {
                         "name": "Agitadores",
                         "keyname": "agitadores"
@@ -580,7 +580,7 @@
                 },
                 {
                     "alt": "alt-logo",
-                    "srcImage": "/static/media/1MSL800-207942-228106.76121e50e64e0867ffac.jpg",
+                    "srcImage": "/public/landings/velp/equipos/agitadores/MSL8/1MSL800-207942-228106.jpg",
                     "typeProduct": {
                         "name": "Agitadores",
                         "keyname": "agitadores"
@@ -597,7 +597,7 @@
                 },
                 {
                     "alt": "alt-logo",
-                    "srcImage": "/static/media/1MSL8digital00-207980-228019.ffee9dffad7f1ac5cebd.jpg",
+                    "srcImage": "/public/landings/velp/equipos/agitadores/MSL8-digital/1MSL8digital00-207980-228019.jpg",
                     "typeProduct": {
                         "name": "Agitadores",
                         "keyname": "agitadores"
@@ -614,7 +614,7 @@
                 },
                 {
                     "alt": "alt-logo",
-                    "srcImage": "/static/media/1MSL25digital00-208018-228058.af9950d757a3c089449f.jpg",
+                    "srcImage": "/public/landings/velp/equipos/agitadores/MSL25/1MSL25digital00-208018-228058.jpg",
                     "typeProduct": {
                         "name": "Agitadores",
                         "keyname": "agitadores"
@@ -631,7 +631,7 @@
                 },
                 {
                     "alt": "alt-logo",
-                    "srcImage": "/static/media/1MSL50digital00-208064-228071.c87e60b8c08bd722a865.jpg",
+                    "srcImage": "/public/landings/velp/equipos/agitadores/MSL50/1MSL50digital00-208064-228071.jpg",
                     "typeProduct": {
                         "name": "Agitadores",
                         "keyname": "agitadores"
@@ -648,7 +648,7 @@
                 },
                 {
                     "alt": "alt-logo",
-                    "srcImage": "/static/media/1MULTISTIRRER00-207833-227890.2e47b23a5074f259aacd.jpg",
+                    "srcImage": "/public/landings/velp/equipos/agitadores/multistirrer/1MULTISTIRRER00-207833-227890.jpg",
                     "typeProduct": {
                         "name": "Agitadores",
                         "keyname": "agitadores"
@@ -665,7 +665,7 @@
                 },
                 {
                     "alt": "alt-logo",
-                    "srcImage": "/static/media/1MULTISTIRRERdigital00-207893-228397.d5e98b99110f6dc42f45.jpg",
+                    "srcImage": "/public/landings/velp/equipos/agitadores/multistirrer_digital/1MULTISTIRRERdigital00-207893-228397.jpg",
                     "typeProduct": {
                         "name": "Agitadores",
                         "keyname": "agitadores"
@@ -682,7 +682,7 @@
                 },
                 {
                     "alt": "alt-logo",
-                    "srcImage": "/static/media/1ESP00-207750-228233.2f1406c5df390d43191b.jpg",
+                    "srcImage": "/public/landings/velp/equipos/agitadores/esp/1ESP00-207750-228233.jpg",
                     "typeProduct": {
                         "name": "Agitadores",
                         "keyname": "agitadores"
@@ -699,7 +699,7 @@
                 },
                 {
                     "alt": "alt-logo",
-                    "srcImage": "/static/media/1MICROSTIRRER00-207810-228275MAGEN.87c56bf90f56411bf09a.jpg",
+                    "srcImage": "/public/landings/velp/equipos/agitadores/microstirrer/1MICROSTIRRER00-207810-228275MAGEN.jpg",
                     "typeProduct": {
                         "name": "Agitadores",
                         "keyname": "agitadores"
@@ -716,7 +716,7 @@
                 },
                 {
                     "alt": "alt-logo",
-                    "srcImage": "/static/media/1AMI00-218308-227920.3e4dd59f4eff2dfe3335.jpg",
+                    "srcImage": "/public/landings/velp/equipos/agitadores/ami/1AMI00-218308-227920.jpg",
                     "typeProduct": {
                         "name": "Agitadores",
                         "keyname": "agitadores"
@@ -733,7 +733,7 @@
                 },
                 {
                     "alt": "alt-logo",
-                    "srcImage": "/static/media/1.9a74ff37054c527e5ec3.jpg",
+                    "srcImage": "/public/landings/velp/equipos/agitadores-magneticos/arex-6-connect-pro/1.jpg",
                     "typeProduct": {
                         "name": "Agitadores",
                         "keyname": "agitadores"
@@ -750,7 +750,7 @@
                 },
                 {
                     "alt": "alt-logo",
-                    "srcImage": "/static/media/1VELPAREX6DigitalProSA20500460-208454-228287.d10720f82fa9d74d24e5.jpg",
+                    "srcImage": "/public/landings/velp/equipos/agitadores-magneticos/arex-6-digital-pro/1VELPAREX6DigitalProSA20500460-208454-228287.jpg",
                     "typeProduct": {
                         "name": "Agitadores",
                         "keyname": "agitadores"
@@ -767,7 +767,7 @@
                 },
                 {
                     "alt": "alt-logo",
-                    "srcImage": "/static/media/1.ead8539afc9e52bcfe4c.jpg",
+                    "srcImage": "/public/landings/velp/equipos/agitadores-magneticos/arex-6/1.jpg",
                     "typeProduct": {
                         "name": "Agitadores",
                         "keyname": "agitadores"
@@ -784,7 +784,7 @@
                 },
                 {
                     "alt": "alt-logo",
-                    "srcImage": "/static/media/1.17438d64edaeb803911a.jpg",
+                    "srcImage": "/public/landings/velp/equipos/agitadores-magneticos/are-6/1.jpg",
                     "typeProduct": {
                         "name": "Agitadores",
                         "keyname": "agitadores"
@@ -801,7 +801,7 @@
                 },
                 {
                     "alt": "alt-logo",
-                    "srcImage": "/static/media/1VELPAREX5-Digital01-282746-282916.4e4bed5417294fdd80c3.jpg",
+                    "srcImage": "/public/landings/velp/equipos/agitadores-magneticos/arex-5-digital/1VELPAREX5-Digital01-282746-282916.jpg",
                     "typeProduct": {
                         "name": "Agitadores",
                         "keyname": "agitadores"
@@ -818,7 +818,7 @@
                 },
                 {
                     "alt": "alt-logo",
-                    "srcImage": "/static/media/1.a37d33bfca68bbd05ba0.jpg",
+                    "srcImage": "/public/landings/velp/equipos/agitadores-magneticos/arex-5/1.jpg",
                     "typeProduct": {
                         "name": "Agitadores",
                         "keyname": "agitadores"
@@ -835,7 +835,7 @@
                 },
                 {
                     "alt": "alt-logo",
-                    "srcImage": "/static/media/1.da9d0c884ee0940057d2.jpg",
+                    "srcImage": "/public/landings/velp/equipos/agitadores-magneticos/are-5/1.jpg",
                     "typeProduct": {
                         "name": "Agitadores",
                         "keyname": "agitadores"
@@ -852,7 +852,7 @@
                 },
                 {
                     "alt": "alt-logo",
-                    "srcImage": "/static/media/1.701ea61002ccfa55e458.jpg",
+                    "srcImage": "/public/landings/velp/equipos/agitadores-magneticos/arec-connect/1.jpg",
                     "typeProduct": {
                         "name": "Agitadores",
                         "keyname": "agitadores"
@@ -869,7 +869,7 @@
                 },
                 {
                     "alt": "alt-logo",
-                    "srcImage": "/static/media/1.46d605d9b0abcceb337f.jpg",
+                    "srcImage": "/public/landings/velp/equipos/agitadores-magneticos/arec-x/1.jpg",
                     "typeProduct": {
                         "name": "Agitadores",
                         "keyname": "agitadores"
@@ -886,7 +886,7 @@
                 },
                 {
                     "alt": "alt-logo",
-                    "srcImage": "/static/media/1.514a5861700d335e248b.jpg",
+                    "srcImage": "/public/landings/velp/equipos/agitadores-magneticos/arec/1.jpg",
                     "typeProduct": {
                         "name": "Agitadores",
                         "keyname": "agitadores"
@@ -903,7 +903,7 @@
                 },
                 {
                     "alt": "alt-logo",
-                    "srcImage": "/static/media/1.13a793778b2ebabe03c8.jpg",
+                    "srcImage": "/public/landings/velp/equipos/agitadores-magneticos/HSC/1.jpg",
                     "typeProduct": {
                         "name": "Agitadores",
                         "keyname": "agitadores"
@@ -920,7 +920,7 @@
                 },
                 {
                     "alt": "alt-logo",
-                    "srcImage": "/static/media/1.09e202f6545096acaa3a.jpg",
+                    "srcImage": "/public/landings/velp/equipos/agitadores-magneticos/am4-digital-pro/1.jpg",
                     "typeProduct": {
                         "name": "Agitadores",
                         "keyname": "agitadores"
@@ -937,7 +937,7 @@
                 },
                 {
                     "alt": "alt-logo",
-                    "srcImage": "/static/media/1.c66fe53eab036f961c62.jpg",
+                    "srcImage": "/public/landings/velp/equipos/agitadores-magneticos/am4/1.jpg",
                     "typeProduct": {
                         "name": "Agitadores",
                         "keyname": "agitadores"
@@ -954,7 +954,7 @@
                 },
                 {
                     "alt": "alt-logo",
-                    "srcImage": "/static/media/1.ef01ae88e7467e15a3b4.jpg",
+                    "srcImage": "/public/landings/velp/equipos/agitadores-magneticos/multi-hs-6-15/1.jpg",
                     "typeProduct": {
                         "name": "Agitadores",
                         "keyname": "agitadores"
@@ -971,7 +971,7 @@
                 },
                 {
                     "alt": "alt-logo",
-                    "srcImage": "/static/media/1.549e8a2b20b748382c73.jpg",
+                    "srcImage": "/public/landings/velp/equipos/agitadores-magneticos/vtf/1.jpg",
                     "typeProduct": {
                         "name": "Agitadores",
                         "keyname": "agitadores"
@@ -988,7 +988,7 @@
                 },
                 {
                     "alt": "alt-logo",
-                    "srcImage": "/static/media/1.3cba1504b105d379e83a.jpg",
+                    "srcImage": "/public/landings/velp/equipos/placas-calefactoras/rc-5/1.jpg",
                     "typeProduct": {
                         "name": "Agitadores",
                         "keyname": "agitadores"
@@ -1005,7 +1005,7 @@
                 },
                 {
                     "alt": "alt-logo",
-                    "srcImage": "/static/media/1.a71c02a180ce8ddf3f7b.jpg",
+                    "srcImage": "/public/landings/velp/equipos/placas-calefactoras/rc-2/1.jpg",
                     "typeProduct": {
                         "name": "Agitadores",
                         "keyname": "agitadores"
@@ -1022,7 +1022,7 @@
                 },
                 {
                     "alt": "alt-logo",
-                    "srcImage": "/static/media/1VELPREC00-236772-239838.12c38441bea9c5ab4492.jpg",
+                    "srcImage": "/public/landings/velp/equipos/placas-calefactoras/rec/1VELPREC00-236772-239838.jpg",
                     "typeProduct": {
                         "name": "Agitadores",
                         "keyname": "agitadores"
@@ -1039,7 +1039,7 @@
                 },
                 {
                     "alt": "alt-logo",
-                    "srcImage": "/static/media/1.6c5cae2ffec518c5275f.jpg",
+                    "srcImage": "/public/landings/velp/equipos/agitadores/hs-200-advance/1.jpg",
                     "typeProduct": {
                         "name": "Agitadores",
                         "keyname": "agitadores"
@@ -1056,7 +1056,7 @@
                 },
                 {
                     "alt": "alt-logo",
-                    "srcImage": "/static/media/1OHS100Advance00-209528-228043.f47b88b51f5e57f31e5c.jpg",
+                    "srcImage": "/public/landings/velp/equipos/agitadores/ohs100-advance/1OHS100Advance00-209528-228043.jpg",
                     "typeProduct": {
                         "name": "Agitadores",
                         "keyname": "agitadores"
@@ -1073,7 +1073,7 @@
                 },
                 {
                     "alt": "alt-logo",
-                    "srcImage": "/static/media/1OHS60Advance00-209455-228155.103b2ca017cba8f2236b.jpg",
+                    "srcImage": "/public/landings/velp/equipos/agitadores/ohs-60-advance/1OHS60Advance00-209455-228155.jpg",
                     "typeProduct": {
                         "name": "Agitadores",
                         "keyname": "agitadores"
@@ -1090,7 +1090,7 @@
                 },
                 {
                     "alt": "alt-logo",
-                    "srcImage": "/static/media/1OHS200Digital00-209429-228202.83298cf558076c9e6e3e.jpg",
+                    "srcImage": "/public/landings/velp/equipos/agitadores/ohs-200-digital/1OHS200Digital00-209429-228202.jpg",
                     "typeProduct": {
                         "name": "Agitadores",
                         "keyname": "agitadores"
@@ -1107,7 +1107,7 @@
                 },
                 {
                     "alt": "alt-logo",
-                    "srcImage": "/static/media/1OHS100Digital00-209402-228268.f752099615c1b4a10259.jpg",
+                    "srcImage": "/public/landings/velp/equipos/agitadores/ohs-100-digital/1OHS100Digital00-209402-228268.jpg",
                     "typeProduct": {
                         "name": "Agitadores",
                         "keyname": "agitadores"
@@ -1124,7 +1124,7 @@
                 },
                 {
                     "alt": "alt-logo",
-                    "srcImage": "/static/media/1OHS60Digital00-209375-228310.6c6748c428c564a9bb18.jpg",
+                    "srcImage": "/public/landings/velp/equipos/agitadores/ohs-60-digital/1OHS60Digital00-209375-228310.jpg",
                     "typeProduct": {
                         "name": "Agitadores",
                         "keyname": "agitadores"
@@ -1141,7 +1141,7 @@
                 },
                 {
                     "alt": "alt-logo",
-                    "srcImage": "/static/media/1OHS40Digital00-209347-228323.3daf99986deef8013752.jpg",
+                    "srcImage": "/public/landings/velp/equipos/agitadores/ohs-40-digital/1OHS40Digital00-209347-228323.jpg",
                     "typeProduct": {
                         "name": "Agitadores",
                         "keyname": "agitadores"
@@ -1158,7 +1158,7 @@
                 },
                 {
                     "alt": "alt-logo",
-                    "srcImage": "/static/media/1.747ae05254c83dd711d9.jpg",
+                    "srcImage": "/public/landings/velp/equipos/agitadores/ohs-20-digital/1.jpg",
                     "typeProduct": {
                         "name": "Agitadores",
                         "keyname": "agitadores"
@@ -1175,7 +1175,7 @@
                 },
                 {
                     "alt": "alt-logo",
-                    "srcImage": "/static/media/1.db045a232268654df603.jpg",
+                    "srcImage": "/public/landings/velp/equipos/agitadores/controller-advance/1.jpg",
                     "typeProduct": {
                         "name": "Agitadores",
                         "keyname": "agitadores"
@@ -1192,7 +1192,7 @@
                 },
                 {
                     "alt": "alt-logo",
-                    "srcImage": "/static/media/1.bbcf5a85a007599d57e2.jpg",
+                    "srcImage": "/public/landings/velp/equipos/agitadores/controller-digital/1.jpg",
                     "typeProduct": {
                         "name": "Agitadores",
                         "keyname": "agitadores"
@@ -1209,7 +1209,7 @@
                 },
                 {
                     "alt": "alt-logo",
-                    "srcImage": "/static/media/1.22a934ee12c3bd14164d.jpg",
+                    "srcImage": "/public/landings/velp/equipos/agitadores/dlh-digital/1.jpg",
                     "typeProduct": {
                         "name": "Agitadores",
                         "keyname": "agitadores"
@@ -1226,7 +1226,7 @@
                 },
                 {
                     "alt": "alt-logo",
-                    "srcImage": "/static/media/1.918768567d6a581ae069.jpg",
+                    "srcImage": "/public/landings/velp/equipos/agitadores/dls-digital/1.jpg",
                     "typeProduct": {
                         "name": "Agitadores",
                         "keyname": "agitadores"
@@ -1243,7 +1243,7 @@
                 },
                 {
                     "alt": "alt-logo",
-                    "srcImage": "/static/media/1.544b0651eadab625957e.jpg",
+                    "srcImage": "/public/landings/velp/equipos/agitadores/pw/1.jpg",
                     "typeProduct": {
                         "name": "Agitadores",
                         "keyname": "agitadores"
@@ -1260,7 +1260,7 @@
                 },
                 {
                     "alt": "alt-logo",
-                    "srcImage": "/static/media/1.8fa300bca3a0ccbb0d7c.jpg",
+                    "srcImage": "/public/landings/velp/equipos/agitadores/lh-varilla/1.jpg",
                     "typeProduct": {
                         "name": "Agitadores",
                         "keyname": "agitadores"
@@ -1277,7 +1277,7 @@
                 },
                 {
                     "alt": "alt-logo",
-                    "srcImage": "/static/media/1.130e75c962b1c0689cce.jpg",
+                    "srcImage": "/public/landings/velp/equipos/agitadores/ls-varilla/1.jpg",
                     "typeProduct": {
                         "name": "Agitadores",
                         "keyname": "agitadores"
@@ -1294,7 +1294,7 @@
                 },
                 {
                     "alt": "alt-logo",
-                    "srcImage": "/static/media/1.566cd34c554ebbf8479a.jpg",
+                    "srcImage": "/public/landings/velp/equipos/agitadores/es-varilla/1.jpg",
                     "typeProduct": {
                         "name": "Agitadores",
                         "keyname": "agitadores"
@@ -1311,7 +1311,7 @@
                 },
                 {
                     "alt": "alt-logo",
-                    "srcImage": "/static/media/1VELPMULTI-TX5-Digital01-260535-260556-261271.3647acfe37d17ea82b40.jpg",
+                    "srcImage": "/public/landings/velp/equipos/agitadores-vortex/multi-tx5-digital/1VELPMULTI-TX5-Digital01-260535-260556-261271.jpg",
                     "typeProduct": {
                         "name": "Agitadores",
                         "keyname": "agitadores"
@@ -1328,7 +1328,7 @@
                 },
                 {
                     "alt": "alt-logo",
-                    "srcImage": "/static/media/1.7270c14c0d7d6d6af788.jpg",
+                    "srcImage": "/public/landings/velp/equipos/agitadores-vortex/wizard/1.jpg",
                     "typeProduct": {
                         "name": "Agitadores",
                         "keyname": "agitadores"
@@ -1345,7 +1345,7 @@
                 },
                 {
                     "alt": "alt-logo",
-                    "srcImage": "/static/media/1.1284124c3c802696408b.jpg",
+                    "srcImage": "/public/landings/velp/equipos/agitadores-vortex/tx4/1.jpg",
                     "typeProduct": {
                         "name": "Agitadores",
                         "keyname": "agitadores"
@@ -1362,7 +1362,7 @@
                 },
                 {
                     "alt": "alt-logo",
-                    "srcImage": "/static/media/1.60c2fd564b388035f0ff.jpg",
+                    "srcImage": "/public/landings/velp/equipos/agitadores-vortex/zx4/1.jpg",
                     "typeProduct": {
                         "name": "Agitadores",
                         "keyname": "agitadores"
@@ -1379,7 +1379,7 @@
                 },
                 {
                     "alt": "alt-logo",
-                    "srcImage": "/static/media/1VELPZX3SA202A0176-imagen 2209677.bb2351ab54f2ead6e698.jpg",
+                    "srcImage": "/public/landings/velp/equipos/agitadores-vortex/zx3/1VELPZX3SA202A0176-imagen 2209677.jpg",
                     "typeProduct": {
                         "name": "Agitadores",
                         "keyname": "agitadores"
@@ -1396,7 +1396,7 @@
                 },
                 {
                     "alt": "alt-logo",
-                    "srcImage": "/static/media/1.b3f2657de2f044ba4bab.jpg",
+                    "srcImage": "/public/landings/velp/equipos/agitadores-vortex/rx3/1.jpg",
                     "typeProduct": {
                         "name": "Agitadores",
                         "keyname": "agitadores"
@@ -1413,7 +1413,7 @@
                 },
                 {
                     "alt": "alt-logo",
-                    "srcImage": "/static/media/1.4478906487c92363f31b.jpg",
+                    "srcImage": "/public/landings/velp/equipos/dispersores/ov-625/1.jpg",
                     "typeProduct": {
                         "name": "Dispersores",
                         "keyname": "dispersores"
@@ -1430,7 +1430,7 @@
                 },
                 {
                     "alt": "alt-logo",
-                    "srcImage": "/static/media/1ECO-6-Termorreactor-DQO.b9ac1da05fcb7f29dac8.jpg",
+                    "srcImage": "/public/landings/velp/equipos/termorreactor/eco-6/1ECO-6-Termorreactor-DQO.jpg",
                     "typeProduct": {
                         "name": "Termorreactores",
                         "keyname": "termorreactores"
@@ -1447,7 +1447,7 @@
                 },
                 {
                     "alt": "alt-logo",
-                    "srcImage": "/static/media/1.c0f925eb47968c518d58.jpg",
+                    "srcImage": "/public/landings/velp/equipos/termorreactor/eco-8-y-25/1.jpg",
                     "typeProduct": {
                         "name": "Termorreactores",
                         "keyname": "termorreactores"
@@ -1464,7 +1464,7 @@
                 },
                 {
                     "alt": "alt-logo",
-                    "srcImage": "/static/media/1.483ddf5989e1405f27bf.jpg",
+                    "srcImage": "/public/landings/velp/equipos/termorreactor/eco-16/1.jpg",
                     "typeProduct": {
                         "name": "Termorreactores",
                         "keyname": "termorreactores"
@@ -1481,7 +1481,7 @@
                 },
                 {
                     "alt": "alt-logo",
-                    "srcImage": "/static/media/1.d0468cf41edc8607a9fd.jpg",
+                    "srcImage": "/public/landings/velp/equipos/respirometros/RESPIROMETRIC-Sensor-System-6/1.jpg",
                     "typeProduct": {
                         "name": "DBO y Respirometros",
                         "keyname": "dbo-y-respirometros"
@@ -1498,7 +1498,7 @@
                 },
                 {
                     "alt": "alt-logo",
-                    "srcImage": "/static/media/1.1db9042f81cb20f8b91d.jpg",
+                    "srcImage": "/public/landings/velp/equipos/respirometros/RESPIROMETRIC-Sensor-System-6-Maxi/1.jpg",
                     "typeProduct": {
                         "name": "DBO y Respirometros",
                         "keyname": "dbo-y-respirometros"
@@ -1515,7 +1515,7 @@
                 },
                 {
                     "alt": "alt-logo",
-                    "srcImage": "/static/media/1.f14b30a186f54c193171.jpg",
+                    "srcImage": "/public/landings/velp/equipos/respirometros/RESPIROMETRIC-Sensor-System-6-for-Soil/1.jpg",
                     "typeProduct": {
                         "name": "DBO y Respirometros",
                         "keyname": "dbo-y-respirometros"
@@ -1532,7 +1532,7 @@
                 },
                 {
                     "alt": "alt-logo",
-                    "srcImage": "/static/media/1.564e00abe5c4852dd7a8.jpg",
+                    "srcImage": "/public/landings/velp/equipos/respirometros/RESPIROMETRIC-Sensor-System-6-para-la-biodegradabilidad/1.jpg",
                     "typeProduct": {
                         "name": "DBO y Respirometros",
                         "keyname": "dbo-y-respirometros"
@@ -1549,7 +1549,7 @@
                 },
                 {
                     "alt": "alt-logo",
-                    "srcImage": "/static/media/1.140802f4cf075edaa0ac.jpg",
+                    "srcImage": "/public/landings/velp/equipos/respirometros/DBO-sensor/1.jpg",
                     "typeProduct": {
                         "name": "DBO y Respirometros",
                         "keyname": "dbo-y-respirometros"
@@ -1566,7 +1566,7 @@
                 },
                 {
                     "alt": "alt-logo",
-                    "srcImage": "/static/media/1.0ed427d4d860120403da.jpg",
+                    "srcImage": "/public/landings/velp/equipos/incubadoras/FOC-120e/1.jpg",
                     "typeProduct": {
                         "name": "Incubadores",
                         "keyname": "incubadores"
@@ -1583,7 +1583,7 @@
                 },
                 {
                     "alt": "alt-logo",
-                    "srcImage": "/static/media/1.513c544dac7adb46e598.jpg",
+                    "srcImage": "/public/landings/velp/equipos/incubadoras/FOC-120I/1.jpg",
                     "typeProduct": {
                         "name": "Incubadores",
                         "keyname": "incubadores"
@@ -1600,7 +1600,7 @@
                 },
                 {
                     "alt": "alt-logo",
-                    "srcImage": "/static/media/1.ef33508c7a919b13fe59.jpg",
+                    "srcImage": "/public/landings/velp/equipos/incubadoras/foc-200e/1.jpg",
                     "typeProduct": {
                         "name": "Incubadores",
                         "keyname": "incubadores"
@@ -1617,7 +1617,7 @@
                 },
                 {
                     "alt": "alt-logo",
-                    "srcImage": "/static/media/1.ba8ddb759687b870624d.jpg",
+                    "srcImage": "/public/landings/velp/equipos/incubadoras/foc-200i/1.jpg",
                     "typeProduct": {
                         "name": "Incubadores",
                         "keyname": "incubadores"
@@ -1634,7 +1634,7 @@
                 },
                 {
                     "alt": "alt-logo",
-                    "srcImage": "/static/media/1.1f67e1a6eac25e537f0f.jpg",
+                    "srcImage": "/public/landings/velp/equipos/incubadoras/foc-200il/1.jpg",
                     "typeProduct": {
                         "name": "Incubadores",
                         "keyname": "incubadores"
@@ -1651,7 +1651,7 @@
                 },
                 {
                     "alt": "alt-logo",
-                    "srcImage": "/static/media/1.b2f704710ea648a4cf2f.jpg",
+                    "srcImage": "/public/landings/velp/equipos/incubadoras/ftc-120/1.jpg",
                     "typeProduct": {
                         "name": "Incubadores",
                         "keyname": "incubadores"
@@ -1668,7 +1668,7 @@
                 },
                 {
                     "alt": "alt-logo",
-                    "srcImage": "/static/media/1.bba7956e24511b31347e.jpg",
+                    "srcImage": "/public/landings/velp/equipos/floculadores/fc-s/1.jpg",
                     "typeProduct": {
                         "name": "Floculadores",
                         "keyname": "floculadores"
@@ -1685,7 +1685,7 @@
                 },
                 {
                     "alt": "alt-logo",
-                    "srcImage": "/static/media/1.fe46bc072092991821e4.jpg",
+                    "srcImage": "/public/landings/velp/equipos/floculadores/fp4/1.jpg",
                     "typeProduct": {
                         "name": "Floculadores",
                         "keyname": "floculadores"
@@ -1702,7 +1702,7 @@
                 },
                 {
                     "alt": "alt-logo",
-                    "srcImage": "/static/media/1.ab79e3de3632050b7f3a.jpg",
+                    "srcImage": "/public/landings/velp/equipos/floculadores/jlt/1.jpg",
                     "typeProduct": {
                         "name": "Floculadores",
                         "keyname": "floculadores"
@@ -1719,7 +1719,7 @@
                 },
                 {
                     "alt": "alt-logo",
-                    "srcImage": "/static/media/1.e6659d4e03e890f68513.jpg",
+                    "srcImage": "/public/landings/velp/equipos/agitadores/rotax-6-8/1.jpg",
                     "typeProduct": {
                         "name": "Agitadores",
                         "keyname": "agitadores"
@@ -1736,7 +1736,7 @@
                 },
                 {
                     "alt": "alt-logo",
-                    "srcImage": "/static/media/1.dd4de02ee1fa2b7dbbaf.jpg",
+                    "srcImage": "/public/landings/velp/equipos/turbidimetro/1.jpg",
                     "typeProduct": {
                         "name": "Turbidimetro",
                         "keyname": "turbidimetro"
@@ -1753,7 +1753,7 @@
                 },
                 {
                     "alt": "alt-logo",
-                    "srcImage": "/static/media/1.0a0bb2e5e3d774df97a8.jpg",
+                    "srcImage": "/public/landings/velp/equipos/bano-circulacion/ocb/1.jpg",
                     "typeProduct": {
                         "name": "Baños de circulación abiertos",
                         "keyname": "baños-de-circulacion-abiertos"
@@ -1770,7 +1770,7 @@
                 },
                 {
                     "alt": "alt-logo",
-                    "srcImage": "/static/media/1.95434f0fbb1a2d9bd5e8.jpg",
+                    "srcImage": "/public/landings/velp/equipos/bombas/jpv/1.jpg",
                     "typeProduct": {
                         "name": "Bombas",
                         "keyname": "bombas"
@@ -1787,7 +1787,7 @@
                 },
                 {
                     "alt": "alt-logo",
-                    "srcImage": "/static/media/1.bc256b8004b99d920a2c.jpg",
+                    "srcImage": "/public/landings/velp/equipos/bombas/sp311/1.jpg",
                     "typeProduct": {
                         "name": "Bombas",
                         "keyname": "bombas"
