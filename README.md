@@ -65,3 +65,18 @@ Ejecutar el express y el demon
 ```bash
 yarn start:ssr:prod
 ```
+
+
+#Notas para unica vez
+- En el certificado ssl hacer el redirect de http a https para que no truene los llamados a los json por cros
+- desactive el fireware pero posiblemente no es necesario
+- se duplica el public2 dentro de public para compilarlo y tenerlo a la mado en el server, en express activo el enlace para public2 ya que no puedo usar el mismo de public porque hace que no me reconozca los archivos
+posiblemente agregar en apache los llamados a https y http (apache y ngix) ahora los usa pero posiblemente no son necesarios
+
+Directivas adicionales para HTTP:
+Header set Access-Control-Allow-Origin "http://test-quantum.sicssa-lab.com"
+Header set Access-Control-Allow-Origin "https://test-quantum.sicssa-lab.com"
+
+Directivas adicionales para HTTPS:
+Header set Access-Control-Allow-Origin "https://test-quantum.sicssa-lab.com/"
+Header set Access-Control-Allow-Origin "http://test-quantum.sicssa-lab.com"
