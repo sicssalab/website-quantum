@@ -64,7 +64,7 @@
             "items": [
                 {
                     "alt": "alt-logo",
-                    "srcImage": "/static/media/imagen_1_VELPEMA502-02-287274-287962.38f85fc80379bef8884e.jpg",
+                    "srcImage": "/public/landings/velp/instruments/analizadores/ema-502/imagen_1_VELPEMA502-02-287274-287962.jpg",
                     "typeProduct": {
                         "name": "Analizadores Elementales",
                         "keyname": "analizadores-elementales"
@@ -81,7 +81,7 @@
                 },
                 {
                     "alt": "alt-logo",
-                    "srcImage": "/static/media/producto.7acd7e195b0d147b4a01.jpg",
+                    "srcImage": "/public/landings/velp/instruments/analizadores/cn-802/producto.jpg",
                     "typeProduct": {
                         "name": "Analizadores Elementales",
                         "keyname": "analizadores-elementales"
@@ -98,7 +98,7 @@
                 },
                 {
                     "alt": "alt-logo",
-                    "srcImage": "/static/media/F30800080VELPNDA-702-285106.ce9a209aeb4bae754557.jpg",
+                    "srcImage": "/public/landings/velp/instruments/analizadores/nda-702/F30800080VELPNDA-702-285106.jpg",
                     "typeProduct": {
                         "name": "Analizadores Elementales",
                         "keyname": "analizadores-elementales"
@@ -115,7 +115,7 @@
                 },
                 {
                     "alt": "alt-logo",
-                    "srcImage": "/static/media/VELPDKL8S30100200-212992-228575.65ced64a4b110a5af3e9.jpg",
+                    "srcImage": "/public/landings/velp/instruments/digestores/dkl-8/VELPDKL8S30100200-212992-228575.jpg",
                     "typeProduct": {
                         "name": "Unidad de digestion",
                         "keyname": "unidad-digestion"
@@ -132,7 +132,7 @@
                 },
                 {
                     "alt": "alt-logo",
-                    "srcImage": "/static/media/VELPDKL12S30100190-213006-228580.ac9692314d63e5bd18b3.jpg",
+                    "srcImage": "/public/landings/velp/instruments/digestores/dkl-12/VELPDKL12S30100190-213006-228580.jpg",
                     "typeProduct": {
                         "name": "Unidad de digestion",
                         "keyname": "unidad-digestion"
@@ -149,7 +149,7 @@
                 },
                 {
                     "alt": "alt-logo",
-                    "srcImage": "/static/media/VELPDKL20S30100210-213014.70961b9ce8ee65a7bf15.jpg",
+                    "srcImage": "/public/landings/velp/instruments/digestores/dkl-20/VELPDKL20S30100210-213014.jpg",
                     "typeProduct": {
                         "name": "Unidad de digestion",
                         "keyname": "unidad-digestion"
@@ -166,7 +166,7 @@
                 },
                 {
                     "alt": "alt-logo",
-                    "srcImage": "/static/media/26S30100180-213016.df3f7495339108f98100.jpg",
+                    "srcImage": "/public/landings/velp/instruments/digestores/dkl-46-26/26S30100180-213016.jpg",
                     "typeProduct": {
                         "name": "Unidad de digestion",
                         "keyname": "unidad-digestion"
@@ -183,7 +183,7 @@
                 },
                 {
                     "alt": "alt-logo",
-                    "srcImage": "/static/media/1Kjeldhal-Digestion-DK6-01-223527-228488.579d88ebe07e7390b2db.jpg",
+                    "srcImage": "/public/landings/velp/instruments/digestores/dk-6/1Kjeldhal-Digestion-DK6-01-223527-228488.jpg",
                     "typeProduct": {
                         "name": "Unidad de digestion",
                         "keyname": "unidad-digestion"
@@ -200,7 +200,7 @@
                 },
                 {
                     "alt": "alt-logo",
-                    "srcImage": "/static/media/1Kjeldhal-Digestion-DK6-48-01-223575-228593.2d0a703affc49d3f92e2.jpg",
+                    "srcImage": "/public/landings/velp/instruments/digestores/dk-6-48/1Kjeldhal-Digestion-DK6-48-01-223575-228593.jpg",
                     "typeProduct": {
                         "name": "Unidad de digestion",
                         "keyname": "unidad-digestion"
@@ -217,7 +217,7 @@
                 },
                 {
                     "alt": "alt-logo",
-                    "srcImage": "/static/media/1Kjeldhal-Digestion-DK8-01-223655-228506.2be2cd4f6e7e5d79e8d6.jpg",
+                    "srcImage": "/public/landings/velp/instruments/digestores/dk-8/1Kjeldhal-Digestion-DK8-01-223655-228506.jpg",
                     "typeProduct": {
                         "name": "Unidad de digestion",
                         "keyname": "unidad-digestion"
@@ -234,7 +234,7 @@
                 },
                 {
                     "alt": "alt-logo",
-                    "srcImage": "/static/media/1Kjeldhal-Digestion-DK18-26-01-223783-228547.7178bb0c5bbef6521d1d.jpg",
+                    "srcImage": "/public/landings/velp/instruments/digestores/dk-18-26/1Kjeldhal-Digestion-DK18-26-01-223783-228547.jpg",
                     "typeProduct": {
                         "name": "Unidad de digestion",
                         "keyname": "unidad-digestion"
@@ -251,7 +251,7 @@
                 },
                 {
                     "alt": "alt-logo",
-                    "srcImage": "/static/media/1Kjeldhal-Digestion-DK20-01-223724-228529.80b35530c83c3b0b74a3.jpg",
+                    "srcImage": "/public/landings/velp/instruments/digestores/dk-20/1Kjeldhal-Digestion-DK20-01-223724-228529.jpg",
                     "typeProduct": {
                         "name": "Unidad de digestion",
                         "keyname": "unidad-digestion"
@@ -268,7 +268,7 @@
                 },
                 {
                     "alt": "alt-logo",
-                    "srcImage": "/static/media/1Kjeldhal-Digestion-DK42-26-01-223830-228563.dd1b5626963d501a42cc.jpg",
+                    "srcImage": "/public/landings/velp/instruments/digestores/dk-42-26/1Kjeldhal-Digestion-DK42-26-01-223830-228563.jpg",
                     "typeProduct": {
                         "name": "Unidad de digestion",
                         "keyname": "unidad-digestion"
@@ -285,7 +285,7 @@
                 },
                 {
                     "alt": "alt-logo",
-                    "srcImage": "/static/media/1KS10003-4-284151.16bb243cd14b84ca49ee.jpg",
+                    "srcImage": "/public/landings/velp/instruments/digestores/ks-1000/1KS10003-4-284151.jpg",
                     "typeProduct": {
                         "name": "Unidad de digestion",
                         "keyname": "unidad-digestion"
@@ -302,7 +302,7 @@
                 },
                 {
                     "alt": "alt-logo",
-                    "srcImage": "/static/media/1VELPUDK169Autokjel01-282149-282184.1aaa5d84763a0002d426.jpg",
+                    "srcImage": "/public/landings/velp/instruments/destilacion/udk-169/1VELPUDK169Autokjel01-282149-282184.jpg",
                     "typeProduct": {
                         "name": "Unidad de destilación",
                         "keyname": "unidad-destilacion"
@@ -319,7 +319,7 @@
                 },
                 {
                     "alt": "alt-logo",
-                    "srcImage": "/static/media/1UDK159-01-251263-251797.878f600ca5f3c4646cdd.jpg",
+                    "srcImage": "/public/landings/velp/instruments/destilacion/udk-159/1UDK159-01-251263-251797.jpg",
                     "typeProduct": {
                         "name": "Unidad de destilación",
                         "keyname": "unidad-destilacion"
@@ -336,7 +336,7 @@
                 },
                 {
                     "alt": "alt-logo",
-                    "srcImage": "/static/media/1UDK149-01-251996-252032.58caacfb65e0890abc92.jpg",
+                    "srcImage": "/public/landings/velp/instruments/destilacion/udk-149/1UDK149-01-251996-252032.jpg",
                     "typeProduct": {
                         "name": "Unidad de destilación",
                         "keyname": "unidad-destilacion"
@@ -353,7 +353,7 @@
                 },
                 {
                     "alt": "alt-logo",
-                    "srcImage": "/static/media/1UDK139-01-252106-252124.e94fd4789dbe9b0e336c.jpg",
+                    "srcImage": "/public/landings/velp/instruments/destilacion/udk-139/1UDK139-01-252106-252124.jpg",
                     "typeProduct": {
                         "name": "Unidad de destilación",
                         "keyname": "unidad-destilacion"
@@ -370,7 +370,7 @@
                 },
                 {
                     "alt": "alt-logo",
-                    "srcImage": "/static/media/1UDK129-01-251731-251743.a3c7d7e6b08f9a82223f.jpg",
+                    "srcImage": "/public/landings/velp/instruments/destilacion/udk-129/1UDK129-01-251731-251743.jpg",
                     "typeProduct": {
                         "name": "Unidad de destilación",
                         "keyname": "unidad-destilacion"
@@ -387,7 +387,7 @@
                 },
                 {
                     "alt": "alt-logo",
-                    "srcImage": "/static/media/1VELPSER15801-211057-228410.12f3bc38c78b00b5838b.jpg",
+                    "srcImage": "/public/landings/velp/instruments/extractores/ser-158/1VELPSER15801-211057-228410.jpg",
                     "typeProduct": {
                         "name": "Extractores de solventes",
                         "keyname": "extractores-de-solventes"
@@ -404,7 +404,7 @@
                 },
                 {
                     "alt": "alt-logo",
-                    "srcImage": "/static/media/1SER-148F30300242-237507-237522.1dcb6718c9f16cbea558.jpg",
+                    "srcImage": "/public/landings/velp/instruments/extractores/ser-148/1SER-148F30300242-237507-237522.jpg",
                     "typeProduct": {
                         "name": "Extractores de solventes",
                         "keyname": "extractores-de-solventes"
@@ -421,7 +421,7 @@
                 },
                 {
                     "alt": "alt-logo",
-                    "srcImage": "/static/media/1VELPHU6NEW01-223956-228365.68a466d694ad28f851e3.jpg",
+                    "srcImage": "/public/landings/velp/instruments/extractores/hu-6/1VELPHU6NEW01-223956-228365.jpg",
                     "typeProduct": {
                         "name": "Extractores de solventes",
                         "keyname": "extractores-de-solventes"
@@ -438,7 +438,7 @@
                 },
                 {
                     "alt": "alt-logo",
-                    "srcImage": "/static/media/1VELPFIWEADVANCE01-211147-227909.21e41fd3f0f2afd00986.jpg",
+                    "srcImage": "/public/landings/velp/instruments/analizadores/FIWE/1VELPFIWEADVANCE01-211147-227909.jpg",
                     "typeProduct": {
                         "name": "Analizadores de fibra",
                         "keyname": "analizadores-de-fibra"
@@ -455,7 +455,7 @@
                 },
                 {
                     "alt": "alt-logo",
-                    "srcImage": "/static/media/1VELPFIWESA30520200-237585-237639.2b698b20bafb5c6308a5.jpg",
+                    "srcImage": "/public/landings/velp/instruments/analizadores/fire-semiautomatico/1VELPFIWESA30520200-237585-237639.jpg",
                     "typeProduct": {
                         "name": "Analizadores de fibra",
                         "keyname": "analizadores-de-fibra"
@@ -472,7 +472,7 @@
                 },
                 {
                     "alt": "alt-logo",
-                    "srcImage": "/static/media/1VELPCOEX01-211220-228218.dfbba6e04cddf36c6db4.jpg",
+                    "srcImage": "/public/landings/velp/instruments/extractores/coex/1VELPCOEX01-211220-228218.jpg",
                     "typeProduct": {
                         "name": "Analizadores de fibra",
                         "keyname": "analizadores-de-fibra"
@@ -489,7 +489,7 @@
                 },
                 {
                     "alt": "alt-logo",
-                    "srcImage": "/static/media/1VELPGDESA30400209-210763-228263.714824e35404438f181f.jpg",
+                    "srcImage": "/public/landings/velp/instruments/digestores/dge/1VELPGDESA30400209-210763-228263.jpg",
                     "typeProduct": {
                         "name": "Analizadores de fibra dietética",
                         "keyname": "analizadores-de-fibra-dietetica"
@@ -506,7 +506,7 @@
                 },
                 {
                     "alt": "alt-logo",
-                    "srcImage": "/static/media/1VELPCSF6F30420210-210755-227863.db0ae4f1e526da452a2b.jpg",
+                    "srcImage": "/public/landings/velp/instruments/filtradores/CSF6/1VELPCSF6F30420210-210755-227863.jpg",
                     "typeProduct": {
                         "name": "Analizadores de fibra dietética",
                         "keyname": "analizadores-de-fibra-dietetica"
@@ -523,7 +523,7 @@
                 },
                 {
                     "alt": "alt-logo",
-                    "srcImage": "/static/media/1VELPOXITESTF30910248-211998-227905.6443a838ad2fc1dedffe.jpg",
+                    "srcImage": "/public/landings/velp/instruments/estabilizadores/OXITEST-reactor/1VELPOXITESTF30910248-211998-227905.jpg",
                     "typeProduct": {
                         "name": "Reactor de estabilidad de oxidación",
                         "keyname": "reactor-de-estabilidad-de-oxidacion"
