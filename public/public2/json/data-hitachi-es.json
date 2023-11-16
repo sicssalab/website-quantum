@@ -4,7 +4,7 @@
     "locale": "es",
     "metadata": {
         "metaTitle": "Quantum Analytical: Hitachi",
-        "metaDescription": "---",
+        "metaDescription": "",
         "keywords": "",
         "url": "hitachi",
         "sitename": "Quantumdo",
@@ -14,7 +14,7 @@
     "items": [
         {
             "type": "header-component",
-            "title": "HITACHI",
+            "title": "HITACHI Analytical",
             "isLanding": true,
             "socialNetwork": [
                 {
@@ -48,19 +48,28 @@
             "type": "information-residential-component",
             "logo": "/public2/LOGO-MARCAS-PROVEEDORES/hitachi-inspire-the-next.jpg",
             "title": "Hitachi",
-            "logoUrl": "",
-            "description": "Establecida en 2014, Hitachi High-Tech Mexico, S.A. de C.V. es una empresa de soluciones industriales que comercializa una amplia serie de partes automotrices, incluidos diferentes tipos de resinas, productos de metal forjado y sensores de presión del aceite/interruptor y promueve la colaboración con empresas extranjeras y locales a fin de expandir los negocios globales.",
-            "videoLink": "FrDmJgVruB8"
-        },
-        {
-            "type": "gallery-residential-component",
-            "title": "Innovación y dinamismo",
-            "description": "Debemos nuestro éxito a una rica herencia de ideas, grandes inversiones en I+D y desarrollo tecnológico destinadas a maximizar la productividad y conectividad del producto y reducir el tiempo de comercialización.<br><br>VELP es un pionero de la tecnología de laboratorio inteligente (Smart Lab). Nuestros instrumentos analíticos y equipos de laboratorio ayudan a acelerar el progreso científico todos los días al ofrecer a los científicos de todo el mundo la capacidad de monitorear y controlar la tecnología VELP a través de una plataforma en la nube accesible desde cualquier dispositivo, en cualquier lugar y en cualquier momento.",
-            "items": []
+            "logoUrl": "https://www.hitachi-hightech.com/global/en/products/analytical-systems/hplc/hplc/",
+            "description": "Hitachi High-Tech America, Inc. (\"HTA\") es una empresa afiliada global de propiedad privada que opera dentro de las empresas del grupo Hitachi. HTA ,vende y brinda servicios a equipos de fabricación de semiconductores, instrumentación analítica, instrumentos científicos y productos biorelacionados, así como equipos y materiales industriales",
+            "videoLink": "FrDmJgVruB8",
+            "gallery": [
+                {
+                    "name": "test1",
+                    "image": "/public2/landings/hitachi/productos/hlpc-chromaster-3/1.avif"
+                },
+                {
+                    "name": "test2",
+                    "image": "/public2/landings/hitachi/productos/cromatografos/liquido-alto-rendimiento-chromaster/1.avif"
+                },
+                {
+                    "name": "test2",
+                    "image": "/public2/landings/hitachi/productos/cromatografos/chromaster-ultra-rs/1.avif"
+                }
+            ]
         },
         {
             "type": "product-list",
             "title": "Productos",
+            "linkWebsite": "https://www.hitachi-hightech.com/global/en/products/analytical-systems/hplc/hplc/",
             "items": [
                 {
                     "alt": "alt-logo",

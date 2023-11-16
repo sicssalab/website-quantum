@@ -1,10 +1,10 @@
 {
-    "shortName": "Brookfield Ametek",
+    "shortName": "Computrac",
     "slug": "arizona",
     "locale": "es",
     "metadata": {
-        "metaTitle": "Quantum Analytical: Brookfield Ametek",
-        "metaDescription": "--",
+        "metaTitle": "Quantum Analytical: Computrac",
+        "metaDescription": "",
         "keywords": "",
         "url": "arizona",
         "sitename": "Quantumdo",
@@ -14,7 +14,7 @@
     "items": [
         {
             "type": "header-component",
-            "title": "ARIZONA INSTRUMENT",
+            "title": "brookfield ametek",
             "isLanding": true,
             "socialNetwork": [
                 {
@@ -54,12 +54,36 @@
             "logo": "/public2/LOGO-MARCAS-PROVEEDORES/brookfield-ametek.jpg",
             "title": "ARIZONA INSTRUMENT",
             "logoUrl": "https://www.brookfieldengineering.com",
-            "description": "Empresa fundada en 1976; dedicada a la fabricación de instrumentos para el análisis de humedad con alta exactitud y precisión, confiable y de fácil uso. A través de los años la compañía ha expandido su línea Computrac y se ha transformado en un líder en el análisis de humedad. Sus productos tienen aplicación en la industria farmacéutica, química, de alimentos, plásticos, pinturas, papel, etc. Entre sus analizadores de humedad se encuentran.",
-            "videoLink": "Gpi8A5_WS9w"
+            "description": "Instrumentos de clase mundial para medir el contenido de humedad de los pioneros en este campo. Todos los analizadores de humedad Computrac se fabrican en los EE. UU. y cuentan con el respaldo de la mejor atención al cliente y experiencia en desarrollo de métodos de la industria.",
+            "videoLink": "Gpi8A5_WS9w",
+            "gallery": [
+                {
+                    "name": "test1",
+                    "image": "/public2/landings/arizona/productos/1/computrac-max-4000xl_315x220_r.png"
+                },
+                {
+                    "name": "test2",
+                    "image": "/public2/landings/arizona/productos/2/computrac-max-5000-xl_l.png"
+                },
+                {
+                    "name": "test2",
+                    "image": "/public2/landings/arizona/productos/4/vaporproxl-autosampler-lab.png"
+                },
+                {
+                    "name": "test2",
+                    "image": "/public2/landings/arizona/productos/3/computrac-vapor-pro-xl_315x220_left.png"
+                }
+            ]
+        },
+        {
+            "type": "gallery-residential-component",
+            "title": "Acerca de Computrac®",
+            "description": "En 1978, un grupo de ingenieros de Motorola descubrió la falta de tecnología avanzada de análisis de humedad para el control de calidad y decidió tomar medidas. Rápidamente diseñaron y lanzaron el analizador de humedad MA-1. Cuando el grupo se separó de Motorola en 1981, el MA-1 se convirtió en el primer analizador de humedad Computrac®.<br><br>Desde entonces, la línea Computrac®  ha crecido y madurado. Ahora consta de analizadores de humedad que se basan en dos principios de funcionamiento: pérdida por secado (LOD) y una alternativa de Karl Fischer sin reactivos y específica para la humedad.",
+            "items": []
         },
         {
             "type": "product-list",
-            "title": "Nuestros productos",
+            "title": "Productos",
             "items": [
                 {
                     "alt": "alt-logo",

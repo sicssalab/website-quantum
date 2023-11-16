@@ -85,6 +85,10 @@
         flex-wrap: wrap;
       }
     }
+    .card-img-top {
+      max-height: 286px;
+      object-fit: contain;
+    }
   }
   @media (max-width: $sm) {
     padding-top: 66px;
@@ -156,13 +160,14 @@
     padding: 0;
     .content-left {
       border-bottom: 3px solid $primary;
+      padding-bottom: 20px;
       display: flex;
       justify-content: center;
       align-items: center;
       cursor: pointer;
       .size-logo {
-        width: 100%;
-        max-width: 316px;
+        max-height: 316px;
+        object-fit: contain;
       }
     }
     .content-right {

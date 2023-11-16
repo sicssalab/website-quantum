@@ -25,13 +25,14 @@ app.get(/\.(txt)$/, express.static(path.resolve(__dirname, "../dist/public")));
 app.get(/\.(js|css|map|ico|svg|webp|webm|otf|txt|jpg|jpeg|gif|png|avif|pdf)$/, express.static(path.resolve(__dirname, "../dist")));
 
 const callPage = async (locale, slug) => {
-  let data = null;
+  let data = {};
   const request = {
     slug: slug,
     locale: locale
   };
 
   try {
+    //console.log(`${process.env.REACT_APP_DOMAIN_SSR}/public2/json/data-${request.slug.toLowerCase()}-${request.locale}.json`)
     const response = await fetch(`${process.env.REACT_APP_DOMAIN_SSR}/public2/json/data-${request.slug.toLowerCase()}-${request.locale}.json`,
       {
         method: 'GET',
@@ -67,10 +68,14 @@ const renderHeader = (html, optionsPage, locale) => {
   return html;
 }
 
+// app.get("/crm", async (req, res) => {
+//   console.log("open crm");
+//   return res.redirect('/');
+// });
+
 app.get("*", async (req, res) => {
   const context = {};
   const locale = languageUtils.getLocale(req.url)
-
   let slugPage = req.params['0'].toLowerCase();
   slugPage = slugPage.indexOf("/") === 0 ? slugPage.replace("/","") : slugPage;
   if(slugPage === "/" || slugPage === "") slugPage = "home";
@@ -104,15 +109,14 @@ app.get("*", async (req, res) => {
     && req.url.search(".jpg") === -1
     && req.url.search(".avif") === -1
     && req.url.search(".pdf") === -1
+    && req.url.search("public2/json") === -1 //TODO elimina el bucle al no encontrar el parametro buscado antes de el
     )) {
       const responseOptionsPage = await callPage(locale, slugPage)
       if(responseOptionsPage && responseOptionsPage.metadata) {
         indexHTML = renderHeader(indexHTML, responseOptionsPage, locale);
       }
   }
-
   indexHTML = indexHTML.replace('<div id="root"></div>', `<div id="root">${appHTML}</div>`);
-
   res.contentType('text/html');
   res.status(200);
 

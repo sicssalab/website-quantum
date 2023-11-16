@@ -48,19 +48,38 @@
             "type": "information-residential-component",
             "logo": "/public2/LOGO-MARCAS-PROVEEDORES/velph.jpeg",
             "title": "ARIZONA INSTRUMENT",
-            "logoUrl": "https://www.brookfieldengineering.com",
-            "description": "Bienvenidos en VELP<br>Fundada en 1983 por Ermete Passoni, VELP Scientifica es hoy un líder mundial en la producción de instrumentos analíticos y equipos de laboratorio que ha tenido un impacto en el mercado mundial con productos italianos reconocidos por su innovación, diseño y conectividad premium.<br><br>VELP es una empresa familiar en su segunda generación de liderazgo y es reconocida mundialmente como un proveedor premium de analizadores elementales, analizadores Kjeldahl, extractores con solventes, extractores de fibra, reactores de estabilidad de oxidación, herramientas de agitación y mezcla, pruebas respirométricas, DBO y DQO",
-            "videoLink": "A9SWxKNmFKA"
+            "logoUrl": "https://www.velp.com/es-us/default.aspx",
+            "description": "Debemos nuestro éxito a una rica herencia de ideas, grandes inversiones en Investigación y Desarrollo tecnológico destinadas a maximizar la productividad y conectividad del producto y reducir el tiempo de comercialización.<br><br>VELP es un pionero de la tecnología de laboratorio inteligente (Smart Lab). Nuestros instrumentos analíticos y equipos de laboratorio ayudan a acelerar el progreso científico todos los días al ofrecer a los científicos de todo el mundo la capacidad de monitorear y controlar la tecnología VELP a través de una plataforma en la nube accesible desde cualquier dispositivo, en cualquier lugar y en cualquier momento",
+            "videoLink": "A9SWxKNmFKA",
+            "gallery": [
+                {
+                    "name": "test1",
+                    "image": "/public2/landings/velp/instruments/analizadores/ema-502/imagen_1_VELPEMA502-02-287274-287962.jpg"
+                },
+                {
+                    "name": "test2",
+                    "image": "/public2/landings/velp/equipos/agitadores/MST_agitador_magnetico/1MST00-207560-228239.jpg"
+                },
+                {
+                    "name": "test2",
+                    "image": "/public2/landings/velp/instruments/analizadores/cn-802/producto.jpg"
+                },
+                {
+                    "name": "test2",
+                    "image": "/public2/landings/velp/equipos/agitadores/MST_agitador_digital_magnetico/1MSTdigital01-207693-227870.jpg"
+                }
+            ]
         },
         {
             "type": "gallery-residential-component",
             "title": "Innovación y dinamismo",
-            "description": "Debemos nuestro éxito a una rica herencia de ideas, grandes inversiones en I+D y desarrollo tecnológico destinadas a maximizar la productividad y conectividad del producto y reducir el tiempo de comercialización.<br><br>VELP es un pionero de la tecnología de laboratorio inteligente (Smart Lab). Nuestros instrumentos analíticos y equipos de laboratorio ayudan a acelerar el progreso científico todos los días al ofrecer a los científicos de todo el mundo la capacidad de monitorear y controlar la tecnología VELP a través de una plataforma en la nube accesible desde cualquier dispositivo, en cualquier lugar y en cualquier momento.",
+            "description": "Fundada en 1983 por Ermete Passoni, VELP Scientifica es hoy un líder mundial en la producción de instrumentos analíticos y equipos de laboratorio que ha tenido un impacto en el mercado mundial con productos italianos reconocidos por su innovación, diseño y conectividad premium.<br><br>VELP es una empresa familiar en su segunda generación de liderazgo y es reconocida mundialmente como un proveedor premium de analizadores elementales, analizadores Kjeldahl, extractores con solventes, extractores de fibra, reactores de estabilidad de oxidación, herramientas de agitación y mezcla, pruebas respirométricas (Demanda bioquímica y química de oxígeno)",
             "items": []
         },
         {
             "type": "product-list",
             "title": "Instrumentos analíticos",
+            "linkWebsite": "https://www.velp.com/es-us/default.aspx",
             "items": [
                 {
                     "alt": "alt-logo",
@@ -543,6 +562,7 @@
         {
             "type": "product-list",
             "title": "Equipo de laboratorio",
+            "linkWebsite": "https://www.velp.com/es-us/default.aspx",
             "items": [
                 {
                     "alt": "alt-logo",

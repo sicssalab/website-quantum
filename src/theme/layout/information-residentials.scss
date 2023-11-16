@@ -133,7 +133,25 @@
       }
     }
   }
-
+  .content-gallery-information {
+    display: flex;
+    width: 100%;
+    justify-content: center;
+    .slide-gallery-residential {
+      width: 100%;
+      max-width: 659px;
+      img {
+        object-fit: contain;
+      }
+      .slick-arrow {
+        background: transparent;
+        width: auto;
+        svg, img {
+          fill: $primary;
+        }
+      }
+    }
+  }
   //TODO responsive
   @media (max-width: $md) {
     padding-top: 50px;
@@ -145,6 +163,37 @@
         font-size: initial;
       }
     }
+    .content-video-information {
+      --heigth-video: 364px;
+      height: var(--heigth-video);
+      margin-top: 0px;
+
+      .video-container {
+        margin-top: 30px;
+        height: var(--heigth-video);
+        max-width: 650px;
+        .size-img {
+          object-fit: cover;
+        }
+        .btn-click-play {
+          --heigth--button-video: 50px;
+          height: var(--heigth--button-video);
+          width: var(--heigth--button-video);
+          opacity: 1;
+          img {
+            height: var(--heigth--button-video);
+          }
+        }
+        iframe {
+          width: 100%;
+        }
+      }
+    }
+    .content-gallery-information {
+      padding-top: 30px;
+    }
+  }
+  @media (max-width: $xl) {
     .content-information {
       flex-direction: column;
       div {
@@ -193,32 +242,6 @@
               width: auto;
             }
           }
-        }
-      }
-    }
-    .content-video-information {
-      --heigth-video: 364px;
-      height: var(--heigth-video);
-      margin-top: 0px;
-
-      .video-container {
-        margin-top: 30px;
-        height: var(--heigth-video);
-        max-width: 650px;
-        .size-img {
-          object-fit: cover;
-        }
-        .btn-click-play {
-          --heigth--button-video: 50px;
-          height: var(--heigth--button-video);
-          width: var(--heigth--button-video);
-          opacity: 1;
-          img {
-            height: var(--heigth--button-video);
-          }
-        }
-        iframe {
-          width: 100%;
         }
       }
     }

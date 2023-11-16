@@ -10,7 +10,7 @@ import InMystiqueCardBootstrap from "../../cards/MystiqueCardBootstrap";
 import ModalProduct from "./components/ModalProduct";
 
 const ProductList = (props) => {
-  const { items, title } = props;
+  const { items, title, linkWebsite } = props;
   const isMobile = useMediaQuery({ maxWidth: breakpointConstants.MD });
   const [modalShow, setModalShow] = React.useState(false);
   const [itemSelect, setItemSelect] = useState(null);
@@ -95,6 +95,11 @@ const ProductList = (props) => {
             totalPages={totalPages}
             pageView={pageView}
           />
+          {linkWebsite && (
+            <div className=" d-flex justify-content-center pt-4">
+              <Button as="a" size="lg" href={linkWebsite} target="_blank">Visitar sitio web</Button>
+            </div>
+          )}
         <ModalProduct
           item={itemSelect}
           show={modalShow}

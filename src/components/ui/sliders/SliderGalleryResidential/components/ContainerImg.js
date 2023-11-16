@@ -6,6 +6,7 @@ import { Image } from "react-bootstrap";
 const ContainerImg = (props) => {
   const { item } = props;
   const isMobile = useMediaQuery({ maxWidth: breakpointConstants.MD });
+  console.log(item)
   return (
     <div className="container-develop">
       <Image

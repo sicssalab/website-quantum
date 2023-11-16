@@ -33,16 +33,7 @@
                     "type": "linkedin"
                 }
             ],
-            "items": [
-                {
-                    "name": "test1",
-                    "url": "/public2/landings/shimadzu/HOME SHIMADZU 2.jpg"
-                },
-                {
-                    "name": "test2",
-                    "url": "/public2/landings/shimadzu/HOME SHIMADZU.jpg"
-                }
-            ]
+            "items": []
         },
         {
             "type": "information-residential-component",

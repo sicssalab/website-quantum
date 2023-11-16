@@ -14,7 +14,7 @@
     "items": [
         {
             "type": "header-component",
-            "title": "astory",
+            "title": "astori",
             "isLanding": true,
             "socialNetwork": [
                 {
@@ -47,14 +47,15 @@
         {
             "type": "information-residential-component",
             "logo": "/public2/LOGO-MARCAS-PROVEEDORES/astory-tecnica.png",
-            "title": "astory",
-            "logoUrl": "",
+            "title": "astori",
+            "logoUrl": "https://www.astorilab.com/index.php/es",
             "description": "ASTORI TECNICA fue fundada por el Sr. Oscar Astori el 1 de marzo de 1959 en Brescia.\n      <br><br>\n      Durante los años, nuestra empresa se ha hecho cada vez mejor, abriendo nuevas secciones de producción y asistencia técnica, nombrando más colaboradores expertos y invertiendo en tecnologías innovadoras y competitivas, además del conseguimiento de estándares de calidad más elevados, para obtener la satisfacción de nuestros Clientes y Distribuidores. Recientemente, nos hemos especializado en el desarrollo y la venta de productos y equipos de calidad para los laboratorios de análisis agroalimentarios; ahora somos una empresa líder en este sector y proponemos soluciones 100% únicas y originales a nuestros Clientes.",
             "videoLink": "lYG1WX_dJe4"
         },
         {
             "type": "product-list",
             "title": "Productos",
+            "linkWebsite": "https://www.astorilab.com/index.php/es",
             "items": [
                 {
                     "alt": "alt-logo",
