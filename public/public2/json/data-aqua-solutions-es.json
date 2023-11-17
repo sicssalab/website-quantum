@@ -31,11 +31,11 @@
             "items": [
                 {
                     "name": "test1",
-                    "url": "/public2/landings/aqua-solutions/HOME AQUA.jpeg"
+                    "url": "/public2/landings/aqua-solutions/HOME_AQUA.jpeg"
                 },
                 {
                     "name": "test2",
-                    "url": "/public2/landings/aqua-solutions/HOME AQUA 2.jpg"
+                    "url": "/public2/landings/aqua-solutions/HOME_AQUA_2.jpg"
                 }
             ]
         },
@@ -43,13 +43,20 @@
             "type": "information-residential-component",
             "logo": "/public2/LOGO-MARCAS-PROVEEDORES/12aqua-solutions.jpeg",
             "title": "aqua solutions",
-            "logoUrl": "",
-            "description": "AQUA SOLUTIONS se dedica a proporcionar a sus clientes sistemas de agua de laboratorio que proporcionen de manera conveniente, económica y confiable agua de grado reactivo de la más alta pureza para aplicaciones de laboratorio, a nivel mundial.\n      <br><br>\n      Sistemas de purificación de agua de laboratorio AQUA SOLUTIONS\n      Nos enorgullecemos de nuestra capacidad para responder con prontitud y precisión a las solicitudes de ventas y asistencia técnica de nuestros clientes. ¡Estamos listos para ayudarlo a dimensionar, diseñar, elegir y comprar el sistema de purificación de agua de AQUA SOLUTIONS que MEJOR satisfaga sus necesidades!\n      <br><br>\n      Y, si eso no fuera suficiente, ofrecemos la más alta calidad y rendimiento de la industria, junto con la garantía de sistema más larga y más funciones y beneficios \"estándar\" que los demás.",
-            "videoLink": ""
+            "logoUrl": "https://www.aquaa.com",
+            "description": "AQUA SOLUTIONS se dedica a suministrar  sistemas de purificación de  agua para  laboratorio que proporcionan de manera adecuada, económica y confiable agua de grado reactivo de la más alta pureza para aplicaciones de laboratorio de control de calidad.<br>En AQUA SOLUTIONS nos enorgullecemos de nuestra capacidad para responder con prontitud y precisión a las solicitudes de ventas y asistencia técnica de nuestros clientes.¡Estamos listos para ayudarlo a dimensionar, diseñar, elegir y comprar el sistema de purificación de agua de AQUA SOLUTIONS que MEJOR satisfaga sus necesidades!",
+            "videoLink": "",
+            "gallery": [
+                {
+                    "name": "test1",
+                    "image": "/public2/landings/aqua-solutions/productos/pretratamiento/1.jpg"
+                }
+            ]
         },
         {
             "type": "product-list",
             "title": "Productos",
+            "linkWebsite": "https://www.aquaa.com",
             "items": [
                 {
                     "alt": "alt-logo",
@@ -62,9 +69,9 @@
                         "name": "producto",
                         "keyname": "producto"
                     },
-                    "name": "Sistemas DI de grado reactivo tipo I",
-                    "description": "Todos los sistemas DI Tipo I de AQUA SOLUTIONS producen agua ultrapura de 18,2 megaohmios-cm que cumple o supera las especificaciones ASTM, CAP y CLSI para agua de grado reactivo Tipo I. Las versiones de flujo estándar (2 litros/min) y alto flujo/alta capacidad (8-12 litros/min) están disponibles en versiones analítica, biológica y de TOC ultrabajo.",
-                    "descriptionLong": "Todos los sistemas DI Tipo I de AQUA SOLUTIONS producen agua ultrapura de 18,2 megaohmios-cm que cumple o supera las especificaciones ASTM, CAP y CLSI para agua de grado reactivo Tipo I. Las versiones de flujo estándar (2 litros/min) y alto flujo/alta capacidad (8-12 litros/min) están disponibles en versiones analítica, biológica y de TOC ultrabajo.\n          <br><br>\n          <h5>Estos asequibles sistemas de purificación de agua de laboratorio Tipo I se utilizan en operaciones que utilizan agua corriente del grifo o agua pretratada.</h5>\n          Nuestros sistemas DI y RODI TIPO I de flujo estándar (2 litros/min) funcionan con alimentación interna de 12 VCC y pueden aceptar alimentación de 100-240 VCA a 50/60 Hz para uso industrial en cualquier parte del mundo. Están certificados por CSA y pueden tener la marca \"CE\" para exportación.\n          ",
+                    "name": "SISTEMAS RODI PARA PURIFICACIÓN DE AGUA TIPO I (18.2 meghom-cm)",
+                    "description": "Los sistemas de purificación de agua Tipo I de AQUA SOLUTIONS producen agua ultra pura de 18,2 megaohms-cm que cumple o supera las especificaciones ASTM, CAP y CLSI para agua de grado reactivo Tipo I.",
+                    "descriptionLong": "Los sistemas de purificación de agua Tipo I de AQUA SOLUTIONS producen agua ultra pura de 18,2 megaohms-cm que cumple o supera las especificaciones ASTM, CAP y CLSI para agua de grado reactivo Tipo I.<br><br>Las versiones de flujo estándar (2 litros/min) y alto flujo/alta capacidad (8-12 litros/min) están disponibles para aplicaciones analíticas, biológicas y  para TOC  de concentraciones ultra bajas.",
                     "videoLink": "",
                     "sendPriceText": "Ver más información"
                 },
@@ -79,9 +86,9 @@
                         "name": "producto",
                         "keyname": "producto"
                     },
-                    "name": "Sistemas RODI tipo I ultrapuros de 18,2 megaom-cm",
-                    "description": "Los sistemas RODI combinados de AQUA SOLUTIONS incluyen un pretratamiento de ósmosis inversa incorporado y producen agua ultrapura Tipo I, 18,2 megaohmios-cm que cumple o supera las especificaciones ASTM, CAP y CLSI para agua de grado reactivo Tipo I. Nuestros sistemas de purificación de agua de laboratorio de flujo estándar (2 litros/minuto) y alto flujo/alta capacidad (8-12 litros/minuto) están disponibles en versiones analítica, biológica y de TOC ultrabajo.",
-                    "descriptionLong": "Los sistemas RODI combinados de AQUA SOLUTIONS incluyen un pretratamiento de ósmosis inversa incorporado y producen agua ultrapura Tipo I, 18,2 megaohmios-cm que cumple o supera las especificaciones ASTM, CAP y CLSI para agua de grado reactivo Tipo I. Nuestros sistemas de purificación de agua de laboratorio de flujo estándar (2 litros/minuto) y alto flujo/alta capacidad (8-12 litros/minuto) están disponibles en versiones analítica, biológica y de TOC ultrabajo.\n          <br><br>\n          Estos sistemas compactos pueden funcionar con prácticamente cualquier agua del grifo de calidad que contenga menos de 1000 ppm de sólidos disueltos totales.\n          ",
+                    "name": "SISTEMAS RODI-C PARA PURIFICACIÓN DE AGUA TIPO I (18.2 meghom-cm) CON MODULO  DE PRETRATAMIENTO DE OSMOSIS INVERSA",
+                    "description": "Los 10 Lts/Hora de producción de agua de osmosis inversa  reduce los costos económicos al eliminar ~95% de los contaminantes del agua de alimentación de este sistema de purificación.",
+                    "descriptionLong": "Los 10 Lts/Hora de producción de agua de osmosis inversa  reduce los costos económicos al eliminar ~95% de los contaminantes del agua de alimentación de este sistema de purificación.<br><br>El agua de ósmosis inversa se almacena en el tanque presurizado de 42 litros incluido que evita el riesgo de contaminación transmitida por el aire y elimina la necesidad de bombas de alimentación y filtros adicionales para el tanque.<br><br>El agua de tipo I que suministra este sistema  es agua ultrapura grado reactivo de 18.2 megohm-cm a un flujo de 2 Lts/minuto<br><br>Cuenta con recirculación continua  para mantener la pureza del agua por más tiempo.",
                     "videoLink": "",
                     "sendPriceText": "Ver más información"
                 },
