@@ -31,11 +31,11 @@
             "items": [
                 {
                     "name": "test1",
-                    "url": "/public2/landings/aqua-solutions/HOME_AQUA.jpeg"
+                    "url": "/public2/landings/mains/AQUA_1.png"
                 },
                 {
                     "name": "test2",
-                    "url": "/public2/landings/aqua-solutions/HOME_AQUA_2.jpg"
+                    "url": "/public2/landings/mains/AQUA_2.png"
                 }
             ]
         },

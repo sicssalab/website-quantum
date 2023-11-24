@@ -36,15 +36,11 @@
             "items": [
                 {
                     "name": "test1",
-                    "url": "/public2/landings/optosky/main-1.webp"
+                    "url": "/public2/landings/mains/OPTOSKY_1.png"
                 },
                 {
                     "name": "test2",
-                    "url": "/public2/landings/optosky/main-2.webp"
-                },
-                {
-                    "name": "test3",
-                    "url": "/public2/landings/optosky/main-3.webp"
+                    "url": "/public2/landings/mains/OPTOSKY_2.png"
                 }
             ]
         },

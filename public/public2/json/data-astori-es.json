@@ -36,11 +36,11 @@
             "items": [
                 {
                     "name": "test1",
-                    "url": "/public2/landings/astori/HOME ASTORI.jpg"
+                    "url": "/public2/landings/mains/ASTORI_1.png"
                 },
                 {
                     "name": "test2",
-                    "url": "/public2/landings/astori/HOME ASTORI 2.jpg"
+                    "url": "/public2/landings/mains/ASTORI_2.png"
                 }
             ]
         },

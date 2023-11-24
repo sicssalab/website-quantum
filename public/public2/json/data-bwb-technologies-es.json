@@ -41,11 +41,11 @@
             "items": [
                 {
                     "name": "test1",
-                    "url": "/public2/landings/bwb-technologies/HOME BWB.webp"
+                    "url": "/public2/landings/mains/BWB_1.png"
                 },
                 {
                     "name": "test2",
-                    "url": "/public2/landings/bwb-technologies/HOME BWB 2.webp"
+                    "url": "/public2/landings/mains/BWB_2.png"
                 }
             ]
         },

@@ -36,11 +36,11 @@
             "items": [
                 {
                     "name": "test1",
-                    "url": "/public2/landings/abb/HOME ABB.jpg"
+                    "url": "/public2/landings/mains/ABB_1.png"
                 },
                 {
                     "name": "test2",
-                    "url": "/public2/landings/abb/HOMA ABB 2.jpg"
+                    "url": "/public2/landings/mains/ABB_2.png"
                 }
             ]
         },

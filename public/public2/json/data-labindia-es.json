@@ -36,7 +36,11 @@
             "items": [
                 {
                     "name": "test1",
-                    "url": "/public2/landings/labindia/HOME LABINDIA.webp"
+                    "url": "/public2/landings/mains/LABINDIA_1.png"
+                },
+                {
+                    "name": "test1",
+                    "url": "/public2/landings/mains/LABINDIA_2.png"
                 }
             ]
         },
