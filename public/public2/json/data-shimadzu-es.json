@@ -40,7 +40,7 @@
                 },
                 {
                     "name": "test2",
-                    "url": "/public2/landings/mains/SHIMADZU_2.png"
+                    "url": "/public2/landings/mains/SHIMADZU_2_1.png"
                 }
             ]
         },
@@ -54,15 +54,11 @@
             "gallery": [
                 {
                     "name": "test1",
-                    "image": "/public2/landings/shimadzu/productos/balanzas/ap-series/1.avif"
+                    "image": "/public2/landings/shimadzu/productos/Imagen1.png"
                 },
                 {
                     "name": "test1",
-                    "image": "/public2/landings/shimadzu/productos/balanzas/auw-d-series/1.avif"
-                },
-                {
-                    "name": "test1",
-                    "image": "/public2/landings/shimadzu/productos/balanzas/at-r-series/1.avif"
+                    "image": "/public2/landings/shimadzu/productos/Imagen2.png"
                 }
             ]
         },
@@ -72,8 +68,8 @@
             "linkWebsite": "https://www.shimadzu.com/an/products/balances/index.html",
             "items": [
                 {
-                    "alt": "alt-logo",
-                    "srcImage": "/public2/landings/shimadzu/productos/balanzas/ap-series/1.avif",
+                    "alt": "Balanza analítica modelo AP Series",
+                    "srcImage": "/public2/landings/shimadzu/productos/Imagen1.png",
                     "typeProduct": {
                         "name": "Balanzas",
                         "keyname": "balanzas"
@@ -83,14 +79,14 @@
                         "keyname": "balanzas-analiticas"
                     },
                     "name": "Balanza analítica modelo AP Series",
-                    "description": "Balanzas UniBloc de rendimiento avanzado",
-                    "descriptionLong": "Balanzas UniBloc de rendimiento avanzado<br><br>Proporcionan respuesta de alta velocidad y alta estabilidad<br><br>Los nuevos modelos de Balanzas analíticas  de la serie AP no solo ofrecen un rendimiento básico excelente, como tiempos de pesaje rápidos de aproximadamente dos segundos y una alta estabilidad de medición que minimiza los errores,también incluyen nuevas funciones que mejoran la comodidad, como puertas automáticas y sensores sin contacto.",
+                    "description": "Proporcionan respuesta de alta velocidad y alta estabilidad Los nuevos modelos de Balanzas analíticas de la serie AP no solo ofrecen un rendimiento básico excelente, como tiempos de pesaje rápidos de aproximadamente dos segundos y",
+                    "descriptionLong": "Balanzas UniBloc de rendimiento avanzado<br><br>Proporcionan respuesta de alta velocidad y alta estabilidad<br><br>Los nuevos modelos de Balanzas analíticas de la serie AP no solo ofrecen un rendimiento básico excelente, como tiempos de pesaje rápidos de aproximadamente dos segundos y una alta estabilidad de medición que minimiza los errores, también incluyen nuevas funciones que mejoran la comodidad, como puertas automáticas y sensores sin contacto.",
                     "videoLink": "3rZmzXeAmEo",
                     "sendPriceText": "Ver más información"
                 },
                 {
-                    "alt": "alt-logo",
-                    "srcImage": "/public2/landings/shimadzu/productos/balanzas/auw-d-series/1.avif",
+                    "alt": "Balanza analítica modelo AUW-D Series",
+                    "srcImage": "/public2/landings/shimadzu/productos/Imagen2.png",
                     "typeProduct": {
                         "name": "Balanzas",
                         "keyname": "balanzas"
@@ -100,195 +96,8 @@
                         "keyname": "balanzas-analiticas"
                     },
                     "name": "Balanza analítica modelo AUW-D Series",
-                    "description": "Balanzas analíticas UniBloc Balanzas semimicro de doble rango serie AUW-D",
-                    "descriptionLong": "Balanzas analíticas UniBloc<br>Balanzas semimicro de doble rango serie AUW-D<br><br>Tienen un excelente rendimiento de pesaje<br>El mecanismo compacto UniBloc y la tecnología de procesamiento digital genera una respuesta rápida y estable al mismo tiempo.<br><br>Las exclusivas teclas de equilibrio de Shimadzu son una característica estándar.<br>Los resultados de las mediciones se pueden transmitir a Excel u otras aplicaciones de Windows sin instalar ningún software adicional a la computadora. Todo lo que tiene que adicionar es un cable RS-232C.<br>El conteo de piezas, varias unidades de masa, el gancho de pesaje inferior y el software de medición de gravedad específica  características estándar de este modelo de balanza.",
-                    "videoLink": "",
-                    "sendPriceText": "Ver más información"
-                },
-                {
-                    "alt": "alt-logo",
-                    "srcImage": "/public2/landings/shimadzu/productos/balanzas/at-r-series/1.avif",
-                    "typeProduct": {
-                        "name": "Balanzas",
-                        "keyname": "balanzas"
-                    },
-                    "categoryProduct": {
-                        "name": "Balanzas Analíticas",
-                        "keyname": "balanzas-analiticas"
-                    },
-                    "name": "Serie AT-R",
-                    "description": "La capacidad de respuesta se vuelve muy importante al pesar cantidades fijas de polvos y líquidos.",
-                    "descriptionLong": "Modelo básico con mayor comodidad\n          <ul>\n          <li>Establezca libremente la capacidad de respuesta o la estabilidad.</li>\n          <li>Conéctese con una computadora a través de USB o RS232C</li>\n          <li>Realice mediciones estables en combinación con un ionizador</li>\n          </ul>\n          <h5>1. La configuración sencilla permite cambiar libremente la capacidad de respuesta y la estabilidad</h5>\n          La capacidad de respuesta se vuelve muy importante al pesar cantidades fijas de polvos y líquidos. Por otro lado, se requiere estabilidad al pesar sustancias en ambientes sujetos a corrientes de aire o vibraciones. Las balanzas AT-R están equipadas con un indicador de 5 etapas. Es fácil cambiar entre un enfoque de respuesta (R) y un enfoque de estabilidad (S) durante las mediciones.\n          <br><br>\n          <h5>2. Equipado con dos interfaces: USB y RS232C</h5>\n          Las balanzas están equipadas de serie con dos cómodas interfaces para la conexión con un ordenador o PLC (controlador lógico programable). El error humano se puede prevenir mediante la transferencia directa de los valores de peso a la computadora.\n          <ul>\n          <li>Se ha demostrado que las balanzas funcionan con los siguientes PLC de empresas importantes.</li>\n          <li>Mitsubishi Electric Serie Q</li>\n          <li>Serie OMRON CJ2</li>\n          <li>Keyence KV-8000</li>\n          <li>Serie IDEC FC6A</li>\n          </ul>\n          <h5>3. La adición de un ionizador aumenta la confiabilidad de las mediciones</h5>\n          El ionizador STABLO™-AP opcional (eliminador de estática) elimina rápidamente la estática de muestras y contenedores, sin crear corrientes de aire. Esto evita errores de reproducibilidad y fluctuaciones en los valores de medición debidos a la electricidad estática. La eliminación de estática se puede mejorar colocando matraces en el soporte AP (se vende por separado).\n          ",
-                    "videoLink": "",
-                    "sendPriceText": "Ver más información"
-                },
-                {
-                    "alt": "alt-logo",
-                    "srcImage": "/public2/landings/shimadzu/productos/balanzas/at-series/1.avif",
-                    "typeProduct": {
-                        "name": "Balanzas",
-                        "keyname": "balanzas"
-                    },
-                    "categoryProduct": {
-                        "name": "Balanzas Analíticas",
-                        "keyname": "balanzas-analiticas"
-                    },
-                    "name": "Serie AT",
-                    "description": "Balanza analítica económica equipada con UniBloc",
-                    "descriptionLong": "Balanza analítica económica equipada con UniBloc\n          <ul>\n          <li>Adopta UniBloc, que proporciona excelente resistencia al impacto, capacidad de respuesta y estabilidad.</li>\n          <li>Equipado con la función Easy Set, para que la capacidad de respuesta y la estabilidad se puedan ajustar durante las mediciones.</li>\n          <li>Compre un cable I/O–RS disponible por separado para importar los resultados a una PC (equipado con la función Balance Keys)</li>\n          </ul>\n          <h5>Calibración interna (solo ATX)</h5>\n          La balanza tiene pesas de calibración motorizadas incorporadas.<br>\n          La sensibilidad se puede calibrar cuando sea necesario con solo presionar una tecla.",
-                    "videoLink": "",
-                    "sendPriceText": "Ver más información"
-                },
-                {
-                    "alt": "alt-logo",
-                    "srcImage": "/public2/landings/shimadzu/productos/balanzas/au-series/1.avif",
-                    "typeProduct": {
-                        "name": "Balanzas",
-                        "keyname": "balanzas"
-                    },
-                    "categoryProduct": {
-                        "name": "Balanzas Analíticas",
-                        "keyname": "balanzas-analiticas"
-                    },
-                    "name": "Serie AU",
-                    "description": "Balanzas analíticas UniBloc",
-                    "descriptionLong": "Balanzas analíticas UniBloc<br>\n          Balanzas analíticas serie AUW/AUX/AUY\n          <h5>Excelente rendimiento de pesaje</h5>\n          El mecanismo compacto UniBloc y la tecnología de procesamiento digital producen una respuesta rápida y estabilidad al mismo tiempo.\n          <h5>Para aplicaciones</h5>\n          <ul>\n          <li>Las exclusivas teclas de equilibrio de Shimadzu son una característica estándar. Los resultados de las mediciones se pueden transmitir a Excel u otras aplicaciones de Windows sin instalar ningún software adicional en su computadora. Todo lo que tienes que agregar es un cable RS-232C.</li>\n          <li>El conteo de piezas, varias unidades de masa, el gancho de pesaje inferior y el software de medición de gravedad específica son todas características estándar.</li>\n          </ul>",
-                    "videoLink": "",
-                    "sendPriceText": "Ver más información"
-                },
-                {
-                    "alt": "alt-logo",
-                    "srcImage": "/public2/landings/shimadzu/productos/balanzas/up-series/1.avif",
-                    "typeProduct": {
-                        "name": "Balanzas",
-                        "keyname": "balanzas"
-                    },
-                    "categoryProduct": {
-                        "name": "Balanzas Electrónicas",
-                        "keyname": "balanzas-electronicas"
-                    },
-                    "name": "UP SERIE",
-                    "description": "El pesaje de alta velocidad mejora significativamente la eficiencia de las operaciones de pesaje.",
-                    "descriptionLong": "El pesaje de alta velocidad mejora significativamente la eficiencia de las operaciones de pesaje.\n          <br><br>\n          La respuesta significativamente mejorada proporciona el rendimiento de respuesta más rápido de su clase\n          La avanzada tecnología de control digital acorta los tiempos de respuesta de la pantalla a aproximadamente una novena parte de los valores anteriores al pesar cantidades diminutas, lo que mejora significativamente la eficiencia del trabajo.\n          <br><br>\n          UP-Wind Break (paravientos de bandeja grande) (solo para modelos de bandeja grande con un valor de visualización mínimo de 0,01 g)\n          <br><br>\n          UP-Wind Break de nuevo diseño incluido de serie. Reduce con éxito los efectos de las corrientes de aire, como las de los aires acondicionados, lo que ayuda a mejorar la eficiencia de las operaciones de pesaje.\n          <br><br>\n          <h5>Tenacidad</h5>\n          El sensor UniBloc altamente resistente a los impactos minimiza el tiempo de inactividad\n          <br><br>\n          El mecanismo del sensor integrado UniBloc de aluminio está mecanizado con precisión a partir de un único bloque de aleación de aluminio.\n          Debido a que integra todos los componentes utilizados en la unidad de sensor anterior sin necesidad de tornillos de fijación, se fija sin desviar el punto de apoyo elástico, lo que da como resultado un sensor excepcionalmente resistente a los impactos que es poco probable que falle alguna vez.\n          <br><br>\n          Pruebas de resistencia de un millón de ciclos\n          Diseñados con el sensor UniBloc resistente a impactos, pasan pruebas de resistencia con un millón de ciclos.*\n          <br><br>\n          Método de prueba de resistencia: un peso de 1 kg se mueve dentro y fuera del plato en ciclos de 1,5 segundos.\n          Criterio de aprobación/rechazo: Satisface los estándares de Shimadzu para inspecciones de rutina después de los ciclos de encendido y apagado.\n          Nota: La Ley de Medición de Japón especifica pruebas de resistencia a 100.000 ciclos. Las balanzas de la serie UP se prueban a más de diez veces ese nivel.\n          <br><br>\n          La carcasa totalmente de aluminio fundido proporciona una excelente resistencia química\n          La carcasa de los modelos de la serie UP está fabricada íntegramente en aluminio inyectado. Eso los hace altamente resistentes a los productos químicos y a la corrosión para que puedan funcionar durante muchos años sin preocupaciones.\n          Libre de estrés\n          El ionizador STABLO-AP (opcional) elimina los efectos de la electricidad estática para proporcionar mediciones altamente confiables sin pasos que requieran mucho tiempo.\n          <br><br>\n          <h5>Ionizador STABLO-AP (eliminador de estática)</h5>\n          Balanzas analíticas de la serie AP disponibles con el ionizador instalado internamente (opcional, se vende por separado)\n          El STABLO-AP (opcional) es la solución de Shimadzu para la electricidad estática. Al mantener un equilibrio iónico superior, el eliminador de estática es especialmente útil para pesar muestras de polvo y películas.\n          La electricidad estática puede hacer que los valores de medición fluctúen o se desvíen, incluso para cantidades de 1 mg o 10 mg. Además de resolver los problemas de ﬂuctuación y deriva, el STABLO-AP también puede mejorar la eficiencia del trabajo al evitar que el polvo se adhiera a las espátulas.\n          <br><br>\n          <h5>El efecto del eliminador de electricidad estática -STABLO-AP-</h5>\n          Software de recopilación de datos de pesaje de claves de balanza (para Windows®)\n          Una vez instalado el software basado en Windows® Balance Keys, los datos analíticos de la balanza se pueden cargar fácilmente en Excel® u otro software . El software se puede descargar de forma gratuita desde el sitio web de la balanza analítica. Configurar los ajustes para conectarse a la balanza analítica es simple y el software ayudará a ahorrar trabajo y reducir la transcripción y otros errores. También es fácil registrar cambios a lo largo del tiempo especificando la configuración del intervalo de salida en la balanza analítica.\n          <br><br>\n          Con este software, los usuarios pueden cargar datos de medición directamente desde la balanza analítica en hojas de cálculo de Excel® que normalmente utiliza el cliente.\n          Historial comprobado de compatibilidad con PLC\n          <br><br>\n          La serie UP tiene un importante historial de uso en combinación con varias marcas de PLC. En consecuencia, es perfecto para aplicaciones de automatización o de Internet de las cosas. También se puede utilizar para configurar sistemas muy robustos. La conectividad de la balanza analítica también se verificó en asociación con los siguientes fabricantes de PLC.\n          ",
-                    "videoLink": "",
-                    "sendPriceText": "Ver más información"
-                },
-                {
-                    "alt": "alt-logo",
-                    "srcImage": "/public2/landings/shimadzu/productos/balanzas/tw-twc-series/1.avif",
-                    "typeProduct": {
-                        "name": "Balanzas",
-                        "keyname": "balanzas"
-                    },
-                    "categoryProduct": {
-                        "name": "Balanzas Electrónicas",
-                        "keyname": "balanzas-electronicas"
-                    },
-                    "name": "TW-TWC SERIE",
-                    "description": "Las teclas de navegación del menú están separadas de las teclas de operación de pesaje y dispuestas en un familiar círculo de navegación de 5 direcciones. Arriba, Abajo, Derecha, Izquierda y Entrar son los sencillos pasos operativos.",
-                    "descriptionLong": "<h4>Características de la serie TW/TWC</h4>\n          <h5>Diseño de teclas fácil de operar</h5>\n          Las teclas de navegación del menú están separadas de las teclas de operación de pesaje y dispuestas en un familiar círculo de navegación de 5 direcciones. Arriba, Abajo, Derecha, Izquierda y Entrar son los sencillos pasos operativos.\n          <br><br>\n          <h5>Mejor ajuste para aplicaciones de pesaje</h5>\n          Ajuste rápidamente la relación deseada de estabilidad y respuesta para cada aplicación, incluso durante la medición, con una operación de un solo toque.\n          Función de comunicación WindowsDirect\n          Solo se necesita un cable para enviar datos de pesaje a una computadora\n          <br><br>\n          Envíe datos de saldo a Excel u otras aplicaciones de Windows sin necesidad de instalar ningún software de comunicación de datos. Todo lo que tienes que agregar es un cable RS-232C. Al combinar las funciones estándar de AutoPrint con las funciones típicas de las hojas de cálculo, incluso las aplicaciones más difíciles pueden automatizarse fácilmente.\n          <br><br>\n          <h5>Función de conteo de piezas ampliada</h5>\n          Se pueden ingresar, almacenar y recuperar fácilmente para su uso pesos unitarios de hasta 5 muestras diferentes.\n          La pantalla iluminada proporciona una cómoda visibilidad en todos los entornos.\n          <br><br>\n          Un indicador de cristal líquido con atractiva luz de fondo azul es estándar en todos los modelos. La serie TXB tiene funciones adicionales de ahorro de energía: la luz de fondo se apaga automáticamente cuando está inactiva y se enciende nuevamente cuando se reanudan las operaciones de pesaje.\n          <br><br>\n          <h5>Función comparador</h5>\n          Compare muestras con valores objetivo o criterios de aprobación/rechazo e indique claramente los resultados.\n          <br><br>\n          <h5>Interfaz RS232C</h5>\n          Todos los modelos incluyen una interfaz RS232C estándar para una fácil integración con otros dispositivos y computadoras.\n          Diseño optimizado para opciones antirrobo\n          La ranura de seguridad Kensington, estándar del sector, admite la más amplia variedad de dispositivos de seguridad antirrobo opcionales.\n          Cambie entre muchas unidades de pesaje y funciones con un solo toque\n          Además de gramos (g), pese en %, número de piezas, ct, kg, mg, lb, oz, TTI, etc. o una conversión personalizada de más de 20 unidades en total. Cambie rápidamente de la visualización de % o conteo a la visualización del peso en gramos (g).\n          Sensor de masa de aleación de aluminio duradero y de alto rendimiento UniBloc Desde 1987\n          <br><br>\n          La serie TW/TWC incorpora una tecnología de sensor de masa de aleación de aluminio de una sola pieza (UniBloc) introducida por primera vez por Shimadzu para balanzas de precisión en 1989. Destaca en rendimiento, resiste el deterioro y los daños causados ​​por impactos ordinarios. La estructura compacta y uniforme del UniBloc reemplaza 70 piezas que se encuentran en un conjunto de sensor de equilibrio electromagnético convencional y garantiza características de temperatura estables, un tiempo de respuesta excelente y un rendimiento estable de carga en las esquinas. El diseño UniBloc permite una consistencia de producción que garantiza confiabilidad y una larga vida operativa.\n          Las medidas finas están aseguradas con el sistema cortavientos de puerta corrediza de vidrio\n          <br><br>\n          Los modelos TW/TWC cuentan con una puerta corrediza de vidrio cortavientos como configuración estándar. El sistema altamente transparente incluye esquinas semitransparentes y máxima capacidad de apertura de puertas.\n          <h5>Calibración rápida y flexible</h5>\n          La pantalla de la balanza proporciona indicaciones para el procedimiento de calibración y acepta su elección de peso de calibración externo.\n          <br><br>\n          Muchas funciones útiles incluidas\n          <ul>\n          <li>Visualización de menú alfanumérico</li>\n          <li>Indicador de nivel frontal en el panel de visualización</li>\n          <li>La limpieza de puertas se simplifica</li>\n          <li>Sartén de acero inoxidable</li>\n          <li>Elección de modos de pesaje</li>\n          <li>Función y configuración de seguimiento cero</li>\n          <li>Función de salida de datos continua</li>\n          </ul>\n          ",
-                    "videoLink": "",
-                    "sendPriceText": "Ver más información"
-                },
-                {
-                    "alt": "alt-logo",
-                    "srcImage": "/public2/landings/shimadzu/productos/balanzas/tw-tx-txb-series/1.avif",
-                    "typeProduct": {
-                        "name": "Balanzas",
-                        "keyname": "balanzas"
-                    },
-                    "categoryProduct": {
-                        "name": "Balanzas Electrónicas",
-                        "keyname": "balanzas-electronicas"
-                    },
-                    "name": "TX-TXB-TXC SERIE",
-                    "description": "Las teclas de navegación del menú están separadas de las teclas de operación de pesaje y dispuestas en un familiar círculo de navegación de 5 direcciones. Arriba, Abajo, Derecha, Izquierda y Entrar son los sencillos pasos operativos.",
-                    "descriptionLong": "<h4>Características de la serie TX/TXB/TXC</h4>\n          <h5>Diseño de teclas fácil de operar</h5>\n          Las teclas de navegación del menú están separadas de las teclas de operación de pesaje y dispuestas en un familiar círculo de navegación de 5 direcciones. Arriba, Abajo, Derecha, Izquierda y Entrar son los sencillos pasos operativos.\n          <br><br>\n          <h5>Mejor ajuste para aplicaciones de pesaje</h5>\n          Ajuste rápidamente la relación deseada de estabilidad y respuesta para cada aplicación, incluso durante la medición, con una operación de un solo toque.\n          <br><br>\n          Función de comunicación WindowsDirect Solo se necesita un cable para enviar datos de pesaje a una computadora\n          <br><br>\n          Envíe datos de saldo a Excel u otras aplicaciones de Windows sin necesidad de instalar ningún software de comunicación de datos. Todo lo que tienes que agregar es un cable RS-232C. Al combinar las funciones estándar de AutoPrint con las funciones típicas de las hojas de cálculo, incluso las aplicaciones más difíciles pueden automatizarse fácilmente.\n          Se puede utilizar en cualquier lugar con batería\n          <br><br>\n          Alimente las balanzas de la serie TXB mediante un adaptador de CA o baterías.\n          <h5>Función de conteo de piezas ampliada</h5>\n          Se pueden ingresar, almacenar y recuperar fácilmente para su uso pesos unitarios de hasta 5 muestras diferentes.\n          La pantalla iluminada proporciona una cómoda visibilidad en todos los entornos.\n          <br><br>\n          Un indicador de cristal líquido con atractiva luz de fondo azul es estándar en todos los modelos. La serie TXB tiene funciones adicionales de ahorro de energía: la luz de fondo se apaga automáticamente cuando está inactiva y se enciende nuevamente cuando se reanudan las operaciones de pesaje.\n          <h5>Función comparador</h5>\n          Compare muestras con valores objetivo o criterios de aprobación/rechazo e indique claramente los resultados.\n          <h5>Interfaz RS232C</h5>\n          Todos los modelos incluyen una interfaz RS232C estándar para una fácil integración con otros dispositivos y computadoras.\n          <h5>Diseño optimizado para opciones antirrobo</h5>\n          La ranura de seguridad Kensington, estándar del sector, admite la más amplia variedad de dispositivos de seguridad antirrobo opcionales.\n          <br><br>\n          Cambie entre muchas unidades de pesaje y funciones con un solo toque\n          <br><br>\n          Además de gramos (g), pese en %, número de piezas, ct, kg, mg, lb, oz, TTI, etc. o una conversión personalizada de más de 20 unidades en total. Cambie rápidamente de la visualización de % o conteo a la visualización del peso en gramos (g).\n          Sensor de masa de aleación de aluminio duradero y de alto rendimiento UniBloc\n          <h5>Desde 1987</h5>\n          La serie TX/TXC incorpora una tecnología de sensor de masa de aleación de aluminio de una sola pieza (UniBloc) introducida por primera vez por Shimadzu para balanzas de precisión en 1989. Destaca en rendimiento, resiste el deterioro y los daños causados ​​por impactos ordinarios. La estructura compacta y uniforme del UniBloc reemplaza 70 piezas que se encuentran en un conjunto de sensor de equilibrio electromagnético convencional y garantiza características de temperatura estables, un tiempo de respuesta excelente y un rendimiento estable de carga en las esquinas. El diseño UniBloc permite una consistencia de producción que garantiza confiabilidad y una larga vida operativa.\n          Las medidas finas están aseguradas con el sistema cortavientos de puerta corrediza de vidrio\n          <br><br>\n          Los modelos TXC y TX con pantalla mínima de 1 mg cuentan con una puerta corrediza de vidrio cortavientos como configuración estándar. El sistema altamente transparente incluye esquinas semitransparentes y máxima capacidad de apertura de puertas.\n          <h5>Calibración rápida y flexible</h5>\n          La pantalla de la balanza proporciona indicaciones para el procedimiento de calibración y acepta su elección de peso de calibración externo.\n          <br><br>\n          Muchas funciones útiles incluidas\n          <ul>\n          <li>Visualización de menú alfanumérico</li>\n          <li>Indicador de nivel frontal en el panel de visualización</li>\n          <li>La limpieza de puertas se simplifica</li>\n          <li>Sartén de acero inoxidable</li>\n          <li>Elección de modos de pesaje</li>\n          <li>Función y configuración de seguimiento cero</li>\n          <li>Función de salida de datos continua</li>\n          </ul>",
-                    "videoLink": "",
-                    "sendPriceText": "Ver más información"
-                },
-                {
-                    "alt": "alt-logo",
-                    "srcImage": "/public2/landings/shimadzu/productos/balanzas/bl-serie/1.avif",
-                    "typeProduct": {
-                        "name": "Balanzas",
-                        "keyname": "balanzas"
-                    },
-                    "categoryProduct": {
-                        "name": "Balanzas Electrónicas",
-                        "keyname": "balanzas-electronicas"
-                    },
-                    "name": "BL SERIE",
-                    "description": "Respuesta muy rápida para comodidad y eficiencia del operador.",
-                    "descriptionLong": "<h4>Características de la serie BL</h4>\n          <h5>Respuesta rápida</h5>\n          Respuesta muy rápida para comodidad y eficiencia del operador.\n          <h5>Alta estabilidad</h5>\n          Incluso si las condiciones ambientales no son ideales para un pesaje de precisión, el modo de alta estabilidad de la serie BL produce lecturas estables.\n          <h5>Función de conteo de piezas</h5>\n          La función de conteo de piezas es estándar.<br>\n          Pantalla de gráfico de barras analógicas<br>\n          La capacidad de pesaje restante se puede ver de un vistazo.<br>\n          Fácil conversión de unidades<br>\n          El cambio entre varias unidades se realiza mediante un simple toque de tecla.<br>\n          Equipado con una sartén cuadrada.<br>\n          Ofrece facilidad de operación.<br>\n          Cuerpo compacto<br>\n          Esta balanza de precisión electromagnética es tan compacta como una báscula portátil.\n          ",
-                    "videoLink": "",
-                    "sendPriceText": "Ver más información"
-                },
-                {
-                    "alt": "alt-logo",
-                    "srcImage": "/public2/landings/shimadzu/productos/balanzas/elb-serie/1.avif",
-                    "typeProduct": {
-                        "name": "Balanzas",
-                        "keyname": "balanzas"
-                    },
-                    "categoryProduct": {
-                        "name": "Balanzas Electrónicas",
-                        "keyname": "balanzas-electronicas"
-                    },
-                    "name": "ELB SERIE",
-                    "description": "La resolución interna es de 1/40.000. Esto proporciona una capacidad adicional de precisión.",
-                    "descriptionLong": "<h4>Características de la serie ELB</h4>\n          <h5>Alta sensibilidad y estabilidad.</h5>\n          La resolución interna es de 1/40.000. Esto proporciona una capacidad adicional de precisión.\n          <h5>Respuesta rápida</h5>\n          Después de colocar la muestra, se muestra rápidamente un resultado estable.<br>\n          Varios modos de aplicación<br>\n          El modo de conteo de piezas, el modo de visualización de porcentaje y el modo de gravedad específica se pueden activar simplemente tocando una tecla.\n          <h5>Medición de gravedad específica</h5>\n          El kit de gravedad específica opcional está disponible para mayor eficiencia.<br>\n          SMK\n          <h5>Control de estabilidad digital</h5>\n          Se pueden seleccionar con facilidad los mejores modos de medición según el propósito y el entorno.<br>\n          Fuente de alimentación bidireccional (funcionamiento con CA o batería)<br>\n          Las baterías se pueden reemplazar fácilmente sin voltear la balanza.<br>\n          Se pueden seleccionar con facilidad modos de medición opcionales según el propósito y el entorno.",
-                    "videoLink": "",
-                    "sendPriceText": "Ver más información"
-                },
-                {
-                    "alt": "alt-logo",
-                    "srcImage": "/public2/landings/shimadzu/productos/balanzas/uw-ux-serie/1.avif",
-                    "typeProduct": {
-                        "name": "Balanzas",
-                        "keyname": "balanzas"
-                    },
-                    "categoryProduct": {
-                        "name": "Balanzas Electrónicas",
-                        "keyname": "balanzas-electronicas"
-                    },
-                    "name": "UX-UW SERIE",
-                    "description": "La calibración se lleva a cabo cuando se ha detectado un cambio de temperatura.",
-                    "descriptionLong": "<h5>Características de UX/UW Serie</h5>\n          Calibración automática de span<br>\n          PSC, calibración completamente automática (solo UW)<br>\n          La calibración se lleva a cabo cuando se ha detectado un cambio de temperatura.<br>\n          Clock-CAL, calibración completamente automática (solo UW)<br>\n          Calibración realizada en horarios preestablecidos por el usuario (hasta tres veces al día). Los operadores pueden trabajar sin interrupciones inesperadas.<br>\n          Calibración automática de teclas táctiles (solo UW)<br>\n          Presione solo dos teclas para calibrar la balanza siempre que sea necesaria la calibración.<br>\n          <h5>Gestión de datos</h5>\n          Registro de calibración GLP/GMP/ISO<br>\n          Simplemente conecte la impresora opcional para generar automáticamente los resultados de la calibración. La fecha y la hora las proporciona el reloj integrado en la balanza.<br>\n          LCD retroiluminado<br>\n          La pantalla LCD retroiluminada se puede leer claramente en los entornos más oscuros.<br>\n          Función de control de peso<br>\n          Cuando se establecen los umbrales superior e inferior, la balanza indica si el peso de la muestra está dentro del rango (GO), por encima (HI) o por debajo (LO).<br>\n          <h5>Soporte de aplicaciones</h5>\n          Conteo de piezas<br>\n          Una función de conteo de piezas es estándar además de varias conversiones de unidades.<br>\n          Función de gravedad específica<br>\n          Puerto de transferencia de datos de la serie UW/UX<br>\n          La función de cálculo de medición de gravedad específica estándar utiliza el principio de Arquímedes. La conexión del kit de medición de gravedad específica opcional permite utilizar la balanza como densímetro o hidrómetro\n          ",
-                    "videoLink": "",
-                    "sendPriceText": "Ver más información"
-                },
-                {
-                    "alt": "alt-logo",
-                    "srcImage": "/public2/landings/shimadzu/productos/balanzas/moc63u/1.avif",
-                    "typeProduct": {
-                        "name": "analizador de humedad",
-                        "keyname": "analizador-humedad"
-                    },
-                    "categoryProduct": {
-                        "name": "analizador de humedad",
-                        "keyname": "analizador-humedad"
-                    },
-                    "name": "MOC63u",
-                    "description": "Excelente rendimiento para una amplia variedad de aplicaciones en múltiples industrias",
-                    "descriptionLong": "Excelente rendimiento para una amplia variedad de aplicaciones en múltiples industrias\n          <br><br>\n          En muchos campos, un analizador de humedad es una herramienta necesaria para cumplir con los requisitos de control de calidad. Con el MOC63u, puede obtener fácilmente datos precisos. Simplemente coloque el material sobre la bandeja y cierre la tapa. El MOC63u comenzará a medir. El MOC63u se adapta a diversos materiales y aumenta la eficiencia de su trabajo.\n          ",
-                    "videoLink": "",
-                    "sendPriceText": "Ver más información"
-                },
-                {
-                    "alt": "alt-logo",
-                    "srcImage": "/public2/landings/shimadzu/productos/balanzas/moc-120h/1.avif",
-                    "typeProduct": {
-                        "name": "analizador de humedad",
-                        "keyname": "analizador-humedad"
-                    },
-                    "categoryProduct": {
-                        "name": "analizador de humedad",
-                        "keyname": "analizador-humedad"
-                    },
-                    "name": "MOC-120H",
-                    "description": "Medición precisa de la humedad con el nuevo sensor de peso: UniBloc",
-                    "descriptionLong": "<h5>Medición precisa de la humedad con el nuevo sensor de peso: UniBloc</h5>\n          El contenido de humedad de una variedad de muestras se puede medir utilizando una variedad de modos de secado. El estado de secado se puede ver de un vistazo en la pantalla del rango de fluctuación. Activo en una variedad de campos (cereales, almidón, harina, fideos, productos elaborados, mariscos y productos marinos, productos cárnicos, especias, dulces, productos lácteos, alimentos secos, aceites vegetales y otros artículos alimenticios; productos farmacéuticos; minerales; coque; materiales de vidrio; cemento; fertilizantes químicos; pulpa y papel; algodón; tejidos diversos y otros productos industriales); permitiendo la medición de muestras (cereales, alimentos y productos químicos) en diversas condiciones (polvo, partículas, pasta y líquido).",
+                    "description": "Tienen un excelente rendimiento de pesaje El mecanismo compacto UniBloc y la tecnología de procesamiento digital genera una respuesta rápida y estable al mismo tiempo.",
+                    "descriptionLong": "Balanzas analíticas UniBloc<br>Balanzas semimicro de doble rango serie AUW-D<br><br>Tienen un excelente rendimiento de pesaje<br>El mecanismo compacto UniBloc y la tecnología de procesamiento digital genera una respuesta rápida y estable al mismo tiempo.<br><br>Las exclusivas teclas de equilibrio de Shimadzu son una característica estándar.<br>Los resultados de las mediciones se pueden transmitir a Excel u otras aplicaciones de Windows sin instalar ningún software adicional a la computadora. Todo lo que tiene que adicionar es un cable RS-232C.<br>El conteo de piezas, varias unidades de masa, el gancho de pesaje inferior y el software de medición de gravedad específica características estándar de este modelo de balanza.",
                     "videoLink": "",
                     "sendPriceText": "Ver más información"
                 }

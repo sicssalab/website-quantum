@@ -36,11 +36,11 @@
             "items": [
                 {
                     "name": "test1",
-                    "url": "/public2/landings/mains/VELP_1.png"
+                    "url": "/public2/landings/mains/VELP_1_1.png"
                 },
                 {
                     "name": "test2",
-                    "url": "/public2/landings/mains/VELP_2.png"
+                    "url": "/public2/landings/mains/VELP_2_1.png"
                 }
             ]
         },

@@ -11,10 +11,10 @@ import { GrClose } from "react-icons/gr"
 import languageUtils from "../../../utils/languageUtils";
 
 const NavbarHeader = (props) => {
-  const { logo, menu } = props;
+  const { logo, menu, isHome } = props;
   const { locale } = useGlobalState();
   const [showMenu, setShowMenu] = useState(false);
-
+  console.log(isHome)
   const onClickMenu = () => {
     setShowMenu(!showMenu);
   };
@@ -40,9 +40,11 @@ const NavbarHeader = (props) => {
     <>
       <Navbar>
         <ContainerCustom className="d-flex w-100">
-          <Navbar.Brand as={Link} to={`${languageUtils.linksLocale(locale)}`}>
-            <Image src={logo.src} alt={logo.alt} height={80} />
-          </Navbar.Brand>
+          {!isHome && (
+            <Navbar.Brand as={Link} to={`${languageUtils.linksLocale(locale)}`}>
+              <Image src={logo.src} alt={logo.alt} height={80} />
+            </Navbar.Brand>
+          )}
           <div className="justify-content-end align-items-center d-flex w-100">
             <HiMenuAlt3 className="d-block ms-3 n-menu" onClick={onClickMenu} />
           </div>

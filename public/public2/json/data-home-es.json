@@ -14,8 +14,9 @@
     "items": [
         {
             "type": "header-component",
-            "title": "Analytical Solutions <br /><strong>for Quality Assurance</strong>",
+            "title": "Analytical Solutions <br />for Quality Assurance",
             "isLanding": false,
+            "isHome": true,
             "socialNetwork": [
                 {
                     "alt": "red network",
@@ -31,19 +32,19 @@
             "items": [
                 {
                     "name": "main",
-                    "url": "/public2/home1.jpeg"
+                    "url": "/public2/main_1.jpeg"
                 },
                 {
                     "name": "main 2",
-                    "url": "/public2/home2.jpeg",
-                    "urlMobile": "/public2/home1.jpeg"
+                    "url": "/public2/main_2.jpeg",
+                    "urlMobile": "/public2/main_2.jpeg"
                 }
             ]
         },
         {
             "type": "proyects-component",
             "title": "<strong>quantum analytical</strong>",
-            "description": "Quantum Analytical es una empresa 100% nacional teniendo como principales objetivos la industria farmacéutica, química, petroquímica y de alimentos; así como universidades e institutos de investigación. Para lograrlo contamos con la representación exclusiva de diversas marcas de reconocimiento mundial así como con el personal técnico especializado y capacitado para brindar asesoría, soporte técnico y el mantenimiento preventivo y correctivo necesario para garantizar el buen funcionamiento de los instrumentos de las marcas que representamos. Todos nuestros esfuerzos y conocimientos están enfocados en conjuntar lo anterior y así lograr cerrar al 100% el ciclo de un servicio integral.",
+            "description": "Quantum Analytical S.A de C.V  es una empresa creada en el año 2002, 100% nacional, teniendo como principales objetivos la industria farmacéutica, química, petroquímica y de alimentos; así como universidades e institutos de investigación. Para lograrlo contamos con la representación exclusiva de diversas marcas de reconocimiento mundial así como con el personal técnico especializado y capacitado para brindar asesoría, soporte técnico y el mantenimiento preventivo y correctivo, necesario para garantizar el buen funcionamiento de los instrumentos de las marcas que representamos. Todos nuestros esfuerzos y conocimientos están enfocados en conjuntar lo anterior y así lograr cerrar al 100% el ciclo de un servicio integral.",
             "linkMore": "productos",
             "textMore": "NUESTROS PROVEEDORES",
             "items": []
