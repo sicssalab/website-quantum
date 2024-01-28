@@ -91,57 +91,6 @@
                     "descriptionLong": "Los 10 Lts/Hora de producción de agua de osmosis inversa  reduce los costos económicos al eliminar ~95% de los contaminantes del agua de alimentación de este sistema de purificación.<br><br>El agua de ósmosis inversa se almacena en el tanque presurizado de 42 litros incluido que evita el riesgo de contaminación transmitida por el aire y elimina la necesidad de bombas de alimentación y filtros adicionales para el tanque.<br><br>El agua de tipo I que suministra este sistema  es agua ultrapura grado reactivo de 18.2 megohm-cm a un flujo de 2 Lts/minuto<br><br>Cuenta con recirculación continua  para mantener la pureza del agua por más tiempo.",
                     "videoLink": "",
                     "sendPriceText": "Ver más información"
-                },
-                {
-                    "alt": "alt-logo",
-                    "srcImage": "/public2/landings/aqua-solutions/productos/tipo-ii/1.png",
-                    "typeProduct": {
-                        "name": "producto",
-                        "keyname": "producto"
-                    },
-                    "categoryProduct": {
-                        "name": "producto",
-                        "keyname": "producto"
-                    },
-                    "name": "Tipo II Punto de uso Sistemas de purificación de agua de laboratorio",
-                    "description": "El agua Tipo II se utiliza habitualmente para uso general en laboratorio, agua de alimentación a analizadores, pretratamiento para sistemas Tipo I y para lavar y enjuagar cristalería, ya sea manualmente o en el ciclo de enjuague final de una lavadora automática de cristalería.",
-                    "descriptionLong": "El agua Tipo II se utiliza habitualmente para uso general en laboratorio, agua de alimentación a analizadores, pretratamiento para sistemas Tipo I y para lavar y enjuagar cristalería, ya sea manualmente o en el ciclo de enjuague final de una lavadora automática de cristalería. Los sistemas de agua de laboratorio de grado reactivo AQUA SOLUTIONS Tipo II producen más de 2 megaohmios-cm de agua DI que cumple o supera los estándares ASTM, CAP y CLSI para agua Tipo II.\n          <br><br>\n          Para eliminar el costo y los inconvenientes asociados con el \"servicio DI\" tradicional, estos sistemas de purificación de agua de laboratorio tipo II están diseñados desde cero para que el usuario pueda instalarlos y repararlos. Cuentan con un conector de conexión rápida, una luz de pureza fácil de leer y un tanque DI de repuesto.\n          <br><br>\n          Las versiones de módulo simple y doble están disponibles para una variedad de aplicaciones que requieren agua DI tipo II a caudales de 5 a 12 LPM. También están disponibles como sistemas \"DW\" de mayor flujo y alta capacidad para lavadoras de cristalería que requieren caudales de 20 a 40 LPM. Nuestros sistemas RODI incluyen un pretratamiento de ósmosis inversa incorporado para reducir los costos operativos y cuentan con recirculación continua para mantener la máxima pureza del agua.\n          ",
-                    "videoLink": "",
-                    "sendPriceText": "Ver más información"
-                },
-                {
-                    "alt": "alt-logo",
-                    "srcImage": "/public2/landings/aqua-solutions/productos/tipo-ii-rodi/1.jpg",
-                    "typeProduct": {
-                        "name": "producto",
-                        "keyname": "producto"
-                    },
-                    "categoryProduct": {
-                        "name": "producto",
-                        "keyname": "producto"
-                    },
-                    "name": "Tipo II Punto de uso Sistemas RODI",
-                    "description": "El agua Tipo II se utiliza habitualmente para uso general en laboratorio, agua de alimentación a analizadores, pretratamiento para sistemas Tipo I y para lavar y enjuagar cristalería, ya sea manualmente o en el ciclo de enjuague final de una lavadora automática de cristalería.",
-                    "descriptionLong": "El agua Tipo II se utiliza habitualmente para uso general en laboratorio, agua de alimentación a analizadores, pretratamiento para sistemas Tipo I y para lavar y enjuagar cristalería, ya sea manualmente o en el ciclo de enjuague final de una lavadora automática de cristalería. Los sistemas RODI de grado reactivo tipo II de AQUA SOLUTIONS producen agua desionizada de 2 a 15 megaohmios-cm que cumple o supera los estándares ASTM, CAP y CLSI para agua tipo II.\n          <br><br>\n          Para eliminar el costo y los inconvenientes asociados con el \"servicio DI\" tradicional, estos sistemas de purificación de agua de laboratorio tipo II están diseñados desde cero para que el usuario pueda instalarlos y repararlos. Incluyen pretratamiento de ósmosis inversa incorporado para reducir los costos operativos y cuentan con recirculación continua para mantener la máxima pureza del agua.\n          <br><br>\n          Las versiones estándar y de alto flujo están disponibles para una variedad de aplicaciones que requieren agua DI tipo II a caudales de 5 a 12 LPM. También están disponibles como sistemas \"DW\" de mayor flujo y alta capacidad para lavadoras de cristalería que requieren caudales de 20 a 40 LPM.\n          ",
-                    "videoLink": "",
-                    "sendPriceText": "Ver más información"
-                },
-                {
-                    "alt": "alt-logo",
-                    "srcImage": "/public2/landings/aqua-solutions/productos/pretratamiento/1.jpg",
-                    "typeProduct": {
-                        "name": "producto",
-                        "keyname": "producto"
-                    },
-                    "categoryProduct": {
-                        "name": "producto",
-                        "keyname": "producto"
-                    },
-                    "name": "Pretratamiento de ósmosis inversa (RO) de AQUA SOLUTIONS",
-                    "description": "Los sistemas de pretratamiento de ósmosis inversa (RO) de AQUA SOLUTIONS están disponibles con tasas de producción de RO de 10 a 60 litros/hora para nuestros sistemas de mesa estándar y de 1 a 2 galones/minuto para sistemas montados en bastidor de alta capacidad.",
-                    "descriptionLong": "Los sistemas de pretratamiento de ósmosis inversa (RO) de AQUA SOLUTIONS están disponibles con tasas de producción de RO de 10 a 60 litros/hora para nuestros sistemas de mesa estándar y de 1 a 2 galones/minuto para sistemas montados en bastidor de alta capacidad. Los sistemas eliminan entre el 95% y el 99% de los contaminantes del agua del grifo, lo que representa una tecnología rentable para el pretratamiento del agua del grifo antes de la purificación final mediante un sistema DI.\n          <br><br>\n          Funcionan con agua del grifo con hasta 1000 PPM de sólidos disueltos totales y la mayoría de los sistemas incluyen prefiltros incorporados. Hay disponibles una variedad de opciones de tanques de almacenamiento, incluidos tanques presurizados que evitan el riesgo de contaminación transmitida por el aire y eliminan la necesidad de bombas de alimentación adicionales.\n          ",
-                    "videoLink": "",
-                    "sendPriceText": "Ver más información"
                 }
             ]
         }

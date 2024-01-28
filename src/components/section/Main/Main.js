@@ -9,7 +9,7 @@ import { useGlobalState } from "../../../store/StoreProvider";
 import { LazyLoadImage } from "react-lazy-load-image-component";
 
 const Main = (props) => {
-  const { items, locales, title, description, isLanding, socialNetwork, isHome } = props;
+  const { items, locales, title, description, isLanding, socialNetwork, isHome, imageFit = "cover" } = props;
   const {routesData} = useGlobalState();
   const { logo, menu: menuItems } = routesData.header;
   let styleContent = {};
@@ -40,6 +40,7 @@ const Main = (props) => {
           arrows={false}
           autoPlay={true}
           dots={false}
+          styleImg={{objectFit: imageFit}}
         />
       </div>
       {/* <div className={`content-degraded ${isLanding ? "content-width": ''}`}></div> */}
@@ -47,7 +48,7 @@ const Main = (props) => {
         <div className={`content-information ${isLanding ? "content-center": ''}`} style={styleContent}>
           {isHome && (
             <div className="mb-5">
-            <LazyLoadImage className="m-auto d-block" src={"/public/logo.jpeg"} alt="Logo" />
+            <LazyLoadImage className="m-auto d-block" src={"/public2/logo.jpeg"} alt="Logo" />
             </div>
           )}
           <div data-aos="fade-up" data-aos-duration="3000">
