@@ -41,11 +41,11 @@
             "items": [
                 {
                     "name": "test1",
-                    "url": "/public2/landings/mains/BROOKFIELD_1.png"
+                    "url": "/public2/landings/arizona/BROOKFIELD.png"
                 },
                 {
                     "name": "test2",
-                    "url": "/public2/landings/mains/BROOKFIELD_2.png"
+                    "url": "/public2/landings/arizona/BROOKFIELD_2.png"
                 }
             ]
         },
@@ -59,7 +59,7 @@
             "gallery": [
                 {
                     "name": "test1",
-                    "image": "/public2/landings/arizona/productos/1/computrac-max-4000xl_315x220_r.png"
+                    "image": "/public2/landings/arizona/productos/1/a.png"
                 },
                 {
                     "name": "test2",
