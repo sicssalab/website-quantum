@@ -2,7 +2,7 @@ const pagesContants = {
     proyectsES: "productos",
     proyectsEN: "projects",
     nosotrosES: "nosotros",
-    ametek: "arizona",
+    ametek: "brookfield",
     nosotrosEN: "about-us",
     prensaES: "prensa",
     prensaEN: "press",
