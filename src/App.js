@@ -38,7 +38,7 @@ function App(props) {
   }, []);
   useEffect(() => {
     const updateRoutes = async (auxLocale) => {
-      const localStorageRoutes = `${localStorageConstants.ROUTE}_${auxLocale}`;
+      const localStorageRoutes = `${localStorageConstants.ROUTE}_x${auxLocale}`;
       let auxRoutes = await storage.getLocalStorage(localStorageRoutes);
 
       if (auxRoutes === null) {
