@@ -5,6 +5,8 @@ import { ContainerCustom } from "../../ui/Containers";
 import MediaVideo from "../Experience/components/MediaVideo";
 import { useMediaQuery } from "react-responsive";
 import breakpointConstants from "../../../constants/breakpointConstants";
+import GalleryResidential from "../GalleryResidential/GalleryResidential";
+import SliderGalleryResidential from "../../ui/sliders/SliderGalleryResidential";
 
 const InformationResidential = (props) => {
   const {
@@ -18,13 +20,10 @@ const InformationResidential = (props) => {
     logoUrl,
     soon,
     isNewResidential,
+    gallery,
     ...rest
-    // altImage,
-    // frontPage,
-    // frontPageMobile,
-    // videoLink,
   } = props;
-  const isMobile = useMediaQuery({ maxWidth: breakpointConstants.MD });
+  const isTablet = useMediaQuery({ maxWidth: breakpointConstants.LG });
 
   return (
     <div className="information-residential-container">
@@ -65,10 +64,15 @@ const InformationResidential = (props) => {
               />
             )}
           </div>
-          <div style={{flexGrow: 1, paddingLeft: isMobile ? 0 : 30}}>
-            <div className="content-video-information">
+          <div style={{flexGrow: 1, paddingLeft: isTablet ? 0 : 30}}>
+            {gallery && (
+              <div className="content-gallery-information">
+                <SliderGalleryResidential items={gallery} />
+              </div>
+            )}
+            {!gallery && (<div className="content-video-information">
               <MediaVideo {...rest} />
-            </div>
+            </div>)}
           </div>
         </div>
       </ContainerCustom>

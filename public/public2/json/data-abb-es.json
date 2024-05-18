@@ -1,0 +1,141 @@
+{
+    "shortName": "ABB",
+    "slug": "abb",
+    "locale": "es",
+    "metadata": {
+        "metaTitle": "Quantum Analytical: ABB",
+        "metaDescription": "---",
+        "keywords": "",
+        "url": "abb",
+        "sitename": "Quantumdo",
+        "type": "website"
+    },
+    "localizations": [],
+    "items": [
+        {
+            "type": "header-component",
+            "title": "ABB analytical",
+            "isLanding": true,
+            "socialNetwork": [
+                {
+                    "alt": "red network",
+                    "link": "https://www.facebook.com/ABB",
+                    "type": "facebook"
+                },
+                {
+                    "alt": "red network",
+                    "link": "https://www.linkedin.com/company/277579",
+                    "type": "linkedin"
+                },
+                {
+                    "alt": "red network",
+                    "link": "https://twitter.com/ABBgroupnews",
+                    "type": "twitter"
+                }
+            ],
+            "items": [
+                {
+                    "name": "test1",
+                    "url": "/public2/landings/mains/ABB_1.png"
+                },
+                {
+                    "name": "test2",
+                    "url": "/public2/landings/mains/ABB_2.png"
+                }
+            ]
+        },
+        {
+            "type": "information-residential-component",
+            "logo": "/public2/LOGO-MARCAS-PROVEEDORES/abb.png",
+            "title": "ABB analytical",
+            "logoUrl": "https://new.abb.com/products/measurement-products/analytical/ft-ir-and-ft-nir-analyzers/laboratory-spectrometers",
+            "description": "Durante más de medio siglo, ABB ha desarrollado, fabricado, suministrado e instalado instrumentos analíticos para las industrias de laboratorio, de procesos, medioambientales, de vapor y de energía. Las capacidades de ABB abarcan una de las carteras más grandes del mundo de analizadores FT-IR/FT-NIR de laboratorio, en línea y de proceso.",
+            "videoLink": "",
+            "gallery": [
+                {
+                    "name": "test1",
+                    "image": "/public2/landings/abb/productos/mb3600-ph/imagen.png"
+                },
+                {
+                    "name": "test2",
+                    "image": "/public2/landings/abb/productos/mb3600/imagen.png"
+                },
+                {
+                    "name": "test2",
+                    "image": "/public2/landings/abb/productos/mb3600/imagen2.png"
+                },
+                {
+                    "name": "test2",
+                    "image": "/public2/landings/abb/productos/horizon-qa/imagen2.png"
+                },
+                {
+                    "name": "test2",
+                    "image": "/public2/landings/abb/productos/horizon-qa/imagen.png"
+                }
+            ]
+        },
+        {
+            "type": "gallery-residential-component",
+            "title": "LA EMPRESA",
+            "description": "Fundada en 1973, ABB Analytical Measurements (anteriormente Bomem Inc) diseña, fabrica y comercializa espectrómetros FT-IR/FT-NIR accesibles y de alto rendimiento, así como soluciones analíticas llave en mano para petróleo, productos químicos, ciencias biológicas, semiconductores, académicos, metalurgia.",
+            "items": []
+        },
+        {
+            "type": "product-list",
+            "title": "Productos",
+            "items": [
+                {
+                    "alt": "alt-logo",
+                    "srcImage": "/public2/landings/abb/productos/mb3600-ph/imagen.png",
+                    "typeProduct": {
+                        "name": "Analizador",
+                        "keyname": "analizador"
+                    },
+                    "categoryProduct": {
+                        "name": "Analizador",
+                        "keyname": "analizador"
+                    },
+                    "name": "ESPECTRÓMETRO  FT-NIR  MODELO MB3600-PH",
+                    "description": "El modelo MB3600-PH es un espectrómetro FT-NIR para las industrias farmacéutica y ciencias de la vida diseñado para QA/QC, investigación y desarrollo, y aplicaciones PAT (Tecnología Analítica de Procesos)  en línea.",
+                    "descriptionLong": "El modelo MB3600-PH es un espectrómetro FT-NIR para las industrias farmacéutica y ciencias de la vida diseñado para QA/QC, investigación y desarrollo, y aplicaciones PAT (Tecnología Analítica de Procesos)  en línea.<br><br>El espectrómetro FT-NIR modelo MB3600-PH, es un analizador versátil de mesa  de infrarrojo cercano por transformada de Fourier (FT-NIR) que puede equiparse con una varios accesorios para realizar mediciones precisas en los sectores farmacéutico y ciencias de la vida.<br>Es la solución óptima para aplicaciones como:<br><br><ul><li>Análisis de calidad y control de calidad de laboratorio</li><li>Identificación y calificación de materias primas.</li><li>Investigación y desarrollo</li><li>Desarrollo del método NIR</li><li>Mediciones PAT (Tecnología Analítica de Procesos) en línea</li></ul>El analizador MB3600-PH se puede utilizar como instrumento de sobremesa (QA/QC o laboratorio de investigación), y como unidad móvil sobre un carro móvil de acero inoxidable, con opción de suministro de energía ininterrumpida, para aplicaciones en el almacén o dispensado e identificación y calificación de materia prima, y para aplicaciones PAT (Tecnología Analítica de Procesos) en línea.<br><br>El modelo MB3600-PH prácticamente no requiere mantenimiento y cuenta con una interfaz de software fácil de usar que permite operaciones en un modo compatible con 21 CFR Parte 11. El MB3600-PH representa la combinación definitiva de rendimiento, confiabilidad y facilidad de uso.",
+                    "videoLink": "",
+                    "sendPriceText": "Ver más información"
+                },
+                {
+                    "alt": "alt-logo",
+                    "srcImage": "/public2/landings/abb/productos/mb3600/2.jpg",
+                    "typeProduct": {
+                        "name": "Analizador",
+                        "keyname": "analizador"
+                    },
+                    "categoryProduct": {
+                        "name": "Analizador",
+                        "keyname": "analizador"
+                    },
+                    "name": "ESPECTRÓMETRO  FT-NIR  MODELO MB3600",
+                    "description": "¡Es el Primer espectrómetro  FT-NIR libre de  mantenimiento! El espectrómetro modelo MB3600 es el analizador FT-NIR más confiable del mercado, diseñado específicamente para análisis de control de calidad y desarrollo de métodos de la industria farmacéutica.",
+                    "descriptionLong": "El espectrómetro modelo MB3600 es el analizador FT-NIR más confiable del mercado, diseñado específicamente para análisis de control de calidad y desarrollo de métodos de la industria farmacéutica. Tiene un diseño vertical que ahorra espacio, el MB3600 optimiza el espacio de laboratorio y facilita el acceso a los componentes internos.<br><br>El analizador de laboratorio modelo MB3600 FT-NIR es un espectrómetro altamente eficaz para el desarrollo e implementación de procedimientos de análisis cuantitativos precisos para:<br><br><ul><li>Desarrollo de métodos de monitoreo de procesos de producción.</li><li>Control de calidad de producto final</li><li>Monitoreo del proceso de producción en línea</li><li>El analizador MB3600 se puede utilizar para realizar análisis de líquidos, polvos/gránulados y geles.</li></ul>",
+                    "videoLink": "",
+                    "sendPriceText": "Ver más información"
+                },
+                {
+                    "alt": "alt-logo",
+                    "srcImage": "/public2/landings/abb/productos/horizon-qa/imagen.png",
+                    "typeProduct": {
+                        "name": "Analizador",
+                        "keyname": "analizador"
+                    },
+                    "categoryProduct": {
+                        "name": "Analizador",
+                        "keyname": "analizador"
+                    },
+                    "name": "Software Horizon QA",
+                    "description": "Horizon QA para espectroscopía  FT-NIR ES UN SOFTWARE avanzado para garantía y control de calidad.",
+                    "descriptionLong": "Horizon QA para espectroscopía  FT-NIR ES UN SOFTWARE avanzado para garantía y control de calidad.<br><br>El software Horizon QA reemplaza la plataforma AIRS para aplicaciones QA/QC. Este software incluye múltiples mejoras y amplía la funcionalidad para admitir el legado de la antigua plataforma FTLA y las validaciones completas para  instrumentos de las series MB3000 y FTLA.<br><br><h5>HORIZON QA</h5><h6>Características</h6><ul><li>Soporte de plataforma de instrumentos  de la serie  FTLA</li><li>Validación completa del instrumento</li><li>Flujo de trabajo preconfigurado con adquisición, análisis e informes de datos secuenciales</li><li>Facilita el análisis de rutina de las propiedades físicas y químicas, y elimina los errores del operador.</li><li>Ajustes configurables que permiten una amplia personalización.</li><li>Visualización de estado completa para concentraciones e historial de análisis.</li><li>Solución completa de informes</li><li>Admite opciones quimiométricas que incluyen altura/área de pico, Horizon Quantify, PLSplusIQ, Grams IQ, SIMCA P+ y Unscrambler</li><li>Monitoreo del estado del analizador en tiempo real</li><li>Herramientas inteligentes para exportar y archivar datos</li></ul>",
+                    "videoLink": "",
+                    "sendPriceText": "Ver más información"
+                }
+            ]
+        }
+    ]
+}

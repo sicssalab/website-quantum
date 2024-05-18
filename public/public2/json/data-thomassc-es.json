@@ -1,0 +1,139 @@
+{
+    "shortName": "Thomas Scientific",
+    "slug": "thomassc",
+    "locale": "es",
+    "metadata": {
+        "metaTitle": "Quantum Analytical: Thomas Scientific",
+        "metaDescription": "---",
+        "keywords": "",
+        "url": "thomassc",
+        "sitename": "Quantumdo",
+        "type": "website"
+    },
+    "localizations": [],
+    "items": [
+        {
+            "type": "header-component",
+            "title": "thomas scientific",
+            "isLanding": true,
+            "socialNetwork": [
+                {
+                    "alt": "red network",
+                    "link": "http://www.facebook.com/pages/Swedesboro-NJ/Thomas-Scientific/214157616300",
+                    "type": "facebook"
+                },
+                {
+                    "alt": "red network",
+                    "link": "https://twitter.com/ThomasSci",
+                    "type": "twitter"
+                },
+                {
+                    "alt": "red network",
+                    "link": "https://www.youtube.com/user/ThomasScientific",
+                    "type": "youtube"
+                },
+                {
+                    "alt": "red network",
+                    "link": "https://www.linkedin.com/company/thomas-scientific",
+                    "type": "linkedin"
+                }
+            ],
+            "items": [
+                {
+                    "name": "test1",
+                    "url": "/public2/landings/mains/THOMAS_1.png"
+                },
+                {
+                    "name": "test2",
+                    "url": "/public2/landings/mains/THOMAS_2.png"
+                }
+            ]
+        },
+        {
+            "type": "information-residential-component",
+            "logo": "/public2/landings/thomass/logo.png",
+            "title": "thomas scientific",
+            "logoUrl": "https://www.thomassci.com/Laboratory",
+            "description": "Durante más de 120 años, Thomas Scientific ha proporcionado lo último en equipos y accesorios a la comunidad científica. De acuerdo con la tradición de sus fundadores, Thomas Scientific ofrece un servicio de atención personalizada al cliente, equipos científicos innovadores y una amplia cartera que ofrece una gran selección  de productos a un excelente costo.",
+            "videoLink": "VcCHc4jrMkA",
+            "gallery": [
+                {
+                    "name": "test1",
+                    "image": "/public2/landings/thomass/productos/Imagen1.png"
+                },
+                {
+                    "name": "test2",
+                    "image": "/public2/landings/thomass/productos/Imagen2.png"
+                },
+                {
+                    "name": "test2",
+                    "image": "/public2/landings/thomass/productos/Imagen3.png"
+                }
+            ]
+        },
+        {
+            "type": "gallery-residential-component",
+            "title": "Descripción",
+            "description": "En Thomas Scientific reconocemos que nuestra visión número uno es brindar un excelente servicio a los científicos y a quienes apoyan la investigación y el control de calidad. Le tratamos como esperamos que nos traten.<br>Nuestros asociados expertos y con gran experiencia le brindan un servicio personalizado que sigue siendo parte de la cultura creada por nuestros fundadores en los albores del siglo XX.<br>Catalogamos y compramos productos de calidad de las empresas y marcas líderes en el mercado.<br>Entendemos que nuestro éxito depende de su satisfacción y nuestros 121 años de historia son un testimonio de nuestro compromiso.",
+            "items": []
+        },
+        {
+            "type": "product-list",
+            "title": "Productos",
+            "linkWebsite": "https://www.thomassci.com/Laboratory",
+            "items": [
+                {
+                    "alt": "alt-logo",
+                    "srcImage": "/public2/landings/thomass/productos/Imagen1.png",
+                    "typeProduct": {
+                        "name": "Hornos",
+                        "keyname": "hornos"
+                    },
+                    "categoryProduct": {
+                        "name": "Hornos de convencción natural",
+                        "keyname": "hornos-convencccion-natural"
+                    },
+                    "name": "Centrifugas",
+                    "description": "Las centrífugas son esenciales en el trabajo de laboratorio para separar fluidos y sólidos con diferentes densidades. Este proceso ocurre cuando el rotor se mueve sobre un eje fijo. Thomas Scientific ofrece centrífugas en una gran variedad de capacidades, incluyen minicentrífugas, centrífugas de mesa, todas  compatibles con varios rotores y accesorios.",
+                    "descriptionLong": "Las centrífugas son esenciales en el trabajo de laboratorio para separar fluidos y sólidos con diferentes densidades. Este proceso ocurre cuando el rotor se mueve sobre un eje fijo. Thomas Scientific ofrece centrífugas en una gran variedad de capacidades, incluyen minicentrífugas, centrífugas de mesa, todas  compatibles con varios rotores y accesorios.<br><br>Las microcentrífugas y centrífugas refrigeradas están diseñadas para obtener excelentes resultados  centrifugado tras centrifugado.<br><br>Una centrifugación exitosa depende de la densidad, la temperatura y la velocidad de rotación.",
+                    "videoLink": "",
+                    "sendPriceText": "Ver más información"
+                },
+                {
+                    "alt": "alt-logo",
+                    "srcImage": "/public2/landings/thomass/productos/Imagen2.png",
+                    "typeProduct": {
+                        "name": "Hornos",
+                        "keyname": "hornos"
+                    },
+                    "categoryProduct": {
+                        "name": "Hornos de convencción natural",
+                        "keyname": "hornos-convencccion-natural"
+                    },
+                    "name": "Cámaras climáticas",
+                    "description": "Las cámaras climáticas son ideales para crear un ambiente controlado durante las pruebas e investigaciones de muestras. Las cámaras mantienen niveles específicos de temperatura y humedad.",
+                    "descriptionLong": "Las cámaras climáticas son ideales para crear un ambiente controlado durante las pruebas e investigaciones de muestras. Las cámaras mantienen niveles específicos de temperatura y humedad.<br><br>Nuestra amplia gama de cámaras ambientales incluye cámaras UV, cámaras con enfriamiento o cámaras de vacío, todas son programables  en  un rango amplio dee temperatura y humedad relativa.<br><br>Las cámaras de humedad controlada son una opción precisa y confiable para probar productos y materiales en condiciones temperatura y humedad controlados, lo cual es fundamental para el control de calidad.<br><br>Todas las cámaras climáticas están cuidadosamente diseñadas para proporcionar condiciones uniformes en toda la cámara para garantizar resultados precisos.",
+                    "videoLink": "",
+                    "sendPriceText": "Ver más información"
+                },
+                {
+                    "alt": "alt-logo",
+                    "srcImage": "/public2/landings/thomass/productos/Imagen3.png",
+                    "typeProduct": {
+                        "name": "Hornos",
+                        "keyname": "hornos"
+                    },
+                    "categoryProduct": {
+                        "name": "Hornos de convencción natural",
+                        "keyname": "hornos-convencccion-natural"
+                    },
+                    "name": "Hornos de secado",
+                    "description": "Los hornos de secado son esenciales  para las rutinas generales de calentamiento, desde secar muestras de alimentos hasta curar microchips, un horno de laboratorio es uno de los instrumentos fundamentales que todo laboratorio debe tener.",
+                    "descriptionLong": "Los hornos de secado son esenciales  para las rutinas generales de calentamiento, desde secar muestras de alimentos hasta curar microchips, un horno de laboratorio es uno de los instrumentos fundamentales que todo laboratorio debe tener.<br>Con los avances tecnológicos y las crecientes demandas para diferentes aplicaciones, estos hornos de laboratorio han evolucionado desde ser utilizados únicamente por laboratorios científicos hasta satisfacer los requisitos de calefacción de diversas industrias, incluidas el cuidado de la salud, la farmacéutica, el transporte, la tecnología y la ciencia forense, entre otras.<br>Contamos con una amplia varidad de hornos :<br><br><ul><li>Hornos de convección</li><li>Hornos de hibridación</li><li>Hornos de convección forzada</li><li>Hornos de microondas</li><li>Hornos de vacío</li></ul>",
+                    "videoLink": "",
+                    "sendPriceText": "Ver más información"
+                }
+            ]
+        }
+    ]
+}

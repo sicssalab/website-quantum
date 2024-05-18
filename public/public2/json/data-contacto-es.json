@@ -1,0 +1,36 @@
+{
+    "shortName": "Contacto",
+    "slug": "contacto",
+    "locale": "es",
+    "metadata": {
+        "metaTitle": "Quantum Analytical: Contacto",
+        "metaDescription": "Contáctanos y obtén información sobre los productos que manejamos",
+        "keywords": "---",
+        "url": "contacto",
+        "sitename": "Quantumdo",
+        "type": "website"
+    },
+    "localizations": [],
+    "items": [
+        {
+            "type": "header-blog-component",
+            "title": "<strong>Contáctanos</strong>",
+            "items": [
+                {
+                    "name": "test1",
+                    "url": "/public2/contacto/ordenador/main.jpeg",
+                    "urlMobile": "/public2/contacto/mobile/main.jpeg"
+                }
+            ]
+        },
+        {
+            "type": "contact-blog2-component",
+            "image": "/public2/contacto/contacto.jpeg",
+            "altImage": "iamgen",
+            "contact": {
+                "title": "Informes dudas y comentarios",
+                "description": "Contamos con 4 líneas disponibles, llámanos al\n          Teléfono:\n          <br>\n          (52 55) 5768 5508\n          <br>\n          E-mail\n          <br>\n          atencionaclientes@quantumdo.com\n          <br>\n          <br>\n          <h5>Dirección</h5>\n          Retorno 28 de Avenida del Taller, no. 18\n          Col. Jardín Balbuena, CP 15900, México DF"
+            }
+        }
+    ]
+}

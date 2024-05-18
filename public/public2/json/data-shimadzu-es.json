@@ -1,0 +1,107 @@
+{
+    "shortName": "shimadzu",
+    "slug": "shimadzu",
+    "locale": "es",
+    "metadata": {
+        "metaTitle": "Quantum Analytical: shimadzu",
+        "metaDescription": "---",
+        "keywords": "",
+        "url": "shimadzu",
+        "sitename": "Quantumdo",
+        "type": "website"
+    },
+    "localizations": [],
+    "items": [
+        {
+            "type": "header-component",
+            "title": "Shimadzu",
+            "isLanding": true,
+            "socialNetwork": [
+                {
+                    "alt": "red network",
+                    "link": "https://www.facebook.com/ShimadzuCorp",
+                    "type": "facebook"
+                },
+                {
+                    "alt": "red network",
+                    "link": "https://twitter.com/shimadzuAN",
+                    "type": "twitter"
+                },
+                {
+                    "alt": "red network",
+                    "link": "https://www.linkedin.com/company/shimadzu-corporation/",
+                    "type": "linkedin"
+                }
+            ],
+            "items": [
+                {
+                    "name": "test1",
+                    "url": "/public2/landings/mains/SHIMADZU_1.png"
+                },
+                {
+                    "name": "test2",
+                    "url": "/public2/landings/mains/SHIMADZU_2_1.png"
+                }
+            ]
+        },
+        {
+            "type": "information-residential-component",
+            "logo": "/public2/landings/shimadzu/logo.jpg",
+            "title": "Shimadzu",
+            "logoUrl": "https://www.shimadzu.com/an/products/balances/index.html",
+            "description": "Shimadzu ha sido un fabricante líder mundial de balanzas para laboratorio de alta calidad durante más de 100 años, y ha estado a la vanguardia brindando soluciones de precisión y calidad en los retos  más difíciles de investigación y desarrollo, control de calidad e integridad de datos en todas las industrias.<br><br>Ofrecemos una línea completa de productos, desde balanzas analíticas y balanzas de carga superior hasta analizadores de humedad y eliminadores de estática (ionizadores), junto con una variedad de accesorios y opciones de software para cubrir toda el área  analítica.",
+            "videoLink": "",
+            "gallery": [
+                {
+                    "name": "test1",
+                    "image": "/public2/landings/shimadzu/productos/Imagen1.png"
+                },
+                {
+                    "name": "test1",
+                    "image": "/public2/landings/shimadzu/productos/Imagen2.png"
+                }
+            ]
+        },
+        {
+            "type": "product-list",
+            "title": "Productos",
+            "linkWebsite": "https://www.shimadzu.com/an/products/balances/index.html",
+            "items": [
+                {
+                    "alt": "Balanza analítica modelo AP Series",
+                    "srcImage": "/public2/landings/shimadzu/productos/Imagen1.png",
+                    "typeProduct": {
+                        "name": "Balanzas",
+                        "keyname": "balanzas"
+                    },
+                    "categoryProduct": {
+                        "name": "Balanzas Analíticas",
+                        "keyname": "balanzas-analiticas"
+                    },
+                    "name": "Balanza analítica modelo AP Series",
+                    "description": "Proporcionan respuesta de alta velocidad y alta estabilidad Los nuevos modelos de Balanzas analíticas de la serie AP no solo ofrecen un rendimiento básico excelente, como tiempos de pesaje rápidos de aproximadamente dos segundos y",
+                    "descriptionLong": "Balanzas UniBloc de rendimiento avanzado<br><br>Proporcionan respuesta de alta velocidad y alta estabilidad<br><br>Los nuevos modelos de Balanzas analíticas de la serie AP no solo ofrecen un rendimiento básico excelente, como tiempos de pesaje rápidos de aproximadamente dos segundos y una alta estabilidad de medición que minimiza los errores, también incluyen nuevas funciones que mejoran la comodidad, como puertas automáticas y sensores sin contacto.",
+                    "videoLink": "3rZmzXeAmEo",
+                    "sendPriceText": "Ver más información"
+                },
+                {
+                    "alt": "Balanza analítica modelo AUW-D Series",
+                    "srcImage": "/public2/landings/shimadzu/productos/Imagen2.png",
+                    "typeProduct": {
+                        "name": "Balanzas",
+                        "keyname": "balanzas"
+                    },
+                    "categoryProduct": {
+                        "name": "Balanzas Analíticas",
+                        "keyname": "balanzas-analiticas"
+                    },
+                    "name": "Balanza analítica modelo AUW-D Series",
+                    "description": "Tienen un excelente rendimiento de pesaje El mecanismo compacto UniBloc y la tecnología de procesamiento digital genera una respuesta rápida y estable al mismo tiempo.",
+                    "descriptionLong": "Balanzas analíticas UniBloc<br>Balanzas semimicro de doble rango serie AUW-D<br><br>Tienen un excelente rendimiento de pesaje<br>El mecanismo compacto UniBloc y la tecnología de procesamiento digital genera una respuesta rápida y estable al mismo tiempo.<br><br>Las exclusivas teclas de equilibrio de Shimadzu son una característica estándar.<br>Los resultados de las mediciones se pueden transmitir a Excel u otras aplicaciones de Windows sin instalar ningún software adicional a la computadora. Todo lo que tiene que adicionar es un cable RS-232C.<br>El conteo de piezas, varias unidades de masa, el gancho de pesaje inferior y el software de medición de gravedad específica características estándar de este modelo de balanza.",
+                    "videoLink": "",
+                    "sendPriceText": "Ver más información"
+                }
+            ]
+        }
+    ]
+}

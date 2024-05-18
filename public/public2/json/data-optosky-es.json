@@ -1,0 +1,155 @@
+{
+    "shortName": "optosky",
+    "slug": "optosky",
+    "locale": "es",
+    "metadata": {
+        "metaTitle": "Quantum Analytical: optosky",
+        "metaDescription": "---",
+        "keywords": "",
+        "url": "optosky",
+        "sitename": "Quantumdo",
+        "type": "website"
+    },
+    "localizations": [],
+    "items": [
+        {
+            "type": "header-component",
+            "title": "optosky",
+            "isLanding": true,
+            "socialNetwork": [
+                {
+                    "alt": "red network",
+                    "link": "https://www.facebook.com/Optoskylab",
+                    "type": "facebook"
+                },
+                {
+                    "alt": "red network",
+                    "link": "https://www.youtube.com/channel/UC7TayvpxmbKH4lt5yvHn9PQ",
+                    "type": "youtube"
+                },
+                {
+                    "alt": "red network",
+                    "link": "https://twitter.com/Openex_freya",
+                    "type": "twitter"
+                }
+            ],
+            "items": [
+                {
+                    "name": "test1",
+                    "url": "/public2/landings/mains/OPTOSKY_1.png"
+                },
+                {
+                    "name": "test2",
+                    "url": "/public2/landings/mains/OPTOSKY_2.png"
+                }
+            ]
+        },
+        {
+            "type": "information-residential-component",
+            "logo": "/public2/LOGO-MARCAS-PROVEEDORES/optosky.jpeg",
+            "title": "optosky",
+            "logoUrl": "https://optosky.com/handheld-raman.html",
+            "description": "El grupo Optosky  fabrica soluciones de espectroscopia avanzada desde hace 20 años, con sede en la ciudad de Xiamen, sus instalaciones  tienen un área de 2500㎡ con 50 ingenieros enfocados en el desarrollo de espectrómetros Raman, en los centros de investigación de las ciudades de Wuhan con  más 50 ingenieros  enfocados en el diseño de espectrómetros industriales, y los ingenieros de Changsha se centran en el diseño y fabricación de imágenes hiperespectrales.<br>Nuestro objetivo es suministrar soluciones y técnicas de espectroscopia accesibles  a clientes globales.<br><br>La tecnología de la empresa se basa en optomecatrónica, análisis de espectroscopia, procesamiento de señales ópticas y eléctricas débiles, computación en la nube, y se ha desarrollado una amplia línea de productos de espectroscopia Raman, espectrómetro modular, generador de imágenes hiperespectral, espectrorradiómetro de campo, espectroscopia de fluorescencia, FTIR, LIBS, XRF, etc. Impulsada por tecnologías y productos avanzados, la marca Optosky es conocida por clientes alrededor del mundo.",
+            "videoLink": "",
+            "gallery": [
+                {
+                    "name": "test1",
+                    "image": "/public2/landings/optosky/productos/atr6500ch-ph/imagen.png"
+                },
+                {
+                    "name": "test2",
+                    "image": "/public2/landings/optosky/productos/atr6500ch-dh/imagen.png"
+                },
+                {
+                    "name": "test2",
+                    "image": "/public2/landings/optosky/productos/atr6600ch-ph/imagen.png"
+                },
+                {
+                    "name": "test2",
+                    "image": "/public2/landings/optosky/productos/atr6600ch-dh/imagen.png"
+                }
+            ]
+        },
+        {
+            "type": "gallery-residential-component",
+            "title": "La empresa",
+            "description": "El fundador de la empresa Optosky, el Dr. Hongfei, Liu se graduó con un título de doctor de la Academia China de Ciencias y un título postdoctoral de la Universidad de Xiamen, integrando la experiencia en tecnología de espectroscopia de ambas universidades en la empresa Optosky con el objetivo de desarrollar los equipos de espectroscopia líderes en el mundo. Con 20 años de experiencia en soluciones de espectroscopia, el Dr. Liu ha desarrollado varios dispositivos espectroscópicos vendidos en los mercados globales.",
+            "items": []
+        },
+        {
+            "type": "product-list",
+            "title": "Productos",
+            "linkWebsite": "https://optosky.com/handheld-raman.html",
+            "items": [
+                {
+                    "alt": "alt-logo",
+                    "srcImage": "/public2/landings/optosky/productos/atr6500ch-ph/imagen.png",
+                    "typeProduct": {
+                        "name": "Espectrómetro",
+                        "keyname": "espectrometro"
+                    },
+                    "categoryProduct": {
+                        "name": "Espectrómetro",
+                        "keyname": "espectrometro"
+                    },
+                    "name": "ATR 6500 CH-PH - 785 nm",
+                    "description": "Área de aplicación: Industria Farmacéutica",
+                    "descriptionLong": "Área de aplicación: Industria Farmacéutica <br><br><h5>Características:</h5><ul><li>Detector  CCD de Silicio electrónicamente enfriado</li><li>Potencia de laser baja</li><li>Emisión de energía alta</li><li>Eficiencia alta de excitación</li><li>Banda estrecha de resolución</li><li>Alta emisión de fluorescencia</li><li>Tiempo corto de lecturas (menos de 10 seg)</li><li>Comunicación 4G, GSM, GPRS, Bluetooth, WI-FI</li><li>Cámara de 13-megas para toma de fotografías y escaneo de código QR</li><li>Carga de batería 4-6 hrs</li><li>400 lecturas por carga de batería</li><li>Mayor productividad</li><li>Ligero  menos de 0.45 kg de peso</li><li>Cumple con CFR21</li><li>Lectura de muestras líquidas, sólidas y polvo</li></ul>",
+                    "videoLink": "",
+                    "sendPriceText": "Ver más información"
+                },
+                {
+                    "alt": "alt-logo",
+                    "srcImage": "/public2/landings/optosky/productos/atr6500ch-dh/imagen.png",
+                    "typeProduct": {
+                        "name": "Espectrómetro",
+                        "keyname": "espectrometro"
+                    },
+                    "categoryProduct": {
+                        "name": "Espectrómetro",
+                        "keyname": "espectrometro"
+                    },
+                    "name": "ATR 6500 CH-DH - 785 nm",
+                    "description": "Área de aplicación: Seguridad pública",
+                    "descriptionLong": "Área de aplicación: Seguridad pública<br><h5>Características:</h5><ul><li>Detector  CCD de Silicio electrónicamente enfriado</li><li>Potencia de laser baja</li><li>Emisión de energía alta</li><li>Eficiencia alta de excitación</li><li>Banda estrecha de resolución</li><li>Alta emisión de fluorescencia</li><li>Tiempo corto de lecturas (menos de 10 seg)</li><li>Comunicación 4G, GSM, GPRS, Bluetooth, WI-FI</li><li>Cámara de 13-megas para toma de fotografías y escaneo de código QR</li><li>Carga de batería 4-6 hrs</li><li>400 lecturas por carga de batería</li><li>Mayor productividad</li><li>Ligero  menos de 0.45 kg de peso</li><li>Cumple con CFR21</li><li>Lectura de muestras líquidas, sólidas y polvo</li></ul>",
+                    "videoLink": "",
+                    "sendPriceText": "Ver más información"
+                },
+                {
+                    "alt": "alt-logo",
+                    "srcImage": "/public2/landings/optosky/productos/atr6600ch-ph/imagen.png",
+                    "typeProduct": {
+                        "name": "Espectrómetro",
+                        "keyname": "espectrometro"
+                    },
+                    "categoryProduct": {
+                        "name": "Espectrómetro",
+                        "keyname": "espectrometro"
+                    },
+                    "name": "ATR 6600 CH-PH - 1064 nm",
+                    "description": "Área de aplicación: Industria Farmacéutica ",
+                    "descriptionLong": "Área de aplicación: Industria Farmacéutica<br><h5>Características:</h5><ul><li>Detector  InGaAs electrónicamente enfriado</li><li>Potencia de laser ALTA</li><li>Emisión de energía baja</li><li>Eficiencia baja de excitación</li><li>Banda estrecha de resolución</li><li>Nula emisión de fluorescencia</li><li>Tiempo medio de lecturas (más de 10 seg)</li><li>Emisión de temperatura</li><li>Comunicación 4G, GSM, GPRS, Bluetooth, WI-FI</li><li>Cámara de 13-megas para toma de fotografías y escaneo de código QR</li><li>Carga de batería 4-6 hrs</li><li>150 lecturas por carga de batería</li><li>Menor productividad</li><li>Ligero  menos de 1.2 kg de peso</li><li>Cumple con CFR21</li><li>Lectura de muestras líquidas, sólidas y polvo</li></ul>",
+                    "videoLink": "",
+                    "sendPriceText": "Ver más información"
+                },
+                {
+                    "alt": "alt-logo",
+                    "srcImage": "/public2/landings/optosky/productos/atr6600ch-dh/imagen.png",
+                    "typeProduct": {
+                        "name": "Espectrómetro",
+                        "keyname": "espectrometro"
+                    },
+                    "categoryProduct": {
+                        "name": "Espectrómetro",
+                        "keyname": "espectrometro"
+                    },
+                    "name": "ATR 6600 CH-DH - 1064 nm",
+                    "description": "Área de aplicación: Seguridad pública",
+                    "descriptionLong": "Área de aplicación: Seguridad pública<br><h5>Características:</h5><ul><li>Detector  InGaAs electrónicamente enfriado</li><li>Potencia de laser ALTA</li><li>Emisión de energía baja</li><li>Eficiencia baja de excitación</li><li>Banda estrecha de resolución</li><li>Nula emisión de fluorescencia</li><li>Tiempo medio de lecturas (más de 10 seg)</li><li>Emisión de temperatura</li><li>Comunicación 4G, GSM, GPRS, Bluetooth, WI-FI</li><li>Cámara de 13-megas para toma de fotografías y escaneo de código QR</li><li>Carga de batería 4-6 hrs</li><li>150 lecturas por carga de batería</li><li>Menor productividad</li><li>Ligero  menos de 1.2 kg de peso</li><li>Cumple con CFR21</li><li>Lectura de muestras líquidas, sólidas y polvo</li></ul>",
+                    "videoLink": "",
+                    "sendPriceText": "Ver más información"
+                }
+            ]
+        }
+    ]
+}

@@ -19,7 +19,7 @@ const resource = {
                 url: pagesContants.nosotrosES
             },
             {
-                name: "Productos",
+                name: "Proveedores",
                 url: pagesContants.proyectsES
             },
             {
@@ -56,11 +56,6 @@ const resource = {
                 link: "https://www.linkedin.com/company/quantum-do-analytical",
                 type: "linkedin"
             },
-            // {
-            //     alt: "red network",
-            //     link: "https://www.youtube.com/@sicssalab",
-            //     type: "youtube"
-            // },
         ],
         itemsAboutUs: [
             {
@@ -70,7 +65,7 @@ const resource = {
                 orderMobile: 1,
             },
             {
-                name: "Productos",
+                name: "Proveedores",
                 url: pagesContants.proyectsES,
                 order: 4,
                 orderMobile: 4,

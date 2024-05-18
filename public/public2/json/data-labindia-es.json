@@ -1,0 +1,664 @@
+{
+    "shortName": "Labindia",
+    "slug": "labindia",
+    "locale": "es",
+    "metadata": {
+        "metaTitle": "Quantum Analytical: Labindia",
+        "metaDescription": "---",
+        "keywords": "",
+        "url": "labindia",
+        "sitename": "Quantumdo",
+        "type": "website"
+    },
+    "localizations": [],
+    "items": [
+        {
+            "type": "header-component",
+            "title": "Labindia",
+            "isLanding": true,
+            "socialNetwork": [
+                {
+                    "alt": "red network",
+                    "link": "https://www.facebook.com/LabindiaAnalytical",
+                    "type": "facebook"
+                },
+                {
+                    "alt": "red network",
+                    "link": "https://www.youtube.com/channel/UC34XxL56wtWO7mNWz1I7bMA",
+                    "type": "youtube"
+                },
+                {
+                    "alt": "red network",
+                    "link": "https://www.linkedin.com/company/labindia-analytical-instruments",
+                    "type": "linkedin"
+                }
+            ],
+            "items": [
+                {
+                    "name": "test1",
+                    "url": "/public2/landings/mains/LABINDIA_1.png"
+                },
+                {
+                    "name": "test1",
+                    "url": "/public2/landings/mains/LABINDIA_2.png"
+                }
+            ]
+        },
+        {
+            "type": "information-residential-component",
+            "logo": "data:image/jpeg;base64,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",
+            "title": "Labindia",
+            "logoUrl": "https://labindia-analytical.com/analytical",
+            "description": "Labindia ha logrado reconocimiento global a lo largo de los años. Nuestros productos se planifican a largo plazo; lo que garantiza que lanzamos al mercado productos técnicamente maduros y rigurosamente probados. El amplio conocimiento, la experiencia y las ideas innovadoras de nuestro equipo hacen que nuestros productos sean incomparables. Una mentalidad centrada en el cliente con el objetivo de lograr su absoluta satisfacción es el núcleo del compromiso de Labindia Analytical con la calidad.<br><br>Trabajamos activamente para fomentar nuestras actividades de protección del medio ambiente entre proveedores, proveedores y clientes. Hoy en día suministramos la gama más completa de equipos analíticos para diversas industrias. Nuestros sistemas se fabrican con su diseño único y funcionalidad práctica. Cumple con 21 CFR, la pantalla táctil, la interfaz de usuario y el fácil mantenimiento certifican una excelente durabilidad.",
+            "videoLink": "GYmE3bZ9FJg"
+        },
+        {
+            "type": "gallery-residential-component",
+            "title": "INNOVACION Y DINAMISMO",
+            "description": "Las instalaciones de fabricación de Labindia son  de última generación que se extienden sobre un área muy extensa y están equipadas con equipo de fabricación de última tecnologías. Cuentan con una fuerza laboral altamente calificada que está comprometida a producir instrumentos y soluciones analíticos de alta calidad.<br><br>El proceso de fabricación en Labindia implica un estricto cumplimiento de los estándares de calidad internacionales, lo que garantiza que cada producto cumpla con el más alto nivel de exactitud, precisión y confiabilidad. Contamos con maquinaria avanzada y otras tecnologías de vanguardia que nos permiten producir instrumentos con un alto nivel de precisión y eficiencia. Además de producir productos estándar, nuestras instalaciones de fabricación también tienen la capacidad de personalizar instrumentos según los requisitos específicos de los clientes.",
+            "items": []
+        },
+        {
+            "type": "product-list",
+            "title": "Productos",
+            "linkWebsite": "https://labindia-analytical.com/analytical",
+            "items": [
+                {
+                    "alt": "alt-logo",
+                    "srcImage": "/public2/landings/labindia/productos/probador/DS-14000/1.webp",
+                    "typeProduct": {
+                        "name": "Probador de disolución",
+                        "keyname": "probador-de-disolucion"
+                    },
+                    "categoryProduct": {
+                        "name": "Probador de disolución",
+                        "keyname": "probador-de-disolucion"
+                    },
+                    "name": "Disolutor modelo DS 14000+ con bomba de jeringa",
+                    "description": "El disolutor modelo  DS 14000 con bomba de jeringa ofrece características avanzadas como un sistema completo de muestreo fuera de línea de disolución que consta de un sistema de bomba de jeringa múltiple de 12 puertos con un motor paso a paso patentado de alta eficiencia y sin mantenimiento que permite realizar pruebas de larga duración.",
+                    "descriptionLong": "El disolutor modelo  DS 14000 con bomba de jeringa ofrece características avanzadas como un sistema completo de muestreo fuera de línea de disolución que consta de un sistema de bomba de jeringa múltiple de 12 puertos con un motor paso a paso patentado de alta eficiencia y sin mantenimiento que permite realizar pruebas de larga duración.<br><br>El disolutor se pueden almacenar 15 métodos con parámetros y se puede iniciar la disolución con los últimos parámetros de ejecución. La configuración permite realizar dos corridas diferentes al mismo tiempo con condiciones idénticas. En caso de un corte de energía, el disolutor reinicia la prueba donde se interrumpió.<br><br>El disolutor Labindia  modelo DS 14000 con bomba de jeringa cumple al 100% con las requerimientos USP, BP, EP, IP, y cumple con las especificaciones de acuerdo con la calibración mecánica de la FDA.",
+                    "videoLink": "f6PqKMiJ-7o",
+                    "sendPriceText": "Ver más información"
+                },
+                {
+                    "alt": "alt-logo",
+                    "srcImage": "/public2/landings/labindia/productos/probador/ds-14000-bomba-piston/1.png",
+                    "typeProduct": {
+                        "name": "Probador de disolución",
+                        "keyname": "probador-de-disolucion"
+                    },
+                    "categoryProduct": {
+                        "name": "Probador de disolución",
+                        "keyname": "probador-de-disolucion"
+                    },
+                    "name": "Disolutor modelo  DS 14000+ con bomba de pistón",
+                    "description": "El disolutor modelo DS 14000 con bomba de pistón es una solución perfecta para pruebas de disolución de alto rendimiento.",
+                    "descriptionLong": "El disolutor modelo DS 14000 con bomba de pistón es una solución perfecta para pruebas de disolución de alto rendimiento. El muestreo automatizado de acuerdo a la farmacopea permite que los tubos de muestreo se bajen al medio de disolución solo en el momento del muestreo y se retiren inmediatamente, de modo que ningún componente contribuya con movimiento, agitación o vibración.<br><br>Este disolutor viene con una bomba de pistón de alta presión que puede tomar volúmenes de muestra de hasta 25 ml/min con una precisión de hasta el 1 %.<br>Cuenta con varias opciones de recolección de muestras disponibles y todos los racks tienen sensor para ubicar la posición adecuada con la  alarma.<br><br>El disolutor modelo DS14000+ cuenta con un accesorio recuperación para verificar el 100% de la disolución de la muestra. Con muchas más funciones, el disolutor modelo  DS 14000+de Labindia es uno de los mejores en términos de precio, calidad y rendimiento.",
+                    "videoLink": "f6PqKMiJ-7o",
+                    "sendPriceText": "Ver más información"
+                },
+                {
+                    "alt": "alt-logo",
+                    "srcImage": "/public2/landings/labindia/productos/probador/ds-14000-bomba-smart-piston/1.png",
+                    "typeProduct": {
+                        "name": "Probador de disolución",
+                        "keyname": "probador-de-disolucion"
+                    },
+                    "categoryProduct": {
+                        "name": "Probador de disolución",
+                        "keyname": "probador-de-disolucion"
+                    },
+                    "name": "Disolutor modelo DS 14000 SMART con bomba de pistón",
+                    "description": "El disolutor DS 14000 Smart con bomba de pistón es la central de nuestro sistema de disolución. Se utiliza un sistema de muestreo inteligente donde la tubería de muestreo se mueve con precisión a la posición de muestreo de acuerdo a USP. Para la toma de muestras, está disponible la opción de viales estándar y viales de HPLC. Las agujas pueden perforar los septas y recoger las muestras sin derramarse",
+                    "descriptionLong": "El disolutor DS 14000 Smart con bomba de pistón es la central de nuestro sistema de disolución. Se utiliza un sistema de muestreo inteligente donde la tubería de muestreo se mueve con precisión a la posición de muestreo de acuerdo a USP. Para la toma de muestras, está disponible la opción de viales estándar y viales de HPLC. Las agujas pueden perforar los septas y recoger las muestras sin derramarse<br><br>Se garantizan 1 millón de ciclos para la bomba de pistón con servicio y mantenimiento fácil.<br>El software del disolutor cumple con  21 CFR Parte 11  con conectividad LAN para realizar copias de seguridad de datos en carpetas compartidas de la red.<br>Teclado tipo QWERTY para entradas de nombre de muestra, número de muestra y número de identificación para autenticación. Se pueden almacenar más de 1000 métodos gracias al gran tamaño de la memoria.",
+                    "videoLink": "f6PqKMiJ-7o",
+                    "sendPriceText": "Ver más información"
+                },
+                {
+                    "alt": "alt-logo",
+                    "srcImage": "/public2/landings/labindia/productos/probador/ds-14000-peristaltica/1.webp",
+                    "typeProduct": {
+                        "name": "Probador de disolución",
+                        "keyname": "probador-de-disolucion"
+                    },
+                    "categoryProduct": {
+                        "name": "Probador de disolución",
+                        "keyname": "probador-de-disolucion"
+                    },
+                    "name": "Disolutor Modelo DS 14000 con bomba peristáltica",
+                    "description": "Por su alto rendimiento, el disolutor modelo  DS 14000 con automuestreador y bomba peristáltica es una solución perfecta para pruebas de disolución, ya que cumple con los últimos  requerimientos  de  USP, EP, BP e IP.",
+                    "descriptionLong": "Por su alto rendimiento, el disolutor modelo  DS 14000 con automuestreador y bomba peristáltica es una solución perfecta para pruebas de disolución, ya que cumple con los últimos  requerimientos  de  USP, EP, BP e IP.<br>Las paletas, canastillas y ejes del disolutor están serializados para su trazabilidad.<br><br>El teclado alfanumérico del disolutor ayuda a controlar fácilmente todo el sistema  de disolución. La eficiente y versátil bomba peristáltica de 24 canales de la marca suiza Ismatec transporta muestras desde los vasos de disolución hasta el recolector de muestras con alta precisión. El diseño del cartucho Click n Go garantiza la longevidad de los tubos y la precisión de la muestra.<br><br>El usuario puede realizar pruebas de disolución utilizando 2 buffers para tabletas con cubierta entérica en el mismo disolutor.",
+                    "videoLink": "f6PqKMiJ-7o",
+                    "sendPriceText": "Ver más información"
+                },
+                {
+                    "alt": "alt-logo",
+                    "srcImage": "/public2/landings/labindia/productos/probador/ds-14000-smart/1.png",
+                    "typeProduct": {
+                        "name": "Probador de disolución",
+                        "keyname": "probador-de-disolucion"
+                    },
+                    "categoryProduct": {
+                        "name": "Probador de disolución",
+                        "keyname": "probador-de-disolucion"
+                    },
+                    "name": "Disolutor modelo DS 14000 (Basic) SMART",
+                    "description": "El disolutor modelo DS14000 ofrece calidad comprobada para pruebas de disolución sencillas.  Está diseñado para cumplir con las especificaciones USP, BP, IP y JP.<br>Las diferentes configuraciones delos vasos del disolutor  12+2 (6+1 y 6+1) permite realizar estudios comparativos.",
+                    "descriptionLong": "El disolutor modelo DS14000 ofrece calidad comprobada para pruebas de disolución sencillas.  Está diseñado para cumplir con las especificaciones USP, BP, IP y JP.<br>Las diferentes configuraciones delos vasos del disolutor  12+2 (6+1 y 6+1) permite realizar estudios comparativos.<br><br>El dispensador de tabletas automatizado permite la liberación de todas las tabletas simultáneamente al mismo tiempo, una vez que se alcanza la temperatura deseada.<br><br>Junto con el software compatible con 21 CFR Parte 11, la autenticación de usuario se realiza para todas y cada una de las operaciones realizadas por el usuario. Este disolutor también realiza una función de copia de seguridad y restauración de datos con una firma electrónica disponible como función estándar.",
+                    "videoLink": "f6PqKMiJ-7o",
+                    "sendPriceText": "Ver más información"
+                },
+                {
+                    "alt": "alt-logo",
+                    "srcImage": "/public2/landings/labindia/productos/probador/ds-14000-basico/1.png",
+                    "typeProduct": {
+                        "name": "Probador de disolución",
+                        "keyname": "probador-de-disolucion"
+                    },
+                    "categoryProduct": {
+                        "name": "Probador de disolución",
+                        "keyname": "probador-de-disolucion"
+                    },
+                    "name": "Disolutor Modelo  DS 14000 (Basic)",
+                    "description": "El disolutor modelo DS14000 ofrece calidad comprobada teniendo en cuenta el presupuesto para pruebas de disolución sencillas. Está diseñado para cumplir con las especificaciones USP, BP, IP y JP.",
+                    "descriptionLong": "El disolutor modelo DS14000 ofrece calidad comprobada teniendo en cuenta el presupuesto para pruebas de disolución sencillas. Está diseñado para cumplir con las especificaciones USP, BP, IP y JP.<br>Las diferentes configuraciones delos vasos del disolutor  12+2 (6+1 y 6+1) permite realizar estudios comparativos.<br><br>Este disolutor  cumple con las regulaciones actuales de USP, BP, IP, EP y la regulación ASTM y de la FDA.<br>El diseño exclusivo del circulador y calentador del baño de agua externo reduce la influencia de las vibraciones y proporciona una temperatura constante en el baño de agua del disolutor.<br>Cuenta con Puerto paralelo para compatibilidad con impresora y PC para descarga de datos.<br><br>Todas estas y muchas más características hacen del disolutor Modelo DS 14000 un sistema básico perfecto.",
+                    "videoLink": "f6PqKMiJ-7o",
+                    "sendPriceText": "Ver más información"
+                },
+                {
+                    "alt": "alt-logo",
+                    "srcImage": "/public2/landings/labindia/productos/probador/ds800plus-piston/1.webp",
+                    "typeProduct": {
+                        "name": "Probador de disolución",
+                        "keyname": "probador-de-disolucion"
+                    },
+                    "categoryProduct": {
+                        "name": "Probador de disolución",
+                        "keyname": "probador-de-disolucion"
+                    },
+                    "name": "Disolutor modelo DS 8000+ con bomba de pistón y cambiador de filtros automático",
+                    "description": "Las pruebas de disolución se consideran uno de los análisis  de control de calidad más importantes realizadas en formas farmacéuticas.",
+                    "descriptionLong": "Las pruebas de disolución se consideran uno de los análisis  de control de calidad más importantes realizadas en formas farmacéuticas. El disolutor DS 8000+ se puede configurar con una bomba de pistón y un cambiador de filtros automático. La principal preocupación de los analistas es el proceso de filtración de la muestra después de su recolección. Por lo tanto, para superar esto, Labindia desarrolló el probador de disolución junto con la bomba y el cambiador de filtro para facilitar el procedimiento de prueba de disolución.<br><br>El cambiador de filtro automático FC 08 está controlado por el disolutor para la extracción de muestras de 6, 7 u 8 líneas. Se puede utilizar cualquier filtro de jeringa estándar de 0,45 micras con un diámetro de 25 mm. Se pueden almacenar hasta 96 filtros para un filtrado de muestras ininterrumpido para 16 puntos de muestreo. Los filtros usados se eliminan automáticamente y se reemplazan por otros nuevos.<br><br>FC 08 se utiliza junto con la bomba de pistón de alta presión PP 08 con filtros de jeringa de 0,2 micras para análisis UPLC.",
+                    "videoLink": "f6PqKMiJ-7o",
+                    "sendPriceText": "Ver más información"
+                },
+                {
+                    "alt": "alt-logo",
+                    "srcImage": "/public2/landings/labindia/productos/probador/ds800plus-piston-sencillo/1.png",
+                    "typeProduct": {
+                        "name": "Probador de disolución",
+                        "keyname": "probador-de-disolucion"
+                    },
+                    "categoryProduct": {
+                        "name": "Probador de disolución",
+                        "keyname": "probador-de-disolucion"
+                    },
+                    "name": "Disolutor modelo  DS 8000+ con bomba de pistón",
+                    "description": "El disolutor modelo DS 8000+ con bomba de pistón es una solución perfecta para realizar disoluciones semiautomáticas de forma  precisa y eficiente. El diseño de mono eje permite un cambio fácil entre el aparato I y el aparato II, por lo que elimina las comprobaciones rutinarias de validación de altura de acuerdo a USP.",
+                    "descriptionLong": "El disolutor modelo DS 8000+ con bomba de pistón es una solución perfecta para realizar disoluciones semiautomáticas de forma  precisa y eficiente. El diseño de mono eje permite un cambio fácil entre el aparato I y el aparato II, por lo que elimina las comprobaciones rutinarias de validación de altura de acuerdo a USP.<br><br>La bomba de pistón PP 08 está controlada por un microprocesador y es ideal para la extracción de muestras de 6, 7 u 8 canales. Todos los tipos de medios de disolución, como los tensoactivos, son compatibles sin ningún efecto sobre los volúmenes de muestra. El disolutor modelo DS8000+ contiene un rotor cerámico inerte en la bomba de pistón PP 08 que supera todos los problemas de absorción.<br><br>El diseño superior del recolector de muestras brinda seguridad electrónica para una operación a prueba de fallas. Con una variedad de racks, el usuario tiene la flexibilidad de elegir entre tubos de ensayo o viales estándar que se pueden usar en las pruebas de disolución.",
+                    "videoLink": "f6PqKMiJ-7o",
+                    "sendPriceText": "Ver más información"
+                },
+                {
+                    "alt": "alt-logo",
+                    "srcImage": "/public2/landings/labindia/productos/probador/ds800plus-jeringa/1.png",
+                    "typeProduct": {
+                        "name": "Probador de disolución",
+                        "keyname": "probador-de-disolucion"
+                    },
+                    "categoryProduct": {
+                        "name": "Probador de disolución",
+                        "keyname": "probador-de-disolucion"
+                    },
+                    "name": "Disolutor modelo DS 8000 con  bomba para jeringas",
+                    "description": "El probador de disolución de tabletas Labindia DS 8000 con bomba para jeringas es un sistema semiautomático ideal para las pruebas de rutina. El software interactúa con el usuario en modo de diálogo, garantizando, una operación fácil  con protección contra entradas no válidas.",
+                    "descriptionLong": "El probador de disolución de tabletas Labindia DS 8000 con bomba para jeringas es un sistema semiautomático ideal para las pruebas de rutina. El software interactúa con el usuario en modo de diálogo, garantizando, una operación fácil  con protección contra entradas no válidas.<br><br>El sistema de bomba para jeringas se puede configurar para 6, 7 u 8 jeringas para muestreo. La tubería que transporta la muestra es de teflón, las  jeringas son de  vidrio herméticas con filtro de teflón y válvulas de cuerpo de PEEK.<br><br>Los métodos de calibración y validación están integrados para facilitar la operación del disolutor. Todos los informes y datos se pueden imprimir en una impresora utilizando rl puerto paralelo o serial.",
+                    "videoLink": "f6PqKMiJ-7o",
+                    "sendPriceText": "Ver más información"
+                },
+                {
+                    "alt": "alt-logo",
+                    "srcImage": "/public2/landings/labindia/productos/probador/ds8000-smart-piston/1.png",
+                    "typeProduct": {
+                        "name": "Probador de disolución",
+                        "keyname": "probador-de-disolucion"
+                    },
+                    "categoryProduct": {
+                        "name": "Probador de disolución",
+                        "keyname": "probador-de-disolucion"
+                    },
+                    "name": "Disolutor modelo DS 8000 SMART con bomba de pistón",
+                    "description": "El disolutor modelo DS 8000 Smart con bomba de pistón es una solución semiautomática perfecta para realizar pruebas de disolución de medicamentos  precisas y eficientes. El disolutor  DS 8000 tiene un sistema de monitoreo de temperatura de 6 vasos que mide y registra automáticamente la temperatura de cada vaso en puntos de muestreo específicos.",
+                    "descriptionLong": "El disolutor modelo DS 8000 Smart con bomba de pistón es una solución semiautomática perfecta para realizar pruebas de disolución de medicamentos  precisas y eficientes. El disolutor  DS 8000 tiene un sistema de monitoreo de temperatura de 6 vasos que mide y registra automáticamente la temperatura de cada vaso en puntos de muestreo específicos.<br><br>Con el sistema de bomba de pistón de alta presión, el enjuague se realiza entre muestras para reducir los problemas de arrastre. La tecnología DTS para temperatura permite monitorear con precisión la temperatura del vaso junto con un sensor de temperatura externo.<br><br>El software es compatible con 21 CFR Parte 11, es fácil buscar e imprimir las actividades de seguimiento de auditoría.  Cuenta con niveles y roles de usuarios con protección, caducidad y complejidad de contraseña.<br>Genera informes en PDF a través del disolutor. Esto hace al Disolutor  Labindia modelo DS8000 smart en el sistema de disolución más  completo y versátil disponible en el mercado.",
+                    "videoLink": "f6PqKMiJ-7o",
+                    "sendPriceText": "Ver más información"
+                },
+                {
+                    "alt": "alt-logo",
+                    "srcImage": "/public2/landings/labindia/productos/probador/ds8000-smart-basico/1.png",
+                    "typeProduct": {
+                        "name": "Probador de disolución",
+                        "keyname": "probador-de-disolucion"
+                    },
+                    "categoryProduct": {
+                        "name": "Probador de disolución",
+                        "keyname": "probador-de-disolucion"
+                    },
+                    "name": "Disolutor modelo DS 8000 (Basic) SMART",
+                    "description": "El nuevo disolutor modeo DS 8000 Basic Smart utiliza la tecnología avanzada de Micro-controller (Arm Core) y cumple con las especificaciones  de  USP, IP, BP, EP. El disolutor inteligente tiene una pantalla a color de alta resolución de 7” con pantalla táctil.",
+                    "descriptionLong": "El nuevo disolutor modeo DS 8000 Basic Smart utiliza la tecnología avanzada de Micro-controller (Arm Core) y cumple con las especificaciones  de  USP, IP, BP, EP. El disolutor inteligente tiene una pantalla a color de alta resolución de 7” con pantalla táctil. La tecnología Ease align permite que los vasos simplemente se deslicen en el lugar para una fácil colocación y bloqueo.<br><br>El disolutor modelo  DS 8000 (Básico) está diseñado exclusivamente para los métodos de disolución de  USP 1,2,5 y 6. El circulador de agua externo con calentador no tiene vibraciones y garantiza una temperatura constante en todo el recipiente de disolución. El software es fácil de usar con más de  200, con entradas alfanuméricas de nombre de usuario, contraseña y selección de privilegios basados en roles.<br><br>El disolutor modelo DS 8000 Basic smart cumple totalmente con  21 CFR Parte 11 y los requerimientos relacionados con la validación, calibración y calificaciones, así como la documentación.",
+                    "videoLink": "f6PqKMiJ-7o",
+                    "sendPriceText": "Ver más información"
+                },
+                {
+                    "alt": "alt-logo",
+                    "srcImage": "/public2/landings/labindia/productos/probador/ds-8000-basico/1.png",
+                    "typeProduct": {
+                        "name": "Probador de disolución",
+                        "keyname": "probador-de-disolucion"
+                    },
+                    "categoryProduct": {
+                        "name": "Probador de disolución",
+                        "keyname": "probador-de-disolucion"
+                    },
+                    "name": "Disolutor Modelo DS 8000 (Basic)",
+                    "description": "El disolutor modelo DS 8000 (Básico) está diseñado para cumplir con los métodos  1,2,5 y 6  de USP y cumple con las especificaciones actuales de USP, BP, EP e IP.",
+                    "descriptionLong": "El disolutor modelo DS 8000 (Básico) está diseñado para cumplir con los métodos  1,2,5 y 6  de USP y cumple con las especificaciones actuales de USP, BP, EP e IP.<br><br>El disolutor se puede configurar para d 6, 7 u 8 vasos y el baño de agua de plástico moldeado cuenta con una  salida para una fácil limpieza.<br>El circulador de agua externo con calentador sin vibración, garantiza una temperatura constante durante toda la prueba de disolución.<br><br>Esto convierte al Disolutor modelo  DS 8000 en un modelo básico perfecto para pruebas de disolución.",
+                    "videoLink": "f6PqKMiJ-7o",
+                    "sendPriceText": "Ver más información"
+                },
+                {
+                    "alt": "alt-logo",
+                    "srcImage": "/public2/landings/labindia/productos/probador/kit-herramientras/1.avif",
+                    "typeProduct": {
+                        "name": "Probador de disolución",
+                        "keyname": "probador-de-disolucion"
+                    },
+                    "categoryProduct": {
+                        "name": "Probador de disolución",
+                        "keyname": "probador-de-disolucion"
+                    },
+                    "name": "Kit de herramientas de calibración mecánica del probador de disolución",
+                    "description": "Labindia proporciona calificaciones mecánicas que cumplen con los procedimientos USP y ASTM.",
+                    "descriptionLong": "Labindia proporciona calificaciones mecánicas que cumplen con los procedimientos USP y ASTM. El kit de herramientas de disolución proporciona una descripción de las mejores prácticas asociadas con la calibración mecánica y la prueba de verificación del rendimiento para los aparatos de disolución de paletas y cestas USP y los conjuntos de prueba. Las mejores prácticas se han desarrollado con base en la experiencia adquirida por el laboratorio de la USP y con sugerencias del Comité de Expertos en Biofarmacia de la USP. Si bien no es un estándar que requiere un cumplimiento estricto, el conjunto de herramientas de disolución tiene como objetivo proporcionar información que ayude al laboratorio de disolución en el esfuerzo por obtener resultados válidos de las pruebas de disolución.",
+                    "videoLink": "",
+                    "sendPriceText": "Ver más información"
+                },
+                {
+                    "alt": "alt-logo",
+                    "srcImage": "/public2/landings/labindia/productos/probador/ds8000peristaltica/1.png",
+                    "typeProduct": {
+                        "name": "Probador de disolución",
+                        "keyname": "probador-de-disolucion"
+                    },
+                    "categoryProduct": {
+                        "name": "Probador de disolución",
+                        "keyname": "probador-de-disolucion"
+                    },
+                    "name": "Disolutor Modelo  DS 8000  con  bomba peristáltica",
+                    "description": "El disolutor modelo DS 8000 con bomba peristáltica es un sistema de  disolución semiautomático con muestreador automático que recolecta la muestra para su posterior análisis.",
+                    "descriptionLong": "El disolutor modelo DS 8000 con bomba peristáltica es un sistema de  disolución semiautomático con muestreador automático que recolecta la muestra para su posterior análisis.La bomba peristáltica y el muestreador automático están controlados por el disolutor.<br><br>La bomba peristáltica de 12 canales es marca Ismatec, fabricada en Suiza para ofrecer alta precisión y larga durabilidad. Las muestras para de la prueba de disolución se pueden recolectar en tubos de ensayo, viales estándar o viales de HPLC.<br><br>El dispensador de tabletas con tapas de baja evaporación garantiza que no se pierda  medio de disolución durante análisis con varias horas de duración. Todos los informes y datos se pueden imprimir con una impresora utilizando un puerto paralelo o serie.",
+                    "videoLink": "f6PqKMiJ-7o",
+                    "sendPriceText": "Ver más información"
+                },
+                {
+                    "alt": "alt-logo",
+                    "srcImage": "/public2/landings/labindia/productos/accesorios/1.avif",
+                    "typeProduct": {
+                        "name": "Probador de disolución",
+                        "keyname": "probador-de-disolucion"
+                    },
+                    "categoryProduct": {
+                        "name": "Probador de disolución",
+                        "keyname": "probador-de-disolucion"
+                    },
+                    "name": "Accesorios de disolución",
+                    "description": "Labindia ofrece una amplia gama de accesorios para probadores de disolución, incluidos recipientes de disolución, cestas (aparato USP 1), paletas (aparato USP 2), sondas de temperatura y muestreo, filtros y más.",
+                    "descriptionLong": "Labindia ofrece una amplia gama de accesorios para probadores de disolución, incluidos recipientes de disolución, cestas (aparato USP 1), paletas (aparato USP 2), sondas de temperatura y muestreo, filtros y más.\n          <br><br>\n          Los accesorios bien diseñados amplían las capacidades de las máquinas Labindia y ayudan a los gerentes de control de calidad y analistas de disolución a obtener un mayor valor de sus inversiones y un mayor rendimiento de sus instalaciones de prueba.\n          ",
+                    "videoLink": "",
+                    "sendPriceText": "Ver más información"
+                },
+                {
+                    "alt": "alt-logo",
+                    "srcImage": "/public2/landings/labindia/productos/desintegracion/dt1000plus/1.webp",
+                    "typeProduct": {
+                        "name": "Probador de desintegración",
+                        "keyname": "probador-de-desintegracion"
+                    },
+                    "categoryProduct": {
+                        "name": "Probador de desintegración",
+                        "keyname": "probador-de-desintegracion"
+                    },
+                    "name": "Desintegrador de tabletas modelo DT 1000+",
+                    "description": "El desintegrador de tabletas modelo DT 1000+ es la versión avanzada, las canastillas se accionan individualmente y, por lo tanto, se pueden procesar dos conjuntos diferentes de muestras simultáneamente.",
+                    "descriptionLong": "El desintegrador de tabletas modelo DT 1000+ es la versión avanzada, las canastillas se accionan individualmente y, por lo tanto, se pueden procesar dos conjuntos diferentes de muestras simultáneamente.<br>Se puede registrar el tiempo de cada tableta. Los sensores de temperatura externos verifican y muestran la temperatura de cada recipiente. En el desintegrador de tabletas modelo DT 1000+ también existe una disposición para identificar la posición de las tabletas desintegradas con números marcados con láser en la canastilla.<br><br>Al finalizar la prueba, las canastillas se posicionan automáticamente fuera del medio. Tiene  capacidad para almacenar 20 métodos con dos niveles (Administrador y Usuario). Los datos se pueden descargar a una PC o imprimir a través del puerto serial o puerto paralelo.",
+                    "videoLink": "BNGx_8rq3cc",
+                    "sendPriceText": "Ver más información"
+                },
+                {
+                    "alt": "alt-logo",
+                    "srcImage": "/public2/landings/labindia/productos/desintegracion/dt1000/1.webp",
+                    "typeProduct": {
+                        "name": "Probador de desintegración",
+                        "keyname": "probador-de-desintegracion"
+                    },
+                    "categoryProduct": {
+                        "name": "Probador de desintegración",
+                        "keyname": "probador-de-desintegracion"
+                    },
+                    "name": "Desintegrador de tabletas modelo DT 1000",
+                    "description": "El desintegrador de  tabletas modelo DT 1000 de Labindia es un instrumento simple y fácil de usar. Cuenta con un temporizador para ambas canastillas y accionamiento, es el modelo básico perfecto para cualquier tipo de prueba de desintegración.",
+                    "descriptionLong": "El desintegrador de  tabletas modelo DT 1000 de Labindia es un instrumento simple y fácil de usar. Cuenta con un temporizador para ambas canastillas y accionamiento, es el modelo básico perfecto para cualquier tipo de prueba de desintegración. El baño de acrílico transparente moldeado tiene una iluminación para una mejor visibilidad. En el desintegrador modelo DT 1000, la temperatura y el tiempo se pueden programar de acuerdo al usuario.<br><br>Tiene un  teclado externo para bloquear el tiempo de desintegración de las tabletas. Todos los métodos y resultados se pueden imprimir a través de una impresora utilizando el puerto paralelo o el puerto serial del del equipo. El probador de desintegrador de tabletas modelo DT 1000 cumple con las siguientes farmacopeas USP, IP, BP y Ph. Eur.<br>Las Especificaciones y  Diseño cumplen  con USP <701>, USP <2040>, Ph. Eur. 2.9.1",
+                    "videoLink": "BNGx_8rq3cc",
+                    "sendPriceText": "Ver más información"
+                },
+                {
+                    "alt": "alt-logo",
+                    "srcImage": "/public2/landings/labindia/productos/probador/ft1020/1.webp",
+                    "typeProduct": {
+                        "name": "Probador de friabilidad",
+                        "keyname": "probador-de-friabilidad"
+                    },
+                    "categoryProduct": {
+                        "name": "Probador de friabilidad",
+                        "keyname": "probador-de-friabilidad"
+                    },
+                    "name": "Friabilizador para tabletas modelo FT 1020",
+                    "description": "El friabilizador para tabletas modelo FT1020 está diseñado según los estándares USP/EP/JP. La unidad está equipada con dos tambores de acrílico transparente que giran a una velocidad de 25 RPM de acuerdo a la farmacopea. El friabilizador para tabletas permite programar un intervalo de tiempo específico o establecer un número de conteos/rotaciones. La pantalla indica el tiempo transcurrido o el recuento de revoluciones según el método seleccionado. El programa también permite ingresar los pesos para cálculos adicionales.",
+                    "descriptionLong": "El friabilizador para tabletas modelo FT1020 está diseñado según los estándares USP/EP/JP. La unidad está equipada con dos tambores de acrílico transparente que giran a una velocidad de 25 RPM de acuerdo a la farmacopea. El friabilizador para tabletas permite programar un intervalo de tiempo específico o establecer un número de conteos/rotaciones. La pantalla indica el tiempo transcurrido o el recuento de revoluciones según el método seleccionado. El programa también permite ingresar los pesos para cálculos adicionales.<br><br>No es necesario retirar ni abrir los tambores del friabilizador para tabletas para cargarlos; después de completar una prueba, las muestras se descargan automáticamente en una bandeja de muestras ubicada debajo de los tambores.<br>Cuenta con una interfaz de balanza para la transferencia del peso de la muestra y se puede conectar cualquier balanza analítica estándar.",
+                    "videoLink": "IYFs05tI9yc",
+                    "sendPriceText": "Ver más información"
+                },
+                {
+                    "alt": "alt-logo",
+                    "srcImage": "/public2/landings/labindia/productos/probador/td1025/1.webp",
+                    "typeProduct": {
+                        "name": "Probador de densidad",
+                        "keyname": "probador-de-densidad"
+                    },
+                    "categoryProduct": {
+                        "name": "Probador de densidad",
+                        "keyname": "probador-de-densidad"
+                    },
+                    "name": "Analizador de densidad aparente modelo TD1025",
+                    "description": "El analizador de densidad aparente modelo TD 1025 está diseñado para medir el volumen y/o la densidad aparente de polvos, gránulos y otros productos similares. El analizador de densidad tiene con dos posiciones para 14 mm y 3 mm con soportes para buretas de vidrio de 100 ml y 250 ml.",
+                    "descriptionLong": "El analizador de densidad aparente modelo TD 1025 está diseñado para medir el volumen y/o la densidad aparente de polvos, gránulos y otros productos similares. El analizador de densidad tiene con dos posiciones para 14 mm y 3 mm con soportes para buretas de vidrio de 100 ml y 250 ml.<br><br>Este instrumento calcula la densidad, el índice de compresibilidad, el índice de Hausner y la densidad aparente. El diseño único del analizador de densidad aparente permite un movimiento de golpeteo y rotación simultáneos. El medidor de densidad aparente TD 1025 se puede conectar a una balanza para transferir el peso de la muestra o a un PC para descargar los métodos. También están disponibles otros accesorios como probetas  de 50 ml y 25 ml de volumen.",
+                    "videoLink": "aE9g--e9Zn0",
+                    "sendPriceText": "Ver más información"
+                },
+                {
+                    "alt": "alt-logo",
+                    "srcImage": "/public2/landings/labindia/productos/probador/th2050s/1.webp",
+                    "typeProduct": {
+                        "name": "Probador de dureza",
+                        "keyname": "probador-de-dureza"
+                    },
+                    "categoryProduct": {
+                        "name": "Probador de dureza",
+                        "keyname": "probador-de-dureza"
+                    },
+                    "name": "Durómetro para tabletas modelo TH 2050S",
+                    "description": "El durómetro para tabletas  modelo TH 2050S cuenta con un carrusel para 24 muestras, y mide automáticamente los parámetros básicos de las tabletas como el grosor, ancho, largo/diámetro y dureza. El durómetro para tabletas tabletas permite al usuario evaluar 20 tabletas en una sola corrida, lo cual es uno de los requisitos de la Farmacopea.",
+                    "descriptionLong": "El durómetro para tabletas  modelo TH 2050S cuenta con un carrusel para 24 muestras, y mide automáticamente los parámetros básicos de las tabletas como el grosor, ancho, largo/diámetro y dureza. El durómetro para tabletas tabletas permite al usuario evaluar 20 tabletas en una sola corrida, lo cual es uno de los requisitos de la Farmacopea. El durómetro para tabletas  tiene una memoria de almacenamiento de datos no volátil que almacena hasta 99 métodos junto con los resultados de las muestras  y los datos de validación.<br><br>Los informes impresos de los resultados, los métodos de los programas y los datos de validación o calibración cumplen con las especificaciones GLP. El usuario puede seleccionar la velocidad de desplazamiento lineal, lo que proporciona gran flexibilidad.",
+                    "videoLink": "",
+                    "sendPriceText": "Ver más información"
+                },
+                {
+                    "alt": "alt-logo",
+                    "srcImage": "/public2/landings/labindia/productos/probador/th1050s-plus/1.webp",
+                    "typeProduct": {
+                        "name": "Probador de dureza",
+                        "keyname": "probador-de-dureza"
+                    },
+                    "categoryProduct": {
+                        "name": "Probador de dureza",
+                        "keyname": "probador-de-dureza"
+                    },
+                    "name": "Durómetro para tabletas modelo TH 1050 S+",
+                    "description": "El durómetro pata tabletas modelo TH 1051+ está equipado con un software interactivo CON EL usuario en modo de diálogos que facilitan la operación y brinda protección contra entradas no válidas. El diseño del durómetro para tabletas modelo TH 1050 S+ permite realizar  análisis automáticos continuos de  1 a 100 tabletas y mide simultáneamente diferentes parámetros de las tabletas. Equipado con un método de desplazamiento lineal, el usuario puede seleccionar la velocidad de 0,4 a 3,2 mm/s en este equipo.",
+                    "descriptionLong": "El durómetro pata tabletas modelo TH 1051+ está equipado con un software interactivo CON EL usuario en modo de diálogos que facilitan la operación y brinda protección contra entradas no válidas. El diseño del durómetro para tabletas modelo TH 1050 S+ permite realizar  análisis automáticos continuos de  1 a 100 tabletas y mide simultáneamente diferentes parámetros de las tabletas. Equipado con un método de desplazamiento lineal, el usuario puede seleccionar la velocidad de 0,4 a 3,2 mm/s en este equipo.<br><br>El movimiento rápido de avance y retorno ahorra tiempo. Límite de tolerancia más/menos para criterios de aprobación/fallo, marca  un asterisco para valores fuera del límite.",
+                    "videoLink": "HsscG7Ov8BY",
+                    "sendPriceText": "Ver más información"
+                },
+                {
+                    "alt": "alt-logo",
+                    "srcImage": "/public2/landings/labindia/productos/probador/th12-smart/1.webp",
+                    "typeProduct": {
+                        "name": "Probador de dureza",
+                        "keyname": "probador-de-dureza"
+                    },
+                    "categoryProduct": {
+                        "name": "Probador de dureza",
+                        "keyname": "probador-de-dureza"
+                    },
+                    "name": "Durómetro para tabletas modeloTH 12 SMART",
+                    "description": "El durómetro para tabletas modelo TH12 Smart está equipado con una pantalla táctil de alta resolución de 7 pulgadas y un software interactivo con el usuario para facilitar la operación, cuenta con protección contra entradas no válidas. ",
+                    "descriptionLong": "El durómetro para tabletas modelo TH12 Smart está equipado con una pantalla táctil de alta resolución de 7 pulgadas y un software interactivo con el usuario para facilitar la operación, cuenta con protección contra entradas no válidas.<br>El durómetro para tabletas  puede realizar un análisis automático 1 a 100 tabletas; además, el análisis se puede reanudar incluso si se interrumpe la energía eléctrica. La función Pausa y Reanudar le da al usuario tiempo para ajustar las tabletas.<br><br>El durómetro para tabletas modelo TH 12  smart tiene un sensor multi niveles para detectar los valores de dureza, longitud/diámetro, espesor y ancho con marcas T1, T2, T3 para mostrar los valores fuera del límite. Cumple con los requerimientos de  21 CFR parte 11,  como registro de auditoría, firma electrónica, contraseña multinivel, etc.<br><br>Por seguridad, la autenticación del usuario se realiza para cada operación realizada con  este equipo.",
+                    "videoLink": "",
+                    "sendPriceText": "Ver más información"
+                },
+                {
+                    "alt": "alt-logo",
+                    "srcImage": "/public2/landings/labindia/productos/probador/th2050s/1.webp",
+                    "typeProduct": {
+                        "name": "Probador de dureza",
+                        "keyname": "probador-de-dureza"
+                    },
+                    "categoryProduct": {
+                        "name": "Probador de dureza",
+                        "keyname": "probador-de-dureza"
+                    },
+                    "name": "Durómetro para tabletas modelo TH 1050 S",
+                    "description": "El durómetro para tabletas modelo TH 1050S cuenta con un carrusel de 12 posiciones que mide automáticamente el espesor, la longitud/diámetro, la dureza y el ancho de las tabletas. Las cuchillas barredoras integradas en el carrusel eliminan las tabletas rotas, los residuos y el polvo de las tabletas que se acumulan durante la prueba.",
+                    "descriptionLong": "El durómetro para tabletas modelo TH 1050S cuenta con un carrusel de 12 posiciones que mide automáticamente el espesor, la longitud/diámetro, la dureza y el ancho de las tabletas. Las cuchillas barredoras integradas en el carrusel eliminan las tabletas rotas, los residuos y el polvo de las tabletas que se acumulan durante la prueba. Por  seguridad, el administrador y el usuario deben realizar  un  método de edición y validación de dos niveles. El durómetro  de tabletas modelo TH 1050S permite  analizar de forma automática continua de 1 a 99 tabletas, optimizando el tiempo de análisis.",
+                    "videoLink": "HsscG7Ov8BY",
+                    "sendPriceText": "Ver más información"
+                },
+                {
+                    "alt": "alt-logo",
+                    "srcImage": "/public2/landings/labindia/productos/probador/th1050m/1.webp",
+                    "typeProduct": {
+                        "name": "Probador de dureza",
+                        "keyname": "probador-de-dureza"
+                    },
+                    "categoryProduct": {
+                        "name": "Probador de dureza",
+                        "keyname": "probador-de-dureza"
+                    },
+                    "name": "Durómetro para tabletas estación individual modelo TH-1050M",
+                    "description": "El durómetro para tabletas modelo TH - 1050M), cuenta  con teclas programables de poliéster alfanuméricas a prueba de salpicaduras para teclado y está equipado con software interactivo para el usuario en modo de diálogo para facilitar las operaciones.",
+                    "descriptionLong": "El durómetro para tabletas modelo TH - 1050M), cuenta  con teclas programables de poliéster alfanuméricas a prueba de salpicaduras para teclado y está equipado con software interactivo para el usuario en modo de diálogo para facilitar las operaciones.<br>Este durómetro para tabletas es un modelo básico perfecto para pruebas manuales de las propiedades físicas de las tabletas. Los cinco parámetros, como espesor, longitud, diámetro, dureza y ancho, se pueden medir simultáneamente.<br><br>Cuenta con un reloj incorporado y una función para mostrar la fecha y la hora en el durómetro para tabletas modelo TH - 1050M. La prueba automática se puede realizar de forma continua para hasta 99 tabletas. Cumple con US/EP/BP/IP.",
+                    "videoLink": "HsscG7Ov8BY",
+                    "sendPriceText": "Ver más información"
+                },
+                {
+                    "alt": "alt-logo",
+                    "srcImage": "/public2/landings/labindia/productos/valorador/kafi-smart/1.webp",
+                    "typeProduct": {
+                        "name": "Valoradores automáticos",
+                        "keyname": "valoradores-automaticos"
+                    },
+                    "categoryProduct": {
+                        "name": "Valoradores automáticos",
+                        "keyname": "valoradores-automaticos"
+                    },
+                    "name": "Titulador Karl Fischer modelo KAFI+ SMART",
+                    "description": "El Titulador Karl Fischer modelo KAFI Smart es la versión avanzada del KAFI+. Cuenta con una pantalla táctil de 7” e íconos amigables para el  usuario, es un instrumento ideal para laboratorio. Las buretas son fáciles de intercambiar y ensambladas con reconocimiento inteligente de volumen brindando flexibilidad a los usuarios.",
+                    "descriptionLong": "El Titulador Karl Fischer modelo KAFI Smart es la versión avanzada del KAFI+. Cuenta con una pantalla táctil de 7” e íconos amigables para el  usuario, es un instrumento ideal para laboratorio. Las buretas son fáciles de intercambiar y ensambladas con reconocimiento inteligente de volumen brindando flexibilidad a los usuarios.<br><br>El software cumple con 21 CFR parte 11,  puede almacenar múltiples usuarios con protección por contraseña y opciones de privilegios. El Titulador Karl Fischer modelo KAFI Smart ejecuta la  autenticación de usuario  para todas  las operaciones realizadas. Los reportes de los análisis don generados  en PDF.",
+                    "videoLink": "",
+                    "sendPriceText": "Ver más información"
+                },
+                {
+                    "alt": "alt-logo",
+                    "srcImage": "/public2/landings/labindia/productos/valorador/titra-smart/1.webp",
+                    "typeProduct": {
+                        "name": "Valoradores automáticos",
+                        "keyname": "valoradores-automaticos"
+                    },
+                    "categoryProduct": {
+                        "name": "Valoradores automáticos",
+                        "keyname": "valoradores-automaticos"
+                    },
+                    "name": "Titulador automático /Karl Fischer modelo Titra Smart",
+                    "description": "El titulador o potenciómetro es un instrumento utilizado para el análisis químico cuantitativo. El Titulador automático/Karl Fischer modelo Titra Smart, cuenta con una calibración y estandarización automática de dos puntos (compensación de cero). ",
+                    "descriptionLong": "El titulador o potenciómetro es un instrumento utilizado para el análisis químico cuantitativo. El Titulador automático/Karl Fischer modelo Titra Smart, cuenta con una calibración y estandarización automática de dos puntos (compensación de cero).<br>El Titulador automático/Karl Fischer  permite ver  el pH y mV de la muestra con compensación de temperatura.<br>La tubería por donde fluye el reactivo titulante es de teflón y la  bureta es hermética de vidrio que crea un sistema químicamente inerte para cualquier análisis sensible a las condiciones ambientales.<br><br>Cumple 21 CFR parte 11 tiene un registro de auditoría que registra todas las actividades con función de búsqueda, generación de informes e impresión. También cuenta con la función de firma electrónica. Tiene la opción de archivo manual y  copia de seguridad de los datos.",
+                    "videoLink": "",
+                    "sendPriceText": "Ver más información"
+                },
+                {
+                    "alt": "alt-logo",
+                    "srcImage": "/public2/landings/labindia/productos/valorador/titra-plus/1.avif",
+                    "typeProduct": {
+                        "name": "Valoradores automáticos",
+                        "keyname": "valoradores-automaticos"
+                    },
+                    "categoryProduct": {
+                        "name": "Valoradores automáticos",
+                        "keyname": "valoradores-automaticos"
+                    },
+                    "name": "Titulador automático/Karl Fischer modelo Titra+",
+                    "description": "El Titulador automático/Karl Fischer modelo Titra+ de Labindia viene con un juego de  buretas de varios volúmenes intercambiables  de forma fácil y rápida con reconocimiento inteligente de acuerdo al volumen. Este titulador automático/Karl Fischer es perfecto para todo tipo de valoraciones (medio acuoso, no acuoso, Redox, etc). El Titra+ tiene una unidad amplificadora de electrodo diferencial compuesto para valoración potenciométrica y voltamétrica/Karl Fisher que tiene conectividad a varios tipos de electrodos.",
+                    "descriptionLong": "El Titulador automático/Karl Fischer modelo Titra+ de Labindia viene con un juego de  buretas de varios volúmenes intercambiables  de forma fácil y rápida con reconocimiento inteligente de acuerdo al volumen. Este titulador automático/Karl Fischer es perfecto para todo tipo de valoraciones (medio acuoso, no acuoso, Redox, etc). El Titra+ tiene una unidad amplificadora de electrodo diferencial compuesto para valoración potenciométrica y voltamétrica/Karl Fisher que tiene conectividad a varios tipos de electrodos.<br><br>Cuenta con tres modos estándar de titulación, modo incremental, de equilibrio y de corte, para realizar todo tipo de titulaciones. Tiene un reloj en tiempo real para visualizar la hora en los informes impresos con indicación del tiempo de ejecución de los análisis. Cuenta con una interfaz para balanza para transferir directamente el peso de la muestra. Tiene la capacidad de almacenar 50 métodos e imprimir el informe de los parámetros del método utilizado en titulador automático/Karl Fischer modeloTitra+.",
+                    "videoLink": "MzAbQE1Rtqg",
+                    "sendPriceText": "Ver más información"
+                },
+                {
+                    "alt": "alt-logo",
+                    "srcImage": "/public2/landings/labindia/productos/valorador/kafi-plus/1.webp",
+                    "typeProduct": {
+                        "name": "Valoradores automáticos",
+                        "keyname": "valoradores-automaticos"
+                    },
+                    "categoryProduct": {
+                        "name": "Valoradores automáticos",
+                        "keyname": "valoradores-automaticos"
+                    },
+                    "name": "Titulador Karl Fischer modelo KAFI+",
+                    "description": "El Titulador  Karl Fisher modelo KAFI + cumple con los estándares USP/BP/ASTM. Cuenta con un corrector de fugas en línea disponible para su verificación antes de la ejecución de los análisis. Tiene capacidad para  almacenar 50 métodos y los resultados de los últimos 10  análisis e impresión con  los parámetros requeridos.",
+                    "descriptionLong": "El Titulador  Karl Fisher modelo KAFI + cumple con los estándares USP/BP/ASTM. Cuenta con un corrector de fugas en línea disponible para su verificación antes de la ejecución de los análisis. Tiene capacidad para  almacenar 50 métodos y los resultados de los últimos 10  análisis e impresión con  los parámetros requeridos.<br><br>El Titulador Karl Fischer cuenta con un agitador magnético de velocidad variable con indicación digital en una pantalla LCD de cristal líquido retroiluminada. Tiene la función de contraseña de dos niveles  para proteger los métodos almacenados contra cualquier uso indebido o cambio no deseado. Esta disponible un software compatible con PC e interfaz para conexión a una  balanza integrada para registro de peso de muestras.",
+                    "videoLink": "",
+                    "sendPriceText": "Ver más información"
+                },
+                {
+                    "alt": "alt-logo",
+                    "srcImage": "/public2/landings/labindia/productos/medidor-ph/pico/1.webp",
+                    "typeProduct": {
+                        "name": "Medidor de PH",
+                        "keyname": "medidot-de-ph"
+                    },
+                    "categoryProduct": {
+                        "name": "Medidor de PH",
+                        "keyname": "medidot-de-ph"
+                    },
+                    "name": "Medidor de conductividad Pico",
+                    "description": "LABINDIA ofrece la elección perfecta de un medidor de conductividad de mesa para mediciones en los laboratorios, ya sea de rutina o a nivel de I+D. Debido a la función de temperatura selectiva del usuario, el instrumento calcula la conductividad a la temperatura de referencia 25 +/- 0,1°C con función lineal.",
+                    "descriptionLong": "LABINDIA ofrece la elección perfecta de un medidor de conductividad de mesa para mediciones en los laboratorios, ya sea de rutina o a nivel de I+D. Debido a la función de temperatura selectiva del usuario, el instrumento calcula la conductividad a la temperatura de referencia 25 +/- 0,1°C con función lineal.\n          <br><br>\n          Hay una pantalla LCD retroiluminada de 20 x 2 líneas que muestra los parámetros básicos. La selección automática de rango para una medición más rápida y una evaluación automática de la constante celular con solución estándar está disponible en el medidor de conductividad Pico. El medidor de conductividad Labindia tiene un coeficiente de temperatura seleccionable por el usuario para compensación automática de temperatura a través de una tecla TEMPCO especial.\n          <h5>Características estándar del medidor de conductividad Pico</h5>\n          <ul>\n          <li>Diseño de última generación fácil de usar basado en microcontrolador avanzado.</li>\n          <li>Cumple con las normas USP y DIN.</li>\n          <li>Elegante gabinete moldeado con teclado alfanumérico de poliéster resistente al agua con teclas programables.</li>\n          <li>Software interactivo de usuario en modo de diálogo para facilitar la operación con protección contra entradas no válidas.</li>\n          <li>Pantalla LCD retroiluminada de 20 x 2 líneas.</li>\n          <li>Modos de medición: Conductividad, TDS, Salinidad (opcional) y temperatura.</li>\n          <li>Medición simultánea de conductividad y temperatura.</li>\n          <li>Almacenamiento de memoria no volátil de conductividad, TDS y salinidad: 40 lecturas cada una con temperatura en formato GLP o no GLP preseleccionado.</li>\n          <li>Protección con contraseña para datos de calibración y lecturas almacenadas.</li>\n          <li>Datos de calibración con sello de fecha para autenticación.</li>\n          <li>Alarma de recordatorio de calibración.</li>\n          <li>Entradas alfanuméricas de nombre de muestra, número de identificación para autenticación.</li>\n          <li>Selección automática de rango para mediciones más rápidas de 0,01 µS a 199,9 mS con celdas de conductividad con constantes de 0,1, 1,0 y 10 K.</li>\n          <li>Evaluación automática de la constante CELL con solución estándar.</li>\n          <li>Coeficiente de temperatura seleccionable por el usuario para compensación automática de temperatura, mediante tecla especial TEMPCO.</li>\n          <li>Indicador de estabilidad de entrada para resultados reproducibles.</li>\n          <li>Reloj de tiempo real (RTC) incorporado para visualización de la hora e impresión de informes.</li>\n          <li>NOMBRE DEL CLIENTE ingresado en fábrica en las impresiones de informes para autenticación.</li>\n          <li>La indicación de error ayuda al usuario a rastrear el problema.</li>\n          <li>Indicación de pitido audible durante la operación válida de la tecla.</li>\n          <li>Compatibilidad con PC para descarga de datos (Opcional).</li>\n          <li>Hay disponible un instrumento combinado de pH y conductividad.</li>\n          </ul>\n          ",
+                    "videoLink": "",
+                    "sendPriceText": "Ver más información"
+                },
+                {
+                    "alt": "alt-logo",
+                    "srcImage": "/public2/landings/labindia/productos/medidor-ph/ph-fan/1.webp",
+                    "typeProduct": {
+                        "name": "Medidor de PH",
+                        "keyname": "medidot-de-ph"
+                    },
+                    "categoryProduct": {
+                        "name": "Medidor de PH",
+                        "keyname": "medidot-de-ph"
+                    },
+                    "name": "Potenciómetro modelo Phan",
+                    "description": "El Potenciómetro modelo Phan es el modelo más básico de Labindia. Cuenta con un microcontrolador y un elegante gabinete modular con teclado multifunción resistente al agua , fácil de usar. Medición simultánea de pH, mV y temperatura y una tecla SCAN que permite revisar  los valores de pH almacenados.",
+                    "descriptionLong": "El Potenciómetro modelo Phan es el modelo más básico de Labindia. Cuenta con un microcontrolador y un elegante gabinete modular con teclado multifunción resistente al agua , fácil de usar. Medición simultánea de pH, mV y temperatura y una tecla SCAN que permite revisar  los valores de pH almacenados.<br><br>Software interactivo para el usuario con teclas  directas para facilitar la operación con protección para entradas no válidas. El potenciómetro cuenta con una memoria de almacenamiento no volátil de 40 lecturas de pH en cuatro sets de 10 lecturas cada uno. La calibración del instrumento se puede realizar utilizando buffers de pH 4,7 y 9,2 y uno asignado por el usuario.",
+                    "videoLink": "dDJzpe_9tH4",
+                    "sendPriceText": "Ver más información"
+                },
+                {
+                    "alt": "alt-logo",
+                    "srcImage": "/public2/landings/labindia/productos/medidor-ph/ph-pico/1.webp",
+                    "typeProduct": {
+                        "name": "Medidor de PH",
+                        "keyname": "medidot-de-ph"
+                    },
+                    "categoryProduct": {
+                        "name": "Medidor de PH",
+                        "keyname": "medidot-de-ph"
+                    },
+                    "name": "Potenciómetro modelo PICO",
+                    "description": "Este potenciómetro de mesa es  ideal para laboratorio para rutina o investigación y desarrollo. Este instrumento es  práctico, mide pH, mV y tiene una memoria de almacenamiento de datos de 40 puntos. El potenciómetro  cumple con  USP y  DIN.",
+                    "descriptionLong": "Este potenciómetro de mesa es  ideal para laboratorio para rutina o investigación y desarrollo. Este instrumento es  práctico, mide pH, mV y tiene una memoria de almacenamiento de datos de 40 puntos. El potenciómetro  cumple con  USP y  DIN.<br><br>El potenciómetro modelo Pico pH cuenta con reporte en formato estándar y GLP; puede almacenar, imprimir y escanear  datos de 40 lecturas  en la pantalla. Para el formato GLP, se pueden almacenar entradas adicionales de nombre de muestra y número de identificación. La función de registro de datos opcional permite al usuario almacenar; 24 puntos de datos que constan de lecturas de pH, temperatura y tiempo. El usuario puede tener un protocolo de calibración de 3 o 5 puntos. La protección con contraseña para los datos de calibración y las lecturas almacenadas brinda un beneficio adicional.",
+                    "videoLink": "dDJzpe_9tH4",
+                    "sendPriceText": "Ver más información"
+                },
+                {
+                    "alt": "alt-logo",
+                    "srcImage": "/public2/landings/labindia/productos/medidor-ph/pico-ph/1.webp",
+                    "typeProduct": {
+                        "name": "Medidor de PH",
+                        "keyname": "medidot-de-ph"
+                    },
+                    "categoryProduct": {
+                        "name": "Medidor de PH",
+                        "keyname": "medidot-de-ph"
+                    },
+                    "name": "Conductimetro modelo PICO",
+                    "description": "LABINDIA ofrece la elección perfecta de un conductimetro de mesa para mediciones en los laboratorios, ya sea de rutina o investigación y desarrollo. Debido a la función de temperatura selectiva del usuario, el instrumento calcula la conductividad a la temperatura de referencia 25 +/- 0,1°C con función lineal.",
+                    "descriptionLong": "LABINDIA ofrece la elección perfecta de un conductimetro de mesa para mediciones en los laboratorios, ya sea de rutina o investigación y desarrollo. Debido a la función de temperatura selectiva del usuario, el instrumento calcula la conductividad a la temperatura de referencia 25 +/- 0,1°C con función lineal.<br><br>Tiene una pantalla LCD retroiluminada de 20 x 2 líneas que muestra los parámetros básicos. La selección automática de rango para una medición más rápida y una evaluación automática de la constante celular con una solución estándar es  disponible en el Conductimetro modelo Pico. El conductimetro Labindia tiene un coeficiente de temperatura seleccionable por el usuario para compensación automática de temperatura a través de una tecla TEMPCO especial.",
+                    "videoLink": "dDJzpe_9tH4",
+                    "sendPriceText": "Ver más información"
+                },
+                {
+                    "alt": "alt-logo",
+                    "srcImage": "/public2/landings/labindia/productos/aparato-punto-de-fusion/1.avif",
+                    "typeProduct": {
+                        "name": "Aparatos de punto de fusion",
+                        "keyname": "aparatos-de-punto-de-fusion"
+                    },
+                    "categoryProduct": {
+                        "name": "Aparatos de punto de fusion",
+                        "keyname": "aparatos-de-punto-de-fusion"
+                    },
+                    "name": "Equipo visual para determinar punto de fusión  modelo MRVIS+",
+                    "description": "El equipo visual para determinar punto de fusión permite al investigador obtener una indicación de la pureza del compuesto o elemento. Todas las operaciones del equipo están controladas por la unidad central de procesamiento y la impresión de la calibración y resultados exactos, precisos y repetibles a través de la impresora.",
+                    "descriptionLong": "El equipo visual para determinar punto de fusión permite al investigador obtener una indicación de la pureza del compuesto o elemento. Todas las operaciones del equipo están controladas por la unidad central de procesamiento y la impresión de la calibración y resultados exactos, precisos y repetibles a través de la impresora.<br><br>Equipo visual para determinar punto de fusión  cuenta con  un microcontrolador para el control de temperatura, rango de temperatura, velocidades de calentamiento, tiempo de enfriamiento, etc. Tiene un diseño de última generación y características destacadas.<br>Garantiza  resultados precisos  y un desempeño de calidad superior, el Equipo visual para determinar punto de fusión  modelo MRVIS+ de  Labindia supera  a los equipos del mercado.<br><br>Una de las técnicas analíticas aplicadas a la caracterización de productos químicos puros y fármacos (desde la materia prima, producción  y producto final) es la determinación del punto de fusión (MP). La elección cuidadosa del equipo para determinar el punto de fusión  es importante para generar resultados confiables en el control de calidad  (QC) y el aseguramiento de la calidad (QA). Se utiliza en laboratorios  de control de calidad/Aseguramiento de calidad, farmacéuticos y  químicos.",
+                    "videoLink": "",
+                    "sendPriceText": "Ver más información"
+                },
+                {
+                    "alt": "alt-logo",
+                    "srcImage": "/public2/landings/labindia/productos/prueba-de-fugas/lt1001/1.avif",
+                    "typeProduct": {
+                        "name": "Aparato de prueba de fugas",
+                        "keyname": "prueba-de-fugas"
+                    },
+                    "categoryProduct": {
+                        "name": "Aparato de prueba de fugas",
+                        "keyname": "prueba-de-fugas"
+                    },
+                    "name": "Equipo para pruebas de hermeticidad modelo LT1001",
+                    "description": "El Equipo para pruebas de hermeticidad LABINDIA modelo LT1001 está diseñado con la máxima precisión utilizando materiales de primera calidad y equipos avanzados. Nuestro Equipo para pruebas de hermeticidad consta de un desecador de policarbonato para mantener el vacío durante un tiempo prolongado.",
+                    "descriptionLong": "El Equipo para pruebas de hermeticidad LABINDIA modelo LT1001 está diseñado con la máxima precisión utilizando materiales de primera calidad y equipos avanzados. Nuestro Equipo para pruebas de hermeticidad consta de un desecador de policarbonato para mantener el vacío durante un tiempo prolongado.<br>El Equipo para pruebas de hermeticidad tiene aplicación en varias industrias, como la alimentaria, farmacéutica, química, etc.<br><br>Se pueden almacenar 20 análisis  y 10 métodos con fecha y hora se almacenan en el Equipo para pruebas de hermeticidad LABINDIA modelo LT1001. Cuenta con  un rango de vacío de más de  600 mm Hg. Se puede elegir entre una balanza incorporada o conexión a una balanza externa. Cuenta con protección con contraseña de 3 niveles de fácil calibración y validación.",
+                    "videoLink": "",
+                    "sendPriceText": "Ver más información"
+                },
+                {
+                    "alt": "alt-logo",
+                    "srcImage": "/public2/landings/labindia/productos/prueba-de-fugas/usp-4/1.png",
+                    "typeProduct": {
+                        "name": "USP",
+                        "keyname": "usp"
+                    },
+                    "categoryProduct": {
+                        "name": "USP",
+                        "keyname": "usp"
+                    },
+                    "name": "F7 INTELIGENTE",
+                    "description": "Pantalla táctil con interfaz de usuario (UI) fácil de usar",
+                    "descriptionLong": "\n          <ul>\n          <li>Pantalla táctil con interfaz de usuario (UI) fácil de usar</li>\n          <li>6+1 unidades de prueba (una en blanco)</li>\n          <li>Intervalos de muestra prácticamente ilimitados</li>\n          <li>Monitoreo de temperatura de celda individual, sensor para detección de celda individual</li>\n          <li>Rango de temperatura de 20 a 55 °C, precisión de temperatura de ±0,1°C a 37°C (flujo 16 ml/min)</li>\n          <li>Programa de validación incorporado para temperatura y flujo</li>\n          <li>Indicación de bloqueo de celda durante el análisis</li>\n          <li>Sin vibraciones - Controlador de temperatura externo</li>\n          <li>Almacenamiento ilimitado de datos de análisis y métodos</li>\n          <li>Usuarios ilimitados con credenciales de inicio de sesión individuales</li>\n          <li>Software de cumplimiento 21 CFR Parte 11</li>\n          <li>USB, Wi-Fi, conectividad LAN para copia de seguridad y restauración, así como para impresoras</li>\n          </ul>\n          ",
+                    "videoLink": "OZ8kbIe9CgY",
+                    "sendPriceText": "Ver más información"
+                }
+            ]
+        }
+    ]
+}

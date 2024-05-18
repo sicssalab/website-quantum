@@ -1,0 +1,125 @@
+{
+    "shortName": "BWB Technologies",
+    "slug": "bwb-technologies",
+    "locale": "es",
+    "metadata": {
+        "metaTitle": "Quantum Analytical: BWB Technologies",
+        "metaDescription": "---",
+        "keywords": "",
+        "url": "bwb-technologies",
+        "sitename": "Quantumdo",
+        "type": "website"
+    },
+    "localizations": [],
+    "items": [
+        {
+            "type": "header-component",
+            "title": "BWB Technologies",
+            "isLanding": true,
+            "socialNetwork": [
+                {
+                    "alt": "red network",
+                    "link": "https://www.facebook.com/BWBTech",
+                    "type": "facebook"
+                },
+                {
+                    "alt": "red network",
+                    "link": "https://www.youtube.com/channel/UCqIhNjvAvrpZw5ePqYEm0lQ",
+                    "type": "youtube"
+                },
+                {
+                    "alt": "red network",
+                    "link": "https://twitter.com/BWBtech",
+                    "type": "twitter"
+                },
+                {
+                    "alt": "red network",
+                    "link": "https://www.linkedin.com/company/bwb-technologies-ltd/",
+                    "type": "linkedin"
+                }
+            ],
+            "items": [
+                {
+                    "name": "test1",
+                    "url": "/public2/landings/mains/BWB_1.png"
+                },
+                {
+                    "name": "test2",
+                    "url": "/public2/landings/mains/BWB_2.png"
+                }
+            ]
+        },
+        {
+            "type": "information-residential-component",
+            "logo": "/public2/landings/bwb-technologies/logo.png",
+            "title": "BWB Technologies",
+            "logoUrl": "https://www.bwbtech.com",
+            "description": "BWB Technologies se enorgullece de fabricar fotómetros de llama líderes en el mercado y galardonados. ¡Y nuestro servicio de atención al cliente continúa mucho después de realizar la venta!Ofrecemos nuestro único programa IQ OQ PQ en línea para la validación y certificación del sistema, así como opciones de garantía extendida. BWB Technologies USA brinda soporte a nuestros clientes y distribuidores que es insuperable.",
+            "videoLink": "D-5_TLCj-UQ",
+            "gallery": [
+                {
+                    "name": "test1",
+                    "image": "/public2/landings/bwb-technologies/productos/xp-plus/imagen.png"
+                }
+            ]
+        },
+        {
+            "type": "product-list",
+            "title": "Productos",
+            "linkWebsite": "https://www.bwbtech.com",
+            "items": [
+                {
+                    "alt": "alt-logo",
+                    "srcImage": "/public2/landings/bwb-technologies/productos/xp-plus/a_2.jpg",
+                    "typeProduct": {
+                        "name": "BWB",
+                        "keyname": "bwb"
+                    },
+                    "categoryProduct": {
+                        "name": "BWB",
+                        "keyname": "bwb"
+                    },
+                    "name": "Fotómetro de llama modelo XP PLUS",
+                    "description": "El fotómetro de llama modelo BWB XP PLUS es el primer y único fotómetro de llama de 4 canales con detección y visualización simultánea de sodio, potasio, litio y calcio con la opción de utilizar cesio o litio ",
+                    "descriptionLong": "El fotómetro de llama modelo BWB XP PLUS es el primer y único fotómetro de llama de 4 canales con detección y visualización simultánea de sodio, potasio, litio y calcio con la opción de utilizar cesio o litio como sistema de referencia interno (IRS) que actúa como estándar interno para ajustar pequeños cambios durante la calibración y medición.<br>Con líneas limpias y esquemas de colores brillantes y contemporáneos, el XP PLUS tiene un aspecto excepcionalmente moderno y encajará en cualquier laboratorio.<br>El instrumento cuenta con  una  pantalla LCD grande  que permite visualizar fácilmente desde cualquier ángulo.<br><br><h5>Características:</h5><ul><li>Detección y visualización simultánea de los 4 átomos de interés</li><li>“IRS” (estándar de referencia interna) Cesio o Litio</li><li>Interfaz de usuario intuitiva</li><li>Indicaciones en la pantalla operación paso a paso</li><li>Compresor de aire integrado</li><li>Soluciones y material de laboratorio incluidos</li><li>Capacidad de compartir datos a través de PC link a USB</li><li>5 unidades de medida seleccionables por el usuario</li><li>Posiciones decimales seleccionables por el usuario</li><li>La  impresora integrada utiliza papel de uso común</li></ul>",
+                    "videoLink": "",
+                    "sendPriceText": "Ver más información"
+                },
+                {
+                    "alt": "alt-logo",
+                    "srcImage": "/public2/landings/bwb-technologies/productos/xp/a.jpg",
+                    "typeProduct": {
+                        "name": "BWB",
+                        "keyname": "bwb"
+                    },
+                    "categoryProduct": {
+                        "name": "BWB",
+                        "keyname": "bwb"
+                    },
+                    "name": "Fotómetro de llama modelo XP",
+                    "description": "El fotómetro de llama modelo BWB XP es el primer y único fotómetro de llama de 5 canales con detección y visualización simultánea de  5 elementos.",
+                    "descriptionLong": "El fotómetro de llama modelo BWB XP es el primer y único fotómetro de llama de 5 canales con detección y visualización simultánea de  5 elementos.<br>El BWB XP fue diseñado, utilizando tecnología nueva, innovadora y moderna para brindar niveles insuperables de precisión, fácil de usar y confiabilidad reduciendo significativamente el tiempo de análisis.<br>No requiere el uso de filtros o recalibrar cuando se realiza una medición diferente como es normal es los fotómetros de llama actualmente.<br>Con líneas limpias y esquemas de colores brillantes y contemporáneos, el XP  tiene un aspecto excepcionalmente moderno y encajará en cualquier laboratorio.<br>El instrumento cuenta con  una  pantalla LCD grande  que permite visualizar fácilmente desde cualquier ángulo.<br><br><h5>Características:</h5><ul><li>Detección y visualización simultánea de los 5 átomos de interés</li><li>Interfaz de usuario intuitiva</li><li>Indicaciones en la pantalla operación paso a paso</li><li>Compresor de aire integrado</li><li>Soluciones y material de laboratorio incluidos</li><li>Capacidad de compartir datos a través de PC link a USB</li><li>5 unidades de medida seleccionables por el usuario</li><li>Posiciones decimales seleccionables por el usuario</li><li>La  impresora integrada utiliza papel de uso común</li></ul>",
+                    "videoLink": "",
+                    "sendPriceText": "Ver más información"
+                },
+                {
+                    "alt": "alt-logo",
+                    "srcImage": "/public2/landings/bwb-technologies/productos/bio/a.jpg",
+                    "typeProduct": {
+                        "name": "BWB",
+                        "keyname": "bwb"
+                    },
+                    "categoryProduct": {
+                        "name": "BWB",
+                        "keyname": "bwb"
+                    },
+                    "name": "Fotómetro de llama especializado para uso con muestras biológicas y funciones especiales integradas para el análisis de sangre y orina.",
+                    "description": "Fotómetro BWB BIO 943 de llama especialmente diseñado con software especializado, firmware y hardware",
+                    "descriptionLong": "Un fotómetro de llama especializado para uso con muestras biológicas y funciones especiales integradas para el análisis de sangre y orina.<br><br>El fotómetro de llama modelo BWB BIO ha sido creado para medir soluciones biológicas y es un equipo moderno para los trabajos de investigación actuales; lo que requiere mediciones rutinarias, rápidas y con altos niveles de precisión para los elementos litio, calcio, sodio y potasio.<br><br><h5>Características:</h5><ul><li>Especialmente configurado para los rangos de interés del usuario</li><li>“IRS” (estándar de referencia interna) Cesio o Litio</li><li>Corrección de Calibración de punto único</li><li>Normas internas de referencia</li><li>Estándares de calibración multiiónica de 5 y 6 puntos para orina y suero incluidos</li><li>Analiza Li y Ca junto con Na y K</li><li>Determinación automatizada avanzada de resultados</li><li>Impresora integrada con tinta ecológica</li></ul>",
+                    "videoLink": "",
+                    "sendPriceText": "Ver más información"
+                }
+            ]
+        }
+    ]
+}

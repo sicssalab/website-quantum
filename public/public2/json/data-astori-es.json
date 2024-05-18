@@ -1,0 +1,182 @@
+{
+    "shortName": "astori",
+    "slug": "astori",
+    "locale": "es",
+    "metadata": {
+        "metaTitle": "Quantum Analytical: astori",
+        "metaDescription": "---",
+        "keywords": "",
+        "url": "astori",
+        "sitename": "Quantumdo",
+        "type": "website"
+    },
+    "localizations": [],
+    "items": [
+        {
+            "type": "header-component",
+            "title": "astori",
+            "isLanding": true,
+            "socialNetwork": [
+                {
+                    "alt": "red network",
+                    "link": "https://www.facebook.com/AstoriTecnica",
+                    "type": "facebook"
+                },
+                {
+                    "alt": "red network",
+                    "link": "https://youtube.com/channel/UCifpqvMP4w_U0qcL4x8mruA",
+                    "type": "youtube"
+                },
+                {
+                    "alt": "red network",
+                    "link": "http://www.linkedin.com/company/astori-tecnica",
+                    "type": "linkedin"
+                }
+            ],
+            "items": [
+                {
+                    "name": "test1",
+                    "url": "/public2/landings/mains/ASTORI_1.png"
+                },
+                {
+                    "name": "test2",
+                    "url": "/public2/landings/mains/ASTORI_2.png"
+                }
+            ]
+        },
+        {
+            "type": "information-residential-component",
+            "logo": "/public2/LOGO-MARCAS-PROVEEDORES/astory-tecnica.png",
+            "title": "astori",
+            "logoUrl": "https://www.astorilab.com/index.php/es",
+            "description": "ASTORI TECNICA fue fundada por el Sr. Oscar Astori el 1 de marzo de 1959 en Brescia.\n      <br><br>\n      Durante los años, nuestra empresa se ha hecho cada vez mejor, abriendo nuevas secciones de producción y asistencia técnica, nombrando más colaboradores expertos y invertiendo en tecnologías innovadoras y competitivas, además del conseguimiento de estándares de calidad más elevados, para obtener la satisfacción de nuestros Clientes y Distribuidores. Recientemente, nos hemos especializado en el desarrollo y la venta de productos y equipos de calidad para los laboratorios de análisis agroalimentarios; ahora somos una empresa líder en este sector y proponemos soluciones 100% únicas y originales a nuestros Clientes.",
+            "videoLink": ""
+        },
+        {
+            "type": "product-list",
+            "title": "Productos",
+            "linkWebsite": "https://www.astorilab.com/index.php/es",
+            "items": [
+                {
+                    "alt": "alt-logo",
+                    "srcImage": "/public2/landings/astori/productos/cryospecial/1.jpg",
+                    "typeProduct": {
+                        "name": "Crióscopo",
+                        "keyname": "crioscopo"
+                    },
+                    "categoryProduct": {
+                        "name": "Crióscopo CryoSpecial",
+                        "keyname": "crioscopo-cryospecial"
+                    },
+                    "name": "CryoSpecial 1",
+                    "description": "CryoSpecial 1 es un crióscopo muy accesible para la rápida y exacta determinación de la variación del punto de congelación de leche/nata y del porcentaje de agua añadida, con prestaciones analíticas según las normas de referencia IDF-ISO 5764:2009 y AFNOR.",
+                    "descriptionLong": "CryoSpecial 1 es un crióscopo muy accesible para la rápida y exacta determinación de la variación del punto de congelación de leche/nata y del porcentaje de agua añadida, con prestaciones analíticas según las normas de referencia IDF-ISO 5764:2009 y AFNOR.\n          <br><br>\n          <h5>CARACTERÍSTICAS TÉCNICAS</h5>\n          <ul>\n          <li>Capacidad: muestra individual</li>\n          <li>El punto crioscópico y el porcentaje de agua adicionada aparecen en la pantalla</li>\n          <li>Enfriamiento del baño con celdas Peltier controladas por microprocesador</li>\n          <li>Cabezal de lectura con movimiento manual y inicio/término automático del análisis</li>\n          <li>Temperatura de operación: de +5°C a +36°C</li>\n          <li>Calibración automática</li>\n          <li>No requiere el líquido refrigerante</li>\n          <li>Agitación y golpe controlados por el software</li>\n          <li>Resultados en grados °C o °Hortvet y agua%</li>\n          <li>Volumen de muestra: 2 o 2,5 ml</li>\n          <li>Tiempo de análisis: unos 3 minutos</li>\n          <li>Tiempo de pre-calentamiento: unos 5 minutos</li>\n          <li>Resolución: ±0,0005 °C</li>\n          <li>Reproducibilidad (leche bovina): ±0,0025 °C</li>\n          <li>Alimentación: 110/220 V, 50/60 Hz, 90 W</li>\n          <li>Dimensiones: 285 x 380 x 450 cm (A x L x H – con cabezal levantado)</li>\n          <li>Peso: unos 10 kg.</li>\n          <li></li>\n          </ul>\n          ",
+                    "videoLink": "rMI4bOki2U8",
+                    "sendPriceText": "Ver más información"
+                },
+                {
+                    "alt": "alt-logo",
+                    "srcImage": "/public2/landings/astori/productos/cryotouch-1/1.jpeg",
+                    "typeProduct": {
+                        "name": "Crióscopo",
+                        "keyname": "crioscopo"
+                    },
+                    "categoryProduct": {
+                        "name": "Crióscopo CryoTouch",
+                        "keyname": "crioscopo-cryotouch"
+                    },
+                    "name": "Crióscopo CryoTouch 1, con función (leche sin lactosa)",
+                    "description": "CryoTouch 1 es un equipo automático para la rápida y exacta determinación de la variación del punto de congelación de leche y nata, y del porcentaje de agua añanida en el pleno respeto de la norma internacional IDF-ISO 5764:2009.",
+                    "descriptionLong": "<h5>Análisis profesionales de agua añadida en muestras de leche/nata</h5>\n          <br><br>\n          CryoTouch 1 es un equipo automático para la rápida y exacta determinación de la variación del punto de congelación de leche y nata, y del porcentaje de agua añanida en el pleno respeto de la norma internacional IDF-ISO 5764:2009.\n          <br><br>\n          Este crióscopo de nueva generación incluye muchas novedades gracias al empleo de la tecnología más reciente: pantalla táctil a color de 7”, visualización en tiempo real de la curva de temperatura, memoria para más de 4.000 resultados, software para la gestión de datos en un PC, puerto USB para descargar los datos a un pen drive, etc.\n          <br><br>\n          Con CryoTouch 1 los laboratorios y las industrias de lácteos pueden realizar análisis oficiales basados en el método de referencia ISO. La función “Leche sin lactosa” ayuda el control y la comprobación del correcto proceso de eliminación de lactosa en leche y nata.\n          <h5>NUEVAS FUNCIONES Y GRANDES VENTAJAS:</h5>\n          <ul>\n          <li>6 opciones para configurar el valor de referencia y 2 distintas fórmulas para calcular el porcentaje de agua añadida</li>\n          <li>2 modalidades de lectura: “de meseta”, según el método ISO, o a tiempo establecido</li>\n          <li>Gráfico de la temperatura de la muestra en tiempo real</li>\n          <li>Las muestras se pueden identificar con un código alfanumérico</li>\n          <li>Lector opcional de códigos de barra de las muestras (bajo pedido: necesita un puerto RS232 adicional)</li>\n          <li>Resultados mostrados en diferentes colores para identificar rápidamente anomalías o valores críticos</li>\n          <li>Nueva función “Leche sin lactosa” para controlar la eliminación de lactosa en leche y nata</li>\n          <li>Memoria para 2 distintas curvas de calibración: la curva tradicional en el respeto de la norma ISO y una curva adicional según las exigencias del usuario (por ejemplo: leche sin lactosa)</li>\n          <li>Memoria para más de 4.000 resultados</li>\n          <li>Fácil descarga de los datos analíticos a un pen drive USB</li>\n          <li>Monitoreo en tiempo real o rápida descarga de los resultados a un PC gracias al programa de gestión CryoSoft Touch</li>\n          <li>Visualización inmediata de los mensajes de error</li>\n          </ul>\n          <h5>CARACTERÍSTICAS TÉCNICAS:</h5>\n          <ul>\n          <li>Capacidad: muestra individual</li>\n          <li>Pantalla táctil a color de 7”</li>\n          <li>Enfriamiento del baño con celdas Peltier controladas por microprocesador</li>\n          <li>Temperatura de operación: de +5°C a +36°C</li>\n          <li>Calibración automática</li>\n          <li>Agitación y golpe controlados por el software</li>\n          <li>Resultados en grados °C o °Hortvet y agua%</li>\n          <li>Volumen de muestra: 2 o 2.5 mL</li>\n          <li>Tiempo de análisis: unos 2 minutos/muestra</li>\n          <li>Tiempo de pre-calentamiento: unos 5 minutos</li>\n          <li>Resolución: ±0,0005°C</li>\n          <li>Reproducibilidad (en leche bovina): ±0,0025°C</li>\n          <li>Puerto USB para descargar los datos analíticos a un a pen drive</li>\n          <li>2 puertos RS232 para la conexión de una impresora opcional y un ordenador</li>\n          <li>Un puerto RS232 adicional se puede añadir bajo pedido para la conexión de un lector opcional de códigos de barra</li>\n          <li>Consumo: max. 150 W</li>\n          <li>Dimensiones: 285x485x360 mm (AxLxH, con cabezal bajado)</li>\n          <li>Peso: 16,1 Kg</li>\n          </ul>\n          ",
+                    "videoLink": "xB8bLvjlWOA",
+                    "sendPriceText": "Ver más información"
+                },
+                {
+                    "alt": "alt-logo",
+                    "srcImage": "/public2/landings/astori/productos/cryotouch-20/1.jpeg",
+                    "typeProduct": {
+                        "name": "Crióscopo",
+                        "keyname": "crioscopo"
+                    },
+                    "categoryProduct": {
+                        "name": "Crióscopo CryoTouch",
+                        "keyname": "crioscopo-cryotouch"
+                    },
+                    "name": "Crióscopo CryoTouch 20, con función (leche sin lactosa)",
+                    "description": "CryoTouch 20 es un equipo automático con automuestreador de 20 tubos para la rápida y exacta determinación de la variación del punto de congelación de leche y nata, y del porcentaje de agua añanida en el pleno respeto de la norma internacional IDF-ISO 5764:2009.",
+                    "descriptionLong": "<h5>Análisis profesionales de agua añadida en muestras de leche/nata</h5>\n          <br><br>\n          CryoTouch 20 es un equipo automático con automuestreador de 20 tubos para la rápida y exacta determinación de la variación del punto de congelación de leche y nata, y del porcentaje de agua añanida en el pleno respeto de la norma internacional IDF-ISO 5764:2009.\n          <br><br>\n          Este crióscopo de nueva generación incluye muchas novedades gracias al empleo de la tecnología más reciente: pantalla táctil a color de 7”, visualización en tiempo real de la curva de temperatura, memoria para más de 4.000 resultados, software para la gestión de datos en un PC, puerto USB para descargar los datos a un pen drive, etc.\n          <br><br>\n          Con CryoTouch 20 los laboratorios y las industrias de lácteos pueden realizar análisis oficiales basados en el método de referencia ISO. La función “Leche sin lactosa” ayuda el control y la comprobación del correcto proceso de eliminación de lactosa en leche y nata.\n          <br><br>\n          <h5>NUEVAS FUNCIONES Y GRANDES VENTAJAS:</h5>\n          <ul>\n          <li>6 opciones para configurar el valor de referencia y 2 distintas fórmulas para calcular el porcentaje de agua añadida</li>\n          <li>2 modalidades de lectura: “de meseta”, según el método ISO, o a tiempo establecido</li>\n          <li>Gráfico de la temperatura de la muestra en tiempo real</li>\n          <li>Las muestras se pueden identificar con un código alfanumérico</li>\n          <li>Lector opcional de códigos de barra de las muestras (bajo pedido: necesita un puerto RS232 adicional)</li>\n          <li>Resultados mostrados en diferentes colores para identificar rápidamente anomalías o valores críticos</li>\n          <li>Nueva función “Leche sin lactosa” para controlar la eliminación de lactosa en leche y nata</li>\n          <li>Memoria para 2 distintas curvas de calibración: la curva tradicional en el respeto de la norma ISO y una curva adicional según las exigencias del usuario (por ejemplo: leche sin lactosa)</li>\n          <li>Memoria para más de 4.000 resultados</li>\n          <li>Fácil descarga de los datos analíticos a un pen drive USB</li>\n          <li>Monitoreo en tiempo real o rápida descarga de los resultados a un PC gracias al programa de gestión CryoSoft Touch</li>\n          <li>Visualización inmediata de los mensajes de error</li>\n          </ul>\n          <h5>CARACTERÍSTICAS TÉCNICAS:</h5>\n          <ul>\n          <li>Capacidad: hasta 20 muestras</li>\n          <li>Pantalla táctil a color de 7”</li>\n          <li>Enfriamiento del baño con celdas Peltier controladas por microprocesador</li>\n          <li>Temperatura de operación: de +5°C a +36°C</li>\n          <li>Calibración automática</li>\n          <li>Agitación y golpe controlados por el software</li>\n          <li>Resultados en grados °C o °Hortvet y agua%</li>\n          <li>Volumen de muestra: 2 o 2.5 mL</li>\n          <li>Tiempo de análisis: unos 2 minutos/muestra</li>\n          <li>Tiempo de pre-calentamiento: unos 5 minutos</li>\n          <li>Resolución: ±0,0005°C</li>\n          <li>Reproducibilidad (en leche bovina): ±0,0025°C</li>\n          <li>Puerto USB para descargar los datos analíticos a un a pen drive</li>\n          <li>2 puertos RS232 para la conexión de la impresora (incluida) y un ordenador opcional</li>\n          <li>Un puerto RS232 adicional se puede añadir bajo pedido para la conexión de un lector opcional de códigos de barra</li>\n          <li>Consumo: max. 150 W</li>\n          <li>Dimensiones: 285x485x360 mm (AxLxH, con cabezal bajado)</li>\n          <li>Peso: 17,4 Kg</li>\n          </ul>\n          ",
+                    "videoLink": "xB8bLvjlWOA",
+                    "sendPriceText": "Ver más información"
+                },
+                {
+                    "alt": "alt-logo",
+                    "srcImage": "/public2/landings/astori/productos/cryotouch-40/1.jpeg",
+                    "typeProduct": {
+                        "name": "Crióscopo",
+                        "keyname": "crioscopo"
+                    },
+                    "categoryProduct": {
+                        "name": "Crióscopo CryoTouch",
+                        "keyname": "crioscopo-cryotouch"
+                    },
+                    "name": "Crióscopo CryoTouch 40, con función (leche sin lactosa)",
+                    "description": "CryoTouch 40 es un equipo automático con automuestreador de 40 tubos para la rápida y exacta determinación de la variación del punto de congelación de leche y nata, y del porcentaje de agua añanida en el pleno respeto de la norma internacional IDF-ISO 5764:2009.",
+                    "descriptionLong": "<h5>Análisis profesionales de agua añadida en muestras de leche/nata</h5>\n          <br><br>\n          CryoTouch 40 es un equipo automático con automuestreador de 40 tubos para la rápida y exacta determinación de la variación del punto de congelación de leche y nata, y del porcentaje de agua añanida en el pleno respeto de la norma internacional IDF-ISO 5764:2009.\n          <br><br>\n          Este crióscopo de nueva generación incluye muchas novedades gracias al empleo de la tecnología más reciente: pantalla táctil a color de 7”, visualización en tiempo real de la curva de temperatura, memoria para más de 4.000 resultados, software para la gestión de datos en un PC, puerto USB para descargar los datos a un pen drive, etc.\n          <br><br>\n          Con CryoTouch 40 los laboratorios y las industrias de lácteos pueden realizar análisis oficiales basados en el método de referencia ISO. La función “Leche sin lactosa” ayuda el control y la comprobación del correcto proceso de eliminación de lactosa en leche y nata.\n          <br><br>\n          <h5>NUEVAS FUNCIONES Y GRANDES VENTAJAS:</h5>\n          <ul>\n          <li>6 opciones para configurar el valor de referencia y 2 distintas fórmulas para calcular el porcentaje de agua añadida</li>\n          <li>2 modalidades de lectura: “de meseta”, según el método ISO, o a tiempo establecido</li>\n          <li>Gráfico de la temperatura de la muestra en tiempo real</li>\n          <li>Las muestras se pueden identificar con un código alfanumérico</li>\n          <li>Lector opcional de códigos de barra de las muestras (bajo pedido: necesita un puerto RS232 adicional)</li>\n          <li>Resultados mostrados en diferentes colores para identificar rápidamente anomalías o valores críticos</li>\n          <li>Nueva función “Leche sin lactosa” para controlar la eliminación de lactosa en leche y nata</li>\n          <li>Memoria para 2 distintas curvas de calibración: la curva tradicional en el respeto de la norma ISO y una curva adicional según las exigencias del usuario (por ejemplo: leche sin lactosa)</li>\n          <li>Memoria para más de 4.000 resultados</li>\n          <li>Fácil descarga de los datos analíticos a un pen drive USB</li>\n          <li>Monitoreo en tiempo real o rápida descarga de los resultados a un PC gracias al programa de gestión CryoSoft Touch</li>\n          <li>Visualización inmediata de los mensajes de error</li>\n          </ul>\n          <h5>CARACTERÍSTICAS TÉCNICAS:</h5>\n          <ul>\n          <li>Capacidad: hasta 40 muestras</li>\n          <li>Pantalla táctil a color de 7”</li>\n          <li>Enfriamiento del baño con celdas Peltier controladas por microprocesador</li>\n          <li>Temperatura de operación: de +5°C a +36°C</li>\n          <li>Calibración automática</li>\n          <li>Agitación y golpe controlados por el software</li>\n          <li>Resultados en grados °C o °Hortvet y agua%</li>\n          <li>Volumen de muestra: 2 o 2.5 mL</li>\n          <li>Tiempo de análisis: unos 2 minutos/muestra</li>\n          <li>Tiempo de pre-calentamiento: unos 5 minutos</li>\n          <li>Resolución: ±0,0005°C</li>\n          <li>Reproducibilidad (en leche bovina): ±0,0025°C</li>\n          <li>Puerto USB para descargar los datos analíticos a un a pen drive</li>\n          <li>2 puertos RS232 para la conexión de la impresora (incluida) y un ordenador opcional</li>\n          <li>Un puerto RS232 adicional se puede añadir bajo pedido para la conexión de un lector opcional de códigos de barra</li>\n          <li>Consumo: max. 150 W</li>\n          <li>Dimensiones: 330x610x360 mm (AxLxH, con cabezal bajado)</li>\n          <li>Peso: 17,4 Kg</li>\n          </ul>\n          ",
+                    "videoLink": "xB8bLvjlWOA",
+                    "sendPriceText": "Ver más información"
+                },
+                {
+                    "alt": "alt-logo",
+                    "srcImage": "/public2/landings/astori/productos/speedy-lab/1.jpg",
+                    "typeProduct": {
+                        "name": "Crióscopo",
+                        "keyname": "crioscopo"
+                    },
+                    "categoryProduct": {
+                        "name": "Crióscopo CryoTouch",
+                        "keyname": "crioscopo-cryotouch"
+                    },
+                    "name": "Speedy Lab - Analizador de leche, nata y suero",
+                    "description": "Equipo automático para la rápida determinación de los componentes tradicionales en muestras de leche, nata y suero. Basado en una aplicación especial de la técnica de ultrasonidos, Speedy Lab no requiere ninguna preparación de la muestra, ni homogeneización, calefacción, consumibles o reactivos químicos.",
+                    "descriptionLong": "<h5>Análisis de grasa, proteína, lactosa y sólidos - 5 teclas...1 minuto...0 problemas!</h5>\n          <br><br>\n          Equipo automático para la rápida determinación de los componentes tradicionales en muestras de leche, nata y suero. Basado en una aplicación especial de la técnica de ultrasonidos, Speedy Lab no requiere ninguna preparación de la muestra, ni homogeneización, calefacción, consumibles o reactivos químicos. Sus elevadas flexibilidad y fiabilidad, junto a su precio muy competitivo, ponen Speedy Lab a la vanguardia para los análisis rápidos de lácteos. Excelente para las necesidades de las industrias lecheras y de fabricación de queso.\n          <br><br>\n          La versión más reciente de Speedy Lab permite analizar también muestras de nata y suero de forma directa, gracias a los mejores rangos de medición y niveles de exactitud.\n          <h5>VENTAJAS:</h5>\n          <ul>\n          <li>Análisis de grasa, proteínas, lactosa, densidad, sal y sólidos no grasos (SNF) en diferentes tipos de leche</li>\n          <li>Menú interactivo para análisis y calibración, muy fácil de usar</li>\n          <li>Calibraciones simples, mediante el teclado o con un ordenador</li>\n          <li>Resultados en unos 60 segundos, sin necesidad de la presencia del usuario</li>\n          <li>Ninguna preparación o homogeneización de las muestras</li>\n          <li>Ningún consumible o reactivo/agente químico</li>\n          <li>Aspiración de muestra desde cualquier recipiente, mediante bomba de precisión</li>\n          <li>Tubo toma-muestra extensible hasta 70 cm</li>\n          <li>Tubos separados para la entrada y la salida de la muestra: ausencia de contaminación cruzada (\"carry-over\") entre 2 muestras sucesivas y máxima exactitud</li>\n          <li>Software gratuito para adquirir los resultados y para la calibración de un ordenador</li>\n          </ul>\n          <h5>Y ahora:</h5>\n          <ul>\n          <li>Certificado según el Instituto GOSS de Rusia</li>\n          </ul>\n          <h5>CARACTERÍSTICAS TÉCNICAS:</h5>\n          <ul>\n          <li>\n            <h5>Rango de medición y exactitud:</h5>\n            <ul>\n            <li>Grasa: de 0,01% a 45,00% ± 0,06%</li>\n            <li>Proteína: de 2,00% a 7,00% ± 0,15%</li>\n            <li>Lactosa: de 0,01% a 6,00% ± 0,20%</li>\n            <li>SNF: de 3,00% a 40,00% ± 0,15%</li>\n            <li>Sal: de 0,40% a 1,50% ± 0,05%</li>\n            <li>Densidad: de 1.015 a 1.160 Kg/m3 ± 0,3 Kg/m3</li>\n            </ul>\n          </li>\n          <li>Volumen de muestra: 15 mL</li>\n          <li>Condiciones de operación: temperatura de 10°C a 35°C, humedad de 30% a 80%</li>\n          <li>Salida RS232 para PC/impresora (impresora termica EP-50 opcional)</li>\n          <li>Salida USB para la conexión al ordenador</li>\n          <li>Alimentador 12 VDC para voltajes de 110 a 240 VAC - 50/60 Hz. Cable para el coche, bajo pedido</li>\n          <li>Consumo: 65 W</li>\n          <li>Dimensiones: 230 x 230 x 205 (H) mm</li>\n          <li>Peso: 4,5 Kg.</li>\n          </ul>\n          ",
+                    "videoLink": "ULUkueSl33I",
+                    "sendPriceText": "Ver más información"
+                },
+                {
+                    "alt": "alt-logo",
+                    "srcImage": "/public2/landings/astori/productos/centrifuga-astor-8-digit/1.jpg",
+                    "typeProduct": {
+                        "name": "Crióscopo",
+                        "keyname": "crioscopo"
+                    },
+                    "categoryProduct": {
+                        "name": "Crióscopo CryoTouch",
+                        "keyname": "crioscopo-cryotouch"
+                    },
+                    "name": "Centrífuga Astor 8 Digit",
+                    "description": "La centrífuga Astor 8 Digit para 8 butirómetros es completamente digital y está desarrollada para cumplir con las normas de seguridad y el método Gerber para la determinación cuantitativa del contenido de grasa en leche y lácteos.",
+                    "descriptionLong": "<h5>La nueva centrífuga digital para el método de Gerber</h5>\n          <br><br>\n          La centrífuga Astor 8 Digit para 8 butirómetros es completamente digital y está desarrollada para cumplir con las normas de seguridad y el método Gerber para la determinación cuantitativa del contenido de grasa en leche y lácteos.\n          <h5>CARACTERÍSTICAS TÉCNICAS:</h5>\n          <ul>\n          <li>Estructura metálica y pintada contra ácidos</li>\n          <li>Tapa con ventanilla para inspeccionar la cámara durante la centrifugación</li>\n          <li>Bloqueo de seguridad de la tapa con rotor activo</li>\n          <li>Freno electrónico del motor para reducir el tiempo de parada</li>\n          <li>Pantalla digital con indicación del calentamiento activo, tapa abierta/cerrada, tiempo de centrifugación, tiempo restante, freno activo, ciclo terminado</li>\n          <li>Regulación digital del tiempo de centrifugación: de 0 a 60 minutos o tiempo indefinido</li>\n          <li>Interruptor general retroalumbrado y teclas separadas para abrir la tapa y encender/apagar el calentamiento</li>\n          <li>Luces indicadoras LED: temperatura correcta en la cámara (luz morada) y tapa desbloqueada (luz verde)</li>\n          <li>Max. capacidad: 8 butirometros</li>\n          <li>Soportes anti-ácidos de los butirómetros, fáciles para sacar y limpiar</li>\n          <li>Temperatura establecida a 65°C, según Gerber</li>\n          <li>Tiempo de pre-calentamiento: máx. 20 minutos</li>\n          <li>Temperatura muy homogenea en la cámara</li>\n          <li>Fuerza de centrifugación: 350 g ± 50 g, según Gerber</li>\n          <li>Dimensiones y peso: 49x41x26 (H) cm, 18 Kg.</li>\n          <li>Alimentación: 230 V o 115 V, 50 o 60 Hz</li>\n          <li>Max. consumo: 840 W</li>\n          </ul>\n          ",
+                    "videoLink": "",
+                    "sendPriceText": "Ver más información"
+                },
+                {
+                    "alt": "alt-logo",
+                    "srcImage": "/public2/landings/astori/productos/nucleo-counter-scc-100/1.jpg",
+                    "typeProduct": {
+                        "name": "Crióscopo",
+                        "keyname": "crioscopo"
+                    },
+                    "categoryProduct": {
+                        "name": "Crióscopo CryoTouch",
+                        "keyname": "crioscopo-cryotouch"
+                    },
+                    "name": "NucleoCounter® SCC-100",
+                    "description": "NucleoCounter® SCC-100 se basa en la microscopía de fluorescencia y en el uso de un práctico cartucho desechable, el que dosifica la muestra y la pone en contacto con los reactivos integrados en el mismo consumible. Este cartucho trabaja como una celda de lectura calibrada.",
+                    "descriptionLong": "<h5>El contaje de células somáticas en leche en 3 simples pasos</h5>\n          <br><br>\n          NucleoCounter® SCC-100 se basa en la microscopía de fluorescencia y en el uso de un práctico cartucho desechable, el que dosifica la muestra y la pone en contacto con los reactivos integrados en el mismo consumible. Este cartucho trabaja como una celda de lectura calibrada. Después de poner el cartucho en el equipo, y sólo apretando una tecla, el resultado aparece en la pantalla e inmediatamente impreso si la impresora opcional está conectada. Por lo tanto, el análisis se efectua en 3 simple y rápidos pasos: introducción de la muestra, inserción del cartucho en el equipo y presión de la tecla RUN.\n          <h5>VENTAJAS:</h5>\n          <ul>\n          <li>Método según la regulación internacional FIL-IDF 148</li>\n          <li>Excelentes niveles de exactitud y precisión con cualquier tipo de leche</li>\n          <li>Análisis inmediatos, en 30 segundos</li>\n          <li>No requiere ninguna calibración, ni durante ni después la instalación</li>\n          <li>Libre de mantenimiento programado y extraordinario</li>\n          <li>Evita el manejo de reactivos tóxicos o carcinogénicos</li>\n          <li>Listo para usar después de tan sólo 5 segundos de calentamiento</li>\n          <li>Compacto, ligero y confiable</li>\n          <li>Mínimo trabajo por parte del operador</li>\n          <li>Conexión USB para la impresora (opcional)</li>\n          <li>Software SomaticView® opcional para el manejo de los resultados</li>\n          </ul>\n          <h5>CARACTERÍSTICAS TÉCNICAS:</h5>\n          <ul>\n          <li>Volumen de muestra: min. 500 μl</li>\n          <li>Tiempo de análisis: < 30 segundos</li>\n          <li>Rango de medición: 10.000 ÷ 2.000.000 células/ml</li>\n          <li>Consumo: menos de 25 W</li>\n          <li>Dimensiones: 22 x 38 x 26 (H) cm, sin impresora</li>\n          <li>Peso: 3 Kg.</li>\n          </ul>\n          ",
+                    "videoLink": "",
+                    "sendPriceText": "Ver más información"
+                }
+            ]
+        }
+    ]
+}

@@ -57,6 +57,36 @@ module.exports = (enviroment) => {
               from: path.resolve(__dirname, 'public/robots.txt'),
               to: path.resolve(__dirname, 'dist/public'),
             },
+            {
+              from: path.resolve(__dirname, 'public/public2/contacto'),
+              to: path.resolve(__dirname, 'dist/public/contacto'),
+            },
+            {
+              from: path.resolve(__dirname, 'public/public2/json'),
+              to: path.resolve(__dirname, 'dist/public/json'),
+            },
+            {
+              from: path.resolve(__dirname, 'public/public2/landings'),
+              to: path.resolve(__dirname, 'dist/public/landings'),
+            },
+            {
+              from: path.resolve(__dirname, 'public/public2/LOGO-MARCAS-PROVEEDORES'),
+              to: path.resolve(__dirname, 'dist/public/LOGO-MARCAS-PROVEEDORES'),
+            },
+            {
+              from: path.resolve(__dirname, 'public/public2/nosotros'),
+              to: path.resolve(__dirname, 'dist/public/nosotros'),
+            },
+            {
+              from: path.resolve(__dirname, 'public/public2/servicios'),
+              to: path.resolve(__dirname, 'dist/public/servicios'),
+            },
+            {
+              from: 'public/public2/*.jpeg',
+              to({ context, absoluteFilename }) {
+                return Promise.resolve("public/[name][ext]");
+              },
+            },
             // {
             //   from: 'public/*.png',
             //   to({ context, absoluteFilename }) {

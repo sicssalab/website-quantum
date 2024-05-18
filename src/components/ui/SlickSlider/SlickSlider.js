@@ -7,8 +7,9 @@ import { useMediaQuery } from "react-responsive";
 import breakpointConstants from "../../../constants/breakpointConstants";
 
 const SlickSlider = (props) => {
-  const { autoPlay, infinite, speed, arrows, items, dots
+  const { autoPlay, infinite, speed, arrows, items, dots, styleImg = {}
   } = props;
+  console.log(styleImg)
   const isMobile = useMediaQuery({ maxWidth: breakpointConstants.MD });
   const settings = {
     dots: dots,
@@ -41,6 +42,7 @@ const SlickSlider = (props) => {
                     : imagen.url
                 }
                 //width={600} height={400}
+                style={styleImg}
                 alt={imagen.name}
                 onError={({ currentTarget }) => {
                   currentTarget.onerror = null;
@@ -56,6 +58,7 @@ const SlickSlider = (props) => {
                     : imagen.url
                 }
                 //width={600} height={400}
+                style={styleImg}
                 alt={imagen.name}
                 onError={({ currentTarget }) => {
                   currentTarget.onerror = null;

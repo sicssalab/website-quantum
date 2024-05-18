@@ -3,7 +3,6 @@ import { StaticRouter } from "react-router-dom/server";
 import StoreProvider from "../src/store/StoreProvider";
 import { HelmetProvider } from "react-helmet-async";
 import App from "../src/App";
-import callPage from "../src/apiData/callPage";
 import callRouterPage from "../src/apiData";
 import languageUtils from "../src/utils/languageUtils";
 
@@ -19,9 +18,35 @@ const app = express();
 const helmetContext = {};
 app.use("/src/assets", express.static(path.join(__dirname, "src/assets")));
 app.use("/public", express.static(path.join(__dirname, "../dist/public")));
+//TODO uso para llamado del cliente clone de /public
+app.use("/public2", express.static(path.join(__dirname, "../dist/public")));
 
 app.get(/\.(txt)$/, express.static(path.resolve(__dirname, "../dist/public")));
 app.get(/\.(js|css|map|ico|svg|webp|webm|otf|txt|jpg|jpeg|gif|png|avif|pdf)$/, express.static(path.resolve(__dirname, "../dist")));
+
+const callPage = async (locale, slug) => {
+  let data = {};
+  const request = {
+    slug: slug,
+    locale: locale
+  };
+
+  try {
+    //console.log(`${process.env.REACT_APP_DOMAIN_SSR}/public2/json/data-${request.slug.toLowerCase()}-${request.locale}.json`)
+    const response = await fetch(`${process.env.REACT_APP_DOMAIN_SSR}/public2/json/data-${request.slug.toLowerCase()}-${request.locale}.json`,
+      {
+        method: 'GET',
+        headers: { 'Content-Type': 'application/json' },
+      });
+    const responseData = await response.json();
+    data = {...responseData}
+  }
+  catch(_) {
+    console.error(_)
+  }
+
+  return data;
+}
 
 const renderHeader = (html, optionsPage, locale) => {
   const meta = optionsPage.metadata;
@@ -40,16 +65,20 @@ const renderHeader = (html, optionsPage, locale) => {
   html = html.replace('<meta name="og:image" content="" data-rh="true">', `<meta name="og:image" content="${imageLink}" data-rh="true">`);
   html = html.replace('<!-- CANONICAL -->', canonical ? `<link rel="canonical" href="${canonical}" data-rh="true" />`: '');
   html = html.replace('<!-- FOLLOW -->', follow ? `<meta name="robots" content="${follow}" data-rh="true" />`: '');
-
   return html;
 }
+
+// app.get("/crm", async (req, res) => {
+//   console.log("open crm");
+//   return res.redirect('/');
+// });
 
 app.get("*", async (req, res) => {
   const context = {};
   const locale = languageUtils.getLocale(req.url)
-
   let slugPage = req.params['0'].toLowerCase();
   slugPage = slugPage.indexOf("/") === 0 ? slugPage.replace("/","") : slugPage;
+  if(slugPage === "/" || slugPage === "") slugPage = "home";
 
   let indexHTML = fs.readFileSync(path.resolve(__dirname, "../dist/index.html"), {
     encoding: 'utf8'
@@ -78,15 +107,16 @@ app.get("*", async (req, res) => {
     && req.url.search(".webp") === -1
     && req.url.search(".png") === -1
     && req.url.search(".jpg") === -1
+    && req.url.search(".avif") === -1
+    && req.url.search(".pdf") === -1
+    && req.url.search("public2/json") === -1 //TODO elimina el bucle al no encontrar el parametro buscado antes de el
     )) {
-      const responseOptionsPage = callPage(locale, slugPage)
+      const responseOptionsPage = await callPage(locale, slugPage)
       if(responseOptionsPage && responseOptionsPage.metadata) {
         indexHTML = renderHeader(indexHTML, responseOptionsPage, locale);
       }
   }
-
   indexHTML = indexHTML.replace('<div id="root"></div>', `<div id="root">${appHTML}</div>`);
-
   res.contentType('text/html');
   res.status(200);
 

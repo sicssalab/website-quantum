@@ -1,0 +1,96 @@
+{
+    "shortName": "Sixcan",
+    "slug": "sixcan",
+    "locale": "es",
+    "metadata": {
+        "metaTitle": "Quantum Analytical: Sixcan",
+        "metaDescription": "---",
+        "keywords": "",
+        "url": "sixcan",
+        "sitename": "Quantumdo",
+        "type": "website"
+    },
+    "localizations": [],
+    "items": [
+        {
+            "type": "header-component",
+            "title": "sixcan",
+            "isLanding": true,
+            "socialNetwork": [],
+            "imageFit": "contain",
+            "items": [
+                {
+                    "name": "test1",
+                    "url": "/public2/landings/sixcan/1.jpg"
+                },
+                {
+                    "name": "test2",
+                    "url": "/public2/landings/sixcan/2.jpg"
+                },
+                {
+                    "name": "test3",
+                    "url": "/public2/landings/sixcan/3.jpg"
+                }
+            ]
+        },
+        {
+            "type": "information-residential-component",
+            "logo": "/public2/LOGO-MARCAS-PROVEEDORES/7sixcan.jpg",
+            "title": "sixcan",
+            "logoUrl": "https://www.sixcan.com.ar",
+            "description": "Mide, registra, grafica todas las variables que sea necesario monitorear.<br>Sin límites geográficos: en una aplicación puede integrar datos de diferentes salas, edificios, plantas, locaciones, ciudades o países.<br>Económico.  Lejos, la mejor relación costo-beneficio del mercado.<br>No hay costos por licencia de uso del software ni renovación. Una vez adquirido el sistema, el software puede usarse indefinidamente.<br>Sin costos adicionales. Opera con los sistemas y equipos informáticos del cliente tal como están. No requiere adquirir nuevo hardware o programas, ni la modificación de redes informáticas.<br>No hay costos por agregar más usuarios al sistema.<br>No hay costo por consumibles, descartables o insumos.<br>Durable. La vida útil de los equipos y hardware es superior a 15 años.<br>Un producto con más de 17 años en el mercado, operando actualmente en 7 países",
+            "videoLink": "IXviYHogHo4",
+            "gallery": [
+                {
+                    "name": "test1",
+                    "image": "/public2/landings/sixcan/productos/sixcan-duo/imagen.png"
+                },
+                {
+                    "name": "test2",
+                    "image": "/public2/landings/sixcan/productos/sixcan-gateway/imagen.png"
+                }
+            ]
+        },
+        {
+            "type": "product-list",
+            "title": "Productos",
+            "linkWebsite": "https://www.sixcan.com.ar",
+            "items": [
+                {
+                    "alt": "alt-logo",
+                    "srcImage": "/public2/landings/sixcan/productos/sixcan-duo/imagen.png",
+                    "typeProduct": {
+                        "name": "Espectrómetro",
+                        "keyname": "espectrometro"
+                    },
+                    "categoryProduct": {
+                        "name": "Espectrómetro",
+                        "keyname": "espectrometro"
+                    },
+                    "name": "Sixcan duo",
+                    "description": "Equipo de adquisición de datos inalámbrico. Entradas para 2 sensores de cualquier tipo. Pantalla LCD. Límites de alarmas de maximos y mínimos para cada sensor",
+                    "descriptionLong": "Equipo de adquisición de datos inalámbrico. Entradas para 2 sensores de cualquier tipo. Pantalla LCD. Límites de alarmas de maximos y mínimos para cada sensor",
+                    "videoLink": "",
+                    "sendPriceText": "Ver más información"
+                },
+                {
+                    "alt": "alt-logo",
+                    "srcImage": "/public2/landings/sixcan/productos/sixcan-gateway/imagen.png",
+                    "typeProduct": {
+                        "name": "Espectrómetro",
+                        "keyname": "espectrometro"
+                    },
+                    "categoryProduct": {
+                        "name": "Espectrómetro",
+                        "keyname": "espectrometro"
+                    },
+                    "name": "SIXCAN Gateway",
+                    "description": "Transceptor inalámbrico que gestiona las redes de equipos SIXCAN y la transmisión de toda la información a la aplicación WEB. Versiones para WiFi, GSM-GPRS, Ethernet",
+                    "descriptionLong": "Transceptor inalámbrico que gestiona las redes de equipos SIXCAN y la transmisión de toda la información a la aplicación WEB. Versiones para WiFi, GSM-GPRS, Ethernet",
+                    "videoLink": "",
+                    "sendPriceText": "Ver más información"
+                }
+            ]
+        }
+    ]
+}

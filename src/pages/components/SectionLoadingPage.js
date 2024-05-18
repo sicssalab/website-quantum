@@ -4,7 +4,7 @@ import { Link } from "react-router-dom";
 import { useGlobalState } from "../../store/StoreProvider";
 import languageUtils from "../../utils/languageUtils";
 import { useIntl } from "react-intl";
-import logo from "../../assets/logo.jpg";
+//import logo from "../../assets/logo.jpg";
 
 const SectionLoadingPage = (props) => {
     const { title, disableLink } = props;
@@ -16,7 +16,7 @@ const SectionLoadingPage = (props) => {
             <div className="row justify-content-center">
                 <div className="col-lg-6 col-md-8 text-center default-page vh-100 align-items-center d-flex">
                     <div className="card border-0 text-center d-block p-0 bg-transparent m-auto">
-                        <img src={logo} alt="logo" className="w-80 mb-4 ms-auto me-auto pt-md-5" />
+                        <img src={"/public/logo.jpg"} alt="logo" className="w-80 mb-4 ms-auto me-auto pt-md-5" />
                         <p className="text-grey-500 font-xsss">{title}</p>
                         {!disableLink && (
                             <Link
