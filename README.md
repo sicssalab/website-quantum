@@ -6,10 +6,12 @@ subir los archivos el proyecto utiliza .en
 REACT_APP_DOMAIN - dominio del sitio
 REACT_APP_PORT - modificar el 8081 desde el package por el que se vaya a utilizar
 
+**IMPORTANTE: En producción, eliminar o comentar la línea "proxy" del package.json antes de hacer el build**
+
 desde el panel de node agregar la version de node
 
-node: 18.16.0
-pagage manager: yarn
+node: 18.20.8
+package manager: yarn
 document root: ruta donde se aloja los archivos
 application root: server/index.js
 

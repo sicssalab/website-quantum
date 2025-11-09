@@ -3,7 +3,10 @@
   "version": "0.1.0",
   "private": false,
   "main": "index.js",
-  "proxy": "http://localhost:8081",
+  "proxy": "http://localhost:3000",
+  "engines": {
+    "node": "18.20.8"
+  },
   "dependencies": {
     "@babel/register": "^7.21.0",
     "@testing-library/jest-dom": "^5.16.5",
