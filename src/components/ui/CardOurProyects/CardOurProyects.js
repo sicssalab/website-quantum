@@ -23,7 +23,9 @@ const CardOurProyects = (props) => {
                                 ? item.imageMobile
                                 : item.image
                             : item.image}
-                    alt={item.alt} />
+                    alt={item.alt} 
+                    style={{ objectFit: "contain"}}
+                    />
             )}
         </Button>
     );
