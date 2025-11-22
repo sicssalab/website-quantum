@@ -855,23 +855,6 @@
                 },
                  {
                     "alt": "alt-logo",
-                    "srcImage": "/public2/landings/velp/equipos/agitadores-magneticos/arec-7/AREC_7_Advance_with_probe-rod-clamp.JPG",
-                    "typeProduct": {
-                        "name": "Agitadores",
-                        "keyname": "agitadores"
-                    },
-                    "categoryProduct": {
-                        "name": "Agitadores Magneticos con calefacción",
-                        "keyname": "agitadores-magneticos-calefaccion"
-                    },
-                    "name": "AREC 7 Advance Agitador magnético con Calefacción con placa Cerámica",
-                    "description": "Agitador magnético con placa calefactora, analógico, robusto y fiable, diseñado para ofrecer seguridad y un alto rendimiento de agitación y calentamiento. La solución ideal para aplicaciones básicas en laboratorios industriales y académicos.",
-                    "descriptionLong": "Agitador magnético con placa calefactora, analógico, robusto y fiable, diseñado para ofrecer seguridad y un alto rendimiento de agitación y calentamiento. La solución ideal para aplicaciones básicas en laboratorios industriales y académicos.",
-                    "videoLink": "",
-                    "sendPriceText": "Ver más información"
-                },
-                 {
-                    "alt": "alt-logo",
                     "srcImage": "/public2/landings/velp/equipos/agitadores-magneticos/arec-7-magnetico/VELP_AREC7Digital_SB20500681_3-4_VTF.jpg",
                     "typeProduct": {
                         "name": "Agitadores",
@@ -901,23 +884,6 @@
                     "name": "AREC 7 Digital Placa Calefactora Cerámica Digital",
                     "description": "Calentamiento potente, control preciso de la temperatura La placa calefactora ceramica REC 7 Digital ofrece la tecnología de calentamiento más avanzada para una uniformidad de temperatura y eficiencia superiores.",
                     "descriptionLong": "Calentamiento potente, control preciso de la temperatura La placa calefactora ceramica REC 7 Digital ofrece la tecnología de calentamiento más avanzada para una uniformidad de temperatura y eficiencia superiores.<br><br> Es la solución ideal para laboratorios que requieren un control preciso de la temperatura de las muestras. Es posible conectar la placa calefactora a una sonda externa Pt100 o Pt1000 y al termorregulador VTF Digital para obtener un control superior de la temperatura. <br><br> Cuando se trabaja con sondas Pt100 y Pt1000 es posible conseguir un calentamiento preciso del medio hasta 350°C con una impresionante precisión de ±1,0°C. Alternativamente, utilice el VTF Digital para una termorregulación máxima del medio de 300°C y una excepcional precisión de ±0,5°C. <br><br> Una pantalla digital clara y un botón giratorio fácil de girar simplifican el ajuste de la temperatura. <br><br> Construido para durar, diseñado para la seguridad La placa calefactora REC 7 Digital prioriza la seguridad del operario y la durabilidad. <br><br> El REC 7 Digitaluenta con una duradera placa cerámica cuadrada de 7 pulgadas resistente a ácidos, bases y disolventes, lo que la hace ideal para entornos de laboratorio difíciles. Su robusta estructura está diseñada para resistir la corrosión química.<br><br> La limpieza del REC 7 Digital es sencilla: basta con utilizar un paño húmedo para eliminar cualquier residuo de la placa cerámica superior, lo que garantiza que siempre esté listo para las operaciones de laboratorio.<br><br> Además, el REC 7 Digital está diseñado para tener una vida útil prolongada y está respaldado por una garantía de 3 años (es necesario registrar el producto en línea) para garantizar su calidad.",
-                    "videoLink": "",
-                    "sendPriceText": "Ver más información"
-                },
-                {
-                    "alt": "alt-logo",
-                    "srcImage": "/public2/landings/velp/equipos/agitadores-magneticos/arec-10/AREC_10_Advance-probe-rod-clamp.jpg",
-                    "typeProduct": {
-                        "name": "Agitadores",
-                        "keyname": "agitadores"
-                    },
-                    "categoryProduct": {
-                        "name": "Agitadores Magneticos con calefacción",
-                        "keyname": "agitadores-magneticos-calefaccion"
-                    },
-                    "name": "AREC 10 Advance Agitador magnético con Calefacción con placa Cerámica",
-                    "description": "Agitador magnético con placa calefactora cerámica de 10x10 de última generación, que combina un alto rendimiento, seguridad avanzada, conectividad versátil y una interfaz intuitiva. Su amplia superficie garantizaprecisión, eficiencia y la máxima protección en cada aplicación.",
-                    "descriptionLong": "Agitador magnético con placa calefactora cerámica de 10x10 de última generación, que combina un alto rendimiento, seguridad avanzada, conectividad versátil y una interfaz intuitiva. Su amplia superficie garantizaprecisión, eficiencia y la máxima protección en cada aplicación.",
                     "videoLink": "",
                     "sendPriceText": "Ver más información"
                 },
