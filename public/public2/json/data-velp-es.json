@@ -1,9 +1,9 @@
 {
-    "shortName": "VELP Scientifica",
+    "shortName": "VELP",
     "slug": "velp",
     "locale": "es",
     "metadata": {
-        "metaTitle": "Quantum Analytical: VELP Scientifica",
+        "metaTitle": "Quantum Analytical: VELP",
         "metaDescription": "---",
         "keywords": "",
         "url": "velp",
@@ -14,7 +14,7 @@
     "items": [
         {
             "type": "header-component",
-            "title": "VELP SCIENTIFICA",
+            "title": "VELP",
             "isLanding": true,
             "socialNetwork": [
                 {
@@ -46,7 +46,7 @@
         },
         {
             "type": "information-residential-component",
-            "logo": "/public2/LOGO-MARCAS-PROVEEDORES/velph.jpeg",
+            "logo": "/public2/LOGO-MARCAS-PROVEEDORES/velph.jpg",
             "title": "ARIZONA INSTRUMENT",
             "logoUrl": "https://www.velp.com/es-us/default.aspx",
             "description": "Debemos nuestro éxito a una rica herencia de ideas, grandes inversiones en Investigación y Desarrollo tecnológico destinadas a maximizar la productividad y conectividad del producto y reducir el tiempo de comercialización.<br><br>VELP es un pionero de la tecnología de laboratorio inteligente (Smart Lab). Nuestros instrumentos analíticos y equipos de laboratorio ayudan a acelerar el progreso científico todos los días al ofrecer a los científicos de todo el mundo la capacidad de monitorear y controlar la tecnología VELP a través de una plataforma en la nube accesible desde cualquier dispositivo, en cualquier lugar y en cualquier momento",
@@ -54,7 +54,7 @@
             "gallery": [
                 {
                     "name": "test1",
-                    "image": "/public2/landings/velp/instruments/analizadores/ema-502/imagen_1_VELPEMA502-02-287274-287962.jpg"
+                    "image": "/public2/landings/velp/instruments/analizadores/ema-502/F30800100_EMA502_1.webp"
                 },
                 {
                     "name": "test2",
@@ -62,7 +62,7 @@
                 },
                 {
                     "name": "test2",
-                    "image": "/public2/landings/velp/instruments/analizadores/cn-802/producto.jpg"
+                    "image": "/public2/landings/velp/instruments/analizadores/cn-802/F30800090_CN802_1.webp"
                 },
                 {
                     "name": "test2",
@@ -73,7 +73,7 @@
         {
             "type": "gallery-residential-component",
             "title": "Innovación y dinamismo",
-            "description": "Fundada en 1983 por Ermete Passoni, VELP Scientifica es hoy un líder mundial en la producción de instrumentos analíticos y equipos de laboratorio que ha tenido un impacto en el mercado mundial con productos italianos reconocidos por su innovación, diseño y conectividad premium.<br><br>VELP es una empresa familiar en su segunda generación de liderazgo y es reconocida mundialmente como un proveedor premium de analizadores elementales, analizadores Kjeldahl, extractores con solventes, extractores de fibra, reactores de estabilidad de oxidación, herramientas de agitación y mezcla, pruebas respirométricas (Demanda bioquímica y química de oxígeno)",
+            "description": "Fundada en 1983 por Ermete Passoni, VELP es hoy un líder mundial en la producción de instrumentos analíticos y equipos de laboratorio que ha tenido un impacto en el mercado mundial con productos italianos reconocidos por su innovación, diseño y conectividad premium.<br><br>VELP es una empresa familiar en su segunda generación de liderazgo y es reconocida mundialmente como un proveedor premium de analizadores elementales, analizadores Kjeldahl, extractores con solventes, extractores de fibra, reactores de estabilidad de oxidación, herramientas de agitación y mezcla, pruebas respirométricas (Demanda bioquímica y química de oxígeno)",
             "items": []
         },
         {
@@ -83,7 +83,7 @@
             "items": [
                 {
                     "alt": "alt-logo",
-                    "srcImage": "/public2/landings/velp/instruments/analizadores/ema-502/imagen_1_VELPEMA502-02-287274-287962.jpg",
+                    "srcImage": "/public2/landings/velp/instruments/analizadores/ema-502/F30800100_EMA502_1.webp",
                     "typeProduct": {
                         "name": "Analizadores Elementales",
                         "keyname": "analizadores-elementales"
@@ -100,7 +100,7 @@
                 },
                 {
                     "alt": "alt-logo",
-                    "srcImage": "/public2/landings/velp/instruments/analizadores/cn-802/producto.jpg",
+                    "srcImage": "/public2/landings/velp/instruments/analizadores/cn-802/F30800090_CN802_1.webp",
                     "typeProduct": {
                         "name": "Analizadores Elementales",
                         "keyname": "analizadores-elementales"
@@ -117,7 +117,7 @@
                 },
                 {
                     "alt": "alt-logo",
-                    "srcImage": "/public2/landings/velp/instruments/analizadores/nda-702/F30800080VELPNDA-702-285106.jpg",
+                    "srcImage": "/public2/landings/velp/instruments/analizadores/nda-702/F30800080_NDA702.webp",
                     "typeProduct": {
                         "name": "Analizadores Elementales",
                         "keyname": "analizadores-elementales"
@@ -451,7 +451,7 @@
                     },
                     "name": "HU 6 Unidad de hidrólisis",
                     "description": "Unidad de hidrólisis de seis posiciones para pretratar la muestra a analizar con SER 148 o SER 158, ideal tanto para hidrólisis ácida como básica.",
-                    "descriptionLong": "\n          Unidad de hidrólisis de seis posiciones para pretratar la muestra a analizar con SER 148 o SER 158, ideal tanto para hidrólisis ácida como básica.\n          <br><br>\n          <h5>Hidrólisis preliminar para la determinación de la grasa total</h5>\n          La unidad de hidrólisis HU 6 de VELP Scientifica es la solución ideal para la preparación de la muestra antes de la extracción con disolventes para la determinación del contenido total de grasa, con el fin de liberar las moléculas de grasa listas para la extracción.\n          <br><br>\n          \n          Este procedimiento se requiere en varios métodos oficiales de la AOAC para determinar el contenido de grasa de muestras de alimentos como la carne, el queso, el marisco, el chocolate, las harinas de cereales, etc.\n          <br><br>\n          \n          La HU 6 realiza la hidrólisis con total seguridad y maneja seis muestras al mismo tiempo para maximizar la productividad.\n          <br><br>\n          \n          \n          <h5>Hidrólisis rápida y segura</h5>\n          \n          \n          Las muestras se calientan en tubos de ensayo en un bloque de calentamiento de aluminio que ofrece una excelente homogeneidad térmica. La hidrólisis se realiza en un medio ácido (ácido clorhídrico 4N) y en algunos casos también en un medio básico (amoníaco al 20% p/v) durante unos 60 minutos a una temperatura de 170°C. A continuación, la muestra hidrolizada se filtra en un crisol de vidrio y se lava con agua desionizada caliente para eliminar los restos de ácido clorhídrico.\n          <br><br>\n          \n          La HU 6 se suministra con una bomba de vacío que garantiza la seguridad gracias a la reducción de los vapores ácidos.\n          <br><br>\n          \n          El crisol de vidrio que contiene la muestra hidrolizada y lavada se seca en el horno antes de colocarlo en un desecador. A continuación, el crisol se transfiere directamente a la unidad de extracción por disolvente SER 158 y SER 148, evitando cualquier posible pérdida de muestra y garantizando una mayor precisión de los resultados.\n          <br><br>\n          \n          \n          <h5>Filtración y enjuague continuos de seis muestras en paralelo</h5>\n          <br><br>\n          \n          En algunas muestras, la extracción directa con disolventes no es eficaz porque los lípidos están unidos químicamente a otros componentes. La determinación del contenido total de grasa de estas muestras requiere una hidrólisis preliminar, seguida de filtración y lavado, para liberar completamente las moléculas de grasa.\n          <br><br>\n          \n          La muestra hidrolizada está finalmente lista para la extracción y puede ser fácilmente transferida a la Unidad de Extracción por Solvente SER 148 o SER 158 evitando cualquier posible pérdida de muestra y asegurando una mayor precisión de los resultados.\n          <br><br>\n          \n          La HU 6 proporciona una filtración y un enjuague eficaces de 3 o 6 muestras en paralelo. Las válvulas permiten interrumpir selectivamente el vacío en cada posición acelerando el proceso de filtración. \n          <br><br>\n          <h5>Tecnología TEMS</h5>\n          La unidad de hidrólisis HU 6 funciona con las innovadoras ventajas de TEMS™, para un gran ahorro.\n          <br><br>\n          \n          Ahorro de tiempo: el calentamiento rápido reduce la pérdida de tiempo\n          <br>\n          Ahorro de energía: consumo limitado de energía, lo que reduce las emisiones de CO2\n          <br>\n          Ahorro de dinero: reducción del coste de cada análisis\n          <br>\nAhorro de espacio: el reducido espacio que ocupa ahorra un valioso espacio en la mesa del laboratorio\n          ",
+                    "descriptionLong": "\n          Unidad de hidrólisis de seis posiciones para pretratar la muestra a analizar con SER 148 o SER 158, ideal tanto para hidrólisis ácida como básica.\n          <br><br>\n          <h5>Hidrólisis preliminar para la determinación de la grasa total</h5>\n          La unidad de hidrólisis HU 6 de VELP es la solución ideal para la preparación de la muestra antes de la extracción con disolventes para la determinación del contenido total de grasa, con el fin de liberar las moléculas de grasa listas para la extracción.\n          <br><br>\n          \n          Este procedimiento se requiere en varios métodos oficiales de la AOAC para determinar el contenido de grasa de muestras de alimentos como la carne, el queso, el marisco, el chocolate, las harinas de cereales, etc.\n          <br><br>\n          \n          La HU 6 realiza la hidrólisis con total seguridad y maneja seis muestras al mismo tiempo para maximizar la productividad.\n          <br><br>\n          \n          \n          <h5>Hidrólisis rápida y segura</h5>\n          \n          \n          Las muestras se calientan en tubos de ensayo en un bloque de calentamiento de aluminio que ofrece una excelente homogeneidad térmica. La hidrólisis se realiza en un medio ácido (ácido clorhídrico 4N) y en algunos casos también en un medio básico (amoníaco al 20% p/v) durante unos 60 minutos a una temperatura de 170°C. A continuación, la muestra hidrolizada se filtra en un crisol de vidrio y se lava con agua desionizada caliente para eliminar los restos de ácido clorhídrico.\n          <br><br>\n          \n          La HU 6 se suministra con una bomba de vacío que garantiza la seguridad gracias a la reducción de los vapores ácidos.\n          <br><br>\n          \n          El crisol de vidrio que contiene la muestra hidrolizada y lavada se seca en el horno antes de colocarlo en un desecador. A continuación, el crisol se transfiere directamente a la unidad de extracción por disolvente SER 158 y SER 148, evitando cualquier posible pérdida de muestra y garantizando una mayor precisión de los resultados.\n          <br><br>\n          \n          \n          <h5>Filtración y enjuague continuos de seis muestras en paralelo</h5>\n          <br><br>\n          \n          En algunas muestras, la extracción directa con disolventes no es eficaz porque los lípidos están unidos químicamente a otros componentes. La determinación del contenido total de grasa de estas muestras requiere una hidrólisis preliminar, seguida de filtración y lavado, para liberar completamente las moléculas de grasa.\n          <br><br>\n          \n          La muestra hidrolizada está finalmente lista para la extracción y puede ser fácilmente transferida a la Unidad de Extracción por Solvente SER 148 o SER 158 evitando cualquier posible pérdida de muestra y asegurando una mayor precisión de los resultados.\n          <br><br>\n          \n          La HU 6 proporciona una filtración y un enjuague eficaces de 3 o 6 muestras en paralelo. Las válvulas permiten interrumpir selectivamente el vacío en cada posición acelerando el proceso de filtración. \n          <br><br>\n          <h5>Tecnología TEMS</h5>\n          La unidad de hidrólisis HU 6 funciona con las innovadoras ventajas de TEMS™, para un gran ahorro.\n          <br><br>\n          \n          Ahorro de tiempo: el calentamiento rápido reduce la pérdida de tiempo\n          <br>\n          Ahorro de energía: consumo limitado de energía, lo que reduce las emisiones de CO2\n          <br>\n          Ahorro de dinero: reducción del coste de cada análisis\n          <br>\nAhorro de espacio: el reducido espacio que ocupa ahorra un valioso espacio en la mesa del laboratorio\n          ",
                     "videoLink": "",
                     "sendPriceText": "Ver más información"
                 },
@@ -753,7 +753,7 @@
                 },
                 {
                     "alt": "alt-logo",
-                    "srcImage": "/public2/landings/velp/equipos/agitadores-magneticos/arex-6-connect-pro/1.jpg",
+                    "srcImage": "/public2/landings/velp/equipos/agitadores-magneticos/arec-4-digital/AREC_4_DIGITAL_3.jpg",
                     "typeProduct": {
                         "name": "Agitadores",
                         "keyname": "agitadores"
@@ -762,15 +762,15 @@
                         "name": "Agitadores Magneticos con calefacción",
                         "keyname": "agitadores-magneticos-calefaccion"
                     },
-                    "name": "AREX 6 Connect PRO Agitadores magnéticos con calefacción",
-                    "description": "El primer agitador magnético de calentamiento con conexión Wi-Fi a la plataforma en la nube VELP Ermes para controlar los análisis en tiempo real.",
-                    "descriptionLong": "El primer agitador magnético de calentamiento con conexión Wi-Fi a la plataforma en la nube VELP Ermes para controlar los análisis en tiempo real.\n          <br><br>\n          <h5>Controla tu AREX 6 Connect PROen cualquier lugar y en cualquier momento con VELP Ermes</h5>\n          VELP Ermes permite la reducción de operaciones de rutina en sus instrumentos gracias al control en tiempo real de su AREX 6 Connect PRO esté donde esté.\n          <br><br>\n          \n          Acceda a su registro de análisis para maximizar la productividad y la reproducibilidad de sus reacciones.\n          <br><br>\n          \n          Las notificaciones y alertas inmediatas te permitirán estar siempre informado sobre el estado de tu análisis y gracias a la interrupción remota tendrás el control total de tus procesos, garantizando la máxima seguridad.\n          <br><br>\n          \n          Acceda a los datos de su instrumento con total seguridad a través de la plataforma VELP Ermes y benefíciese de las actualizaciones de software inmediatas, sin la necesidad de técnicos especializados.\n          <br><br>\n          <h5>La seguridad es lo primero</h5>\n          \n          Los AREX 6 Connect PRO están equipados con 2 circuitos de lectura de temperatura independientes que protegen el instrumento en caso de mal funcionamiento de uno de los dos.\n          Si la sonda no se inserta en la muestra que se está analizando, el instrumento deja de calentar y muestra un mensaje de seguridad en la pantalla.\n          <br><br>\n          \n          Los AREX 6 Connect PRO están equipados con la tecnología más avanzada y le permiten establecer el límite máximo de temperatura requerido por análisis con temperaturas específicas.\n          <br><br>\n          \n          AREX 6 Connect PRO es un producto IP42 diseñado para garantizar años de uso y resistencia en el laboratorio. La estructura y los materiales protegen las partes internas del instrumento de posibles daños.\n          <br><br>\n          \n          Los AREX 6 Connect PRO tienen una garantía de 3 años (la extensión de la garantía se obtiene al registrar el producto)\n          <br><br>\n          \n          La cubierta de silicona asegura una mayor protección del instrumento contra posibles derrames o salpicaduras.\n          <br><br>\n          <h5>Termorregulación de vanguardia</h5>\n          \n          \n          AREX 6 Connect PRO ofrece la mejor termorregulación disponible. El sistema de termorregulación PID garantiza un control de temperatura estable y rápido y con un mínimo overshoot\n          <br><br>\n          \n          VTF y sonda Pt100 permiten un control de temperatura exacto y preciso.\n          \n          Es posible elegir entre 2 modos de termorregulación diferentes: \n          <ul>\n          <li>FAST: La temperatura establecida se alcanza rápidamente.</li>\n          <li>FINE: La temperatura establecida se alcanza lentamente, reduciendo al mínimo el sobrecalentamiento.</li>\n          <li>Nueva interfaz para facilitar el uso</li>\n          </ul>\n\n          La pantalla LED brillante y los iconos intuitivos permiten una fácil lectura de las condiciones de trabajo del instrumento.\n          <br><br>\n          \n          La conexión de la sonda o termorreguladores, la activación de la calefacción, el alcance de la temperatura programada, la activación del temporizador y la inversión de rotación son información proporcionada por los nuevos iconos.\n          <br><br>\n          \n          Bloquee el instrumento presionando el botón central durante 3 segundos, un LED blanco parpadeará si se detecta una interacción.\n          <br><br>\n          \n          La velocidad y la temperatura se establecen con precisión mediante los botones sensibles y se activan solo después de una ligera presión.\n          <br><br>\n          \n          AREX 6 Connect PRO está equipado con un menú avanzado que le permite configurar el instrumento con las características que mejor se adapten a las necesidades de cada laboratorio.\n          <br><br>\n          <h5>Prestaciones sin precedentes</h5>\n          El motor brushless permite agitar hasta 20 litros a una velocidad regulable de 30 a 1700 rpm. Gracias al sistema SpeedServo ™, la velocidad se mantiene constante incluso cuando cambia la viscosidad.\n          <br><br>\n          \n          El imán de AlNiCo garantiza una agitación homogénea, incluso en las zonas periféricas de la placa y un potente acoplamiento magnético entre el motor y la barra de agitación, aspecto muy importante con el uso de accesorios.\n          <br><br>\n          \n          La placa CerAlTop™, de aleación de aluminio revestida con una capa cerámica, garantiza una transferencia de calor rápida y homogénea en toda la superficie. Además, la fina capa de cerámica protege la placa de arañazos y productos químicos.\n          <br><br>\n          \n          <h5>Temporizador integrado y rotación inversa</h5>\n          El botón central le permite configurar el temporizador de 1min a 99h59min.\n          <br><br>\n \nEl temporizador se puede configurar en 2 modos diferentes:\n          <ul>\n          <li>Snap: El temporizador comienza la cuenta regresiva tan pronto como se activa una función (agitar o calentar).</li>\n          <li>SetP: El temporizador inicia la cuenta atrás tan pronto como se alcanza la temperatura establecida.</li>\n          </ul>\n\nAdemás, es posible configurar la inversión de rotación a intervalos de tiempo.\n          ",
+                    "name": "AREC 4 Digital Agitador magnético con calefacción con placa Cerámica",
+                    "description": "AREC 4 Digital es un agitador magnético calefactor equipado con una placa cerámica de 4 pulgadas que alcanza una temperatura máxima de 550°C.",
+                    "descriptionLong": "AREC 4 Digital es la solución ideal para laboratorios que requieren un control preciso de la temperatura de la muestra. De hecho, se pueden conectar al agitador magnético calefactor sondas de temperatura externas - Pt100 y Pt1000, así como el termorregulador VTF Digital.\n\n Trabajando con sondas Pt100 y Pt1000 se puede lograr una termorregulación del líquido de hasta 350°C con una precisión de ±1,0°C. Alternativamente, el VTF Digital permite la termorregulación de la muestra hasta 300°C, con una precisión de ±0,5°C. \n\n Explora la sección de MODELOS y compara las diversas configuraciones disponibles para encontrar la más adecuada para tus necesidades de laboratorio.",
                     "videoLink": "",
                     "sendPriceText": "Ver más información"
                 },
                 {
                     "alt": "alt-logo",
-                    "srcImage": "/public2/landings/velp/equipos/agitadores-magneticos/arex-6-digital-pro/1VELPAREX6DigitalProSA20500460-208454-228287.jpg",
+                    "srcImage": "/public2/landings/velp/equipos/agitadores-magneticos/arec-4-digital/AREC_4.jpg",
                     "typeProduct": {
                         "name": "Agitadores",
                         "keyname": "agitadores"
@@ -779,15 +779,15 @@
                         "name": "Agitadores Magneticos con calefacción",
                         "keyname": "agitadores-magneticos-calefaccion"
                     },
-                    "name": "AREX 6 Dgital PRO Agitadores magnéticos con calefacción",
-                    "description": "Agitador magnético de calentamiento digital con placa de aluminio revestido en cerámica, temporizador, inversión de rotación que asegura la máxima precisión en la termorregulación y agitación de la muestra.",
-                    "descriptionLong": "Agitador magnético de calentamiento digital con placa de aluminio revestido en cerámica, temporizador, inversión de rotación que asegura la máxima precisión en la termorregulación y agitación de la muestra.\n          <br><br>\n          <h5>La seguridad es lo primero</h5>\n          Los AREX 6 Digital PRO están equipados con 2 circuitos de lectura de temperatura independientes que protegen el instrumento en caso de mal funcionamiento de uno de los dos.\n          Si la sonda no se inserta en la muestra que se está analizando, el instrumento deja de calentar y muestra un mensaje de seguridad en la pantalla.\n          <br><br>\n          \n          Los AREX 6 Digital PRO están equipados con la tecnología más avanzada y le permiten establecer el límite máximo de temperatura requerido por análisis con temperaturas específicas.\n          <br><br>\n          \n          AREX 6 Digital PRO es un producto IP42 diseñado para garantizar años de uso y resistencia en el laboratorio. La estructura y los materiales protegen las partes internas del instrumento de posibles daños.\n          <br><br>\n          \n          Los AREX 6 Digital PRO tienen una garantía de 3 años (la extensión de la garantía se obtiene al registrar el producto)\n          <br><br>\n          \n          La cubierta de silicona asegura una mayor protección del instrumento contra posibles derrames o salpicaduras.\n          <br><br>\n          <h5>Termorregulación de vanguardia</h5>\n          \n          AREX 6 Connect PRO ofrece la mejor termorregulación disponible. El sistema de termorregulación PID garantiza un control de temperatura estable y rápido y con un mínimo overshoot\n          <br><br>\n          \n          VTF y sonda Pt100 permiten un control de temperatura exacto y preciso. \n          <br><br>\n          \n          Es posible elegir entre 2 modos de termorregulación diferentes: \n          <ul>\n          <li>FAST: La temperatura establecida se alcanza rápidamente.</li>\n          <li>FINE: La temperatura establecida se alcanza lentamente, reduciendo al mínimo el sobrecalentamiento.</li>\n          </ul>\n          \n          <h5>Nueva interfaz para un uso sencillo</h5>\n          \n          La pantalla LED brillante y los iconos intuitivos permiten una fácil lectura de las condiciones de trabajo del instrumento.\n          <br><br>\n          \n          La conexión de la sonda o termorreguladores, la activación de la calefacción, el alcance de la temperatura programada, la activación del temporizador y la inversión de rotación son información proporcionada por los nuevos iconos.\n          <br><br>\n          \n          Bloquee el instrumento presionando el botón central durante 3 segundos, un LED blanco parpadeará si se detecta una interacción.\n          <br><br>\n          \n          La velocidad y la temperatura se establecen con precisión mediante los botones sensibles y se activan solo después de una ligera presión.\n          <br><br>\n          \n          AREX 6 Digital PRO está equipado con un menú avanzado que le permite configurar el instrumento con las características que mejor se adapten a las necesidades de cada laboratorio.\n          <br><br>\n          <h5>Prestaciones sin precedentes</h5>\n          \n          El motor brushless permite agitar hasta 20 litros a una velocidad regulable de 30 a 1700 rpm. Gracias al sistema SpeedServo ™, la velocidad se mantiene constante incluso cuando cambia la viscosidad.\n          <br><br>\n          \n          El imán de AlNiCo garantiza una agitación homogénea, incluso en las zonas periféricas de la placa y un potente acoplamiento magnético entre el motor y la barra de agitación, aspecto muy importante con el uso de accesorios.\n          <br><br>\n          \n          La placa CerAlTop™, de aleación de aluminio revestida con una capa cerámica, garantiza una transferencia de calor rápida y homogénea en toda la superficie. Además, la fina capa de cerámica protege la placa de arañazos y productos químicos.\n          <br><br>\n          <h5>Temporizador integrado y rotación inversa</h5>\n          \n          El botón central le permite configurar el temporizador de 1min a 99h59min.\n          <br><br>\n          \nEl temporizador se puede configurar en 2 modos diferentes:\n          <ul>\n          <li>Snap: El temporizador comienza la cuenta regresiva tan pronto como se activa una función (agitar o calentar).</li>\n          <li>SetP: El temporizador inicia la cuenta atrás tan pronto como se alcanza la temperatura establecida.</li>\n          </ul>\nAdemás, es posible configurar la inversión de rotación a intervalos de tiempo.\n          ",
+                    "name": "AREC 4 Agitador magnético con calefacción con placa Cerámica",
+                    "description": "Agitador magnético con calefacción y placa de cerámica de 4 pulgadas. Analógico, robusto y fiable, el AREC 4 está diseñado para satisfacer aplicaciones básicas en el laboratorio",
+                    "descriptionLong": "Agitador magnético con calefacción y placa de cerámica de 4 pulgadas. Analógico, robusto y fiable, el AREC 4 está diseñado para satisfacer aplicaciones básicas en el laboratorio",
                     "videoLink": "",
                     "sendPriceText": "Ver más información"
                 },
                 {
                     "alt": "alt-logo",
-                    "srcImage": "/public2/landings/velp/equipos/agitadores-magneticos/arex-6/1.jpg",
+                    "srcImage": "/public2/landings/velp/equipos/agitadores-magneticos/arec-7/VELP_AREC7_F20500680_3-4_baker.jpg",
                     "typeProduct": {
                         "name": "Agitadores",
                         "keyname": "agitadores"
@@ -796,26 +796,9 @@
                         "name": "Agitadores Magneticos con calefacción",
                         "keyname": "agitadores-magneticos-calefaccion"
                     },
-                    "name": "AREX 6 Agitadores magnéticos con calefacción",
-                    "description": "Agitador calefactor magnético potente y seguro con placa de aluminio revestido de cerámica con posibilidad de conectar los termorreguladores VTF.",
-                    "descriptionLong": "Agitador calefactor magnético potente y seguro con placa de aluminio revestido de cerámica con posibilidad de conectar los termorreguladores VTF.\n          <br><br>\n          <h5>Seguro y fácil de usar</h5>\n          La tecla central activa el calentamiento de la placa solo después de una ligera presión, evitando un encendido accidental.\n          <br><br>\n          El icono de seguridad informa al operador que la placa está caliente, evitando posibles quemaduras. Permanecerá encendido hasta que la temperatura sea inferior a 50 °C.\n          <br><br>\n          Los mandos permiten un ajuste preciso de la velocidad y la temperatura con nueva ergonomía y mayor sensibilidad.\n          <br><br>\n          AREX 6 es un producto IP42 diseñado para garantizar años de uso y resistencia incluso en las situaciones más complejas. La estructura y los materiales protegen las partes internas del instrumento de posibles daños. AREX 6 tiene una garantía de 3 años (la extensión de la garantía se obtiene registrando el producto).\n          <br><br>\n          La cubierta de silicona asegura una mayor protección del instrumento contra posibles derrames o salpicaduras.\n          <br><br>\n          <h5>Termorregulación digital con VTF y VTF EVO</h5>\n          Al conectar los controladores de temperatura digitales VTF y VTF EVO, el AREX 6 se convierte en un instrumento de nivel superior, con temporizador integrado para programar actividades.\n          <br><br>\n          El VTF EVO permite controlar todos los parámetros de temperatura directamente desde el PC, gracias a la conexión inalámbrica. Además, es posible establecer rampas de temperatura o set point de temperatura.\n          <br><br>\n          <h5>Prestaciones sin precedentes</h5>\n          El motor brushless permite agitar hasta 20 litros a una velocidad regulable de 30 a 1700 rpm. Gracias al sistema SpeedServo ™, la velocidad se mantiene constante incluso cuando cambia la viscosidad.\n          <br><br>\n          El imán AlNiCo garantiza una agitación homogénea, incluso en las zonas periféricas de la placa y un potente acoplamiento magnético entre el motor y la barra de agitación.\n          <br><br>\n          La placa CerAlTop ™, fabricada en aleación de aluminio revestida con una capa de cerámica, garantiza una transferencia de calor rápida y homogénea en toda la superficie. Además, la fina capa de cerámica protege la placa de arañazos y productos químicos.\n          ",
-                    "videoLink": "",
-                    "sendPriceText": "Ver más información"
-                },
-                {
-                    "alt": "alt-logo",
-                    "srcImage": "/public2/landings/velp/equipos/agitadores-magneticos/are-6/1.jpg",
-                    "typeProduct": {
-                        "name": "Agitadores",
-                        "keyname": "agitadores"
-                    },
-                    "categoryProduct": {
-                        "name": "Agitadores Magneticos con calefacción",
-                        "keyname": "agitadores-magneticos-calefaccion"
-                    },
-                    "name": "ARE 6 Agitadores magnéticos con calefacción",
-                    "description": "Agitador de calentamiento magnético con placa de aluminio, equipado con motor brushless, nuevo imán de AlNiCo, botón iluminado para activar el calentamiento e indicación de la temperatura de la placa.",
-                    "descriptionLong": "Agitador de calentamiento magnético con placa de aluminio, equipado con motor brushless, nuevo imán de AlNiCo, botón iluminado para activar el calentamiento e indicación de la temperatura de la placa.\n          <br><br>\n          <h5>Seguro y fácil de usar</h5>\n          La tecla central activa el calentamiento de la placa solo después de una ligera presión, evitando un encendido accidental.\n          <br><br>\n          El icono de seguridad informa al operador que la placa está caliente, evitando posibles quemaduras. Permanecerá encendida hasta que la temperatura sea inferior a 50 °C.\n          <br><br>\n          Los botones permiten un ajuste preciso de la velocidad y la temperatura con nueva ergonomía y mayor sensibilidad.\n          <br><br>\n          ARE 6 es un producto IP42 diseñado para garantizar años de uso y resistencia incluso en las situaciones más complejas. La estructura y los materiales protegen las partes internas del instrumento de posibles daños. ARE 6 tiene una garantía de 3 años (la extensión de la garantía se obtiene registrando el producto).\n          <br><br>\n          La cubierta de silicona asegura una mayor protección del instrumento contra posibles derrames o salpicaduras.\n          <br><br>\n          <h5>Prestaciones sin precedentes</h5>\n          El motor brushless permite agitar hasta 20 litros a una velocidad regulable de 30 a 1700 rpm. Gracias al sistema SpeedServo ™, la velocidad se mantiene constante incluso cuando cambia la viscosidad.\n          <br><br>\n          El imán de AlNiCo garantiza una agitación homogénea, incluso en las zonas periféricas de la placa y un potente acoplamiento magnético entre el motor y la barra de agitación, aspecto muy importante con el uso de accesorios.\n          <br><br>\n          La placa CerAlTop™, de aleación de aluminio revestida con una capa cerámica, garantiza una transferencia de calor rápida y homogénea en toda la superficie. Además, la fina capa de cerámica protege la placa de arañazos y productos químicos.\n          ",
+                    "name": "AREC 7 Agitador magnético con calefacción con placa Cerámica",
+                    "description": "Calentamiento y agitación óptimos para aplicaciones básicas de laboratorio.",
+                    "descriptionLong": "El agitador magnético con calefacción con placa cerámica AREC 7 está diseñado para ofrecer un rendimiento fiable en las aplicaciones cotidianas de laboratorio, ofreciendo un calentamiento potente y una capacidad de agitación eficiente. \n\n\n Su avanzada tecnología de placa calefactora garantiza un control uniforme de la temperatura hasta 550 °C, proporcionando una excelente estabilidad térmica para una preparación precisa de las muestras. \n\n\n Con capacidad para agitar hasta 15 litros, el robusto motor sin escobillas funciona suavemente en una amplia gama de velocidades de 100 a 1.500 rpm. <br><br> Tanto si se realizan valoraciones como si se preparan muestras y tampones, la tecnología de contrarreacción SpeedServo™ mantiene velocidades de agitación constantes incluso cuando cambia la viscosidad del medio, lo que garantiza resultados fiables y repetibles en todo momento. <br><br> Facilidad de uso y seguridad para los operarios de laboratorio El agitador magnético con calefacción con placa cerámica AREC 7 prioriza la seguridad del operario y la durabilidad. <br><br> Un claro icono de advertencia se ilumina cuando la temperatura de la placa supera los 50 °C y la función de calentamiento está inactiva, lo que minimiza el riesgo de quemaduras accidentales. <br><br> Su robusta estructura está diseñada para soportar los duros entornos de laboratorio y resistir la corrosión química. La placa cerámica es resistente a los arañazos y fácil de limpiar, lo que garantiza un rendimiento duradero con un mantenimiento mínimo. <br><br> Además, el agitador magnético con calefacción con placa cerámica AREC 7 está respaldado por una garantía de 3 años (es necesario registrar el producto en línea).",
                     "videoLink": "",
                     "sendPriceText": "Ver más información"
                 },
@@ -870,9 +853,9 @@
                     "videoLink": "",
                     "sendPriceText": "Ver más información"
                 },
-                {
+                 {
                     "alt": "alt-logo",
-                    "srcImage": "/public2/landings/velp/equipos/agitadores-magneticos/arec-connect/1.jpg",
+                    "srcImage": "/public2/landings/velp/equipos/agitadores-magneticos/arec-7-magnetico/VELP_AREC7Digital_SB20500681_3-4_VTF.jpg",
                     "typeProduct": {
                         "name": "Agitadores",
                         "keyname": "agitadores"
@@ -881,15 +864,32 @@
                         "name": "Agitadores Magneticos con calefacción",
                         "keyname": "agitadores-magneticos-calefaccion"
                     },
-                    "name": "AREC Connect Agitador magnético con Calefacción con placa Cerámica",
-                    "description": "Innovador agitador magnético con placa de cerámica, seguro y vanguardista con tecnología Wi-Fi integrada que garantiza una termorregulación precisa y una agitación potente para los laboratorios químicos, farmacéuticos y biotecnológicos.",
-                    "descriptionLong": "Innovador agitador magnético con placa de cerámica, seguro y vanguardista con tecnología Wi-Fi integrada que garantiza una termorregulación precisa y una agitación potente para los laboratorios químicos, farmacéuticos y biotecnológicos.\n          <br><br>\n          <h5>Excelentes prestaciones en cuanto a calentamiento y termorregulación para mejorar la reproducibilidad</h5>\n          El AREC Connect está equipado con una tecnología calefactora de la placa de última generación diseñada por VELP que garantiza la homogeneidad de la temperatura, la eficiencia térmica y un rendimiento de calentamiento superior y duradero en el tiempo.\n          <br><br>\n          AREC Connect puede conectarse a la sonda externa Pt100 para una termorregulación precisa, siendo ideal para aplicaciones en las que se requiere de un control exacto de la temperatura. La mejor solución para laboratorios de Química, Biotecnología y Farmacia.\n          <br><br>\n          La sonda garantiza una termorregulación estable y precisa hasta 300 °C, con una precisión de ± 0,5 °C.\n          <br><br>\n          AREC Connect está disponible en diferentes sistemas con configuraciones diversas para adaptarse mejor a sus exigencias y obtener todo lo que necesita con un solo clic. Explore la sección MODELOS para elegir el sistema más adecuado para su laboratorio.\n          Potente agitación para todas sus reacciones de laboratorio\n          <br><br>\n          Puede confiar en el AREC Connect para las reacciones de laboratorio más exigentes, ya que agita volúmenes de hasta 20 litros (H2O) gracias al potente acoplamiento magnético.\n          <br><br>\n          Gracias al potente motor Brushless, el AREC Connect agita soluciones acuosas desde 30 hasta 1700 rpm siendo ideal para cualquier tipo de aplicación tanto a bajas como a altas velocidades. Incluso las aplicaciones químicas, farmacéuticas y microbiológicas más exigentes y sensibles se agitan con un rendimiento superior.\n          <br><br>\n          El AREC Connect está equipado con la tecnología SpeedServo™ diseñada por VELP gracias a la cual se mantiene constante la velocidad de agitación aunque cambie la viscosidad.\n          <br><br>\n          <h5>Seguridad absoluta y facilidad de uso para los operadores de laboratorio</h5>\n          El agitador magnético con calefacción AREC Connect garantiza una seguridad y protección superior para los usuarios, ya que está fabricado íntegramente con tecnopolímero y está equipado con una placa de cerámica extremadamente resistente, ideal por su alta resistencia a los ácidos, las bases y los solventes.\n          <br><br>\n          Cuando la temperatura de la placa es superior a 50 °C y la función de calentamiento no está activada, aparece el mensaje de seguridad de superficie caliente \"hot\".\n          <br><br>\n          El panel de control es de fácil acceso, está situado a una distancia segura de la fuentes de calor y está protegido contra posibles daños causados por derrames accidentales de líquidos gracias a una canalización para el drenaje de estos líquidos.\n          <br><br>\n          La estructura de tecnopolímero está cuidadosamente diseñada para que los derrames accidentales de líquidos no penetren y  lleguen a  los componentes electrónicos del instrumento.\n          <br><br>\n          Utilizando un paño húmedo, todos los residuos se eliminarán fácilmente y el AREC Connect con su placa de cerámica quedará perfectamente limpio y listo para su siguiente uso en el laboratorio.\n          <br><br>\n          <h5>Ahorre tiempo con la interfaz de usuario extremadamente intuitiva</h5>\n          Gracias a la doble pantalla digital extremadamente luminosa y de fácil lectura del AREC Connect, podrá controlar constantemente la temperatura y la velocidad de agitación seleccionadas girando los prácticos mandos: el izquierdo para la temperatura (hasta 550 °C) y el derecho para la velocidad de agitación (hasta 1700 rpm).\n          <br><br>\n          El agitador magnético de placa caliente AREC Connect ofrece un diseño muy innovador para una comodidad absoluta sobre el banco y/o dentro de la campana del laboratorio.\n          <br><br>\n          <h5>Funcionamiento programable para una mayor eficiencia en el laboratorio</h5>\n          AREC Connect está equipado con algunas funciones exclusivas y extremadamente avanzadas que optimizan el funcionamiento y no es necesaria la supervisión por parte del usuario:\n          <ul>\n          <li>Temporizador integrado para adaptarse a su flujo de trabajo en el laboratorio: de 1 minuto a 99 h 59 min (pasos de 1 minuto)</li>\n          <li>Inversión automática de la dirección de agitación que garantiza una mayor capacidad de mezcla: de 5 s a 99 min 59 s (pasos de 1 s)</li>\n          <li>Programas en modo intermitente para mejorar la programación de las operaciones sin supervisión - de 5 s a 99 min 59 s (pasos de 1 s)</li>\n          <li>Señales acústicas cuando termina el temporizador y para las alarmas</li>\n          <li>Función de bloqueo de seguridad para evitar la posible alteración de las condiciones de trabajo</li>\n          </ul>\n          El AREC Connect y sus funciones premium son fáciles de utilizar gracias a la interfaz de usuario inteligente con iconos  intuitivos en la pantalla LED.\n          <br><br>\n          De la gestión manual, que consume mucho más tiempo, a los procesos de laboratorio con VELP Ermes\n          <br><br>\n          AREC Connect cuenta con tecnología Wi-Fi integrada para conectarse a VELP Ermes Cloud Platform, la solución perfecta para su Smart Lab.\n          <br><br>\n          VELP Ermes Cloud Platform permite reducir las tareas manuales diarias y las operaciones repetitivas gracias a la supervisión y el control en tiempo real de su AREC Connect.\n          <br><br>\n          Sólo con un PC, un Smartphone o una Tablet podrá acceder a los datos de su instrumento y a las condiciones de trabajo en cualquier momento y en cualquier lugar, podrá gestionar sus análisis recientes y compartir informes con sus compañeros.\n          <br><br>\n          Conecte su agitador con calefacción a VELP Ermes y benefíciese de un soporte técnico premium y único de los centros autorizados por VELP. \n          <br><br>\n          Las notificaciones inmediatas de eventos y alarmas le informan sobre los análisis y la interrupción remota de los mismos garantiza el control total de su proceso.\n          <br><br>\n          El registro de datos y la información sobre el instrumento están disponibles para mejorar la productividad de su laboratorio y la reproducibilidad de sus análisis.\n          ",
+                    "name": "AREC 7 Advance Agitador Magnético con Placa de Calentamiento de Cerámica",
+                    "description": "El agitador AREC 7 Advance con placa calefactora cerámica digital es un agitador con placa calefactora de cerámica de última generación de 18×18 cm (7×7\"), que combina un rendimiento potente, características avanzadas de seguridad, varias opciones de conectividad y una experiencia de usuario mejorada, garantizando precisión, eficiencia y seguridad sin compromisos en cada experimento.",
+                    "descriptionLong": "El agitador AREC 7 Advance con placa calefactora cerámica digital es un agitador con placa calefactora de cerámica de última generación de 18×18 cm (7×7\"), que combina un rendimiento potente, características avanzadas de seguridad, varias opciones de conectividad y una experiencia de usuario mejorada, garantizando precisión, eficiencia y seguridad sin compromisos en cada experimento.<br><br> Establece rampas de temperatura y velocidad de agitación Optimizar flujos de trabajo con funciones de temporizador programables.<br> Monitorea variaciones de viscosidad Cambiar entre múltiples modos de agitación Aprovechar al máximo las opciones de conectividad versátiles<br> Temporizador (1 s a 99 h 59 min) El agitador AREC 7 Advance combina un diseño moderno con funcionalidad avanzada, presentando una placa cerámica de 18 cm, panel de control de vidrio templado y botones capacitivos para un uso fácil. Alcanza temperaturas de placa de hasta 550 °C y ofrece termorregulación precisa de muestras de hasta 350 °C (±1,0 °C) con sondas PT100 o PT1000. Rampas programables, monitoreo de viscosidad, modos de agitación y conectividad flexible lo hacen ideal para flujos de trabajo de laboratorio exigentes. La unidad cuenta con conexión para sensor de temperatura externo para sondas PT100 o PT1000 y VTF. <br><br> Para un calentamiento preciso, los usuarios pueden elegir entre los modos RÁPIDO (calentamiento rápido) y FINO (controlado, con sobrepaso mínimo). La programación por rampas permite hasta 9 pasos tanto para temperatura como para velocidad, optimizando procedimientos complejos. La placa de cerámica con advertencia 'Caliente' en la parte superior si la placa supera los 50 °C garantiza una excelente resistencia química y durabilidad en entornos de laboratorio adversos. <br><br> Un potente motor sin escobillas y un fuerte acoplamiento magnético garantizan una agitación sin mantenimiento de hasta 20 L (H₂O). El rango de velocidades de 30 a 1700 rpm, con SpeedServo™ para mantener la velocidad constante ante cambios de viscosidad, asegura resultados consistentes. Funciones avanzadas como inversión automática, modo intermitente y límites de velocidad hacen del AREC 7 Advance una opción confiable para una agitación precisa y versátil. <br><br> Material de la carcasa: Cuerpo de aluminio - Caja de tecnopolímero - Panel de control de vidrio templado.",
+                    "videoLink": "",
+                    "sendPriceText": "Ver más información"
+                },
+                 {
+                    "alt": "alt-logo",
+                    "srcImage": "/public2/landings/velp/equipos/agitadores-magneticos/arec-7-digital/VELP_AREC7Digital_F20500681_3-4_baker.jpg",
+                    "typeProduct": {
+                        "name": "Agitadores",
+                        "keyname": "agitadores"
+                    },
+                    "categoryProduct": {
+                        "name": "Agitadores Magneticos con calefacción",
+                        "keyname": "agitadores-magneticos-calefaccion"
+                    },
+                    "name": "AREC 7 Digital Placa Calefactora Cerámica Digital",
+                    "description": "Calentamiento potente, control preciso de la temperatura La placa calefactora ceramica REC 7 Digital ofrece la tecnología de calentamiento más avanzada para una uniformidad de temperatura y eficiencia superiores.",
+                    "descriptionLong": "Calentamiento potente, control preciso de la temperatura La placa calefactora ceramica REC 7 Digital ofrece la tecnología de calentamiento más avanzada para una uniformidad de temperatura y eficiencia superiores.<br><br> Es la solución ideal para laboratorios que requieren un control preciso de la temperatura de las muestras. Es posible conectar la placa calefactora a una sonda externa Pt100 o Pt1000 y al termorregulador VTF Digital para obtener un control superior de la temperatura. <br><br> Cuando se trabaja con sondas Pt100 y Pt1000 es posible conseguir un calentamiento preciso del medio hasta 350°C con una impresionante precisión de ±1,0°C. Alternativamente, utilice el VTF Digital para una termorregulación máxima del medio de 300°C y una excepcional precisión de ±0,5°C. <br><br> Una pantalla digital clara y un botón giratorio fácil de girar simplifican el ajuste de la temperatura. <br><br> Construido para durar, diseñado para la seguridad La placa calefactora REC 7 Digital prioriza la seguridad del operario y la durabilidad. <br><br> El REC 7 Digitaluenta con una duradera placa cerámica cuadrada de 7 pulgadas resistente a ácidos, bases y disolventes, lo que la hace ideal para entornos de laboratorio difíciles. Su robusta estructura está diseñada para resistir la corrosión química.<br><br> La limpieza del REC 7 Digital es sencilla: basta con utilizar un paño húmedo para eliminar cualquier residuo de la placa cerámica superior, lo que garantiza que siempre esté listo para las operaciones de laboratorio.<br><br> Además, el REC 7 Digital está diseñado para tener una vida útil prolongada y está respaldado por una garantía de 3 años (es necesario registrar el producto en línea) para garantizar su calidad.",
                     "videoLink": "",
                     "sendPriceText": "Ver más información"
                 },
                 {
                     "alt": "alt-logo",
-                    "srcImage": "/public2/landings/velp/equipos/agitadores-magneticos/arec-x/1.jpg",
+                    "srcImage": "/public2/landings/velp/equipos/agitadores-magneticos/arec-10/AREC_10_Advance-probe-rod-clamp.jpg",
                     "typeProduct": {
                         "name": "Agitadores",
                         "keyname": "agitadores"
@@ -898,15 +898,15 @@
                         "name": "Agitadores Magneticos con calefacción",
                         "keyname": "agitadores-magneticos-calefaccion"
                     },
-                    "name": "AREC.X Agitador magnético con Calefacción con placa Cerámica",
-                    "description": "Potente agitador digital de placa caliente cuadrada con una toma para la conexión a un termorregulador digital VTF Vertex. La solución ideal para los laboratorios que requieren de un control preciso de la temperatura de la muestra.",
-                    "descriptionLong": "Potente agitador digital de placa caliente cuadrada con una toma para la conexión a un termorregulador digital VTF Vertex. La solución ideal para los laboratorios que requieren de un control preciso de la temperatura de la muestra.\n          <br><br>\n          <h5>Termorregulación precisa y exacta para mejorar la reproducibilidad</h5>\n          El AREC.X es la solución más versátil para aplicaciones de laboratorio sensibles a la temperatura en las que se requiere una termorregulación precisa de la muestra.\n          <br><br>\n          La tecnología a la vanguardia de la placa calefactora de cerámica VELP garantiza la homogeneidad de la temperatura, la eficiencia térmica y un rendimiento de calentamiento duradero en el tiempo.\n          <br><br>\n          El AREC.X puede conectarse a la sonda externa Pt100 o al VTF para una termorregulación precisa del medio.\n          <br><br>\n          La sonda asegura la termorregulación hasta 250 °C, con una precisión de ± 1,0 °C, mientras que el VTF garantiza un nivel de termorregulación superior hasta 300 °C y una precisión de ± 0,5 °C. El VTF está equipado con un temporizador, para un funcionamiento sin supervisión y una mayor productividad.\n          <br><br>\n          Explore la sección de MODELOS y elija el AREC.X como sistema autónomo o seleccione la configuración del sistema que mejor se adapte a sus necesidades.\n          <br><br>\n          <h5>Potente agitación para sus reacciones de laboratorio</h5>\n          Puede confiar en el AREC.X para las reacciones de laboratorio más exigentes, ya que agita volúmenes de hasta 15 litros (H2O) gracias a su potente motor y a su acoplamiento magnético.\n          <br><br>\n          El AREC.X agita soluciones acuosas desde 50 hasta 1500 rpm siendo una solución adecuada para cualquier tipo de aplicación tanto a bajas como a altas velocidades.\n          <br><br>\n          El control electrónico adapta la velocidad de agitación para que esta se mantenga constante aunque se produzcan cambios en la viscosidad del medio.\n          <br><br>\n          <h5>Seguridad y facilidad de uso para los operadores de laboratorio</h5>\n          <br><br>\n          El agitador calefactor de cerámica AREC.X garantiza un alto nivel de seguridad y protección para los operadores de laboratorio.\n          <br><br>\n          Cuando la temperatura de la placa es superior a 50 °C y la función de calentamiento no está activa, aparece un mensaje de seguridad de superficie \"Hot\".\n          <br><br>\n          La estructura de tecnopolímero resiste a los productos químicos incluso en entornos difíciles. La ranura de drenaje específica está cuidadosamente diseñada para que los derrames accidentales de líquidos no lleguen a la parte electrónica del instrumento.\n          <br><br>\n          La placa cerámica extremadamente resistente es fácil de limpiar y resistente a los ácidos, las bases y los solventes. Utilizando un paño húmedo, todos los residuos se eliminarán fácilmente y el AREC.X con su placa de cerámica quedará perfectamente limpio y listo para su siguiente uso en el laboratorio.\n          <h5>Ahorre tiempo con la interfaz de usuario intuitiva</h5>\n          Gracias a la pantalla digital del AREC.X, extremadamente luminosa y de fácil lectura, podrá controlar constantemente la temperatura girando el práctico mando (hasta 550 °C).\n          <br><br>\n          La interfaz intuitiva garantiza un control excelente de las condiciones de trabajo. Un indicador LED blanco y brillante informa de que la agitación está en marcha.\n          <br><br>\nEl agitador magnético de placa caliente AREC.X ofrece un diseño muy innovador para una comodidad absoluta sobre el banco y/o dentro de la campana del laboratorio.\n          ",
+                    "name": "AREC 10 Advance Agitador magnético con placa de Calentamiento de Cerámica",
+                    "description": "El agitador AREC 10 Advance con placa caliente cerámica digital es un agitador con placa cerámica de 26×26 cm de última generación que combina un rendimiento potente, funciones de seguridad avanzadas, varias opciones de conectividad y una experiencia de usuario mejorada, garantizando precisión, eficiencia y seguridad sin compromisos en cada experimento.",
+                    "descriptionLong": "El agitador AREC 10 Advance con placa caliente cerámica digital es un agitador con placa cerámica de 26×26 cm de última generación que combina un rendimiento potente, funciones de seguridad avanzadas, varias opciones de conectividad y una experiencia de usuario mejorada, garantizando precisión, eficiencia y seguridad sin compromisos en cada experimento. <br \\><br \\> Establece rampas de temperatura y velocidad de agitación Optimiza los flujos de trabajo con funciones de temporizador programables Monitorea las variaciones de viscosidad Cambia entre múltiples modos de agitación Aprovecha al máximo las opciones de conectividad versátiles Temporizador (1 s a 99 h 59 min) <br \\><br \\> El agitador AREC 10 Advance cuenta con una gran placa cerámica de 26 cm (10\") y una interfaz intuitiva con botones capacitivos y un panel de vidrio templado, que ofrece excelente visibilidad y resistencia química. Proporciona temperaturas de placa de hasta 550 °C y termorregulación precisa de hasta 350 °C (±1,0 °C) con sondas PT100 o PT1000. Con 9 rampas programables, funciones de temporizador, modos de agitación y conectividad flexible, está diseñado para flujos de trabajo avanzados en laboratorio. La unidad dispone de conexión externa con sensor de temperatura para sondas PT100 o PT1000 y VTF. <br \\><br \\> Se pueden configurar 9 perfiles personalizados de temperatura y velocidad para adaptarse a las necesidades de reacciones complejas, mejorando la reproducibilidad y el control. La placa cerámica de alta eficiencia con una advertencia 'Caliente' en la parte superior si la placa supera los 50 °C garantiza una distribución uniforme del calor y una durabilidad prolongada, incluso en entornos químicos agresivos. <br \\><br \\> Gracias a un potente motor sin escobillas y un fuerte acoplamiento magnético, el AREC 10 Advance permite agitar hasta 25 L (H₂O) en un rango de 30 a 1700 rpm. SpeedServo™ mantiene una velocidad constante a pesar de los cambios en la viscosidad, mientras que el indicador de variación de viscosidad permite un monitoreo en tiempo real. Con inversión automática, agitación intermitente y límites de velocidad ajustables, ofrece un rendimiento preciso y fiable para aplicaciones de alta demanda. <br \\><br \\> Material de la carcasa: cuerpo de aluminio - carcasa de tecnopolímero - panel de control de vidrio templado.",
                     "videoLink": "",
                     "sendPriceText": "Ver más información"
                 },
                 {
                     "alt": "alt-logo",
-                    "srcImage": "/public2/landings/velp/equipos/agitadores-magneticos/arec/1.jpg",
+                    "srcImage": "/public2/landings/velp/equipos/agitadores-magneticos/arec-10-digital/AREC10_DIGITAL_1.jpg",
                     "typeProduct": {
                         "name": "Agitadores",
                         "keyname": "agitadores"
@@ -915,9 +915,26 @@
                         "name": "Agitadores Magneticos con calefacción",
                         "keyname": "agitadores-magneticos-calefaccion"
                     },
-                    "name": "AREC Agitador magnético con Calefacción con placa Cerámica",
-                    "description": "Potente agitador digital de placa caliente cuadrada. Resistente, seguro y fiable. La solución ideal para aplicaciones básicas de laboratorio.",
-                    "descriptionLong": "Potente agitador digital de placa caliente cuadrada. Resistente, seguro y fiable. La solución ideal para aplicaciones básicas de laboratorio.\n          <br><br>\n          <h5>Calentamiento y agitación óptimos para aplicaciones básicas de laboratorio</h5>\n          El agitador con placa cafectora de cerámica AREC está diseñado para laboratorios que necesiten un ajuste preciso de la temperatura y una potente agitación, ideal para para valoraciones o preparaciones de muestras y soluciones tampón.\n          <br><br>\n          El AREC está equipado con una tecnología calefactora de la placa a la vanguardia diseñada por VELP que garantiza la homogeneidad de la temperatura en toda la superficie de la placa, la eficiencia térmica y un rendimiento del calentamiento duradero en el tiempo.\n          <br><br>\n          El potente motor del AREC agita volúmenes de hasta 15 litros (H2O) gracias a un excelente acoplamiento magnético.\n          <br><br>\n          Con una selección de velocidad de agitación de 50 a 1500 rpm, el AREC es una solución adecuada para aplicaciones tanto a bajas como a altas velocidades.\n          <br><br>\n          <h5>Facilidad de uso y seguridad para los operarios del laboratorio</h5>\n          La pantalla digital del AREC, luminosa y de fácil lectura, permite ajustar y controlar con precisión la temperatura de la placa desde la temperatura ambiente hasta los 550 °C.\n          <br><br>\n          El agitador de placa caliente de cerámica AREC garantiza un alto nivel de seguridad y protección para los operadores del laboratorio.\n          <br><br>\n          Cuando la temperatura de la placa es superior a 50 °C y la función de calentamiento no está activada, aparece un mensaje de seguridad de superficie caliente “Hot”.\n          <br><br>\n          La estructura de tecnopolímero resiste a los productos químicos incluso en entornos difíciles. La canalización de drenaje específica está cuidadosamente diseñada para que los derrames accidentales de líquidos no lleguen a la electrónica del instrumento.\n          <br><br>\n          La placa cerámica extremadamente resistente es fácil de limpiar y resistente a los ácidos, las bases y los solventes. Utilizando un paño húmedo, todos los residuos se eliminarán fácilmente y el AREC quedará perfectamente limpio.",
+                    "name": "AREC 10 Digital Agitador magnético con Calefacción con placa Cerámica",
+                    "description": "Regulación Precisa para Alta Reproducibilidad El agitador magnético calefactor AREC 10 Digital cuenta con una amplia placa cerámica de 10 pulgadas que alcanza una temperatura máxima de 550°C.",
+                    "descriptionLong": "Regulación Precisa para Alta Reproducibilidad El agitador magnético calefactor AREC 10 Digital cuenta con una amplia placa cerámica de 10 pulgadas que alcanza una temperatura máxima de 550°C. <br/><br/>AREC 10 Digital es la solución ideal para laboratorios que requieren un control preciso de la temperatura de la muestra. De hecho, es posible conectar el agitador magnético calefactor a sondas de temperatura externas - Pt100 y Pt1000, así como al termorregulador VTF Digital.<br/><br/>Con las sondas Pt100 y Pt1000 se puede lograr una regulación térmica del líquido de hasta 350°C con una precisión de ±1,0°C. Alternativamente, el VTF Digital permite controlar la temperatura de la muestra hasta 300°C, con una precisión de ±0,5°C.<br/><br/>Explora la sección de MODELOS y compara las diferentes configuraciones disponibles para encontrar la más adecuada para tus necesidades de laboratorio.<br/><br/>Rendimiento Constante y Confiable con Motor Brushless Equipado con un potente motor brushless, el AREC 10 Digital garantiza una agitación estable y confiable en una amplia gama de aplicaciones.<br/><br/>Desde reacciones químicas hasta preparación de muestras, esta herramienta ofrece un control preciso de la velocidad, ajustable de 100 a 1500 rpm, ideal para cualquier necesidad de laboratorio.<br/><br/>La tecnología SpeedServo™ asegura una velocidad constante incluso ante variaciones en la viscosidad del líquido.<br/><br/>Con una capacidad de agitación de hasta 25 litros (H2O), el AREC 10 Digital se destaca por su robustez y rendimiento superior.<br/><br/>Máxima Seguridad y Excepcional Resistencia<br/><br/>AREC 10 Digital está diseñado para garantizar seguridad y durabilidad incluso en los laboratorios más exigentes. Equipado con circuitos de seguridad integrados, monitorea constantemente las condiciones operativas para evitar riesgos de sobrecalentamiento. Un sistema de protección contra sobrecalentamiento mantiene la placa cerámica bajo control, protegiendo muestras y operadores.<br/><br/>Un mensaje de advertencia \"hot\" se activa automáticamente cuando la placa supera los 50°C sin uso, alertando a los usuarios para prevenir contactos accidentales con superficies calientes.<br/><br/>La estructura robusta y la placa cerámica de 10 pulgadas ofrecen una resistencia excepcional a los agentes químicos, garantizando una limpieza fácil y rápida. Esta combinación asegura una calidad duradera del producto, haciendo del AREC 10 Digital ideal para laboratorios que necesitan una amplia superficie de trabajo para aplicaciones más exigentes.<br/><br/>Con una garantía de 3 años (con registro en línea), el AREC 10 Digital asegura confiabilidad a largo plazo, ideal para laboratorios que requieren seguridad, durabilidad y precisión inigualables. Interfaz Intuitiva para Uso Fácil La pantalla digital del AREC 10 Digital permite un monitoreo fácil y preciso de la temperatura y la velocidad de agitación.<br/><br/>Gracias a una interfaz de usuario intuitiva, es posible ajustar con precisión la temperatura hasta 550°C y la velocidad de 100 a 1500 rpm mediante mandos sensibles.<br/><br/>La configuración rápida y el uso inmediato hacen de esta herramienta ideal para obtener resultados siempre confiables y reproducibles.",
+                    "videoLink": "",
+                    "sendPriceText": "Ver más información"
+                },
+                {
+                    "alt": "alt-logo",
+                    "srcImage": "/public2/landings/velp/equipos/agitadores-magneticos/arec-10-digital-ceramica/AREC_10_DIGITAL_1.jpg",
+                    "typeProduct": {
+                        "name": "Agitadores",
+                        "keyname": "agitadores"
+                    },
+                    "categoryProduct": {
+                        "name": "Agitadores Magneticos con calefacción",
+                        "keyname": "agitadores-magneticos-calefaccion"
+                    },
+                    "name": "AREC 10 Digital Placa Calefactora Cerámica Digital",
+                    "description": "Calentamiento eficiente y termorregulación precisa REC 10 Digital es una placa calefactora digital equipada con una tecnología de calentamiento de última generación, que garantiza uniformidad de temperatura, alta eficiencia térmica y rendimiento de calentamiento duradero.",
+                    "descriptionLong": "Calentamiento eficiente y termorregulación precisa REC 10 Digital es una placa calefactora digital equipada con una tecnología de calentamiento de última generación, que garantiza uniformidad de temperatura, alta eficiencia térmica y rendimiento de calentamiento duradero. <br><br> Es la solución ideal para los laboratorios que requieren un control preciso de la temperatura de las muestras. De hecho, es posible conectar la placa calefactora a sondas de temperatura externas - Pt100 y Pt1000, y al termorregulador VTF Digital. Con las sondas Pt100 y Pt1000 se puede obtener una termorregulación del fluido de hasta 350°C con una precisión de ±1,0°C. Alternativamente, el VTF Digital permite controlar la temperatura de la muestra hasta 300°C, con una precisión de ±0,5°C. <br><br> La pantalla digital, luminosa y fácil de leer, permite monitorear constantemente la temperatura establecida girando el práctico mando, mientras que la amplia superficie de trabajo ofrece una gran estabilidad para diversas aplicaciones. <br><br> Máxima resistencia y seguridad para el operador REC 10 Digital es una solución segura y de alto rendimiento que soporta aplicaciones de calentamiento exigentes. <br><br> La placa de cerámica de 10 pulgadas es altamente resistente a ácidos, bases y solventes, mientras que la estructura de tecnopolímero está diseñada de manera que los derrames accidentales de líquidos no alcancen los componentes electrónicos. <br><br> REC 10 Digital está diseñado para durar en el tiempo, ofrecer operaciones de limpieza fáciles y viene con una garantía de 3 años (previo registro del producto en línea).",
                     "videoLink": "",
                     "sendPriceText": "Ver más información"
                 },
@@ -940,7 +957,7 @@
                 },
                 {
                     "alt": "alt-logo",
-                    "srcImage": "/public2/landings/velp/equipos/agitadores-magneticos/am4-digital-pro/1.jpg",
+                    "srcImage": "/public2/landings/velp/equipos/agitadores-magneticos/am4-digital-pro/VELP_AM4Digital_F20500600_3-4.jpg",
                     "typeProduct": {
                         "name": "Agitadores",
                         "keyname": "agitadores"
@@ -957,7 +974,7 @@
                 },
                 {
                     "alt": "alt-logo",
-                    "srcImage": "/public2/landings/velp/equipos/agitadores-magneticos/am4/1.jpg",
+                    "srcImage": "/public2/landings/velp/equipos/agitadores-magneticos/am4/VELP_AM4_F20500590_3-4_baker.jpg",
                     "typeProduct": {
                         "name": "Agitadores",
                         "keyname": "agitadores"
@@ -974,7 +991,7 @@
                 },
                 {
                     "alt": "alt-logo",
-                    "srcImage": "/public2/landings/velp/equipos/agitadores-magneticos/multi-hs-6-15/1.jpg",
+                    "srcImage": "/public2/landings/velp/equipos/agitadores-magneticos/multi-hs-6-15/F20500530_UP_72(2).jpg",
                     "typeProduct": {
                         "name": "Agitadores",
                         "keyname": "agitadores"
@@ -1025,7 +1042,7 @@
                 },
                 {
                     "alt": "alt-logo",
-                    "srcImage": "/public2/landings/velp/equipos/placas-calefactoras/rc-2/1.jpg",
+                    "srcImage": "/public2/landings/velp/equipos/placas-calefactoras/rc-2/RC_2_1.jpg",
                     "typeProduct": {
                         "name": "Agitadores",
                         "keyname": "agitadores"
@@ -1037,23 +1054,6 @@
                     "name": "RC 2 Placas Calefactoras",
                     "description": "Placa calefactora de aluminio de dos posiciones, con posibilidad de regular la temperatura.",
                     "descriptionLong": "Placa calefactora de aluminio de dos posiciones, con posibilidad de regular la temperatura.\n          <br><br>\n          <h5>Excelente rendimiento, práctico y fácil de usar</h5>\n          <ul>\n          <li>Distribución uniforme del calor con placa calefactora revestida de aleación de aluminio</li>\n          <li>Excelente resistencia química</li>\n          <li>Temperatura máxima  370 °C</li>\n          <li>Acepta hasta 15 litros (placa de cocción Ø 135 mm)</li>\n          <li>Selección del voltaje/ frecuencia de red</li>\n          <li>Panel de control blindado contra cualquier derrames de líquidos</li>\n          <li>Diseñado para durar mucho y con garantía de 3 años</li>\n          </ul>\n          ",
-                    "videoLink": "",
-                    "sendPriceText": "Ver más información"
-                },
-                {
-                    "alt": "alt-logo",
-                    "srcImage": "/public2/landings/velp/equipos/placas-calefactoras/rec/1VELPREC00-236772-239838.jpg",
-                    "typeProduct": {
-                        "name": "Agitadores",
-                        "keyname": "agitadores"
-                    },
-                    "categoryProduct": {
-                        "name": "Placas calefactoras",
-                        "keyname": "placas-calefactoras"
-                    },
-                    "name": "REC Placa Calefactora Ceramica Digital",
-                    "description": "Placa calefactora digital de laboratorio con una placa de cerámica que garantiza una gran resistencia a la corrosión y un ajuste preciso de la temperatura.",
-                    "descriptionLong": "Placa calefactora digital de laboratorio con una placa de cerámica que garantiza una gran resistencia a la corrosión y un ajuste preciso de la temperatura.\n          <br><br>\n          <h5>Rendimiento de calentamiento avanzado para sus reacciones de laboratorio</h5>\n          El REC está equipado con una tecnología calefactora de la placa de última generación, diseñada por VELP, que garantiza la homogeneidad de la temperatura, la eficiencia térmica y un rendimiento de calentamiento duradero en el tiempo.\n          <br><br>\n          Puede confiar en el REC para aplicaciones de laboratorio realizadas a temperaturas altas, ya que la temperatura  máxima de la placa calefactora es de 550 °C.\n          <br><br>\n          Gracias a la pantalla digital del REC, luminosa y fácil de leer, podrá controlar constantemente la temperatura deseada girando el práctico mando.\n          <br><br>\n          <h5>Facilidad de uso y seguridad para los operarios del laboratorio</h5>\n          La placa calefactora REC garantiza un alto nivel de seguridad y protección para los operarios del laboratorio, ya que está fabricada íntegramente con tecnopolímero y está dotada de una placa cerámica extremadamente resistente, siendo ideal por su alta resistencia a ácidos, bases y solventes.\n          <br><br>\n          Cuando la temperatura de la placa es superior a 50 °C y la función de calentamiento no está activada, aparece un mensaje de seguridad de superficie caliente “Hot”.\n          <br><br>\n          La estructura de tecnopolímero está cuidadosamente diseñada para que las salpicaduras accidentales de líquidos no puedan llegar a la electrónica. El diseño de bajo perfil ofrece una gran comodidad sobre el banco y dentro de la campana del laboratorio.\n          <br><br>\n          Utilizando un paño húmedo, todos los residuos se eliminarán fácilmente y el REC, con su placa superior de cerámica, quedará perfectamente limpio. Siempre listo para sus operaciones de laboratorio programadas.\n          ",
                     "videoLink": "",
                     "sendPriceText": "Ver más información"
                 },
@@ -1212,23 +1212,6 @@
                 },
                 {
                     "alt": "alt-logo",
-                    "srcImage": "/public2/landings/velp/equipos/agitadores/controller-digital/1.jpg",
-                    "typeProduct": {
-                        "name": "Agitadores",
-                        "keyname": "agitadores"
-                    },
-                    "categoryProduct": {
-                        "name": "Agitadores verticales",
-                        "keyname": "agitadores-verticales"
-                    },
-                    "name": "CONTROLLER Digital",
-                    "description": "La solución básica para gestionar y controlar la velocidad de rotación del eje de los motores sin escobillas en sistemas de reactores a escala de laboratorio de hasta 100 L",
-                    "descriptionLong": "La solución básica para gestionar y controlar la velocidad de rotación del eje de los motores sin escobillas en sistemas de reactores a escala de laboratorio de hasta 100 L\n          <br><br>\n          <h5>El controlador básico para sistemas de reacción química</h5>\n          Los sistemas de reacción de vidrio se utilizan en una amplia variedad de campos industriales para controlar los procesos químicos para transformar las materias primas en los productos finales deseados. Los reactores pueden tener una estructura compleja para hacer frente a diferentes condiciones de funcionamiento en términos de la naturaleza de los productos químicos involucrados (reactivos y productos de reacción) y las condiciones físicas de funcionamiento.\n          <br><br>\n          El CONTROLLER Digital gestiona y supervisa la velocidad de rotación del eje de los motores sin escobillas en sistemas de reactores de planta piloto de hasta 100 L. El CONTROLLER Digital admite reacciones para:\n          <ul>\n          <li>Agitación: ajuste con precisión la velocidad deseada (rpm) y la dirección de agitación</li>\n          <li>Torque: monitoree la viscosidad de la mezcla de reacción con indicadores LED</li>\n          </ul>\n          <h5>Intuitivo y fiable</h5>\n          <ul>\n          <li>Pantalla digital para ajustar con precisión la velocidad de agitación</li>\n          <li>Monitoreo de par a través de la pantalla Led dedicada de 4 segmentos</li>\n          <li>Control de velocidad preciso: ± 1 rpm</li>\n          <li>Perilla intuitiva para navegar por el menú e iniciar operaciones de detención</li>\n          <li>Temporizador para operaciones desatendidas</li>\n          <li>Cambios fáciles en la dirección de agitación CW/CCW</li>\n          <li>Botón de bloqueo de seguridad para evitar cambios involuntarios con la configuración</li>\n          </ul>\n          ",
-                    "videoLink": "",
-                    "sendPriceText": "Ver más información"
-                },
-                {
-                    "alt": "alt-logo",
                     "srcImage": "/public2/landings/velp/equipos/agitadores/dlh-digital/1.jpg",
                     "typeProduct": {
                         "name": "Agitadores",
@@ -1348,6 +1331,40 @@
                 },
                 {
                     "alt": "alt-logo",
+                    "srcImage": "/public2/landings/velp/equipos/agitadores/ecodry-block/frontale-probe.jpg",
+                    "typeProduct": {
+                        "name": "Agitadores",
+                        "keyname": "agitadores"
+                    },
+                    "categoryProduct": {
+                        "name": "Agitadores vortex",
+                        "keyname": "agitadores-vortex"
+                    },
+                    "name": "ECODryBlock",
+                    "description": "Calentador de bloque seco modular y digital, diseñado para garantizar un calentamiento preciso, uniforme y controlado de las muestras en diversas aplicaciones de laboratorio: preparación de muestras, incubación, desnaturalización de ADN, reacciones enzimáticas, pruebas en medios de cultivo y análisis COD.",
+                    "descriptionLong": "Calentador de bloque seco modular y digital, diseñado para garantizar un calentamiento preciso, uniforme y controlado de las muestras en diversas aplicaciones de laboratorio: preparación de muestras, incubación, desnaturalización de ADN, reacciones enzimáticas, pruebas en medios de cultivo y análisis COD.<br><br> <strong>Diseñado para sus aplicaciones</strong><br> ECODryBlock es un calentador de bloque seco modular que asegura un calentamiento preciso y uniforme de sus muestras, amplia gama de aplicaciones en laboratorios de Ciencias de la Vida: <ul> <li>Incubación y preparación de muestras – extracción y purificación de ADN/ARN, reacciones enzimáticas y activación de cultivos celulares.</li><li>Desnaturalización y preparación de ensayos – desnaturalización de ADN y proteínas, preparación de muestras para SDS-PAGE, estudios serológicos, inmunoensayos y pruebas clínicas como determinación de coagulación y nitrógeno ureico en sangre, e hibridaciones in situ.</li><li>Estudios físicos y químicos – determinación de puntos de fusión y ebullición, pruebas en medios de cultivo y otros protocolos analíticos</li></ul> Gracias a su amplio rango de temperatura, hasta 165 °C, ECODryBlock también puede emplearse en laboratorios ambientales para la determinación de la Demanda Química de Oxígeno (DQO) en muestras de agua. <br><br> <strong>Uso sencillo y resultados precisos</strong><br> ECODryBlock es fácil e intuitivo de operar gracias al ControlPad táctil capacitivo de 7\", con superficie de vidrio resistente a productos químicos. <br><br> El usuario puede configurar de forma independiente temporizadores y temperaturas para cada módulo, con una resolución de 0, 5 °C. La tapa transparente crea una cámara de aire caliente alrededor de los bloques, garantizando una distribución uniforme del calor, minimizando la pérdida térmica y la estratificación, para un calentamiento estable y homogéneo. <br><br> La interfaz digital permite un manejo preciso de la temperatura y un seguimiento constante, asegurando resultados reproducibles y fiables en todas las aplicaciones. <br><br> Para aplicaciones que requieren una regulación precisa de la temperatura, las sondas externas (Pt100 y Pt1000) permiten medir y ajustar la temperatura directamente dentro de la muestra. <strong>Diseño modular, máxima flexibilidad</strong> <br>Con ECODryBlock puede decidir cómo trabajar. Gracias a su diseño modular, un ControlPad puede gestionar hasta dos módulos de calentamiento independientes, cada uno con espacio para dos bloques de aluminio (95×76×51 mm). Esta configuración permite ajustar diferentes temperaturas en cada módulo, funcionando efectivamente como dos baños secos en uno. <br><br> El calentador de bloque seco de Velp ofrece máxima versatilidad con una amplia gama de bloques de aluminio intercambiables y fáciles de limpiar, diseñados para alojar viales, microtubos, tubos PCR, tiras PCR, tubos Greiner, microplacas y cubetas. Consulte la pestaña de accesorios para encontrar la configuración adecuada para su flujo de trabajo en el laboratorio. <strong>Una solución práctica para el laboratorio.</strong> Una completa gama de accesorios dedicados amplía la versatilidad y facilita su uso, incluyendo la manija para extraer los bloques calientes de forma segura y rápida. <br><br> La conexión inalámbrica mantiene la bancada organizada, mientras que su diseño compacto optimiza el espacio y se adapta fácilmente a las necesidades cambiantes del laboratorio. <br><br> Diseñado para garantizar fiabilidad y larga vida útil, ECODryBlock cuenta con 3 años de garantía (registro online requerido).",
+                    "videoLink": "",
+                    "sendPriceText": "Ver más información"
+                },
+                {
+                    "alt": "alt-logo",
+                    "srcImage": "/public2/landings/velp/equipos/agitadores-vortex/classic/CLASSIC.jpg",
+                    "typeProduct": {
+                        "name": "Agitadores",
+                        "keyname": "agitadores"
+                    },
+                    "categoryProduct": {
+                        "name": "Agitadores vortex",
+                        "keyname": "agitadores-vortex"
+                    },
+                    "name": "CLASSIC Agitador Vortex",
+                    "description": "Mezclador vortex con velocidad regulable, en modo continuo o con el exclusivo sensor de infrarrojos.",
+                    "descriptionLong": "Robusto y práctico<br><br><ul><li>Compacto en altura y superficie</li><li>La estabilidad está optimizada con la palanca para seleccionar los distintos modos de funcionamiento.</li><li>3 pies de goma antideslizantes para que permanezcar en la posición deseada</li><li>Funcionamiento a velocidad variable, controlado electrónicamente hasta 3000 vueltas/min.</li><li>Amplia variedad de accesorios para tubos, placas y matraces</li><li>Modelo universal de voltaje/frecuencia</li><li>Los accesorios se ajustan con una simple presión</li><li>Resistencia óptima a los productos químicos de las carcasas de tecnopolímero</li><li>Excelente estabilidad con base de aleación de zinc</li><li>Protección IP 42 contra partículas y líquidos</li><li>Diseñado para una vida útil más larga y con garantía de 3 años</li></ul>",
+                    "videoLink": "",
+                    "sendPriceText": "Ver más información"
+                },
+                {
+                    "alt": "alt-logo",
                     "srcImage": "/public2/landings/velp/equipos/agitadores-vortex/wizard/1.jpg",
                     "typeProduct": {
                         "name": "Agitadores",
@@ -1359,7 +1376,7 @@
                     },
                     "name": "WIZARD IR Vortex a Infrarrojo",
                     "description": "Mezclador vortex con velocidad regulable, en modo continuo o con el exclusivo sensor de infrarrojos.",
-                    "descriptionLong": "Mezclador vortex con velocidad regulable, en modo continuo o con el exclusivo sensor de infrarrojos.\n          <br><br>\n          <h5>Robusto y práctico</h5>\n          <ul>\n          <li>Compacto en altura y superficie</li>\n          <li>La estabilidad se optimiza con la palanca selectora de modo de funcionamiento</li>\n          <li>Equipado con 3 pies de goma antideslizantes para permanecer en la posición deseada</li>\n          <li>Funcionamiento a velocidad variable, controlado electrónicamente hasta 3000 giros/min.</li>\n          <li>Amplia gama de accesorios para tubos, placas y matraces</li>\n          <li>Modelo universal de tensión / frecuencia</li>\n          <li>Los accesorios se adaptan con una simple presión</li>\n          <li>Resistencia óptima a los productos químicos de las carcasas de tecnopolímero</li>\n          <li>Excelente estabilidad con base de aleación de zinc</li>\n          <li>Protección IP 42 contra partículas y líquidos</li>\n          <li>Diseñado para la vida más larga y garantizada por 3 años</li>\n          </ul>\n          <h5>Sensor de infrarrojos, patentado VELP</h5>\n          VELP Scientifica es la única empresa en el mundo que suministra el tecnológico y revolucionario sistema IR, un modo de funcionamiento extremadamente eficiente.\n          Cuando el sensor detecta un tubo, el sensor activa automáticamente el instrumento, ¡sin necesidad de presión por parte del técnico de laboratorio! \n          <br><br>\n          En comparación con el modo de presión clásico, el sistema de sensor IR patentado garantiza una reducción drástica de las tensiones percibidas por el operador. \n          ",
+                    "descriptionLong": "Mezclador vortex con velocidad regulable, en modo continuo o con el exclusivo sensor de infrarrojos.\n          <br><br>\n          <h5>Robusto y práctico</h5>\n          <ul>\n          <li>Compacto en altura y superficie</li>\n          <li>La estabilidad se optimiza con la palanca selectora de modo de funcionamiento</li>\n          <li>Equipado con 3 pies de goma antideslizantes para permanecer en la posición deseada</li>\n          <li>Funcionamiento a velocidad variable, controlado electrónicamente hasta 3000 giros/min.</li>\n          <li>Amplia gama de accesorios para tubos, placas y matraces</li>\n          <li>Modelo universal de tensión / frecuencia</li>\n          <li>Los accesorios se adaptan con una simple presión</li>\n          <li>Resistencia óptima a los productos químicos de las carcasas de tecnopolímero</li>\n          <li>Excelente estabilidad con base de aleación de zinc</li>\n          <li>Protección IP 42 contra partículas y líquidos</li>\n          <li>Diseñado para la vida más larga y garantizada por 3 años</li>\n          </ul>\n          <h5>Sensor de infrarrojos, patentado VELP</h5>\n          VELP es la única empresa en el mundo que suministra el tecnológico y revolucionario sistema IR, un modo de funcionamiento extremadamente eficiente.\n          Cuando el sensor detecta un tubo, el sensor activa automáticamente el instrumento, ¡sin necesidad de presión por parte del técnico de laboratorio! \n          <br><br>\n          En comparación con el modo de presión clásico, el sistema de sensor IR patentado garantiza una reducción drástica de las tensiones percibidas por el operador. \n          ",
                     "videoLink": "",
                     "sendPriceText": "Ver más información"
                 },
@@ -1376,7 +1393,7 @@
                     },
                     "name": "TX4 Agitador Vortex Digital con Sensor IR",
                     "description": "Mezclador Vortex con display digital, velocidad regulable, en modo continuo o con el exclusivo sensor de infrarrojos.",
-                    "descriptionLong": "Mezclador Vortex con display digital, velocidad regulable, en modo continuo o con el exclusivo sensor de infrarrojos.\n          <br><br>\n          <h5>Robusto y versátil</h5>\n          <ul>\n          <li>Control digital de tiempo y velocidad</li>\n          <li>Operación cronometrada hasta 999: 59 minutos</li>\n          <li>Pantalla LCD grande y brillante de múltiples parámetros</li>\n          <li>Operación de velocidad variable, controlada electrónicamente hasta 3000 giros/min.</li>\n          <li>Amplia variedad de accesorios</li>\n          <li>Modelo universal de voltaje/frecuencia</li>\n          <li>Los accesorios se ajustan con una simple presión</li>\n          <li>Resistencia química óptima</li>\n          <li>Excelente estabilidad con base de aleación de zinc</li>\n          <li>Base antideslizante para permanecer en la posición deseada</li>\n          <li>Protección IP 42 contra partículas y líquidos</li>\n          <li>Diseñado para una vida útil más larga de largo y garantizado por una garantía de 3 años</li>\n          </ul>\n          <h5>Sensor de infrarrojos, patentado VELP</h5>\n          VELP Scientifica es la única empresa en el mundo que suministra el revolucionario y tecnológico sistema IR, un modo de funcionamiento extremadamente eficiente.\n          <br><br>\n          Cuando el sensor detecta el tubo, el sensor activa automáticamente el instrumento, ¡sin necesidad de presión por parte del técnico de laboratorio! \n          <br><br>\n          En comparación con el modo de presión clásico, el sistema de sensor de infrarrojos patentado garantiza una reducción drástica de las tensiones percibidas por el operador.\n          ",
+                    "descriptionLong": "Mezclador Vortex con display digital, velocidad regulable, en modo continuo o con el exclusivo sensor de infrarrojos.\n          <br><br>\n          <h5>Robusto y versátil</h5>\n          <ul>\n          <li>Control digital de tiempo y velocidad</li>\n          <li>Operación cronometrada hasta 999: 59 minutos</li>\n          <li>Pantalla LCD grande y brillante de múltiples parámetros</li>\n          <li>Operación de velocidad variable, controlada electrónicamente hasta 3000 giros/min.</li>\n          <li>Amplia variedad de accesorios</li>\n          <li>Modelo universal de voltaje/frecuencia</li>\n          <li>Los accesorios se ajustan con una simple presión</li>\n          <li>Resistencia química óptima</li>\n          <li>Excelente estabilidad con base de aleación de zinc</li>\n          <li>Base antideslizante para permanecer en la posición deseada</li>\n          <li>Protección IP 42 contra partículas y líquidos</li>\n          <li>Diseñado para una vida útil más larga de largo y garantizado por una garantía de 3 años</li>\n          </ul>\n          <h5>Sensor de infrarrojos, patentado VELP</h5>\n          VELP es la única empresa en el mundo que suministra el revolucionario y tecnológico sistema IR, un modo de funcionamiento extremadamente eficiente.\n          <br><br>\n          Cuando el sensor detecta el tubo, el sensor activa automáticamente el instrumento, ¡sin necesidad de presión por parte del técnico de laboratorio! \n          <br><br>\n          En comparación con el modo de presión clásico, el sistema de sensor de infrarrojos patentado garantiza una reducción drástica de las tensiones percibidas por el operador.\n          ",
                     "videoLink": "HVSXHmHHDhs",
                     "sendPriceText": "Ver más información"
                 },
@@ -1393,13 +1410,13 @@
                     },
                     "name": "ZX4 Agitador de Vortex con Sensor IR",
                     "description": "Mezclador vortex con velocidad regulable, en modo continuo o con el exclusivo sensor de infrarrojos.",
-                    "descriptionLong": "Mezclador vortex con velocidad regulable, en modo continuo o con el exclusivo sensor de infrarrojos.\n          <br><br>\n          <h5>Resistente y versátil</h5>\n          <ul>\n          <li>Velocidad variable, controlada electrónicamente hasta 3000 vueltas/min</li>\n          <li>Amplia gama de accesorios</li>\n          <li>Modelo universal de voltaje / frecuencia</li>\n          <li>Los accesorios se ajustan con una simple presión</li>\n          <li>Óptima resistencia química</li>\n          <li>Excelente estabilidad con base de aleación de zinc</li>\n          <li>Base antideslizante para permanecer en la posición deseada</li>\n          <li>Protección IP 42 contra partículas y líquidos</li>\n          <li>Diseñado para durar mucho tiempo y garantizado durante 3 años</li>\n          </ul>\n          <h5>Sensor de infrarrojos, patentado VELP</h5>\n          VELP Scientifica es la única empresa en el mundo que suministra el revolucionario y tecnológico sistema IR, un modo de funcionamiento extremadamente eficiente.\n          <br><br>\n          Cuando el sensor detecta una probeta, el sensor activa automáticamente el instrumento, ¡sin necesidad de presión por parte del técnico de laboratorio.\n          <br><br>\n          En comparación con el modo de presión clásico, el sistema de sensor de infrarrojos patentado garantiza una reducción drástica de las tensiones percibidas por el operador.\n          ",
+                    "descriptionLong": "Mezclador vortex con velocidad regulable, en modo continuo o con el exclusivo sensor de infrarrojos.\n          <br><br>\n          <h5>Resistente y versátil</h5>\n          <ul>\n          <li>Velocidad variable, controlada electrónicamente hasta 3000 vueltas/min</li>\n          <li>Amplia gama de accesorios</li>\n          <li>Modelo universal de voltaje / frecuencia</li>\n          <li>Los accesorios se ajustan con una simple presión</li>\n          <li>Óptima resistencia química</li>\n          <li>Excelente estabilidad con base de aleación de zinc</li>\n          <li>Base antideslizante para permanecer en la posición deseada</li>\n          <li>Protección IP 42 contra partículas y líquidos</li>\n          <li>Diseñado para durar mucho tiempo y garantizado durante 3 años</li>\n          </ul>\n          <h5>Sensor de infrarrojos, patentado VELP</h5>\n          VELP es la única empresa en el mundo que suministra el revolucionario y tecnológico sistema IR, un modo de funcionamiento extremadamente eficiente.\n          <br><br>\n          Cuando el sensor detecta una probeta, el sensor activa automáticamente el instrumento, ¡sin necesidad de presión por parte del técnico de laboratorio.\n          <br><br>\n          En comparación con el modo de presión clásico, el sistema de sensor de infrarrojos patentado garantiza una reducción drástica de las tensiones percibidas por el operador.\n          ",
                     "videoLink": "",
                     "sendPriceText": "Ver más información"
                 },
                 {
                     "alt": "alt-logo",
-                    "srcImage": "/public2/landings/velp/equipos/agitadores-vortex/zx3/1VELPZX3SA202A0176-imagen 2209677.jpg",
+                    "srcImage": "/public2/landings/velp/equipos/agitadores-vortex/zx3/1VELPZX3SA202A0176-imagen_2209677.jpg",
                     "typeProduct": {
                         "name": "Agitadores",
                         "keyname": "agitadores"
@@ -1445,57 +1462,6 @@
                     "name": "OV 625 Digital Dispersor",
                     "description": "Potente dispersor digital diseñado para homogeneización, emulsificación, suspensiones y mezclado a alta velocidad de tejidos biológicos, productos farmacéuticos, cosméticos y alimentos.",
                     "descriptionLong": "Potente dispersor digital diseñado para homogeneización, emulsificación, suspensiones y mezclado a alta velocidad de tejidos biológicos, productos farmacéuticos, cosméticos y alimentos.\n          <br><br>\n          <h5>Rendimiento óptimo para una dispersión, homogeneización y mezcla excepcionales</h5>\n          El OV 625 Digital incorpora tecnologías de vanguardia y altos niveles de experiencia en ingeniería para garantizar una alta fuerza de corte y un excelente rendimiento de homogeneización, emulsión, suspensión y mezcla para una amplia gama de aplicaciones.\n          <br><br>\n          Gracias a una amplia oferta de herramientas de dispersión, el OV 625 Digital permite procesar volúmenes que van desde 0,2 mililitros hasta 2,5 litros (H2O) y hasta 5.000 mPas de muestras viscosas.\n          <br><br>\n          Cualquiera que sea el desafío de su laboratorio, puede confiar en un dispersor robusto y preciso que garantiza excelentes propiedades mecánicas y resistencia química.\n          <br><br>\n          <h5>Precisión y fiabilidad con una facilidad de uso inigualable</h5>\n          El OV 625 Digital es la solución ideal para aplicaciones con las más altas exigencias de reproducibilidad.\n          <br><br>\n          La pantalla LED brillante e intuitiva de 3 dígitos y la cómoda perilla giratoria permiten ajustes de velocidad electrónicos precisos y control entre 3.00 y 25.000 rpm.\n          <br><br>\n          El panel de control está diseñado para optimizar la experiencia del usuario: el parámetro de velocidad es visible de un vistazo para brindar una excelente visibilidad en todas las condiciones de trabajo.\n          <br><br>\n          <h5>Un dispersor seguro y duradero</h5>\n          Varias características de seguridad brindan la máxima protección para el usuario en las operaciones diarias. Una vez establecida la velocidad de consigna, el OV 625 Digital garantiza un arranque suave para alcanzar la velocidad deseada de forma gradual. Además, varias alarmas informan al operador en caso de sobrecarga y sobrecalentamiento.\n          <br><br>\n          La carcasa resistente y robusta protege todos los componentes electrónicos internos y permite un funcionamiento adecuado en las condiciones más exigentes.\n          <br><br>\n          El diseño ergonómico, compacto e innovador y la estructura robusta hacen del OV 625 Digital una solución diseñada para durar, garantizada por una garantía de 3 años (es necesario registrar el producto en línea).\n          <br><br>\n          <h5>Herramientas de dispersión de instalación rápida</h5>\n          La herramienta de dispersión adecuada es fundamental para lograr el mejor rendimiento y una alta reproducibilidad.\n          <br><br>\n          Una herramienta de dispersión consta de un rotor que gira a alta velocidad dentro de un estator estacionario . La región entre la punta del rotor y el espacio del estator se denomina espacio de corte . Debido a la alta velocidad circunferencial , el medio se introduce axialmente en el cabezal de dispersión y luego se fuerza radialmente a través de las ranuras en el espacio de corte, rompiendo las partículas. Las herramientas de dispersión VELP están fabricadas con acero inoxidable (316L) y llevan un sello de PTFE para que sean químicamente compatibles con diferentes muestras y reactivos.\n          <br><br>\n          Se requieren diferentes tipos de herramientas de dispersión para procesar diferentes fluidos. A veces es necesario utilizar dos herramientas de dispersión para lograr requisitos específicos. Gracias a una perilla y al sistema de instalación rápida, es posible cambiar la herramienta de dispersión en un abrir y cerrar de ojos y estar listo para lo siguiente.\n          ",
-                    "videoLink": "",
-                    "sendPriceText": "Ver más información"
-                },
-                {
-                    "alt": "alt-logo",
-                    "srcImage": "/public2/landings/velp/equipos/termorreactor/eco-6/1ECO-6-Termorreactor-DQO.jpg",
-                    "typeProduct": {
-                        "name": "Termorreactores",
-                        "keyname": "termorreactores"
-                    },
-                    "categoryProduct": {
-                        "name": "Termorreactores DQO",
-                        "keyname": "termorreactores-dqo"
-                    },
-                    "name": "ECO 6 Termorreactor para análisis DQO",
-                    "description": "Termorreactor de 6 posiciones con posibilidad de ajuste de la temperatura (hasta 200 °C) y tiempo de funcionamiento (hasta 999 minutos).",
-                    "descriptionLong": "Termorreactor de 6 posiciones con posibilidad de ajuste de la temperatura (hasta 200 °C) y tiempo de funcionamiento (hasta 999 minutos).\n          <br><br>\n          <h5>Intuitivo y digital</h5>\n          ECO 6 asegura una programación fácil y sencilla del tiempo (de 1 a 999 minutos o continuo) y la temperatura (de la habitación a 200 ° C).\n          A través de la pantalla digital es posible controlar la prueba en cualquier momento, visualizando la cuenta atrás constantemente.\n          <br><br>\n          La unidad se apaga automáticamente cuando expira el tiempo de análisis. La seguridad es un objetivo fundamental como lo demuestran las numerosas señales acústicas y visuales con las que está equipado.\n          <br><br>\n          <h5>Máxima versatilidad</h5>\n          ECO 6 COD se diseñó originalmente para usar tubos de ensayo relativamente grandes (Ø 42 mm) procesando hasta 6 x 200 ml, pero gracias al reductor también se puede usar con 18 tubos de 16 mm o 6 de 22 mm. Esto hace que ECO 6 sea muy versátil y flexible, ya que puede procesar muestras de acuerdo con diferentes métodos.\n          <br><br>\n          La termorreacción en pequeños tubos minimiza el consumo de reactivos y reduce el espacio y el equipo necesarios para que un solo bloque de reactor trabaje en múltiples muestras simultáneamente. ECO 6 es adecuado para realizar un análisis de DQO en poco tiempo, en tan solo 30 minutos con una temperatura de digestión alta (160 ° C).\n          ",
-                    "videoLink": "",
-                    "sendPriceText": "Ver más información"
-                },
-                {
-                    "alt": "alt-logo",
-                    "srcImage": "/public2/landings/velp/equipos/termorreactor/eco-8-y-25/1.jpg",
-                    "typeProduct": {
-                        "name": "Termorreactores",
-                        "keyname": "termorreactores"
-                    },
-                    "categoryProduct": {
-                        "name": "Termorreactores DQO",
-                        "keyname": "termorreactores-dqo"
-                    },
-                    "name": "ECO 8 y ECO 25 Termorreactor para análisis DQO",
-                    "description": "Termorreactor de 8 y 25 posiciones con temperaturas (70, 100, 120, 150, 160°C) y tiempos de fraguado (30, 60, 120 minutos o continuamente)",
-                    "descriptionLong": "Termorreactor de 8 y 25 posiciones con temperaturas (70, 100, 120, 150, 160°C) y tiempos de fraguado (30, 60, 120 minutos o continuamente)\n          <br><br>\n          <h5>Intuitivo y versatil</h5>\n          Los termorreactores ECO 8 y ECO 25 proporcionan una programación fácil e intuitiva tanto del tiempo como de la temperatura, los dos parámetros necesarios para realizar el análisis.\n          <br><br>\n          Pulsando repetidamente las teclas correspondientes, el usuario pasa de un valor a otro, pudiendo seleccionar entre cinco temperaturas (70, 100, 120, 150 y 160 °C) y cuatro tiempos (30, 60, 120 minutos o de forma continua).\n          <br><br>\n          La termorreacción en pequeños tubos minimiza el consumo de reactivos y reduce el equipo necesario, ya que solo se necesita un bloque calefactor capaz de operar sobre múltiples muestras simultáneamente.\n          <br><br>\n          Cada prueba presenta un vial desechable que se inserta en el bloque, utilizando pequeñas cantidades de reactivo y muestra, lo que reduce el coste.\n          <br><br>\n          El instrumento está equipado con apagado automático cuando se alcanza el tiempo establecido.\n          <br><br>\n          <h5>Seguro y fácil de manejar</h5>\n          Uno de los elementos que distingue a la serie ECO es sin duda el alto grado de seguridad, posible gracias a la tapa transparente de los tubos de ensayo y los distintos dispositivos de seguridad de temperatura con los que están equipados los distintos modelos.\n          <br><br>\nAdemás, ECO 25 es capaz de soportar un extractor de tubos, una especie de rack equipado con un sistema alfanumérico para simplificar la identificación de los distintos tubos. De esta forma, un beneficio adicional es la manipulación, ya que el usuario puede mover todos los tubos al mismo tiempo.\n          ",
-                    "videoLink": "",
-                    "sendPriceText": "Ver más información"
-                },
-                {
-                    "alt": "alt-logo",
-                    "srcImage": "/public2/landings/velp/equipos/termorreactor/eco-16/1.jpg",
-                    "typeProduct": {
-                        "name": "Termorreactores",
-                        "keyname": "termorreactores"
-                    },
-                    "categoryProduct": {
-                        "name": "Termorreactores DQO",
-                        "keyname": "termorreactores-dqo"
-                    },
-                    "name": "ECO 16 Termorreactor para análisis DQO",
-                    "description": "Termorreactor de 16 posiciones con capacidad para ajustar la temperatura (hasta 165 ° C) y el tiempo de funcionamiento (hasta 999 minutos).",
-                    "descriptionLong": "Termorreactor de 16 posiciones con capacidad para ajustar la temperatura (hasta 165 ° C) y el tiempo de funcionamiento (hasta 999 minutos).\n          <br><br>\n          <h5>Intuitivo y digital</h5>\n          ECO 16 asegura una programación sencilla y fácil de tiempo (de 1 a 999 minutos o continuo) y temperatura (de habitación a 165 °C).\n          A través de la pantalla digital es posible controlar la prueba en cualquier momento, visualizando la cuenta atrás constantemente.\n          <br><br>\n          La unidad se apaga automáticamente cuando expira el tiempo de análisis. La seguridad es un objetivo fundamental como lo demuestran las numerosas señales acústicas y visuales con las que está equipado. ECO 16 también tiene una tapa transparente para cubrir los tubos que ofrece un control visual constante de la muestra.\n          <br><br>\n          <h5>Seguro y rápido</h5>\n          ECO 16 se puede utilizar con 14 tubos de ensayo de 16 mm y 2 de 22 mm.\n          <br><br>\n          La termorreacción en pequeños tubos minimiza el consumo de reactivos y reduce el espacio y el equipo necesarios ya que un solo reactor trabaja con múltiples muestras simultáneamente.\n          <br><br>\n          ECO 16 es adecuado para realizar un análisis de DQO en poco tiempo, en tan solo 30 minutos con una temperatura de digestión alta (16\n          ",
                     "videoLink": "",
                     "sendPriceText": "Ver más información"
                 },
@@ -1620,75 +1586,7 @@
                 },
                 {
                     "alt": "alt-logo",
-                    "srcImage": "/public2/landings/velp/equipos/incubadoras/foc-200e/1.jpg",
-                    "typeProduct": {
-                        "name": "Incubadores",
-                        "keyname": "incubadores"
-                    },
-                    "categoryProduct": {
-                        "name": "Incubadores refrigerados",
-                        "keyname": "incubadores-refrigerados"
-                    },
-                    "name": "FOC 200E Connect Cooled Incubator",
-                    "description": "Termostato refrigerado de 200L que proporciona una alta conectividad y preciso control de la temperatura gracias al innovativo sistema Auto-Tuning.",
-                    "descriptionLong": "Termostato refrigerado de 200L que proporciona una alta conectividad y preciso control de la temperatura gracias al innovativo sistema Auto-Tuning.\n          <br><br>\n          <h5>Máxima regulación y estabilidad térmica</h5>\n          <ul>\n          <li>El sistema de regulación Auto-Tuning asegura una excelente homogeneidad y estabilidad térmica (±0,5°C)</li>\n          <li>Sistema de refrigeración ecológico</li>\n          <li>Rango de la temperatura de incubación entre 3 y 50 °C</li>\n          <li>Sistema de termorregulación Auto-Tuning</li>\n          <li>Temperatura uniforme gracias a la ventilación forzada</li>\n          <li>Bajos costes de operación</li>\n          </ul>\n          <h5>Preciso y fácil de usar</h5>\n          <ul>\n          <li>Volumen total de 200 litros</li>\n          <li>Enchufes internos para alimentar dispositivos</li>\n          <li>Interfaz digital intuitiva con tres teclas para facilitar la configuración del instrumento</li>\n          <li>Acepta hasta 4 sistemas Respirometric Sensor VELP (4 sistemas de sensores de DBO 6, o 1 sistema de sensores de DBO 10)</li>\n          <li>Control constante de acuerdo a las BPL (Buenas Prácticas de Laboratorio)</li>\n          <li>Tiempo de grabación ajustable (en caso de conexión con Ermes o TempSoft™)</li>\n          <li>TempSoft™opcional. El software incorpora umbrales de alarma altos/bajos</li>\n          <li>Calibración rápida y fácil</li>\n          </ul>\n          <h5>Controle su FOC Connect en cualquier lugar, en cualquier momento con VELP Ermes</h5>\n          Gracias a VELP Ermes ya no se necesitan cables. Pruebe la plataforma que permite reducir las operaciones rutinarias de sus instrumentos gracias al control en tiempo real de su FOC Connect dondequiera que esté.\n          <br><br>\n          Acceso al registro de sus análisis para maximizar la productividad de su trabajo.\n          <br><br>\n          Las notificaciones y alertas inmediatas le mantendrán informado del estado de sus análisis, y con la interrupción remota tendrá el control total de sus procesos garantizando una máxima seguridad.\n          Acceda a los datos de su instrumento con total seguridad a través de la plataforma VELP Ermes y benefíciese de las actualizaciones de softwares y de la asistencia inmediata ad hoc.\n          <br><br>\n          <h5>Control your FOC Connect through TEMPSoft™ software</h5>\n          Through the optional TEMPSoft™  software and the related connection of the FOC Connect to the pc, you are able to:\n          <ul>\n          <li>control up to 10 FOC Connect.</li>\n          <li>set working ramps (different times and temperatures) and the desired setpoint, with the possibility of minimum and maximum temperature alarm thresholds</li>\n          <li>monitor of the internal temperature with a dedicated graph</li>\n          <li>data export in multiple formats</li>\n          <li>store test data in conformity with GLP (Good Laboratory Practice)</li>\n          </ul>\n          FOC  Connect comes with the MODBUS  communication protocol.\n          ",
-                    "videoLink": "",
-                    "sendPriceText": "Ver más información"
-                },
-                {
-                    "alt": "alt-logo",
-                    "srcImage": "/public2/landings/velp/equipos/incubadoras/foc-200i/1.jpg",
-                    "typeProduct": {
-                        "name": "Incubadores",
-                        "keyname": "incubadores"
-                    },
-                    "categoryProduct": {
-                        "name": "Incubadores refrigerados",
-                        "keyname": "incubadores-refrigerados"
-                    },
-                    "name": "FOC 200I Connect Cooled Incubator",
-                    "description": "Termostato refrigerado de 200L que garantiza altos niveles de conectividad y temperatura constante gracias a su puerta transparente y a la regulación innovadora Auto-Tuning",
-                    "descriptionLong": "Termostato refrigerado de 200L que garantiza altos niveles de conectividad y temperatura constante gracias a su puerta transparente y a la regulación innovadora Auto-Tuning\n          <br><br>\n          <h5>Máxima regulación y estabilidad térmica</h5>\n          <ul>\n          <li>El sistema de regulación Auto-Tuning asegura una excelente homogeneidad y estabilidad térmica (±0,5°C)</li>\n          <li>Sistema de refrigeración ecológico</li>\n          <li>Puerta interior transparente para el control visual de las muestras sin perturbaciones</li>\n          <li>Rango de la temperatura de incubación entre 3 y 50 °C</li>\n          <li>Sistema de termorregulación Auto-Tuning</li>\n          <li>Temperatura uniforme gracias a la ventilación forzada</li>\n          <li>Bajos costes de operación</li>\n          </ul>\n          <h5>Preciso y fácil de usar</h5>\n          <ul>\n          <li>Volumen total de 200 litros</li>\n          <li>Enchufes internos para alimentar dispositivos</li>\n          <li>Interfaz digital intuitiva con tres teclas para facilitar la configuración del instrumento</li>\n          <li>Acepta hasta 4 sistemas Respirometric Sensor VELP (4 sistemas de sensores de DBO 6, o 1 sistema de sensores de DBO 10)</li>\n          <li>Control constante de acuerdo a las BPL (Buenas Prácticas de Laboratorio)</li>\n          <li>Tiempo de grabación ajustable (en caso de conexión con Ermes o TempSoft™)</li>\n          <li>TempSoft™opcional. El software incorpora umbrales de alarma altos/bajos</li>\n          <li>Calibración rápida y fácil</li>\n          </ul>\n          <h5>Controle su FOC Connect en cualquier lugar, en cualquier momento con VELP Ermes</h5>\n          Gracias a VELP Ermes ya no se necesitan cables. Pruebe la plataforma que permite reducir las operaciones rutinarias de sus instrumentos gracias al control en tiempo real de su FOC Connect dondequiera que esté.\n          <br><br>\n          Acceso al registro de sus análisis para maximizar la productividad de su trabajo.\n          <br>\n          Las notificaciones y alertas inmediatas le mantendrán informado del estado de sus análisis, y con la interrupción remota tendrá el control total de sus procesos garantizando una máxima seguridad.\n          Acceda a los datos de su instrumento con total seguridad a través de la plataforma VELP Ermes y benefíciese de las actualizaciones de softwares y de la asistencia inmediata ad hoc.\n          <br><br>\n          <h5>Mantén tu FOC Connect bajo control con el software TEMPSoft™</h5>\n          Conectando el FOC directamente al PC a través del software TEMPSoft™ es posible:\n          <ul>\n          <li>controlar hasta 10 FOC Connect.</li>\n          <li>configurar temperaturas y rampas (diferentes temperaturas y tiempos) y establecer cualquier alarma</li>\n          <li>comprobar gráficamente la tendencia de la temperatura interna</li>\n          <li>exportar datos en diferentes formatos</li>\n          <li>almacenar los datos de los análisis según las BPL (Buenas Prácticas de Laboratorio).</li>\n          </ul>\n          FOC Connect permite el uso del protocolo de comunicación MODBUS.\n          ",
-                    "videoLink": "",
-                    "sendPriceText": "Ver más información"
-                },
-                {
-                    "alt": "alt-logo",
-                    "srcImage": "/public2/landings/velp/equipos/incubadoras/foc-200il/1.jpg",
-                    "typeProduct": {
-                        "name": "Incubadores",
-                        "keyname": "incubadores"
-                    },
-                    "categoryProduct": {
-                        "name": "Incubadores refrigerados",
-                        "keyname": "incubadores-refrigerados"
-                    },
-                    "name": "FOC 200IL Connect Illuminated Cooled Incubator",
-                    "description": "Termostato refrigerado de 200L que garantiza una conectividad de alto nivel, iluminación homogénea y temperatura constante gracias a su puerta transparente y a su innovador sistema Auto-Tuning.",
-                    "descriptionLong": "Termostato refrigerado de 200L que garantiza una conectividad de alto nivel, iluminación homogénea y temperatura constante gracias a su puerta transparente y a su innovador sistema Auto-Tuning.\n          <br><br>\n          <h5>Máxima regulación y estabilidad térmica</h5>\n          <ul>\n          <li>El sistema de regulación Auto-Tuning asegura una excelente homogeneidad y estabilidad térmica (±0,5°C)</li>\n          <li>Sistema de refrigeración ecológico</li>\n          <li>Puerta interior transparente para el control visual de las muestras sin perturbaciones</li>\n          <li>Rango de la temperatura de incubación entre 3 y 50 °C</li>\n          <li>Sistema de termorregulación Auto-Tuning</li>\n          <li>Temperatura uniforme gracias a la ventilación forzada</li>\n          <li>Bajos costes de operación</li>\n          </ul>\n          <h5>Recomendado para:</h5>\n          <ul>\n          <li>Crecimiento de plantas</li>\n          <li>Germinación de semillas</li>\n          <li>Cultivos</li>\n          <li>Cría de plantas, insectos y pequeños animales</li>\n          <li>Cultivo de bacterias</li>\n          <li>Estudios de fermentación</li>\n          <li>Otros experimentos que requieren temperatura e iluminación constante</li>\n          </ul>\n          <h5>Preciso y fácil de usar</h5>\n          <ul>\n          <li>Temporizador para personalizar ciclos de iluminación</li>\n          <li>Equipado con 2 estantes iluminados (30.000 lux/estante) cada uno con seis barras de LED montadas horizontalmente bajo el estante</li>\n          <li>Volumen total de 200 litros</li>\n          <li>Enchufes internos para alimentar dispositivos</li>\n          <li>Interfaz digital intuitiva con tres teclas para facilitar la configuración del instrumento</li>\n          <li>Acepta hasta 4 sistemas Respirometric Sensor VELP (4 sistemas de sensores de DBO 6, o 1 sistema de sensores de DBO 10)</li>\n          <li>Control constante de acuerdo a las BPL (Buenas Prácticas de Laboratorio)</li>\n          <li>Tiempo de grabación ajustable (en caso de conexión con Ermes o TempSoft™)</li>\n          <li>TempSoft™ opcional. El software incorpora umbrales de alarma altos/bajos</li>\n          <li>Calibración rápida y fácil</li>\n          </ul>\n          <h5>Controle su FOC Connect en cualquier lugar, en cualquier momento con VELP Ermes</h5>\n          Gracias a VELP Ermes ya no se necesitan cables. Pruebe la plataforma que permite reducir las operaciones rutinarias de sus instrumentos gracias al control en tiempo real de su FOC Connect dondequiera que esté.\n          <br><br>\n          Acceso al registro de sus análisis para maximizar la productividad de su trabajo.\n          Las notificaciones y alertas inmediatas le mantendrán informado del estado de sus análisis, y con la interrupción remota tendrá el control total de sus procesos garantizando una máxima seguridad.\n          Acceda a los datos de su instrumento con total seguridad a través de la plataforma VELP Ermes y benefíciese de las actualizaciones de softwares y de la asistencia inmediata ad hoc.\n          <br><br>\n          <h5>Mantén tu FOC Connect bajo control con el software TEMPSoft™</h5>\n          Conectando el FOC directamente al PC a través del software TEMPSoft™ es posible:\n          <ul>\n          <li>controlar hasta 10 FOC Connect.</li>\n          <li>configurar temperaturas y rampas (diferentes temperaturas y tiempos) y establecer cualquier alarma</li>\n          <li>comprobar gráficamente la tendencia de la temperatura interna</li>\n          <li>exportar datos en diferentes formatos</li>\n          <li>almacenar los datos de los análisis según las BPL (Buenas Prácticas de Laboratorio).</li>\n          </ul>\n          FOC Connect permite el uso del protocolo de comunicación MODBUS.\n          ",
-                    "videoLink": "",
-                    "sendPriceText": "Ver más información"
-                },
-                {
-                    "alt": "alt-logo",
-                    "srcImage": "/public2/landings/velp/equipos/incubadoras/ftc-120/1.jpg",
-                    "typeProduct": {
-                        "name": "Incubadores",
-                        "keyname": "incubadores"
-                    },
-                    "categoryProduct": {
-                        "name": "Incubadores refrigerados",
-                        "keyname": "incubadores-refrigerados"
-                    },
-                    "name": "FTC 120 Incubadores Refrigerados",
-                    "description": "Incubadores refrigerados especialmente diseñado para la incubación de las unidades de medida DBO",
-                    "descriptionLong": "Incubadores refrigerados especialmente diseñado para la incubación de las unidades de medida DBO\n          <br><br>\n          <h5>Alta eficiencia</h5>\n          <ul>\n          <li>Muestras incubadas a 20 °C estándar</li>\n          <li>Tomas internas para alimentar los dispositivos de medición de DBO</li>\n          <li>Acepta 3 sistemas de sensores DBO 6, o 2 sistemas de sensores DBO 10</li>\n          <li>Temperatura uniforme gracias al uso de ventilación forzada</li>\n          <li>Visualización de 2 dígitos de la temperatura interna</li>\n          <li>Sistema de refrigeración ecológico</li>\n          <li>Coste operativo reducido</li>\n          </ul>\n          ",
-                    "videoLink": "",
-                    "sendPriceText": "Ver más información"
-                },
-                {
-                    "alt": "alt-logo",
-                    "srcImage": "/public2/landings/velp/equipos/floculadores/fc-s/1.jpg",
+                    "srcImage": "/public2/landings/velp/equipos/floculadores/fc-s/VELP_FC4S_Flocculator.jpg",
                     "typeProduct": {
                         "name": "Floculadores",
                         "keyname": "floculadores"
@@ -1705,7 +1603,7 @@
                 },
                 {
                     "alt": "alt-logo",
-                    "srcImage": "/public2/landings/velp/equipos/floculadores/fp4/1.jpg",
+                    "srcImage": "/public2/landings/velp/equipos/floculadores/fp4/VELP_FP4_Flocculator.jpg",
                     "typeProduct": {
                         "name": "Floculadores",
                         "keyname": "floculadores"
@@ -1722,7 +1620,7 @@
                 },
                 {
                     "alt": "alt-logo",
-                    "srcImage": "/public2/landings/velp/equipos/floculadores/jlt/1.jpg",
+                    "srcImage": "/public2/landings/velp/equipos/floculadores/jlt/VELP_JLT6_Flocculator.jpg",
                     "typeProduct": {
                         "name": "Floculadores",
                         "keyname": "floculadores"
@@ -1734,91 +1632,6 @@
                     "name": "JLT Floculadores para Prueba de Jarras",
                     "description": "Floculadores en 4 y 6 posiciones con display digital y temporizador para Prueba de Jarras.",
                     "descriptionLong": "Floculadores en 4 y 6 posiciones con display digital y temporizador para Prueba de Jarras.\n          <br><br>\n          <h5>Simple y fiable</h5>\n          <ul>\n          <li>Tiempo de funcionamiento controlado por microprocesador para operaciones desatendidas</li>\n          <li>Panel trasero iluminado para simplificar la observación de la muestra</li>\n          <li>Varillas de agitación de altura ajustable con la ayuda de herramientas</li>\n          <li>La velocidad seleccionable digitalmente de 10 a 300 rpm.</li>\n          <li>Velocidad y tiempo idénticos para todas las posiciones para obtener resultados comparables</li>\n          <li>Resultados fiables y repetibles gracias a la calidad de la agitación VELP</li>\n          <li>Velocidad precisa gracias a un motorreductor de corriente continua controlado electrónicamente</li>\n          <li>Alta resistencia a la corrosión química y mecánica</li>\n          <li>Pantalla LED de alta visibilidad para velocidad y tiempo</li>\n          <li>Elección de modelos de 4 o 6 posiciones</li>\n          </ul>\n          <h5>¿Qué es la Prueba de Jarras?</h5>\n          La Prueba de Jarras (Jar Test) es una prueba a escala relativa a los productos químicos utilizados en un sistema de agua en particular.\n          <br><br>\n          Simula, a escala, el proceso de coagulación/floculación que tiene lugar en una planta de tratamiento de aguas, lo que ayuda al operador a determinar la cantidad adecuada de productos químicos para el tratamiento y, por tanto, mejorando el rendimiento de la planta. \n          <br><br>\n          La prueba implica ajustar la cantidad de productos químicos y la secuencia en la que se agregan. La muestra debe agitarse de forma decuada para que la formación de flóculos, el desarrollo y el asentamiento puedan observarse exactamente como sucedería en una instalación de tratamiento a gran escala.\n          <br><br>\n          Luego, el operador realiza una serie de pruebas para comparar los efectos de diferentes cantidades de agentes floculantes a diferentes valores de pH para determinar el tamaño adecuado.\n          ",
-                    "videoLink": "",
-                    "sendPriceText": "Ver más información"
-                },
-                {
-                    "alt": "alt-logo",
-                    "srcImage": "/public2/landings/velp/equipos/agitadores/rotax-6-8/1.jpg",
-                    "typeProduct": {
-                        "name": "Agitadores",
-                        "keyname": "agitadores"
-                    },
-                    "categoryProduct": {
-                        "name": "Agitadores rotativos",
-                        "keyname": "agitadores-rotativos"
-                    },
-                    "name": "ROTAX 6.8 Mezclador rotatorio",
-                    "description": "Mezclador rotativo capaz de ofrecer un excelente rendimiento para todas las aplicaciones donde se requiera rotación, agitación y mezcla de la muestra.",
-                    "descriptionLong": "Mezclador rotativo capaz de ofrecer un excelente rendimiento para todas las aplicaciones donde se requiera rotación, agitación y mezcla de la muestra.\n          <br><br>\n          <h5>Preciso y seguro</h5>\n          <ul>\n          <li>Resistencia a la corrosión química y mecánica</li>\n          <li>La rotación se detiene automáticamente en caso de bloqueo</li>\n          <li>Cumple con las normas UNI 10802 y DIN 38414</li>\n          <li>Regulación electrónica de velocidad hasta 30 rpm</li>\n          <li>LCD para indicación de velocidad</li>\n          <li>Acepta 6 botellas de 2 L o 8 x 1 L (con adaptador)</li>\n          </ul>\n          <h5>Recomendado para:</h5>\n          <ul>\n          <li>Evaluación de la solubilidad de contaminantes en agua, provenientes de lodos;</li>\n          <li>La evaluación de sedimentos y residuos sólidos de plantas de tratamiento de residuos, plantas de tratamiento de aguas residuales;</li>\n          <li>Laboratorios de análisis de residuos y laboratorios de análisis medioambiental.</li>\n          </ul>\n          ",
-                    "videoLink": "",
-                    "sendPriceText": "Ver más información"
-                },
-                {
-                    "alt": "alt-logo",
-                    "srcImage": "/public2/landings/velp/equipos/turbidimetro/1.jpg",
-                    "typeProduct": {
-                        "name": "Turbidimetro",
-                        "keyname": "turbidimetro"
-                    },
-                    "categoryProduct": {
-                        "name": "Turbidimetro",
-                        "keyname": "turbidimetro"
-                    },
-                    "name": "TB1 Turbidímetro",
-                    "description": "Turbidímetro portátil que mide la turbidez de muestras acuosas de forma sencilla y precisa.",
-                    "descriptionLong": "Turbidímetro portátil que mide la turbidez de muestras acuosas de forma sencilla y precisa.\n          <br><br>\n          <h5>Impermeable, intuitivo y preciso</h5>\n          <ul>\n          <li>Portátil</li>\n          <li>Fácil de calibrar</li>\n          <li>Resultados entregados en segundos</li>\n          <li>Análisis precisos</li>\n          <li>Se pueden probar hasta 1200 muestras con un juego de baterías</li>\n          <li>Suministrado con 4 estándares de calibración (800, 100, 20 y 0.02 NTU)</li>\n          <li>IP 67 - protección de ingreso partículas y agua</li>\n          <li>Caja de ABS - trazabilidad estándar NIST</li>\n          <li>Medida según la norma ISO 7027 Incluye tres viales, paño, aceite de silicona, pilas y estuche</li>\n          </ul>\n          ",
-                    "videoLink": "",
-                    "sendPriceText": "Ver más información"
-                },
-                {
-                    "alt": "alt-logo",
-                    "srcImage": "/public2/landings/velp/equipos/bano-circulacion/ocb/1.jpg",
-                    "typeProduct": {
-                        "name": "Baños de circulación abiertos",
-                        "keyname": "baños-de-circulacion-abiertos"
-                    },
-                    "categoryProduct": {
-                        "name": "Baño termostático",
-                        "keyname": "baño-termostatico"
-                    },
-                    "name": "OCB Baño termostático",
-                    "description": "El baño termostático VELP Scientifica está diseñado para todas aquellas aplicaciones en las que se requiera un termostato rápido y preciso de las muestras mediante la circulación constante de agua.",
-                    "descriptionLong": "El baño termostático VELP Scientifica está diseñado para todas aquellas aplicaciones en las que se requiera un termostato rápido y preciso de las muestras mediante la circulación constante de agua.\n          <br><br>\n          <h5>Preciso e intuitivo</h5>\n          <ul>\n          <li>OCB garantiza una excelente homogeneidad de temperatura</li>\n          <li>El temporizador se puede configurar como máximo 24 h 59 min</li>\n          <li>La temperatura se puede configurar de la habitación a 105 °C</li>\n          <li>Pantalla LCD termostatizada de alta eficacia para configurar la temperatura con máxima precisión</li>\n          <li>Bañeras de 5 o 7 litros</li>\n          <li>Elección de rejillas para tubos disponibles</li>\n          <li>La bañeras de 5 litros acepta 2 rejillas; la bañeras de 7 litros acepta 3 rejillas</li>\n          </ul>\n          ",
-                    "videoLink": "",
-                    "sendPriceText": "Ver más información"
-                },
-                {
-                    "alt": "alt-logo",
-                    "srcImage": "/public2/landings/velp/equipos/bombas/jpv/1.jpg",
-                    "typeProduct": {
-                        "name": "Bombas",
-                        "keyname": "bombas"
-                    },
-                    "categoryProduct": {
-                        "name": "Bomba de vacío",
-                        "keyname": "bomba-de-vacio"
-                    },
-                    "name": "JPV Bomba de vacío",
-                    "description": "Una bomba capaz de asegurar una constante recirculación de agua, reduciendo drásticamente el consumo. Ideal para aplicaciones donde se requiere una aspiración sin pulsaciones.",
-                    "descriptionLong": "Una bomba capaz de asegurar una constante recirculación de agua, reduciendo drásticamente el consumo. Ideal para aplicaciones donde se requiere una aspiración sin pulsaciones.\n          <br><br>\n          <h5>Calidad y facilidad de uso</h5>\n          <ul>\n          <li>Ausencia de ruidos y vibraciones</li>\n          <li>Caudal regulable de 0 a 22 litros por minuto</li>\n          <li>Utilización de un depósito donde el agua introducida se recircula de forma continua</li>\n          <li>Independiente de las contingencias del agua del grifo</li>\n          <li>Asas para simplificar la elevación</li>\n          <li>Grifo para vaciar el depósito</li>\n          <li>Proporciona vacío donde no hay suministro de agua confiable disponible</li>\n          <li>Vacío ajustable desde atmosférico hasta 0.04 bar</li>\n          <li>Estructura ABS capaz de garantizar una alta resistencia a la corrosión química</li>\n          </ul>\n          <h5>Recomendado para:</h5>\n          Evaporadores rotativos, filtración al vacío, (SPE), etc.\n          ",
-                    "videoLink": "",
-                    "sendPriceText": "Ver más información"
-                },
-                {
-                    "alt": "alt-logo",
-                    "srcImage": "/public2/landings/velp/equipos/bombas/sp311/1.jpg",
-                    "typeProduct": {
-                        "name": "Bombas",
-                        "keyname": "bombas"
-                    },
-                    "categoryProduct": {
-                        "name": "Bomba de vacío",
-                        "keyname": "bomba-de-vacio"
-                    },
-                    "name": "SP 311 Bomba Peristáltica",
-                    "description": "Bomba peristáltica ideal para el trasvase de gases, líquidos, mezclas y emulsiones en diversos sectores industriales",
-                    "descriptionLong": "Bomba peristáltica ideal para el trasvase de gases, líquidos, mezclas y emulsiones en diversos sectores industriales\n          <br><br>\n          <h5>Simplicidad y fiabilidad</h5>\n          <ul>\n          <li>Mantenimiento mínimo</li>\n          <li>Fácil limpieza: sin contacto de líquidos y partes mecánicas</li>\n          <li>Mangueras (2 diámetros disponibles) resisten la mayoría de los productos químicos</li>\n          <li>Control electrónico de velocidad</li>\n          <li>Capaz de bombear desde 10 metros de profundidad</li>\n          </ul>\n          <h5>Recomendado para:</h5>\n          <ul>\n          <li>Transferencia de líquidos, gases, mezclas, emulsiones, etc.</li>\n          <li>Muestras y dosificación continua</li>\n          <li>Automatización de análisis</li>\n          </ul>\n          ",
                     "videoLink": "",
                     "sendPriceText": "Ver más información"
                 }

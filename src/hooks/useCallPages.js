@@ -34,7 +34,7 @@ const useCallPages = () => {
     useEffect(() => {
         let slug = getSlug();
         if(slug === "/") slug = "home";
-        const localStorageName = localStorageConstants.PAGE + `_${locale}_${slug}`;
+        const localStorageName = localStorageConstants.PAGE + `_${locale}_${slug}_${process.env.REACT_APP_LOCAL_VAR? process.env.REACT_APP_LOCAL_VAR : ''}`;
         (typeof window !== 'undefined') && window.scrollTo({left: 0,top: 0,behavior: "instant"});
         let auxResponse = storage.getLocalStorage(localStorageName);
 
