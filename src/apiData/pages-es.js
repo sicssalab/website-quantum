@@ -48,7 +48,7 @@ const resource = {
         socialNetwork: [
             {
                 alt: "red network",
-                link: "https://www.facebook.com/QuantumAnalytical",
+                link: "https://www.facebook.com/QuantumDOAnalytical",
                 type: "facebook"
             },
             {
